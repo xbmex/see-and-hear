@@ -1,0 +1,166 @@
+﻿<poster>CHILE TV</poster>
+<thumbnail>http://www.aereovisual.com/wp-content/uploads/2013/09/HD-1346836273.png</thumbnail>
+<info>Chilevisión (también conocido en los medios escritos por su sigla CHV) es la tercera red de televisión más antigua de Chile. Previamente llamado Canal 9 de Televisión de la Universidad de Chile (por su frecuencia original desde el 4 de noviembre de 1960 hasta el 1 de abril de 1980) o más exactamente Corporación de Televisión de la Universidad de Chile, Canal 6 de Televisión de la Universidad de Chile</info>
+<fanart>http://www.purochile.com/puzzle/wp/Puro_3_1024x768.jpg</fanart>
+
+<item>
+<title>Fox 9 Minnesota</title>
+<link>http://$doregex[svr]1_678@$doregex[path]/master.m3u8
+<regex>
+<name>svr</name>
+<expres>rtsp://([^']*)1_198</expres>
+<page>http://new.livestream.com/accounts/6396280/events/2598452</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>198@(.+?)"</expres>
+<page>http://new.livestream.com/accounts/6396280/events/2598452</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://aulikdesignbuild.com/images/uploads/FOX9KMSP.jpg</thumbnail>
+</item>
+
+<item>
+<title>Ustream</title>
+<link>http://iphone-streaming.ustream.tv/ustreamVideo/$doregex[path]/streams/live/playlist.m3u8</link>
+<regex>
+<name>path</name>
+<expres>"https://www.ustream.tv/embed/(.+?)"></expres>
+<page>http://www.ustream.tv/channel/accuweather-channel</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>CANAL Filmon Test channel TV</title>
+<link>rtmp://$doregex[url] app=live/$doregex[key] playpath=1998.high.stream  swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15</link>
+<regex>
+<name>url</name>
+<expres>"360p","url":"rtmp:....([^\\]*)</expres>
+<page>http://www.filmon.com/channel/bbc-one</page>
+</regex>
+<regex>
+<name>key</name>
+<expres>rtmp[^?]*(\?id=[^"]*)</expres>
+<page>http://www.filmon.com/channel/bbc-one</page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>CANAL Filmon Test channel TV</title>
+<link>rtmp://$doregex[url] app=live/$doregex[key] playpath=1998.high.stream  swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15</link>
+<regex>
+<name>url</name>
+<expres>"360p","url":"rtmp:....([^\\]*)</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=1998</page>
+</regex>
+<regex>
+<name>key</name>
+<expres>rtmp[^?]*(\?id=[^"]*)</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=1998</page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]tvc latino[/COLOR] A</title>
+<link>rtmp://watch2.ilive.to:1935/edge/_definst_/?xs=$doregex[app] app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]</link>
+<regex>
+<name>url</name>
+<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
+<page>http://www.ilive.to/view/64448/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+</item> 
+
+<item>
+<title>ANTOFAGASTA TV ED</title>
+<link>plugin://plugin.video.veetle/?channel=517aa55bd94a7</link>
+<thumbnail>http://1.bp.blogspot.com/-XYEKkYYuBVQ/UB2wiZ5gkaI/AAAAAAAAAfM/DXc3DKnMSDo/s1600/antofagastatv.jpg</thumbnail>
+<fanart>http://www.orla.upf.edu/wp-content/uploads//Chile.jpg</fanart>
+</item> 
+
+plugin://plugin.video.veetle/?channel=503cffcc5b02b
+
+<item>
+<title>tvc </title>
+<link>rtmp://204.107.26.252:8086/live/213.high.stream </link>
+<thumbnail>http://1.bp.blogspot.com/-XYEKkYYuBVQ/UB2wiZ5gkaI/AAAAAAAAAfM/DXc3DKnMSDo/s1600/antofagastatv.jpg</thumbnail>
+<fanart>http://www.orla.upf.edu/wp-content/uploads//Chile.jpg</fanart>
+</item> 
+
+<item>
+<title>pruebas</title>
+<link>dailymotion.com/video/'x23jwd4_alexander-acha-te-amo_music'dailymotion.com/embed/video/</link>
+<thumbnail>http://1.bp.blogspot.com/-XYEKkYYuBVQ/UB2wiZ5gkaI/AAAAAAAAAfM/DXc3DKnMSDo/s1600/antofagastatv.jpg</thumbnail>
+<fanart>http://www.orla.upf.edu/wp-content/uploads//Chile.jpg</fanart>
+</item>
+
+<item>
+<title>Test DailyMotion Vid</title>
+<link>dailymotion.com/video/'x23jwd4_alexander-acha-te-amo_music'dailymotion.com/embed/video/</link>
+</item>
+
+<item>
+<title>dailymotion</title>
+<link>dailymotion.com/video/x23jwd4_alexander-acha-te-amo_music/dailymotion.com/embed/video/</link>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Big Brother Canada Camera 1 LQ[/COLOR]</title>
+<link>http://$doregex[svr]1_150@156550/master.m3u8</link>
+<regex>
+<name>svr</name>
+<expres>rtsp://([^']*)1_150</expres>
+<page>http://new.livestream.com/api/accounts/6388794/events/2596592/viewing_info</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://spyhollywood.com/wp-content/uploads/2013/02/bbc-logo.png</thumbnail>
+</item>
+
+<regex>
+<el nombre> poner-página </llama>
+<expres> 'm3u8_url': ¿'(. *?)' </expres>
+<la página http:> // WebpageAddress.com </pagina>
+<x-forward> 1.1.1.2 </x-forward>
+</regex>
+
+
+
+
+
+MÉXICO TV (Mr.Harmel) http://pastebin.com/T4nPSME6
+ESPAÑA TV (Mr.Harmel) http://pastebin.com/Qz2G3inY
+PELÍCULAS (Leocamposdiaz) http://pastebin.com/QwBbcLKK
+TV LATINA (Leocamposdiaz) http://pastebin.com/jpgZqurt
+ITALIA TV (Gurb) http://wrioslio.altervista.org/lista.css
+BRASIL TV (Gurb) http://wrioslio.altervista.org/brasile.wise
+ESPAÑA TV (Gurb) http://pastebin.com/DgebNpq8
+TV GENERAL (Gurb) http://pastebin.com/0YgmWV29
+TV MÚSICA (pirri_mori) http://pastebin.com/raw.php?i=BYLpd9DQ
+RADIOS (reggen) http://pastebin.com/4EKxwUB4
+PELÍCULAS (Gurb) http://pastebin.com/mfcNGjhD
+DEPORTIVOS (Gurb) http://wrioslio.altervista.org/lista.css
+ADULTOS XXX+18 (pirri_mori) http://pastebin.com/raw.php?i=Smt6DZWJ
+
+<subchannel>
+<name></name>
+<fanart></fanart>
+<thumbnail></thumbnail>
+<link>
+<sublink></sublink><host>hugefiles part 1</host>
+<sublink></sublink><host>hugefiles part 2</host>
+<sublink></sublink><host>hugefiles part 3</host>
+<sublink></sublink><host>hugefiles part 4</host>
+<sublink></sublink><host>180upload part 1</host>
+<sublink></sublink><host>180upload part 2</host>
+<sublink></sublink><host>180upload part 3</host>
+<sublink></sublink><host>180upload part 4</host>
+</link>
+</subchannel>
