@@ -1,0 +1,277 @@
+﻿ <?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+
+    <channels>
+    <channels_info> <!-- this is optional -->
+      <title>URUGUAY</title> <!-- if channels_info, a title is required, other elements are optional -->
+      <genre>TELEVISION</genre>
+      <description>CANALES URUGUAY</description>
+      <thumbnail>http://www.maronas.com.uy/imgnoticias/201406/62694.jpg</thumbnail>
+      <fanart>https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xpa1/t1.0-9/q71/s720x720/10511066_785815371452119_8268032962141172912_n.jpg</fanart>
+      <date>2014</date>
+      <credits>IPTV LATINOAMERICA</credits>
+    </channels_info>
+
+    <channel>
+    <name>URUGUAY TV</name>
+    <info>CANALES TV NACIONALES</info>
+    <thumbnail>http://www.maronas.com.uy/imgnoticias/201406/62694.jpg</thumbnail>
+    <fanart>https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xpa1/t1.0-9/q71/s720x720/10511066_785815371452119_8268032962141172912_n.jpg</fanart>
+
+<subitem>
+<title>VTV</title>
+<link>rtmp://sl100tb.cxnlive.com/live/ playpath=vtv.stream</link>
+<thumbnail>http://3.bp.blogspot.com/-mf_TrAG0uo0/UVoxoEnDNbI/AAAAAAAAAKY/PgSk_YJKg3s/s640/NUEVO+LOGO+VTV++..png</thumbnail>
+<fanart>http://www.maronas.com.uy/imgnoticias/201406/62694.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>VTV Opcion 2</title>
+<link>http://cmin.live.cdn.antel.net.uy/auth_0_ducueqo0/hls/auth_0_ducueqo0.m3u8</link>
+<thumbnail>http://3.bp.blogspot.com/-mf_TrAG0uo0/UVoxoEnDNbI/AAAAAAAAAKY/PgSk_YJKg3s/s640/NUEVO+LOGO+VTV++..png</thumbnail>
+<fanart>http://www.maronas.com.uy/imgnoticias/201406/62694.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>VTV +</title>
+<link>rtmp://sl100tb.cxnlive.com/live/ playpath=vtvmas.stream</link>
+<thumbnail>http://stremingtotaltv.com/wp-content/uploads/2012/11/vrzjrynpjwww5ma96eug.jpeg</thumbnail>
+<fanart>http://www.maronas.com.uy/imgnoticias/201406/62694.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>VTV + Opcion 2</title>
+<link>http://cmin.live.cdn.antel.net.uy/auth_0_l3u7xqzy/hls/auth_0_l3u7xqzy.m3u8</link>
+<thumbnail>http://stremingtotaltv.com/wp-content/uploads/2012/11/vrzjrynpjwww5ma96eug.jpeg</thumbnail>
+<fanart>http://www.maronas.com.uy/imgnoticias/201406/62694.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>CANAL 10 SAETA HD</title>
+<link>rtmp://sl100tb.cxnlive.com/live/ playpath=canal10.stream</link>
+<thumbnail>http://3.bp.blogspot.com/_4GR1bXZ79CI/SQ3UMkHZXJI/AAAAAAAAAAM/LxRRmGf_dZ8/s400/logo+saeta+tv.bmp</thumbnail>
+<fanart>http://www.maronas.com.uy/imgnoticias/201406/62694.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>CANAL 10 SAETA Opcion 2</title>
+<link>http://cmin.live.cdn.antel.net.uy/auth_1_nagzf9oi/hls/auth_1_nagzf9oi.m3u8</link>
+<thumbnail>http://3.bp.blogspot.com/_4GR1bXZ79CI/SQ3UMkHZXJI/AAAAAAAAAAM/LxRRmGf_dZ8/s400/logo+saeta+tv.bmp</thumbnail>
+<fanart>http://www.maronas.com.uy/imgnoticias/201406/62694.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>CANAL 10 SAETA SD Opcion 3</title>
+<link>rtmp://190.0.132.2:1937/saeta/saeta.stream_700000</link>
+<thumbnail>http://3.bp.blogspot.com/_4GR1bXZ79CI/SQ3UMkHZXJI/AAAAAAAAAAM/LxRRmGf_dZ8/s400/logo+saeta+tv.bmp</thumbnail>
+<fanart>http://www.maronas.com.uy/imgnoticias/201406/62694.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>TNU</title>
+<link>rtmp://sl100tb.cxnlive.com/live/ playpath=tnu.stream</link>
+<thumbnail>http://eldiario.com.uy/wp-content/uploads/2012/11/Foto-TNU1.jpg</thumbnail>
+<fanart>http://www.maronas.com.uy/imgnoticias/201406/62694.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>TNU Opcion 2</title>
+<link>http://cmin.live.cdn.antel.net.uy/auth_1_8byyop2p/hls/auth_1_8byyop2p.m3u8</link>
+<thumbnail>http://eldiario.com.uy/wp-content/uploads/2012/11/Foto-TNU1.jpg</thumbnail>
+<fanart>http://www.maronas.com.uy/imgnoticias/201406/62694.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>MONTECARLO HD</title>
+<link>http://cmin.live.cdn.antel.net.uy/auth_0_7xjgljta/hls/auth_0_7xjgljta.m3u8</link>
+<thumbnail>http://requechando.org/Requechando/ImagenesDePublicaciones/ef22a06745b00fb05cd5efde4a50830b-250-2508572.jpg</thumbnail>
+<fanart>http://www.maronas.com.uy/imgnoticias/201406/62694.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>MONTECARLO Opcion 2</title>
+<link>rtmp://sl100tb.cxnlive.com/live/ playpath=montecarlo.stream</link>
+<thumbnail>http://requechando.org/Requechando/ImagenesDePublicaciones/ef22a06745b00fb05cd5efde4a50830b-250-2508572.jpg</thumbnail>
+<fanart>http://www.maronas.com.uy/imgnoticias/201406/62694.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>CANAL 2 SAN CARLOS HD</title>
+<link>http://cmin.live.cdn.antel.net.uy/auth_1_ggvd01xq/hls/auth_1_ggvd01xq.m3u8</link>
+<thumbnail>http://veratv.cdn.antel.net.uy/dynamic/content_images/8204/240/default.jpg</thumbnail>
+<fanart>http://www.maronas.com.uy/imgnoticias/201406/62694.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>TELEDOCE</title>
+<link>rtmp://sl100tb.cxnlive.com/live/ playpath=teledoce.stream</link>
+<thumbnail>http://www.teledoce.com/skins/frontend/img/fondos/generic_noticia.jpg</thumbnail>
+<fanart>http://www.maronas.com.uy/imgnoticias/201406/62694.jpg</fanart>
+<subitem>
+
+<subitem>
+<title>TV CIUDAD</title>
+<link>http://cmin.live.cdn.antel.net.uy/auth_1_h1d73c2l/hls/auth_1_h1d73c2l.m3u8</link>
+<thumbnail>http://3.bp.blogspot.com/_UM56cm9HfJE/TAw1TRRfGcI/AAAAAAAAAY4/7Z60xWAcHiA/s1600/logotv+teveciudad.jpg</thumbnail>
+<fanart>http://www.maronas.com.uy/imgnoticias/201406/62694.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>AV+</title>
+<link>http://cmin.live.cdn.antel.net.uy/auth_0_hy7fqfuw/hls/auth_0_hy7fqfuw.m3u8</link>
+<thumbnail>https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-frc3/t1.0-9/295914_340741382682782_38452627_n.jpg</thumbnail>
+<fanart>http://www.maronas.com.uy/imgnoticias/201406/62694.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>CANAL 11 TREINTA Y TRES</title>
+<link>http://cmin.live.cdn.antel.net.uy/auth_1_98phadxq/hls/auth_1_98phadxq.m3u8</link>
+<thumbnail>http://veratv.cdn.antel.net.uy/dynamic/content_images/6853/128/default.jpg</thumbnail>
+<fanart>http://www.maronas.com.uy/imgnoticias/201406/62694.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>CANAL 12 MELO</title>
+<link>http://cmin.live.cdn.antel.net.uy/auth_0_3f20rgu5/hls/auth_0_3f20rgu5.m3u8</link>
+<thumbnail>http://www.canal12melo.tv/web/shared/n2.jpg</thumbnail>
+<fanart>http://www.maronas.com.uy/imgnoticias/201406/62694.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>CANAL 2 LASCANO</title>
+<link>http://cmin.live.cdn.antel.net.uy/auth_0_c8nznddu/hls/auth_0_c8nznddu.m3u8</link>
+<thumbnail>http://todalascano.com/arquivos/uploads/p180p0s2p319dk16bg3mgthg4.jpg</thumbnail>
+<fanart>http://www.maronas.com.uy/imgnoticias/201406/62694.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>CANAL 4 CHUY</title>
+<link>http://cmin.live.cdn.antel.net.uy/auth_1_f3gunnss/hls/auth_1_f3gunnss.m3u8</link>
+<thumbnail>http://i1.ytimg.com/vi/Fj43oelF_cU/hqdefault.jpg</thumbnail>
+<fanart>http://www.maronas.com.uy/imgnoticias/201406/62694.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>CANAL 4 JUAN LACAZE</title>
+<link>http://cmin.live.cdn.antel.net.uy/auth_0_5jhq5415/hls/auth_0_5jhq5415.m3u8</link>
+<thumbnail>http://www.panoramaaudiovisual.com/wp-content/uploads/2012/05/uruguay-web.jpg</thumbnail>
+<fanart>http://www.maronas.com.uy/imgnoticias/201406/62694.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>CANAL 4 DE SALTO</title>
+<link>http://cmin.live.cdn.antel.net.uy/auth_1_hjk2lg0q/hls/auth_1_hjk2lg0q.m3u8</link>
+<thumbnail>https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xpf1/t31.0-8/10257025_642456945847719_2654903226122589172_o.jpg</thumbnail>
+<fanart>http://www.maronas.com.uy/imgnoticias/201406/62694.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>CANAL 4 TREINTA Y TRES</title>
+<link>http://cmin.live.cdn.antel.net.uy/auth_1_md83e5v1/hls/auth_1_md83e5v1.m3u8</link>
+<thumbnail>http://veratv.cdn.antel.net.uy/dynamic/content_images/6061/128/default.jpg</thumbnail>
+<fanart>http://www.maronas.com.uy/imgnoticias/201406/62694.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>CANAL 5</title>
+<link>http://cmin.live.cdn.antel.net.uy/auth_1_m07rf6aa/hls/auth_1_m07rf6aa.m3u8</link>
+<thumbnail>http://img.webme.com/pic/p/planetatierra2012/canal5.png</thumbnail>
+<fanart>http://www.maronas.com.uy/imgnoticias/201406/62694.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>LA PALOMA TV</title>
+<link>http://cmin.live.cdn.antel.net.uy/auth_1_n4f80k9k/hls/auth_1_n4f80k9k.m3u8</link>
+<thumbnail>https://scontent-a-mia.xx.fbcdn.net/hphotos-xap1/t1.0-9/426091_531602786880711_203306205_n.jpg</thumbnail>
+<fanart>http://www.maronas.com.uy/imgnoticias/201406/62694.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>CANAL 8 DURAZNO</title>
+<link>http://cmin.live.cdn.antel.net.uy/auth_0_obdw45cu/hls/auth_0_obdw45cu.m3u8</link>
+<thumbnail>http://durazno.gub.uy/portal/images/canal8.jpg</thumbnail>
+<fanart>http://www.maronas.com.uy/imgnoticias/201406/62694.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>CANAL 9 TELEROCHA</title>
+<link>http://cmin.live.cdn.antel.net.uy/auth_1_pmdljm2i/hls/auth_1_pmdljm2i.m3u8</link>
+<thumbnail>http://fotos.subefotos.com/fb67f81393dc5b5a874c2e2e12f063c6o.jpg</thumbnail>
+<fanart>http://www.maronas.com.uy/imgnoticias/201406/62694.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>CANAL U</title>
+<link>http://cmin.live.cdn.antel.net.uy/auth_1_p3borez3/hls/auth_1_p3borez3.m3u8</link>
+<thumbnail>http://entierradeciegos.files.wordpress.com/2013/03/46153_10151482135356461_2132202437_n.jpg</thumbnail>
+<fanart>http://www.maronas.com.uy/imgnoticias/201406/62694.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>CHARRUA TV</title>
+<link>http://cmin.live.cdn.antel.net.uy/auth_0_6ktg9sik/hls/auth_0_6ktg9sik.m3u8</link>
+<thumbnail>http://veratv.cdn.antel.net.uy/dynamic/content_images/6038/128/default.jpg</thumbnail>
+<fanart>http://www.maronas.com.uy/imgnoticias/201406/62694.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>TVL PANDO</title>
+<link>http://cmin.live.cdn.antel.net.uy/auth_0_aln2fpnl/hls/auth_0_aln2fpnl.m3u8</link>
+<thumbnail>http://www.telespectaculo.com.uy/imagenes/tvl.jpg</thumbnail>
+<fanart>http://www.maronas.com.uy/imgnoticias/201406/62694.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>VERA +</title>
+<link>http://cmin.live.cdn.antel.net.uy/auth_0_5aweektz/hls/auth_0_5aweektz.m3u8</link>
+<thumbnail>http://veratv.cdn.antel.net.uy/dynamic/content_images/6001/320/default.jpg</thumbnail>
+<fanart>http://www.maronas.com.uy/imgnoticias/201406/62694.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>URUGUAY NATURAL</title>
+<link>http://cmin.live.cdn.antel.net.uy/auth_1_xoe0ap42/hls/auth_1_xoe0ap42.m3u8</link>
+<thumbnail>http://marcapaisuruguay.gub.uy/wp-content/uploads/2013/05/uruguaynaturaltv.jpg</thumbnail>
+<fanart>http://www.maronas.com.uy/imgnoticias/201406/62694.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>CANAL REGION NORESTE CANELONES</title>
+<link>http://cmin.live.cdn.antel.net.uy/auth_1_c0v1frlj/hls/auth_1_c0v1frlj.m3u8</link>
+<thumbnail>http://www.panoramaaudiovisual.com/wp-content/uploads/2012/05/uruguay-web.jpg</thumbnail>
+<fanart>http://www.maronas.com.uy/imgnoticias/201406/62694.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>LOS PROFESIONALES TV</title>
+<link>http://cmin.live.cdn.antel.net.uy/auth_1_u4188oqu/hls/auth_1_u4188oqu.m3u8</link>
+<thumbnail>http://www.panoramaaudiovisual.com/wp-content/uploads/2012/05/uruguay-web.jpg</thumbnail>
+<fanart>http://www.maronas.com.uy/imgnoticias/201406/62694.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>MI MOVIL TV</title>
+<link>http://cmin.live.cdn.antel.net.uy/auth_0_it3med1v/hls/auth_0_it3med1v.m3u8</link>
+<thumbnail>http://www.mimoviltv.com/mmtvsitio_s2.png</thumbnail>
+<fanart>http://www.maronas.com.uy/imgnoticias/201406/62694.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>RN3G</title>
+<link>http://cmin.live.cdn.antel.net.uy/auth_0_e6dpxjls/hls/auth_0_e6dpxjls.m3u8</link>
+<thumbnail>https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-xpa1/t1.0-9/30141_123156481032481_6541348_n.jpg</thumbnail>
+<fanart>http://www.maronas.com.uy/imgnoticias/201406/62694.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>ARTIGAS TV</title>
+<link>http://cmin.live.cdn.antel.net.uy/auth_0_epi05f0e/hls/auth_0_epi05f0e.m3u8</link>
+<thumbnail>http://0.static.wix.com/media/944b46_0020597f755991a71958a1fde9fbc446.gif_256</thumbnail>
+<fanart>http://www.maronas.com.uy/imgnoticias/201406/62694.jpg</fanart>
+</subitem>
+
+<subitem>
+<name></name>
+<thumbnail></thumbnail>
+<link></link>  
+</subitem>

@@ -1,0 +1,189 @@
+﻿ <?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+
+    <channels>
+    <channels_info> <!-- this is optional -->
+      <title>ECUADOR</title> <!-- if channels_info, a title is required, other elements are optional -->
+      <genre>TELEVISION</genre>
+      <description>CANALES ECUADOR</description>
+      <thumbnail>http://radiohuancavilca.com.ec/wp-content/uploads/2013/09/Bandera-de-Ecuador-660x330.jpg</thumbnail>
+      <fanart>https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xpa1/t1.0-9/q71/s720x720/10511066_785815371452119_8268032962141172912_n.jpg</fanart>
+      <date>2014</date>
+      <credits>IPTV LATINOAMERICA</credits>
+    </channels_info>
+
+    <channel>
+    <name>NACIONALES</name>
+    <info>CANALES TV NACIONALES</info>
+    <thumbnail>http://radiohuancavilca.com.ec/wp-content/uploads/2013/09/Bandera-de-Ecuador-660x330.jpg</thumbnail>
+    <fanart>https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xpa1/t1.0-9/q71/s720x720/10511066_785815371452119_8268032962141172912_n.jpg</fanart>
+
+<subitem>
+<title>CABLEDEPORTES (U)</title>
+<link>http://iphone-streaming.ustream.tv/ustreamVideo/$doregex[path]/streams/live/playlist.m3u8</link>
+<regex>
+<name>path</name>
+<expres>"https://www.ustream.tv/embed/(.+?)"></expres>
+<page>http://www.ustream.tv/channel/cabledeportes</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://www.pontecool.com/artes/cable_deportes_online_5_oct_2013.jpg</thumbnail>
+<fanart>http://radiohuancavilca.com.ec/wp-content/uploads/2013/09/Bandera-de-Ecuador-660x330.jpg</fanart>
+</subitem> 
+
+<subitem>
+<title>CANAL 7</title>
+<link>rtmp://38.96.148.216:1935/live/ playpath=ecuadortvn3 swfUrl=http://www.nasa.gov/sites/default/files/mediastreaming/jwplayer.flash.swf live=1 pageUrl=http://ecualive.me.la/live/tvdeecuador/ecuadortv.html</link>
+<thumbnail>http://www.ecuadortv.ec/imagesFTP/209056.Captura_de_pantalla_2014_06_04_a_la_s__13.20.07.png</thumbnail>
+<fanart>http://radiohuancavilca.com.ec/wp-content/uploads/2013/09/Bandera-de-Ecuador-660x330.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>CN PLUS (U)</title>
+<link>http://iphone-streaming.ustream.tv/ustreamVideo/$doregex[path]/streams/live/playlist.m3u8</link>
+<regex>
+<name>path</name>
+<expres>"https://www.ustream.tv/embed/(.+?)"></expres>
+<page>http://www.ustream.tv/channel/cnplus-ecuador-en-vivo</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://www.freeetv.com/images/02_logo/cn_plus_ecuador.jpg</thumbnail>
+<fanart>http://radiohuancavilca.com.ec/wp-content/uploads/2013/09/Bandera-de-Ecuador-660x330.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>CARAVANA TV</title>
+<link>rtmp://www.audiohostingecuador.com:1935/caravanaTV playpath=caravanaTV swfUrl=http://p.jwpcdn.com/6/9/jwplayer.flash.swf live=1 pageUrl=http://www.caravanatv.com/caravanatv.php</link>
+<thumbnail>http://static-cdn1.ustream.tv/i/channel/picture/8/6/7/7/8677684/8677684_caravana09_0_00_09_18__1309358733,640x360,r:1.jpg</thumbnail>
+<fanart>http://radiohuancavilca.com.ec/wp-content/uploads/2013/09/Bandera-de-Ecuador-660x330.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>CQ15 TV (U)</title>
+<link>http://iphone-streaming.ustream.tv/ustreamVideo/$doregex[path]/streams/live/playlist.m3u8</link>
+<regex>
+<name>path</name>
+<expres>"https://www.ustream.tv/embed/(.+?)"></expres>
+<page>http://www.ustream.tv/channel/cq15television</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>https://pbs.twimg.com/profile_images/2718908076/05d28d04e02fb6d3f21afb598e7f6864.png</thumbnail>
+<fanart>http://radiohuancavilca.com.ec/wp-content/uploads/2013/09/Bandera-de-Ecuador-660x330.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>ECOTEL (U)</title>
+<link>$doregex[get-link]</link>
+<regex>
+<name>get-link</name>
+<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/uhls/8478748/streams/live/iphone/playlist.m3u8')</expres>
+<page></page>
+</regex>
+<thumbnail>http://www.ecotel.tv/wp-content/uploads/2013/03/Familia-Ecotel.jpg</thumbnail>
+<fanart>http://radiohuancavilca.com.ec/wp-content/uploads/2013/09/Bandera-de-Ecuador-660x330.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>ECUADOR TV INTERNACIONAL</title>
+<link>rtmp://38.96.148.216:1935/live/ playpath=internacional swfUrl=http://p.jwpcdn.com/6/9/jwplayer.flash.swf live=1 pageUrl=http://www.ecuadortv.ec/home.php?c=43</link>
+<thumbnail>http://www.miantena.com/Imagenes/logo-ectv-inter.png</thumbnail>
+<fanart>http://radiohuancavilca.com.ec/wp-content/uploads/2013/09/Bandera-de-Ecuador-660x330.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>GAMA TV (U)</title>
+<link>$doregex[get-link]</link>
+<regex>
+<name>get-link</name>
+<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/uhls/18125675/streams/live/iphone/playlist.m3u8')</expres>
+<page></page>
+</regex>
+<thumbnail>http://tvonlinegratis.com/wp-content/uploads/2014/01/gamatv-500x500.png</thumbnail>
+<fanart>http://radiohuancavilca.com.ec/wp-content/uploads/2013/09/Bandera-de-Ecuador-660x330.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>OROMAR TV</title>
+<link>rtmp://stream.gcorpvision.com:19356/live/ playpath=oromartv swfUrl=http://p.jwpcdn.com/6/9/jwplayer.flash.swf live=1 pageUrl=http://www.oromartv.com/en-vivo/</link>
+<thumbnail>http://radioteve.com/tele/suramerica/ecuador/logo/aromar.png</thumbnail>
+<fanart>http://radiohuancavilca.com.ec/wp-content/uploads/2013/09/Bandera-de-Ecuador-660x330.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>MAKRODIGITAL (MULTICANAL CINE-TV)</title>
+<link>rtmp://209.95.33.34:1935/makrodigital playpath=makrodigital swfUrl=http://p.jwpcdn.com/6/9/jwplayer.flash.swf live=1 pageUrl=http://www.grupomakrodigital.com/main.htm</link>
+<thumbnail>http://www.grupomakrodigital.com/images/logo.png</thumbnail>
+<fanart>http://radiohuancavilca.com.ec/wp-content/uploads/2013/09/Bandera-de-Ecuador-660x330.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>MI TVS</title>
+<link>rtmp://181.198.10.23:1935/live/ playpath=mystream swfUrl=http://www.nasa.gov/sites/default/files/mediastreaming/jwplayer.flash.swf live=1 pageUrl=http://ecualive.me.la/live/tvdeecuador/tvs.html</link>
+<thumbnail>https://lh6.googleusercontent.com/-g0gEArPXc8Y/UVE9WVryzWI/AAAAAAAAA-w/gNhRV0W9fAo/s241/tvs-gr.gif</thumbnail>
+<fanart>http://radiohuancavilca.com.ec/wp-content/uploads/2013/09/Bandera-de-Ecuador-660x330.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>TELESUCESOS (U)</title>
+<link>$doregex[get-link]</link>
+<regex>
+<name>get-link</name>
+<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/uhls/8120692/streams/live/iphone/playlist.m3u8')</expres>
+<page></page>
+</regex>
+<thumbnail>http://tvonlinegratis.com/wp-content/uploads/2014/06/TeleSucesos-Logo-300x300.jpg</thumbnail>
+<fanart>http://radiohuancavilca.com.ec/wp-content/uploads/2013/09/Bandera-de-Ecuador-660x330.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>TC MI CANAL</title>
+<link>http://50.97.142.130/hls2/amlst:10001_ios_hd/playlist.m3u8</link>
+<thumbnail>http://www.tctelevision.com/sites/all/themes/centum/logotcredes.jpg</thumbnail>
+<fanart>http://radiohuancavilca.com.ec/wp-content/uploads/2013/09/Bandera-de-Ecuador-660x330.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>TC MI CANAL INTERNACIONAL</title>
+<link>http://67.228.177.223/hls2/amlst:10003_ios/playlist.m3u8</link>
+<thumbnail>http://ecuatv.net/images/tctvinternacional.png</thumbnail>
+<fanart>http://radiohuancavilca.com.ec/wp-content/uploads/2013/09/Bandera-de-Ecuador-660x330.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>SOL TV (U)</title>
+<link>$doregex[get-link]</link>
+<regex>
+<name>get-link</name>
+<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/uhls/8905548/streams/live/iphone/playlist.m3u8')</expres>
+<page></page>
+</regex>
+<thumbnail>https://lh5.googleusercontent.com/-HLGUIpJiD7E/AAAAAAAAAAI/AAAAAAAAAHE/5Q4SneRCY90/photo.jpg</thumbnail>
+<fanart>http://radiohuancavilca.com.ec/wp-content/uploads/2013/09/Bandera-de-Ecuador-660x330.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>SUCUA TV ECUADOR (U)</title>
+<link>$doregex[get-link]</link>
+<regex>
+<name>get-link</name>
+<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/uhls/16577984/streams/live/iphone/playlist.m3u8')</expres>
+<page></page>
+</regex>
+<thumbnail>http://4.bp.blogspot.com/_O6ME7Or6tBU/StJe1FSLdZI/AAAAAAAACMM/aoLLf68eo9o/s320/sucua+ecuador.jpg</thumbnail>
+<fanart>http://radiohuancavilca.com.ec/wp-content/uploads/2013/09/Bandera-de-Ecuador-660x330.jpg</fanart>
+</subitem>
+
+<subitem>
+<name></name>
+<thumbnail></thumbnail>
+<link></link>  
+<subitem>
+
+
+
+
+
+

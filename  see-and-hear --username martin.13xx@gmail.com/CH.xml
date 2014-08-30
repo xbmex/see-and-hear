@@ -1,0 +1,285 @@
+﻿ <?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+
+    <channels>
+    <channels_info> <!-- this is optional -->
+      <title>CHILE</title> <!-- if channels_info, a title is required, other elements are optional -->
+      <genre>TELEVISION</genre>
+      <description>CANALES CHILE</description>
+      <thumbnail>http://www.orla.upf.edu/wp-content/uploads//Chile.jpg</thumbnail>
+      <fanart>https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xpa1/t1.0-9/q71/s720x720/10511066_785815371452119_8268032962141172912_n.jpg</fanart>
+      <date>2014</date>
+      <credits>IPTV LATINOAMERICA</credits>
+    </channels_info>
+
+    <channel>
+    <name>TV NACIONALES</name>
+    <info>CANALES TV NACIONALES</info>
+    <thumbnail>http://www.orla.upf.edu/wp-content/uploads//Chile.jpg</thumbnail>
+    <fanart>https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xpa1/t1.0-9/q71/s720x720/10511066_785815371452119_8268032962141172912_n.jpg</fanart>
+
+<subitem>
+<title>TELECANAL</title>
+<link>rtmp://wow2.cl.digitalproserver.com:1935/tcsc/tcscvivo playpath=mp4:livestream1 swfUrl=http://dps.vod.lax-latam.digitalproserver.com/jw/6.8/jwplayer.flash.swf?v=70 live=1 pageUrl=http://media.digitalproserver.com/v2/live/tcsc timeout=20</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/9/96/Logo_TC_3D.png</thumbnail>
+<info>Nuestra misión es producir y exhibir contenidos rentables y de calidad,  que logren entretener e informar a los televidentes.Con una estructura liviana, buscamos generar una programación alegre.</info>
+<fanart>http://www.orla.upf.edu/wp-content/uploads//Chile.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>LA RED SD</title>
+<link>rtmp://wow2.cl.digitalproserver.com/redtv/redtvvivo playpath=mp4:livestream3 swfUrl=http://dps.vod.lax-latam.digitalproserver.com/jw/6.8/jwplayer.flash.swf?v=70 live=1 pageUrl=http://media.digitalproserver.com/v2/live/redtv</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/La_Red.svg/250px-La_Red.svg.png</thumbnail>
+<info>Somos un medio audiovisual, en línea y conectado con las redes sociales y el mundo digital. Miramos a la sociedad para que las audiencias nos miren a nosotros. Por todo esto, somos La Red, ¡Un canal Na’ que ver con los demás!</info>
+<fanart>http://www.orla.upf.edu/wp-content/uploads//Chile.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>LA RED ED</title>
+<link>rtmp://wow2.cl.digitalproserver.com/redtv/redtvvivo playpath=mp4:livestream2 swfUrl=http://dps.vod.lax-latam.digitalproserver.com/jw/6.8/jwplayer.flash.swf?v=70 live=1 pageUrl=http://media.digitalproserver.com/v2/live/redtv</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/La_Red.svg/250px-La_Red.svg.png</thumbnail>
+<info>Somos un medio audiovisual, en línea y conectado con las redes sociales y el mundo digital. Miramos a la sociedad para que las audiencias nos miren a nosotros. Por todo esto, somos La Red, ¡Un canal Na’ que ver con los demás!</info>
+<fanart>http://www.orla.upf.edu/wp-content/uploads//Chile.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>LA RED HD</title>
+<link>rtmp://wow2.cl.digitalproserver.com/redtv/redtvvivo playpath=mp4:livestream1 swfUrl=http://dps.vod.lax-latam.digitalproserver.com/jw/6.8/jwplayer.flash.swf?v=70 live=1 pageUrl=http://media.digitalproserver.com/v2/live/redtv</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/La_Red.svg/250px-La_Red.svg.png</thumbnail>
+<info>Somos un medio audiovisual, en línea y conectado con las redes sociales y el mundo digital. Miramos a la sociedad para que las audiencias nos miren a nosotros. Por todo esto, somos La Red, ¡Un canal Na’ que ver con los demás!</info>
+<fanart>http://www.orla.upf.edu/wp-content/uploads//Chile.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>UCV SD</title>
+<link>rtmp://wow2.cl.digitalproserver.com/ucvtv/_definst_ playpath=mp4:livestream3 swfUrl=http://dps.vod.lax-latam.digitalproserver.com/jw/6.8/jwplayer.flash.swf?v=70 live=1 pageUrl=http://media.digitalproserver.com/v2/live/ucvtv</link>
+<thumbnail>http://www.fotech.cl/wp-content/uploads/2013/05/2013-05-11_ucv.jpg</thumbnail>
+<info>Un canal de televisión orientado a toda la familia, que brinda a través de sus pantallas información, entretención y contenidos transversales de interés para la sociedad chilena.</info>
+<fanart>http://www.orla.upf.edu/wp-content/uploads//Chile.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>UCV ED</title>
+<link>rtmp://wow2.cl.digitalproserver.com/ucvtv/_definst_ playpath=mp4:livestream2 swfUrl=http://dps.vod.lax-latam.digitalproserver.com/jw/6.8/jwplayer.flash.swf?v=70 live=1 pageUrl=http://media.digitalproserver.com/v2/live/ucvtv</link>
+<thumbnail>http://www.fotech.cl/wp-content/uploads/2013/05/2013-05-11_ucv.jpg</thumbnail>
+<info>Un canal de televisión orientado a toda la familia, que brinda a través de sus pantallas información, entretención y contenidos transversales de interés para la sociedad chilena.</info>
+<fanart>http://www.orla.upf.edu/wp-content/uploads//Chile.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>UCV HD</title>
+<link>rtmp://wow2.cl.digitalproserver.com/ucvtv/_definst_ playpath=mp4:livestream1 swfUrl=http://dps.vod.lax-latam.digitalproserver.com/jw/6.8/jwplayer.flash.swf?v=70 live=1 pageUrl=http://media.digitalproserver.com/v2/live/ucvtv</link>
+<thumbnail>http://www.fotech.cl/wp-content/uploads/2013/05/2013-05-11_ucv.jpg</thumbnail>
+<info>Un canal de televisión orientado a toda la familia, que brinda a través de sus pantallas información, entretención y contenidos transversales de interés para la sociedad chilena.</info>
+<fanart>http://www.orla.upf.edu/wp-content/uploads//Chile.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>TVN SD</title>
+<link>rtsp://wow.tvn.cl:1935/liveedge/mp4:tvn360p</link>
+<thumbnail>http://industriaentretenimiento.files.wordpress.com/2010/11/logotvn.jpg</thumbnail>
+<info>Televisión Nacional de Chile (abreviado como TVN) es una cadena de televisión de libre recepción de Chile, que pertenece en su totalidad al Estado chileno y es el único canal de televisión de carácter público del país.</info>
+<fanart>http://www.orla.upf.edu/wp-content/uploads//Chile.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>TVN HD</title>
+<link>http://wow3.tvn.cl:1935/liveedge/smil:tvnelemental.smil/playlist.m3u8</link>
+<thumbnail>http://industriaentretenimiento.files.wordpress.com/2010/11/logotvn.jpg</thumbnail>
+<info>Televisión Nacional de Chile es una cadena de televisión de libre recepción de Chile, que pertenece en su totalidad al Estado chileno y es el único canal de televisión de carácter público del país.</info>
+<fanart>http://www.orla.upf.edu/wp-content/uploads//Chile.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>TV CHILE</title>
+<link>http://mdstrm.com/live-stream-playlist-v/533adcc949386ce765657d7c.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/c/ca/TVChile_logo.png</thumbnail>
+<info>Señal Internacional, La parrilla programática en gran parte se sustenta gracias a los contenidos que se emiten en vivo desde la señal nacional de TVN, además de contenidos misceláneos, deportivos y noticiosos desarrollados especialmente para su emisión internacional.</info>
+<fanart>http://www.orla.upf.edu/wp-content/uploads//Chile.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>MEGA</title>
+<link>rtmp://megatandas.ztreaming.com:80/megatandas playpath=stream01megatandas04032013.sdp swfUrl=http://www.mega.cl/website/js/flowplayer/3.2.2/swf/rtmp.swf live=1 pageUrl=http://www.mega.cl/senal-en-vivo/</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/4/44/Mega2013oficial.png</thumbnail>
+<fanart>http://www.orla.upf.edu/wp-content/uploads//Chile.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>CHILEVISION SD</title>
+<link>http://chv.movil.hls.ztreaming.com:80/chvmovil2/chilevision@140569/playlist.m3u8</link>
+<thumbnail>http://img1.wikia.nocookie.net/__cb20140226031214/tvcable/es/images/f/f5/Chilevision_HD.png</thumbnail>
+<info>Chilevisión (también conocido en los medios escritos por su sigla CHV) es la tercera red de televisión más antigua de Chile. Previamente llamado Canal 9 de Televisión de la Universidad de Chile (por su frecuencia original desde el 4 de noviembre de 1960 hasta el 1 de abril de 1980) o más exactamente Corporación de Televisión de la Universidad de Chile, Canal 6 de Televisión de la Universidad de Chile </info>
+<fanart>http://www.orla.upf.edu/wp-content/uploads//Chile.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>CHILEVISION ED</title>
+<link>rtmp://chv.live.ztreaming.com:80/chvapp2/ playpath=streamchv swfUrl=http://www.chilevision.cl/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.chilevision.cl/noticias/site/edic/base/port/senal_online.html</link>
+<thumbnail>http://img1.wikia.nocookie.net/__cb20140226031214/tvcable/es/images/f/f5/Chilevision_HD.png</thumbnail>
+<info>Chilevisión (también conocido en los medios escritos por su sigla CHV) es la tercera red de televisión más antigua de Chile. Previamente llamado Canal 9 de Televisión de la Universidad de Chile (por su frecuencia original desde el 4 de noviembre de 1960 hasta el 1 de abril de 1980) o más exactamente Corporación de Televisión de la Universidad de Chile, Canal 6 de Televisión de la Universidad de Chile </info>
+<fanart>http://www.orla.upf.edu/wp-content/uploads//Chile.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>CHILEVISION ED Opcion 2</title>
+<link>rtmp://chv.live.ztreaming.com:80/chvapp2/ playpath=streamchv swfUrl=http://www.chilevision.cl/jwplayer/jwplayer.flash.swf pageUrl=http://www.chilevision.cl/noticias/site/edic/base/port/senal_online.html token=#ed%h0#w18623jsda6523lDGDve</link>
+<thumbnail>http://img1.wikia.nocookie.net/__cb20140226031214/tvcable/es/images/f/f5/Chilevision_HD.png</thumbnail>
+<info>Chilevisión (también conocido en los medios escritos por su sigla CHV) es la tercera red de televisión más antigua de Chile. Previamente llamado Canal 9 de Televisión de la Universidad de Chile (por su frecuencia original desde el 4 de noviembre de 1960 hasta el 1 de abril de 1980) o más exactamente Corporación de Televisión de la Universidad de Chile, Canal 6 de Televisión de la Universidad de Chile </info>
+<fanart>http://www.orla.upf.edu/wp-content/uploads//Chile.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>CANAL 13 SD</title>
+<link>rtsp://cluster.13movil.ztreaming.com:80/13mv2/stream1grpz13m29102012.sdp</link>
+<thumbnail>http://img3.wikia.nocookie.net/__cb20140107170945/tvcable/es/images/7/77/250px-13hd.png</thumbnail>
+<fanart>http://www.orla.upf.edu/wp-content/uploads//Chile.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>CANAL 13 ED</title>
+<link>http://live.hls.http.13.ztreaming.com/13hddesktop/13hd-900.m3u8</link>
+<thumbnail>http://img3.wikia.nocookie.net/__cb20140107170945/tvcable/es/images/7/77/250px-13hd.png</thumbnail>
+<fanart>http://www.orla.upf.edu/wp-content/uploads//Chile.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>REC TV SD</title>
+<link>rtsp://13rec.movil.ztreaming.com:80/13rec/13rec</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/8/82/Logotipo_de_Rec_TV_%28Canal_13%29.png</thumbnail>
+<fanart>http://www.orla.upf.edu/wp-content/uploads//Chile.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>REC TV ED</title>
+<link>rtmp://13rec.live.ztreaming.com:80/13rec playpath=13rec swfUrl=http://envivo.13.cl/forever/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://envivo.13.cl/rec.php</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/8/82/Logotipo_de_Rec_TV_%28Canal_13%29.png</thumbnail>
+<fanart>http://www.orla.upf.edu/wp-content/uploads//Chile.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>13C SD</title>
+<link>rtsp://cluster.13movil.ztreaming.com:80/13cm/grpz13c</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/canal13_cl_cable.png</thumbnail>
+<info>13 C (anteriormente Señal 3, Canal 13 Cable) es un canal de televisión por cable chileno derivado originalmente de la Corporación de Televisión de la Pontificia Universidad Católica de Chile. </info>
+<fanart>http://www.orla.upf.edu/wp-content/uploads//Chile.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>13C ED</title>
+<link>rtmp://13c.ztreaming.com:80/13c playpath=grpz13c swfUrl=http://envivo.13.cl/forever/swf/flowplayer.commercial-3.2.7.swf live=1 pageUrl=http://envivo.13.cl/13c.php</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/canal13_cl_cable.png</thumbnail>
+<info>13 C (anteriormente Señal 3, Canal 13 Cable) es un canal de televisión por cable chileno derivado originalmente de la Corporación de Televisión de la Pontificia Universidad Católica de Chile.  </info>
+<fanart>http://www.orla.upf.edu/wp-content/uploads//Chile.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>VIVE DEPORTES</title>
+<link>http://200.104.250.182:1935/vtr_vivedeportes_online/vivedeportes-ipad/playlist.m3u8</link>
+<thumbnail>http://static.easytaxi.com.br/uploads/midia/04f2fe4f9aa3c8ad285a17780679efa0723e88f1.jpeg</thumbnail>
+<fanart>http://www.orla.upf.edu/wp-content/uploads//Chile.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>ETC TV SD</title>
+<link>rtmp://wow2.cl.digitalproserver.com/etctv/etctvvivo playpath=mp4:livestream2 swfUrl=http://dps.vod.lax-latam.digitalproserver.com/jw/6.8/jwplayer.flash.swf?v=70 live=1 pageUrl=http://media.digitalproserver.com/v2/live/etctv</link>
+<thumbnail>http://img2.wikia.nocookie.net/__cb20131204230651/doblaje/es/images/3/31/Etc.tv.jpg</thumbnail>
+<fanart>http://www.orla.upf.edu/wp-content/uploads//Chile.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>ETC TV ED</title>
+<link>rtmp://wow2.cl.digitalproserver.com/etctv/etctvvivo playpath=mp4:livestream1 swfUrl=http://dps.vod.lax-latam.digitalproserver.com/jw/6.8/jwplayer.flash.swf?v=70 live=1 pageUrl=http://media.digitalproserver.com/v2/live/etctv</link>
+<thumbnail>http://img2.wikia.nocookie.net/__cb20131204230651/doblaje/es/images/3/31/Etc.tv.jpg</thumbnail>
+<fanart>http://www.orla.upf.edu/wp-content/uploads//Chile.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>ESTUDIO TV</title>
+<link>rtmp://stream1.eltelon.com:80/live/marraqueta-tv/ playpath=marraqueta-tv673 swfUrl=http://www.eltelon.com/resources/player/liveplayer/jwplayer.flash.swf live=1 pageUrl=http://www.eltelon.com/marraqueta-tv timeout=20</link>
+<thumbnail>http://www.eltelon.com/resources/uploads/2013-07/7u37ec.jpg</thumbnail>
+<fanart>http://www.orla.upf.edu/wp-content/uploads//Chile.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>PURA TV ED</title>
+<link>rtmp://wow2.cl.digitalproserver.com:1935/puranoti/puranotivivo playpath=mp4:livestream2 swfUrl=http://dps.vod.lax-latam.digitalproserver.com/jw/6.8/jwplayer.flash.swf?v=70 live=1 pageUrl=http://media.digitalproserver.com]] timeout=20</link>
+<thumbnail>http://www.puranoticia.cl/front/images/puranoticia_tv.png</thumbnail>
+<fanart>http://www.orla.upf.edu/wp-content/uploads//Chile.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>PURA TV HD</title>
+<link>rtmp://wow2.cl.digitalproserver.com:1935/puranoti/puranotivivo playpath=mp4:livestream1 swfUrl=http://dps.vod.lax-latam.digitalproserver.com/jw/6.8/jwplayer.flash.swf?v=70 live=1 pageUrl=http://media.digitalproserver.com]] timeout=20</link>
+<thumbnail>http://www.puranoticia.cl/front/images/puranoticia_tv.png</thumbnail>
+<fanart>http://www.orla.upf.edu/wp-content/uploads//Chile.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>FREAKY CHANNEL</title>
+<link>rtmp://wow2.cl.digitalproserver.com/freakytv/freakytvvivo playpath=mp4:livestream2 swfUrl=http://dps.vod.lax-latam.digitalproserver.com/jw/6.8/jwplayer.flash.swf?v=70 live=1 pageUrl=http://media.digitalproserver.com/v2/live/freakytv timeout=20</link>
+<thumbnail>http://www.carolina.cl/player/freaky-channel/logo.png</thumbnail>
+<fanart>http://www.orla.upf.edu/wp-content/uploads//Chile.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>BUS TV</title>
+<link>rtmp://stream1.eltelon.com:80/live/bus-tv/ playpath=bus-tv570 swfUrl=http://www.eltelon.com/resources/player/liveplayer/jwplayer.flash.swf live=1 pageUrl=http://www.eltelon.com/bustv timeout=20</link>
+<thumbnail>http://www.bustvchile.cl/img/logo-top.png</thumbnail>
+<fanart>http://www.orla.upf.edu/wp-content/uploads//Chile.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>CANAL DEL VINO</title>
+<link>rtmp://stream1.eltelon.com:80/live/canaldelvinotv/ playpath=canaldelvinotv1281 swfUrl=http://www.eltelon.com/resources/player/liveplayer/jwplayer.flash.swf live=1 pageUrl=http://www.eltelon.com/canaldelvinotv/canaldelvinotv timeout=20</link>
+<thumbnail>http://www.eltelon.com/resources/uploads/2013-12/QABVqw.jpg</thumbnail>
+<fanart>http://www.orla.upf.edu/wp-content/uploads//Chile.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>CDO PREMIUM DEPORTES OLIMPICOS</title>
+<link>http://wow2.cl.digitalproserver.com:443/cdo/cdovivo/cdo.smil/playlist.m3u8</link>
+<thumbnail>https://pbs.twimg.com/profile_images/1650565956/logo_CDO_400x400.jpg</thumbnail>
+<fanart>http://www.orla.upf.edu/wp-content/uploads//Chile.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>TELETRAK SPORTING TV</title>
+<link>rtsp://movilstream.digitalproserver.com/sporting/sportingvivo/livestream1 timeout=20</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/teletrak.jpg</thumbnail>
+<fanart>http://www.orla.upf.edu/wp-content/uploads//Chile.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>CNN CHILE</title>
+<link>rtmp://200.83.3.28:80/CNN-CHILE/CNN-CHILE playpath=CNN-CHILE swfUrl=http://vtr.com/cnnf/flowplayer.rtmp-3.1.3.swf pageUrl=http://www.chilenext.com/2013/12/cnn-chile.html live=true timeout=15</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png</thumbnail>
+<fanart>http://www.orla.upf.edu/wp-content/uploads//Chile.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>BIOBIO TV (OFF)</title>
+<link>rtmp://wow2.cl.digitalproserver.com/bbtvscl/bbtvsclvivo playpath=mp4:livestream1 swfUrl=http://dps.vod.lax-latam.digitalproserver.com/jw/6.8/jwplayer.flash.swf?v=70 live=1 pageUrl=http://media.digitalproserver.com/v2/live/bbtvscl timeout=20</link>
+<thumbnail>http://tv.biobiochile.cl/assets/imagenes/logo.png</thumbnail>
+<fanart>http://www.orla.upf.edu/wp-content/uploads//Chile.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>TV SENADO CHILE</title>
+<link>rtmp://senadortmpr.janus.cl:80/senadotv playpath=senado600 swfUrl=http://www.senado.cl/prontus_senado/js-local/jwplayer/player.swf live=1 pageUrl=http://www.senado.cl/prontus_senado/site/edic/base/port/tv_senado.html?filler=0.0507315120404606 timeout=20</link>
+<thumbnail>http://www.senado.cl/prontus_senado/site/artic/20131004/imag/foto_0000001720131004114133.jpg</thumbnail>
+<fanart>http://www.orla.upf.edu/wp-content/uploads//Chile.jpg</fanart>
+</subitem>
+
+<subitem>
+<title>DIPUTADOS TV</title>
+<link>rtmp://camara.ztreaming.com:80/camara8 playpath=streamcam8.sdp swfUrl=http://www.cdtv.cl/flowplayer.commercial-3.2.5.swf live=1 pageUrl=http://www.cdtv.cl/ timeout=20</link>
+<thumbnail>http://aipuchile.files.wordpress.com/2012/05/canal-diputados-online1.jpg</thumbnail>
+<fanart>http://www.orla.upf.edu/wp-content/uploads//Chile.jpg</fanart>
+</subitem>
+
+<subitem>
+<name></name>
+<thumbnail></thumbnail>
+<link></link>  
+</subitem>
