@@ -2,10 +2,6 @@
 
 <channels>
 
-<channel>
-<name>Live TV Channels</name>
-<thumbnail>http://fc02.deviantart.net/fs37/f/2008/259/f/f/Apple_tv_boot_by_swarmkreep.png</thumbnail>
-<items>
 
 <item>
 <title>[COLOR red]MEGA ESTRENOS [/COLOR]</title>
@@ -567,4 +563,3 @@
 <thumbnail>http://us.123rf.com/400wm/400/400/hoperan/hoperan1008/hoperan100800403/7580302-elemento-de-diseno-para-el-tema-de-la-pelicula.jpg</thumbnail>
 </item>
 
-</channel>
