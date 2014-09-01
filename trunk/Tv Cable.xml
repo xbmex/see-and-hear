@@ -1,10 +1,4 @@
-r<?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
-<channels>
-<channels_info>
-<title>Tv Cable y Nacionales</title>
-<thumbnail>https://public.sn2.livefilestore.com/y2pCTBJELo-VJwWYH0vIranTjSXE84IOng2-Hj11iEDH4VaOT89WzMymAdHgovAlSzsBqUNy8iqUkA7zpX-HnqJSSG4RuHb3Q7iIQocawGtMlI/latino.jpg?psid=1</thumbnail>
-<fanart>https://public.sn2.livefilestore.com/y2pCTBJELo-VJwWYH0vIranTjSXE84IOng2-Hj11iEDH4VaOT89WzMymAdHgovAlSzsBqUNy8iqUkA7zpX-HnqJSSG4RuHb3Q7iIQocawGtMlI/latino.jpg?psid=1</fanart>
-</channels_info>
+<?xml version="1.0" ?>
 
 <item>
 <title>[COLOR skyblue]TELENOVELAS [/COLOR]</title>
@@ -379,5 +373,3 @@ r<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 </regex>
 <thumbnail>http://dennytu.com/uploads/h2/H2%20Hero%20Logo.jpg</thumbnail>
 </item>
-
-</channel>
