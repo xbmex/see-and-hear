@@ -1,8 +1,5 @@
 <?xml version="1.0" ?> 
 
-<channels>
-
-
 <item>
 <title>[COLOR red]MEGA ESTRENOS [/COLOR]</title>
 <link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_mega_movieshd live=1 timeout=20</link>
