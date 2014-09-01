@@ -1,10 +1,4 @@
 r<?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
-<channels>
-<channels_info>
-<title>TV ANIME</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</channels_info>
 
 <item>
 <title>[COLOR springgreen]ANIMETOONTV [/COLOR]</title>
@@ -533,6 +527,3 @@ r<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <thumbnail>http://chulavista.mx/wp-content/uploads/2014/03/anime1.jpg</thumbnail>
 </item>
 
-
-</items>
-</channel>
