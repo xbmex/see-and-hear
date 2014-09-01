@@ -531,20 +531,14 @@ r<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <title>[COLOR skyblue]ETC TV SD[/COLOR]</title>
 <link>rtsp://movilstream.digitalproserver.com:80/etctv/etctvvivo/livestream2</link>
 <thumbnail>http://img2.wikia.nocookie.net/__cb20131204230651/doblaje/es/images/3/31/Etc.tv.jpg</thumbnail>
-<fanart>http://www.orla.upf.edu/wp-content/uploads//Chile.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
 <title>[COLOR skyblue]ETC TV ED[/COLOR]</title>
 <link>rtmp://wow2.cl.digitalproserver.com/etctv/etctvvivo playpath=mp4:livestream1 swfUrl=http://dps.vod.lax-latam.digitalproserver.com/jw/6.8/jwplayer.flash.swf?v=70 live=1 pageUrl=http://media.digitalproserver.com/v2/live/etctv</link>
 <thumbnail>http://img2.wikia.nocookie.net/__cb20131204230651/doblaje/es/images/3/31/Etc.tv.jpg</thumbnail>
-<fanart>http://www.orla.upf.edu/wp-content/uploads//Chile.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR skyblue]INKA VISION[/COLOR]</title>
-<link>rtmp://192.99.200.94:1935/inkavision2014/ playpath=inkavision2014 swfUrl=http://inkavision.pe/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.inkavision.pe/</link>
-<thumbnail>https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xfa1/v/t1.0-9/418597_381619331851620_659395090_n.jpg?oh=16a8d0a64e0a2b59ad87acb4c28b8b75&oe=546A33C5&__gda__=1417141883_d4a39443a8219f96c3a330453f0d510f</thumbnail>
 <fanart></fanart>
 </item>
+
 
