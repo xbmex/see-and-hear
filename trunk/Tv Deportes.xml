@@ -1,10 +1,4 @@
-r<?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
-<channels>
-<channels_info>
-<title>TV DEPORTES</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</channels_info>
+<?xml version="1.0" ?>
 
 <item>
 <title>[COLOR red]AFA TV [/COLOR]</title>
@@ -618,22 +612,3 @@ r<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 </regex>
 <thumbnail>http://totalcontentdigital.com/wp-content/uploads/2014/05/LiterSideSports_MasterArt.jpg</thumbnail>
 <item>
-
-<item>
-<title>Filmon Source</title>
-<link>rtmp://$doregex[url] app=live/$doregex[key] playpath=3110.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15</link>
-<regex>
-<name>url</name>
-<expres>rtmp://(.+?)/(.+?)/<')</expres>
-<page>https://www.filmon.com/tv/channel/export?channel_id=3110</page>
-</regex>
-<regex>
-<name>key</name>
-<expres>rtmp://(.+?)/(.+?)/(.+?)id=([a-f0-9]*?)<')</expres>
-<page>https://www.filmon.com/tv/channel/export?channel_id=3110</page>
-</regex>
-
-<item>
-
-</items>
-</channel>
