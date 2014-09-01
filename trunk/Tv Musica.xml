@@ -1,10 +1,4 @@
 r<?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
-<channels>
-<channels_info>
-<title>TV MUSICA</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</channels_info>
 
 <item>
 <title>1 MUSIC HU</title>
@@ -1105,7 +1099,7 @@ r<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <title>MELODY TV</title>
 <link>rtmp://190.0.28.154:1935/live/ playpath=pqDyhE3GWS swfUrl=http://p.jwpcdn.com/6/9/jwplayer.flash.swf live=1 pageUrl=http://www.melodychanneltv.com/iframe/</link>
 <thumbnail>http://tvonlineapp.com/wp-content/uploads/2013/02/melodychanneltv-300x163.png</thumbnail>
-<info>La música más bella del mundo, 24/7 Todo tipo de música para relajarse y disfrutar en cualquier momento. Emitido via IPTV y calidad H.264 (HD)</info>
+<info>La mÃºsica mÃ¡s bella del mundo, 24/7 Todo tipo de mÃºsica para relajarse y disfrutar en cualquier momento. Emitido via IPTV y calidad H.264 (HD)</info>
 <fanart>http://www.peotv.com/blog/wp-content/uploads/2014/05/835917577_1387023807.jpg</fanart>
 </item>
 
@@ -1927,5 +1921,3 @@ r<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <fanart>http://www.peotv.com/blog/wp-content/uploads/2014/05/835917577_1387023807.jpg</fanart>
 </item>
 
-</items>
-</channel>
