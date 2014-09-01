@@ -2,14 +2,14 @@
 
 <item>
 <title>EROX</title>
-<link></link>
+<link>http://spi-live.ercdn.net/spi/eroxhd_0_1/chunklist.m3u</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
+<title>PRUEVA</title>
+<link>rtmp://edge-05.livestreamcast.org:1935/pboytv/pboytv swfUrl=http://livestreamcast.org/StrobeMediaPlayback.swf live=1 pageUrl=http://livestreamcast.org/embed.php?c=pboytv&vw=460&vh=360</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
