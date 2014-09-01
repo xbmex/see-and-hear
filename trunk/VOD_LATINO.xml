@@ -84,8 +84,8 @@ Ano de Lançamento:2014
 </subchannel>
 <!-- ==================================================================================== -->
 <subchannel>
-<name>[COLOR blue]EN SU PROPIA TRAMPA TEMPORADA 1 2 3 [/COLOR]</name>
-<thumbnail>http://3.bp.blogspot.com/-0le3Cbs3cLs/T6GVAph6hiI/AAAAAAAAALY/j5bLHqZQ9xk/s1600/1aensupropiatrampa.jpg</thumbnail>
+<name>[COLOR blue]EN SU PROPIA TRAMPA TEMPORADA 2 [/COLOR]</name>
+<thumbnail>http://tecache.cl/wp-content/uploads/2013/06/en-su-propia.jpg</thumbnail>
 <fanart>http://redlosrios.com/wp-content/uploads/2014/05/470x260_trampa.jpg</fanart>
 <info>TV PROGRAMAS</info>
 <genre>TV
@@ -94,12 +94,6 @@ Ano de Lançamento:2014
 </genre>TV
 <subitems>
 
-<subitem>
-<title>TEMPORADA 2</title>
-<link>http://streaming.</link>
-<thumbnail>http://tecache.cl/wp-content/uploads/2013/06/en-su-propia.jpg</thumbnail>
-<fanart>http://tecache.cl/wp-content/uploads/2013/06/en-su-propia.jpg</fanart>
-<subitem>
 
 <subitem>
 <title>"FALSOS DISCAPACITADOS"</title>
@@ -178,12 +172,20 @@ Ano de Lançamento:2014
 <fanart>http://static.13.cl/static/img/programa/trampa_21.jpg</fanart>
 <subitem>
 
-<subitem>
-<title>TEMPORADA 3</title>
-<link>http://streaming.</link>
+</subitems>
+</subchannel>
+<!-- ==================================================================================== -->
+<subchannel>
+<name>[COLOR blue]EN SU PROPIA TRAMPA TEMPORADA 3 [/COLOR]</name>
 <thumbnail>http://www.elrepuertero.cl/sites/elrepuertero.cl/files/imagecache/380x285/imagen_noticia/captura_de_pantalla_de_2013-07-25_001441.png</thumbnail>
-<fanart>http://www.elrepuertero.cl/sites/elrepuertero.cl/files/imagecache/380x285/imagen_noticia/captura_de_pantalla_de_2013-07-25_001441.png</fanart>
-<subitem>
+<fanart>http://redlosrios.com/wp-content/uploads/2014/05/470x260_trampa.jpg</fanart>
+<info>TV PROGRAMAS</info>
+<genre>TV
+Ano de Lançamento:2014 
+Áudio: LATINO
+</genre>TV
+<subitems>
+
 
 <subitem>
 <title"COLOMBIANO COBARDE"</title>
@@ -276,12 +278,19 @@ Ano de Lançamento:2014
 <fanart>http://redlosrios.com/wp-content/uploads/2014/05/470x260_trampa.jpg</fanart>
 <subitem>
 
-<subitem>
-<title>TEMPORADA 4</title>
-<link>http://streaming.</link>
+</subitems>
+</subchannel>
+<!-- ==================================================================================== -->
+<subchannel>
+<name>[COLOR blue]EN SU PROPIA TRAMPA TEMPORADA 3 [/COLOR]</name>
 <thumbnail>http://tecache.cl/wp-content/uploads/2013/06/En-su-prop%C3%ACa-trampa.jpg</thumbnail>
-<fanart>http://tecache.cl/wp-content/uploads/2013/06/En-su-prop%C3%ACa-trampa.jpg</fanart>
-<subitem>
+<fanart>http://redlosrios.com/wp-content/uploads/2014/05/470x260_trampa.jpg</fanart>
+<info>TV PROGRAMAS</info>
+<genre>TV
+Ano de Lançamento:2014 
+Áudio: LATINO
+</genre>TV
+<subitems>
 
 <subitem>
 <title>"VIDENTE VIP"</title>
