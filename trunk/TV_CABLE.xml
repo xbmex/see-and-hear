@@ -257,7 +257,7 @@
 <thumbnail>http://12y2.com/wp-content/uploads/2014/06/graphic-univision-branding.jpg</thumbnail>
 </item>
 
-<item><title>[COLOR skyblue]UNIVISION 41 OFF [/COLOR] [COLOR lime] HD (Castalba)[/COLOR] </title>
+<item><title>[COLOR skyblue]UNIVISION 41 OFF [/COLOR]</title>
 <link>$doregex[rtmp] playpath=$doregex[path] swfUrl=$doregex[swf] pageUrl=http://castalba.tv/ swfVfy=true live=true timeout=10</link>
 <regex>
 <name>rtmp</name>
