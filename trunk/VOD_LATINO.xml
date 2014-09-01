@@ -20,8 +20,8 @@ r<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <fanart>http://hdwallpicture.com/wp-content/uploads/2013/10/HD-Wallpaper-For-Samsung-Galaxy-S44.jpg</fanart>
 <info>VOD CHILENO</info>
 <genre>TV
-Ano de LanÁamento:2014 
-¡udio: LATINO
+Ano de Lan√ßamento:2014 
+√Åudio: LATINO
 </genre>TV
 <subitems>
 
@@ -54,7 +54,7 @@ Ano de LanÁamento:2014
 <subitem>
 
 <subitem>
-<title>CAP.5 "CHILE SUE—A EN GRANDE"</title>
+<title>CAP.5 "CHILE SUE√ëA EN GRANDE"</title>
 <link>http://streaming.13.cl/2014/07/22/20140722_cap_los90.mp4</link>
 <thumbnail>http://media.biobiochile.cl/wp-content/uploads/2013/10/Yo-Amo-los-90-730x350.jpg</thumbnail>
 <fanart>http://i.imgur.com/CZGHfK2.png</fanart>
@@ -68,7 +68,7 @@ Ano de LanÁamento:2014
 <subitem>
 
 <subitem>
-<title>CAP.7 "A—O DE DESAFIOS"</title>
+<title>CAP.7 "A√ëO DE DESAFIOS"</title>
 <link>http://streaming.13.cl/2014/08/05/20140805_los90_cap.mp4</link>
 <thumbnail>http://media.biobiochile.cl/wp-content/uploads/2013/10/Yo-Amo-los-90-730x350.jpg</thumbnail>
 <fanart>http://i.imgur.com/CZGHfK2.png</fanart>
@@ -84,15 +84,225 @@ Ano de LanÁamento:2014
 </subchannel>
 <!-- ==================================================================================== -->
 <subchannel>
-<name>[COLOR blue]TV  [/COLOR]</name>
-<thumbnail>http://info.abril.com.br/images/materias/2012/07/TV-20120724165509.jpg</thumbnail>
-<fanart>http://hdwallpicture.com/wp-content/uploads/2013/10/HD-Wallpaper-For-Samsung-Galaxy-S44.jpg</fanart>
-<info>TV NACIONAL</info>
+<name>[COLOR blue]EN SU PROPIA TRAMPA TEMPORADA 1 2 3 [/COLOR]</name>
+<thumbnail>http://3.bp.blogspot.com/-0le3Cbs3cLs/T6GVAph6hiI/AAAAAAAAALY/j5bLHqZQ9xk/s1600/1aensupropiatrampa.jpg</thumbnail>
+<fanart>http://redlosrios.com/wp-content/uploads/2014/05/470x260_trampa.jpg</fanart>
+<info>TV PROGRAMAS</info>
 <genre>TV
-Ano de LanÁamento:2014 
-¡udio: LATINO
+Ano de Lan√ßamento:2014 
+√Åudio: LATINO
 </genre>TV
 <subitems>
+
+<subitem>
+<title>TEMPORADA 2</title>
+<link>http://streaming.</link>
+<thumbnail>http://tecache.cl/wp-content/uploads/2013/06/en-su-propia.jpg</thumbnail>
+<fanart>http://tecache.cl/wp-content/uploads/2013/06/en-su-propia.jpg</fanart>
+<subitem>
+
+<subitem>
+<title>"FALSOS DISCAPACITADOS"</title>
+<link>http://13b2.ztreaming.com/2012/07/09/20120709_espt_cap2.mp4</link>
+<thumbnail>http://3.bp.blogspot.com/-0le3Cbs3cLs/T6GVAph6hiI/AAAAAAAAALY/j5bLHqZQ9xk/s1600/1aensupropiatrampa.jpg</thumbnail>
+<fanart>http://static.13.cl/static/img/programa/trampa_21.jpg</fanart>
+<subitem>
+
+<subitem>
+<title>"EL FALSO SORDOMUDO"</title>
+<link>http://13b2.ztreaming.com/2012/07/10/20120710_sordomudo_falso.mp4</link>
+<thumbnail>http://3.bp.blogspot.com/-0le3Cbs3cLs/T6GVAph6hiI/AAAAAAAAALY/j5bLHqZQ9xk/s1600/1aensupropiatrampa.jpg</thumbnail>
+<fanart>http://static.13.cl/static/img/programa/trampa_21.jpg</fanart>
+<subitem>
+
+<subitem>
+<title>"FALSAS PSIQUICAS"</title>
+<link>http://13b2.ztreaming.com/2012/07/23/20120723_espt_cap4.mp4</link>
+<thumbnail>http://3.bp.blogspot.com/-0le3Cbs3cLs/T6GVAph6hiI/AAAAAAAAALY/j5bLHqZQ9xk/s1600/1aensupropiatrampa.jpg</thumbnail>
+<fanart>http://static.13.cl/static/img/programa/trampa_21.jpg</fanart>
+<subitem>
+
+<subitem>
+<title>"PSIQUICOS PUESTOS A PRUEBA"</title>
+<link>http://13b2.ztreaming.com/2012/07/30/20120730_ensupropia_cap5.mp4</link>
+<thumbnail>http://3.bp.blogspot.com/-0le3Cbs3cLs/T6GVAph6hiI/AAAAAAAAALY/j5bLHqZQ9xk/s1600/1aensupropiatrampa.jpg</thumbnail>
+<fanart>http://static.13.cl/static/img/programa/trampa_21.jpg</fanart>
+<subitem>
+
+<subitem>
+<title>"MECANICOS CHANTAS"</title>
+<link>http://13b2.ztreaming.com/2012/08/06/20120806_ensupropiatrampa_cap6.mp4</link>
+<thumbnail>http://3.bp.blogspot.com/-0le3Cbs3cLs/T6GVAph6hiI/AAAAAAAAALY/j5bLHqZQ9xk/s1600/1aensupropiatrampa.jpg</thumbnail>
+<fanart>http://static.13.cl/static/img/programa/trampa_21.jpg</fanart>
+<subitem>
+
+<subitem>
+<title>"ARRENDATARIOS MOROSOS"</title>
+<link>http://13b2.ztreaming.com/2012/08/14/20120814_ensupropiatrampa.mp4</link>
+<thumbnail>http://3.bp.blogspot.com/-0le3Cbs3cLs/T6GVAph6hiI/AAAAAAAAALY/j5bLHqZQ9xk/s1600/1aensupropiatrampa.jpg</thumbnail>
+<fanart>http://static.13.cl/static/img/programa/trampa_21.jpg</fanart>
+<subitem>
+
+<subitem>
+<title>"CAMBIAZOS EN CAJEROS Y TAXIS"</title>
+<link>http://13b2.ztreaming.com/2012/08/20/20120820_espt_cap8.mp4</link>
+<thumbnail>http://3.bp.blogspot.com/-0le3Cbs3cLs/T6GVAph6hiI/AAAAAAAAALY/j5bLHqZQ9xk/s1600/1aensupropiatrampa.jpg</thumbnail>
+<fanart>http://static.13.cl/static/img/programa/trampa_21.jpg</fanart>
+<subitem>
+
+<subitem>
+<title>"ROBO DE GAS"</title>
+<link>http://13b2.ztreaming.com/2012/09/02/20120902_trampa_cap9.mp4</link>
+<thumbnail>http://3.bp.blogspot.com/-0le3Cbs3cLs/T6GVAph6hiI/AAAAAAAAALY/j5bLHqZQ9xk/s1600/1aensupropiatrampa.jpg</thumbnail>
+<fanart>http://static.13.cl/static/img/programa/trampa_21.jpg</fanart>
+<subitem>
+
+<subitem>
+<title>"FALSOS PRESTAMOS"</title>
+<link>http://13b2.ztreaming.com/2012/09/10/20120909_trampa.mp4</link>
+<thumbnail>http://3.bp.blogspot.com/-0le3Cbs3cLs/T6GVAph6hiI/AAAAAAAAALY/j5bLHqZQ9xk/s1600/1aensupropiatrampa.jpg</thumbnail>
+<fanart>http://static.13.cl/static/img/programa/trampa_21.jpg</fanart>
+<subitem>
+
+<subitem>
+<title>"TRAMPA AL MATON"</title>
+<link>http://13b2.ztreaming.com/2012/09/25/20120925_trampa_maton.mp4</link>
+<thumbnail>http://3.bp.blogspot.com/-0le3Cbs3cLs/T6GVAph6hiI/AAAAAAAAALY/j5bLHqZQ9xk/s1600/1aensupropiatrampa.jpg</thumbnail>
+<fanart>http://static.13.cl/static/img/programa/trampa_21.jpg</fanart>
+<subitem>
+
+<subitem>
+<title>"DESCARADA ASTUCIA ENZO CORSI"</title>
+<link>http://13b2.ztreaming.com/2012/10/01/20121001_trampa_cap12.mp4</link>
+<thumbnail>http://3.bp.blogspot.com/-0le3Cbs3cLs/T6GVAph6hiI/AAAAAAAAALY/j5bLHqZQ9xk/s1600/1aensupropiatrampa.jpg</thumbnail>
+<fanart>http://static.13.cl/static/img/programa/trampa_21.jpg</fanart>
+<subitem>
+
+<subitem>
+<title>TEMPORADA 3</title>
+<link>http://streaming.</link>
+<thumbnail>http://www.elrepuertero.cl/sites/elrepuertero.cl/files/imagecache/380x285/imagen_noticia/captura_de_pantalla_de_2013-07-25_001441.png</thumbnail>
+<fanart>http://www.elrepuertero.cl/sites/elrepuertero.cl/files/imagecache/380x285/imagen_noticia/captura_de_pantalla_de_2013-07-25_001441.png</fanart>
+<subitem>
+
+<subitem>
+<title"COLOMBIANO COBARDE"</title>
+<link>http://streaming.13.cl/2013/07/01/20130701_trampa_cap1.mp4</link>
+<thumbnail>http://3.bp.blogspot.com/-0le3Cbs3cLs/T6GVAph6hiI/AAAAAAAAALY/j5bLHqZQ9xk/s1600/1aensupropiatrampa.jpg</thumbnail>
+<fanart>http://redlosrios.com/wp-content/uploads/2014/05/470x260_trampa.jpg</fanart>
+<subitem>
+
+<subitem>
+<title>"FALSO EPILEPTICO"</title>
+<link>http://streaming.13.cl/2013/07/08/20130708_trampa_cap.mp4</link>
+<thumbnail>http://3.bp.blogspot.com/-0le3Cbs3cLs/T6GVAph6hiI/AAAAAAAAALY/j5bLHqZQ9xk/s1600/1aensupropiatrampa.jpg</thumbnail>
+<fanart>http://redlosrios.com/wp-content/uploads/2014/05/470x260_trampa.jpg</fanart>
+<subitem>
+
+<subitem>
+<title>"LADRON CHORO Y COBARDE"</title>
+<link>http://streaming.13.cl/2013/07/15/20130715_trampa_cap3.mp4</link>
+<thumbnail>http://3.bp.blogspot.com/-0le3Cbs3cLs/T6GVAph6hiI/AAAAAAAAALY/j5bLHqZQ9xk/s1600/1aensupropiatrampa.jpg</thumbnail>
+<fanart>http://redlosrios.com/wp-content/uploads/2014/05/470x260_trampa.jpg</fanart>
+<subitem>
+
+<subitem>
+<title>"BANDA ROBA CASAS"</title>
+<link>http://streaming.13.cl/2013/07/29/201307129_trampa_cap5ok.mp4</link>
+<thumbnail>http://3.bp.blogspot.com/-0le3Cbs3cLs/T6GVAph6hiI/AAAAAAAAALY/j5bLHqZQ9xk/s1600/1aensupropiatrampa.jpg</thumbnail>
+<fanart>http://redlosrios.com/wp-content/uploads/2014/05/470x260_trampa.jpg</fanart>
+<subitem>
+
+<subitem>
+<title>"LUSTRABOTAS ESTAFADOR"</title>
+<link>http://streaming.13.cl/2013/08/05/20130805_trampa_cap.mp4</link>
+<thumbnail>http://3.bp.blogspot.com/-0le3Cbs3cLs/T6GVAph6hiI/AAAAAAAAALY/j5bLHqZQ9xk/s1600/1aensupropiatrampa.jpg</thumbnail>
+<fanart>http://redlosrios.com/wp-content/uploads/2014/05/470x260_trampa.jpg</fanart>
+<subitem>
+
+<subitem>
+<title>"FALSO ABOGADO"</title>
+<link>http://streaming.13.cl/2013/08/12/20130812_trampa_cap.mp4</link>
+<thumbnail>http://3.bp.blogspot.com/-0le3Cbs3cLs/T6GVAph6hiI/AAAAAAAAALY/j5bLHqZQ9xk/s1600/1aensupropiatrampa.jpg</thumbnail>
+<fanart>http://redlosrios.com/wp-content/uploads/2014/05/470x260_trampa.jpg</fanart>
+<subitem>
+
+<subitem>
+<title>"FALSO DISCAPACITADO MILLONARIO"</title>
+<link>http://streaming.13.cl/2013/08/19/20130819_cap_trampa.mp4</link>
+<thumbnail>http://3.bp.blogspot.com/-0le3Cbs3cLs/T6GVAph6hiI/AAAAAAAAALY/j5bLHqZQ9xk/s1600/1aensupropiatrampa.jpg</thumbnail>
+<fanart>http://redlosrios.com/wp-content/uploads/2014/05/470x260_trampa.jpg</fanart>
+<subitem>
+
+<subitem>
+<title>"USA A HIJA PARA ENGA√ëAR"</title>
+<link>http://streaming.13.cl/2013/09/23/20130923_trampa_capitulo.mp4</link>
+<thumbnail>http://3.bp.blogspot.com/-0le3Cbs3cLs/T6GVAph6hiI/AAAAAAAAALY/j5bLHqZQ9xk/s1600/1aensupropiatrampa.jpg</thumbnail>
+<fanart>http://redlosrios.com/wp-content/uploads/2014/05/470x260_trampa.jpg</fanart>
+<subitem>
+
+<subitem>
+<title>"FALSOS COLABORADORES"</title>
+<link>http://streaming.13.cl/2013/09/30/20130930_espt_cap10.mp4</link>
+<thumbnail>http://3.bp.blogspot.com/-0le3Cbs3cLs/T6GVAph6hiI/AAAAAAAAALY/j5bLHqZQ9xk/s1600/1aensupropiatrampa.jpg</thumbnail>
+<fanart>http://redlosrios.com/wp-content/uploads/2014/05/470x260_trampa.jpg</fanart>
+<subitem>
+
+<subitem>
+<title>"VIOLENTOS LANZAS"</title>
+<link>http://streaming.13.cl/2013/10/07/20131007_trampa_cap.mp4</link>
+<thumbnail>http://3.bp.blogspot.com/-0le3Cbs3cLs/T6GVAph6hiI/AAAAAAAAALY/j5bLHqZQ9xk/s1600/1aensupropiatrampa.jpg</thumbnail>
+<fanart>http://redlosrios.com/wp-content/uploads/2014/05/470x260_trampa.jpg</fanart>
+<subitem>
+
+<subitem>
+<title>"FALSO CURA"</title>
+<link>http://streaming.13.cl/2013/10/14/20131014_trampa_cap.mp4</link>
+<thumbnail>http://3.bp.blogspot.com/-0le3Cbs3cLs/T6GVAph6hiI/AAAAAAAAALY/j5bLHqZQ9xk/s1600/1aensupropiatrampa.jpg</thumbnail>
+<fanart>http://redlosrios.com/wp-content/uploads/2014/05/470x260_trampa.jpg</fanart>
+<subitem>
+
+<subitem>
+<title>"FALSO PRODUCTOR"</title>
+<link>http://streaming.13.cl/2013/10/21/20131021_trampa_cap.mp4</link>
+<thumbnail>http://3.bp.blogspot.com/-0le3Cbs3cLs/T6GVAph6hiI/AAAAAAAAALY/j5bLHqZQ9xk/s1600/1aensupropiatrampa.jpg</thumbnail>
+<fanart>http://redlosrios.com/wp-content/uploads/2014/05/470x260_trampa.jpg</fanart>
+<subitem>
+
+<subitem>
+<title>"ROBO DE AUTOS Y COMIDA"</title>
+<link>http://streaming.13.cl/2013/10/28/20131028_trampa_cap.mp4</link>
+<thumbnail>http://3.bp.blogspot.com/-0le3Cbs3cLs/T6GVAph6hiI/AAAAAAAAALY/j5bLHqZQ9xk/s1600/1aensupropiatrampa.jpg</thumbnail>
+<fanart>http://redlosrios.com/wp-content/uploads/2014/05/470x260_trampa.jpg</fanart>
+<subitem>
+
+<subitem>
+<title>TEMPORADA 4</title>
+<link>http://streaming.</link>
+<thumbnail>http://tecache.cl/wp-content/uploads/2013/06/En-su-prop%C3%ACa-trampa.jpg</thumbnail>
+<fanart>http://tecache.cl/wp-content/uploads/2013/06/En-su-prop%C3%ACa-trampa.jpg</fanart>
+<subitem>
+
+<subitem>
+<title>"VIDENTE VIP"</title>
+<link>http://streaming.13.cl/2014/08/11/20140811_trampa_cap.mp4</link>
+<thumbnail>http://3.bp.blogspot.com/-0le3Cbs3cLs/T6GVAph6hiI/AAAAAAAAALY/j5bLHqZQ9xk/s1600/1aensupropiatrampa.jpg</thumbnail>
+<fanart>https://db.tt/TRE1h74y</fanart>
+<subitem>
+
+<subitem>
+<title>"PRODUCTOS MILAGROSOS"</title>
+<link>http://streaming.13.cl/2014/08/18/20140818_trampa_cap.mp4</link>
+<thumbnail>http://3.bp.blogspot.com/-0le3Cbs3cLs/T6GVAph6hiI/AAAAAAAAALY/j5bLHqZQ9xk/s1600/1aensupropiatrampa.jpg</thumbnail>
+<fanart>https://db.tt/TRE1h74y</fanart>
+<subitem>
+
+<subitem>
+<title>"SECTA DEL ARCANGEL"</title>
+<link>http://streaming.13.cl/2014/08/25/20140825_cap_trampa.mp4</link>
+<thumbnail>http://3.bp.blogspot.com/-0le3Cbs3cLs/T6GVAph6hiI/AAAAAAAAALY/j5bLHqZQ9xk/s1600/1aensupropiatrampa.jpg</thumbnail>
+<fanart>https://db.tt/TRE1h74y</fanart>
+<subitem>
 
 
 </subitems>
@@ -118,13 +328,13 @@ Ano de LanÁamento:2014
 <fanart>http://www.elsoldeiquique.cl/wp-content/uploads/2013/11/chi.jpg</fanart>
 <info>TV DEP</info>
 <genre>TV
-Ano de LanÁamento:2014 
-¡udio: LATINO
+Ano de Lan√ßamento:2014 
+√Åudio: LATINO
 </genre>TV
 <subitems>
 
 <subitem>
-<title>U.ESPA—OLA V/S U.LA CALERA FECHA 4</title>
+<title>U.ESPA√ëOLA V/S U.LA CALERA FECHA 4</title>
 <link>http://mdstrm.com/video/53e84ad047372bcc5a7b8510.m3u8?ref=http://www.cdf.cl/videos/?vcat=29652&vid=198680</link>
 <thumbnail>http://media-cl.media.s-mdstrm.com/thumbs/504f9db27207f31126000004/1407733658407-A_UNO_425107.jpg</thumbnail>
 <fanart>http://www.anfp.cl/images/logo-scotiabankG.jpg</fanart>
@@ -138,7 +348,7 @@ Ano de LanÁamento:2014
 <subitem>
 
 <subitem>
-<title>—UBLENSE V/S U.CATOLICA FECHA 4</title>
+<title>√ëUBLENSE V/S U.CATOLICA FECHA 4</title>
 <link>http://mdstrm.com/video/53e8482747372bcc5a7b84fb.m3u8?ref=http://www.cdf.cl/videos/?vcat=29652&vid=198682</link>
 <thumbnail>http://media-cl.media.s-mdstrm.com/thumbs/504f9db27207f31126000004/1407732598119-A_UNO_425333.jpg</thumbnail>
 <fanart>http://www.anfp.cl/images/logo-scotiabankG.jpg</fanart>
@@ -195,8 +405,8 @@ Ano de LanÁamento:2014
 <fanart>http://hdwallpicture.com/wp-content/uploads/2013/10/HD-Wallpaper-For-Samsung-Galaxy-S44.jpg</fanart>
 <info>TV NACIONAL</info>
 <genre>TV
-Ano de LanÁamento:2014 
-¡udio: LATINO
+Ano de Lan√ßamento:2014 
+√Åudio: LATINO
 </genre>TV
 <subitems>
 
@@ -229,8 +439,8 @@ Ano de LanÁamento:2014
 <fanart>http://www.losangelesdelasierra.es/wp-content/uploads/2013/05/petardaaaaaaaaaaaaaa.jpg</fanart>
 <info>canales solo para adultos </info>
 <genre>
-Ano de LanÁamento:  
-¡udio: 
+Ano de Lan√ßamento:  
+√Åudio: 
 </genre>
 <subitems>
 
@@ -544,8 +754,8 @@ Ano de LanÁamento:
 <fanart>http://82.222.152.134/imgsdisk/2013/07/31/310720131648037915570.jpg</fanart>
 <info>canales solo para adultos </info>
 <genre>
-Ano de LanÁamento:  
-¡udio: 
+Ano de Lan√ßamento:  
+√Åudio: 
 </genre>
 <subitems>
 
@@ -865,8 +1075,8 @@ Ano de LanÁamento:
 <fanart>http://82.222.152.134/imgsdisk/2013/07/31/310720131648037915570.jpg</fanart>
 <info>canales solo para adultos </info>
 <genre>
-Ano de LanÁamento:  
-¡udio: 
+Ano de Lan√ßamento:  
+√Åudio: 
 </genre>
 <subitems>
 
@@ -1149,8 +1359,8 @@ Ano de LanÁamento:
 <fanart>http://www.private.com.uy/wp-content/uploads/2014/02/logo.png</fanart>
 <info>canales solo para adultos </info>
 <genre>
-Ano de LanÁamento:  
-¡udio: 
+Ano de Lan√ßamento:  
+√Åudio: 
 </genre>
 <subitems>
 
@@ -1259,8 +1469,8 @@ Ano de LanÁamento:
 <fanart>https://gvlswq.sn2.livefilestore.com/y2p2AY7kEjXFucIxvDpdpJxTJ-Ao1FhgB8G5yuWJxYILT4bunn5gSTZCHsD5GBLs0teGrKL8j3sQblbGkFv2aM4gxvdTfJLcJo8Z6MJvC5MY20/FAPVID.png</fanart>
 <info>peliculas para adultos </info>
 <genre>
-Ano de LanÁamento:  
-¡udio: 
+Ano de Lan√ßamento:  
+√Åudio: 
 </genre>
 <subitems>
 
@@ -1367,7 +1577,7 @@ Ano de LanÁamento:
 </subitem>
 
 <subitem>
-<title>[COLOR purple]Brutal trÌo con dos h˙medas y culonas pornstars [/COLOR]</title>
+<title>[COLOR purple]Brutal tr√≠o con dos h√∫medas y culonas pornstars [/COLOR]</title>
 <link>http://media3.serviporno.com/videos/c/a/6/6/b/ca66b94e39e996f65cfa2c8b065fcccaa5fc09eb.flv</link>
 <thumbnail>http://girl2girlporn.eu/pictures/30111.jpg</thumbnail>
 </subitem>
@@ -1442,8 +1652,8 @@ Ano de LanÁamento:
 <fanart>http://www.playful.xxx/Playful/Playful.xxx_files/Playful.xxx%20logo.jpg</fanart>
 <info>vid para adultos </info>
 <genre>xx
-Ano de LanÁamento:2014 
-¡udio:mandarin
+Ano de Lan√ßamento:2014 
+√Åudio:mandarin
 </genre>
 <subitems>
 
@@ -1736,8 +1946,8 @@ Ano de LanÁamento:2014
 <fanart>http://s3.amazonaws.com/dev-pablo.marketkarma.com/hdtube-free-best-youtube-experience-art-work.jpg</fanart>
 <info>TV NACIONAL</info>
 <genre>TV
-Ano de LanÁamento:2014 
-¡udio: LATINO
+Ano de Lan√ßamento:2014 
+√Åudio: LATINO
 </genre>TV
 <subitems>
 
@@ -1894,8 +2104,8 @@ Ano de LanÁamento:2014
 <fanart>http://hdwallpicture.com/wp-content/uploads/2013/10/HD-Wallpaper-For-Samsung-Galaxy-S44.jpg</fanart>
 <info>TV NACIONAL</info>
 <genre>TV
-Ano de LanÁamento:2014 
-¡udio: LATINO
+Ano de Lan√ßamento:2014 
+√Åudio: LATINO
 </genre>TV
 <subitems>
 
@@ -1906,21 +2116,21 @@ Ano de LanÁamento:2014
 </subitem>
 
 <subitem>
-<title>[COLOR blue]ROMEO SANTOS - FESTIVAL VI—A 2013 HD[/COLOR]</title>
+<title>[COLOR blue]ROMEO SANTOS - FESTIVAL VI√ëA 2013 HD[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=K3Cn7wv6ogw</link>
 <thumbnail>http://tbsila.cdn.turner.com/tbsila/trends/com.muchla.www//10108/399926/1024242/1035600.jpg</thumbnail>
 <fanart>http://fastly.fotor.com/share.url/e5a3b90304ce46bc84e51e078f852027.jpg</fanart>
 </subitem>
 
 <subitem>
-<title>[COLOR blue]JUAN LUIS GUERRA - FESTIVAL VI—A 2012 HD[/COLOR]</title>
+<title>[COLOR blue]JUAN LUIS GUERRA - FESTIVAL VI√ëA 2012 HD[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=NRsSODkLKRo</link>
 <thumbnail>http://4.bp.blogspot.com/-qnN2wzZCzQw/T5v3Q5lDcKI/AAAAAAAACis/_VJvnpGGY2U/s1600/juanluisguerra_sm.jpg</thumbnail>
 <fanart>http://fastly.fotor.com/share.url/e5a3b90304ce46bc84e51e078f852027.jpg</fanart>
 </subitem>
 
 <subitem>
-<title>[COLOR orange]PRINCE.ROYCE.VI—A DEL MAR 2012 COMPLETO[/COLOR]  [COLOR lime]HD[/COLOR]  [COLOR orange][/COLOR]</title>
+<title>[COLOR orange]PRINCE.ROYCE.VI√ëA DEL MAR 2012 COMPLETO[/COLOR]  [COLOR lime]HD[/COLOR]  [COLOR orange][/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=rbJLUqoUsJM</link>
 <thumbnail>http://www.princeroyce.com/files/2013/10/iNjxKiB.jpg</thumbnail>
 <info><![CDATA[]]></info>
@@ -1940,13 +2150,13 @@ Ano de LanÁamento:2014
 <fanart>http://hdwallpicture.com/wp-content/uploads/2013/10/HD-Wallpaper-For-Samsung-Galaxy-S44.jpg</fanart>
 <info>TV NACIONAL</info>
 <genre>TV
-Ano de LanÁamento:2014 
-¡udio: LATINO
+Ano de Lan√ßamento:2014 
+√Åudio: LATINO
 </genre>TV
 <subitems>
 
 <subitem>
-<title>[COLOR orange]ZoÈ Vive Latino 2014 Completo[/COLOR]  [COLOR lime]HD[/COLOR]</title>
+<title>[COLOR orange]Zo√© Vive Latino 2014 Completo[/COLOR]  [COLOR lime]HD[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=LgxBSQj9zRo</link>
 <thumbnail>http://m.oem.com.mx/143edffd-5465-4e00-ad1e-2bf19fd662a1.jpg</thumbnail>
 <info><![CDATA[]]></info>
@@ -1954,14 +2164,14 @@ Ano de LanÁamento:2014
 </subitem>
 
 <subitem>
-<title>[COLOR orange]CAMILA - FESTIVAL VI—A 2012 HD[/COLOR]</title>
+<title>[COLOR orange]CAMILA - FESTIVAL VI√ëA 2012 HD[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=3kTDfixwjbI</link>
 <thumbnail>http://2.bp.blogspot.com/-azrNCyCf8S4/T2tZfmHXUpI/AAAAAAAADQA/9EytJU_tCuw/s1600/VI%C3%91A+DEL+MAR+2012+-+CAMILA.jpg</thumbnail>
 <fanart>http://fastly.fotor.com/share.url/e5a3b90304ce46bc84e51e078f852027.jpg</fanart>
 </subitem>
 
 <subitem>
-<title>[COLOR orange]LAURA PAUSINI - FESTIVAL VI—A 2014 3D[/COLOR]</title>
+<title>[COLOR orange]LAURA PAUSINI - FESTIVAL VI√ëA 2014 3D[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=OeS0zBtcNJc</link>
 <thumbnail>http://redvalparaiso.com/festival2014/wp-content/uploads/2014/02/24-laura-pausini.png</thumbnail>
 <fanart>http://fastly.fotor.com/share.url/e5a3b90304ce46bc84e51e078f852027.jpg</fanart>
@@ -1988,8 +2198,8 @@ Ano de LanÁamento:2014
 <fanart>http://hdwallpicture.com/wp-content/uploads/2013/10/HD-Wallpaper-For-Samsung-Galaxy-S44.jpg</fanart>
 <info>TV NACIONAL</info>
 <genre>TV
-Ano de LanÁamento:2014 
-¡udio: LATINO
+Ano de Lan√ßamento:2014 
+√Åudio: LATINO
 </genre>TV
 <subitems>
 
@@ -2014,14 +2224,14 @@ Ano de LanÁamento:2014
 </subitem>
 
 <subitem>
-<title>[COLOR skyblue]DADDY YANQUE - FESTIVAL VI—A 2013 HD[/COLOR]</title>
+<title>[COLOR skyblue]DADDY YANQUE - FESTIVAL VI√ëA 2013 HD[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=z65h4hZXxEI</link>
 <thumbnail>http://i419.photobucket.com/albums/pp278/joros7/Latino/daddyvina4-m.jpg</thumbnail>
 <fanart>http://fastly.fotor.com/share.url/e5a3b90304ce46bc84e51e078f852027.jpg</fanart>
 </subitem>
 
 <subitem>
-<title>[COLOR skyblue]WISIN Y YANDEL - FESTIVAL VI—A 2013 HD[/COLOR]</title>
+<title>[COLOR skyblue]WISIN Y YANDEL - FESTIVAL VI√ëA 2013 HD[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=zt065wK5cCg</link>
 <thumbnail>http://i419.photobucket.com/albums/pp278/joros7/sonicomusica%20info%204/wisinG-1.jpg</thumbnail>
 <fanart>http://fastly.fotor.com/share.url/e5a3b90304ce46bc84e51e078f852027.jpg</fanart>
@@ -2040,8 +2250,8 @@ Ano de LanÁamento:2014
 <fanart>http://hdwallpicture.com/wp-content/uploads/2013/10/HD-Wallpaper-For-Samsung-Galaxy-S44.jpg</fanart>
 <info>TV NACIONAL</info>
 <genre>TV
-Ano de LanÁamento:2014 
-¡udio: LATINO
+Ano de Lan√ßamento:2014 
+√Åudio: LATINO
 </genre>TV
 <subitems>
 
@@ -2054,28 +2264,28 @@ Ano de LanÁamento:2014
 </subitem>
 
 <subitem>
-<title>[COLOR orange]CHAYANNE - FESTIVAL VI—A 2011 HD[/COLOR]</title>
+<title>[COLOR orange]CHAYANNE - FESTIVAL VI√ëA 2011 HD[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=mZNVwHC4l2g</link>
 <thumbnail>https://lh5.googleusercontent.com/-eWTf3rzDq8I/TXvURxLm5WI/AAAAAAAAAE8/ITozwEF4rLs/s640/chayanne.jpg</thumbnail>
 <fanart>http://fastly.fotor.com/share.url/e5a3b90304ce46bc84e51e078f852027.jpg</fanart>
 </subitem>
 
 <subitem>
-<title>[COLOR orange]DIEGO TORRES - FESTIVAL VI—A 2012 HD[/COLOR]</title>
+<title>[COLOR orange]DIEGO TORRES - FESTIVAL VI√ëA 2012 HD[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=_XLQoSCZC_0</link>
 <thumbnail>http://eju.tv/wp-content/uploads/2012/02/diego_torres_sm.jpg</thumbnail>
 <fanart>http://fastly.fotor.com/share.url/e5a3b90304ce46bc84e51e078f852027.jpg</fanart>
 </subitem>
 
 <subitem>
-<title>[COLOR orange]GLORIA TREVI - FESTIVAL VI—A 2013 HD[/COLOR]</title>
+<title>[COLOR orange]GLORIA TREVI - FESTIVAL VI√ëA 2013 HD[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=CvzwdFF1B0s</link>
 <thumbnail>http://i419.photobucket.com/albums/pp278/joros7/sonicomusica%20info%204/4-6.jpg</thumbnail>
 <fanart>http://fastly.fotor.com/share.url/e5a3b90304ce46bc84e51e078f852027.jpg</fanart>
 </subitem>
 
 <subitem>
-<title>[COLOR orange]RICKY MARTIN - FESTIVAL VI—A 2014 HD[/COLOR]</title>
+<title>[COLOR orange]RICKY MARTIN - FESTIVAL VI√ëA 2014 HD[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=z8wcOfHJ8ZI</link>
 <thumbnail>http://redvalparaiso.com/festival2014/wp-content/uploads/2014/02/23-ricky-martin.png</thumbnail>
 <fanart>http://fastly.fotor.com/share.url/e5a3b90304ce46bc84e51e078f852027.jpg</fanart>
@@ -2100,13 +2310,13 @@ Ano de LanÁamento:2014
 <fanart>http://hdwallpicture.com/wp-content/uploads/2013/10/HD-Wallpaper-For-Samsung-Galaxy-S44.jpg</fanart>
 <info>TV NACIONAL</info>
 <genre>TV
-Ano de LanÁamento:2014 
-¡udio: LATINO
+Ano de Lan√ßamento:2014 
+√Åudio: LATINO
 </genre>TV
 <subitems>
 
 <subitem>
-<title>[COLOR orange]MARC ANTHONY - FESTIVAL VI—A 2012 HD[/COLOR]</title>
+<title>[COLOR orange]MARC ANTHONY - FESTIVAL VI√ëA 2012 HD[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=MqN9SHKgBzo</link>
 <thumbnail>http://4.bp.blogspot.com/-gsNPtBrrdXs/T2lG5xsJv4I/AAAAAAAAF5g/ui483Ir61_c/s320/marc_anthony_sm.jpg</thumbnail>
 <fanart>http://fastly.fotor.com/share.url/e5a3b90304ce46bc84e51e078f852027.jpg</fanart>
@@ -2145,7 +2355,7 @@ Ano de LanÁamento:2014
 </subitem>
 
 <subitem>
-<title>[COLOR orange]Ruben Blades ,HD,Te est·n buscando, En Vivo, Concierto en Cali ,Salsa brava[/COLOR]  [COLOR lime]HD[/COLOR]</title>
+<title>[COLOR orange]Ruben Blades ,HD,Te est√°n buscando, En Vivo, Concierto en Cali ,Salsa brava[/COLOR]  [COLOR lime]HD[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=IgeDunsOJF4</link>
 <thumbnail>http://www.jazzmusicarchives.com/images/covers/ruben-blades-the-best(compilation).jpg</thumbnail>
 <info><![CDATA[]]></info>
@@ -2168,8 +2378,8 @@ Ano de LanÁamento:2014
 <fanart>http://hdwallpicture.com/wp-content/uploads/2013/10/HD-Wallpaper-For-Samsung-Galaxy-S44.jpg</fanart>
 <info>TV NACIONAL</info>
 <genre>TV
-Ano de LanÁamento:2014 
-¡udio: LATINO
+Ano de Lan√ßamento:2014 
+√Åudio: LATINO
 </genre>TV
 <subitems>
 
@@ -2181,7 +2391,7 @@ Ano de LanÁamento:2014
 </subitem>
 
 <subitem>
-<title>[COLOR skyblue]LA LEY - FESTIVAL VI—A 2014 3D[/COLOR]</title>
+<title>[COLOR skyblue]LA LEY - FESTIVAL VI√ëA 2014 3D[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=E0lSUZGKOk0</link>
 <thumbnail>http://redvalparaiso.com/festival2014/wp-content/uploads/2014/02/26-la-ley.png</thumbnail>
 <fanart>http://fastly.fotor.com/share.url/e5a3b90304ce46bc84e51e078f852027.jpg</fanart>
@@ -2195,21 +2405,21 @@ Ano de LanÁamento:2014
 </subitem>
 
 <subitem>
-<title>[COLOR skyblue]LAURA PAUSINI - FESTIVAL VI—A 2014 3D[/COLOR]</title>
+<title>[COLOR skyblue]LAURA PAUSINI - FESTIVAL VI√ëA 2014 3D[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=OeS0zBtcNJc</link>
 <thumbnail>http://redvalparaiso.com/festival2014/wp-content/uploads/2014/02/24-laura-pausini.png</thumbnail>
 <fanart>http://fastly.fotor.com/share.url/e5a3b90304ce46bc84e51e078f852027.jpg</fanart>
 </subitem>
 
 <subitem>
-<title>[COLOR skyblue]MANA - FESTIVAL VI—A 2013 HD[/COLOR]</title>
+<title>[COLOR skyblue]MANA - FESTIVAL VI√ëA 2013 HD[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=5xoHi34Pvn0</link>
 <thumbnail>http://3.bp.blogspot.com/-Vb5FwFWwVdc/UTwYNsM-6TI/AAAAAAAA5Jw/3Ospqt1U6ZU/s640/mana.jpg</thumbnail>
 <fanart>http://fastly.fotor.com/share.url/e5a3b90304ce46bc84e51e078f852027.jpg</fanart>
 </subitem>
 
 <subitem>
-<title>[COLOR skyblue]SODA STEREO - FESTIVAL VI—A 1987 HD[/COLOR]</title>
+<title>[COLOR skyblue]SODA STEREO - FESTIVAL VI√ëA 1987 HD[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=XSz9c68Utwo</link>
 <thumbnail>http://k37.kn3.net/taringa/4/5/0/1/6/2/6/patriciofar/21E.jpg</thumbnail>
 <fanart>http://fastly.fotor.com/share.url/e5a3b90304ce46bc84e51e078f852027.jpg</fanart>
@@ -2256,20 +2466,20 @@ Ano de LanÁamento:2014
 <fanart>http://hdwallpicture.com/wp-content/uploads/2013/10/HD-Wallpaper-For-Samsung-Galaxy-S44.jpg</fanart>
 <info>TV NACIONAL</info>
 <genre>TV
-Ano de LanÁamento:2014 
-¡udio: LATINO
+Ano de Lan√ßamento:2014 
+√Åudio: LATINO
 </genre>TV
 <subitems>
 
 <subitem>
-<title>[COLOR skyblue]ROBERTO CARLOS - FESTIVAL VI—A 2011 HD[/COLOR]</title>
+<title>[COLOR skyblue]ROBERTO CARLOS - FESTIVAL VI√ëA 2011 HD[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=QNge1z6r2MM</link>
 <thumbnail>http://www.magicpeliculas.com/covers/17875.jpg</thumbnail>
 <fanart>http://fastly.fotor.com/share.url/e5a3b90304ce46bc84e51e078f852027.jpg</fanart>
 </subitem>
 
 <subitem>
-<title>[COLOR skyblue]LUIS MIGUEL - FESTIVAL VI—A 2012 HD[/COLOR]</title>
+<title>[COLOR skyblue]LUIS MIGUEL - FESTIVAL VI√ëA 2012 HD[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=JOKc0ghT9Gs</link>
 <thumbnail>http://4.bp.blogspot.com/-u91vJT_MFWQ/T1JQ58wEd0I/AAAAAAAAA7I/h1LFhzvmRvg/s1600/luismiguel-vinadelmar2012.jpg</thumbnail>
 <fanart>http://fastly.fotor.com/share.url/e5a3b90304ce46bc84e51e078f852027.jpg</fanart>
@@ -2289,13 +2499,13 @@ Ano de LanÁamento:2014
 <fanart>http://hdwallpicture.com/wp-content/uploads/2013/10/HD-Wallpaper-For-Samsung-Galaxy-S44.jpg</fanart>
 <info>TV NACIONAL</info>
 <genre>TV
-Ano de LanÁamento:2014 
-¡udio: LATINO
+Ano de Lan√ßamento:2014 
+√Åudio: LATINO
 </genre>TV
 <subitems>
 
 <subitem>
-<title>[COLOR skyblue]31 MINUTOS - FESTIVAL VI—A 2013 HD[/COLOR]</title>
+<title>[COLOR skyblue]31 MINUTOS - FESTIVAL VI√ëA 2013 HD[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=oJZieZC34FE</link>
 <thumbnail>http://fc02.deviantart.net/fs71/f/2012/342/5/8/las_estrellas_del_programa__31_minutos__by_6growercrower4-d5ngfbn.jpg</thumbnail>
 <fanart>http://fastly.fotor.com/share.url/e5a3b90304ce46bc84e51e078f852027.jpg</fanart>
@@ -2316,8 +2526,8 @@ Ano de LanÁamento:2014
 <fanart>http://hdwallpicture.com/wp-content/uploads/2013/10/HD-Wallpaper-For-Samsung-Galaxy-S44.jpg</fanart>
 <info>TV NACIONAL</info>
 <genre>TV
-Ano de LanÁamento:2014 
-¡udio: LATINO
+Ano de Lan√ßamento:2014 
+√Åudio: LATINO
 </genre>TV
 <subitems>
 
@@ -2330,7 +2540,7 @@ Ano de LanÁamento:2014
 </subitem>
 
 <subitem>
-<title>[COLOR orange]Elton John - Festival de ViÒa 2013[/COLOR]  [COLOR lime]HD[/COLOR]</title>
+<title>[COLOR orange]Elton John - Festival de Vi√±a 2013[/COLOR]  [COLOR lime]HD[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9_5UFmJ7YhM</link>
 <thumbnail>http://virtualdigital.com.ve/image/cache/MUSICALES/ROCK/ELTON%20JHON-500x600.jpg</thumbnail>
 <info><![CDATA[]]></info>
@@ -2383,7 +2593,7 @@ Ano de LanÁamento:2014
 </subitem>
 
 <subitem>
-<title>[COLOR orange]MORRISEY - VI—A DEL MAR FESTIVAL 2012 HD[/COLOR]</title>
+<title>[COLOR orange]MORRISEY - VI√ëA DEL MAR FESTIVAL 2012 HD[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=fUh8XGGdLSg</link>
 <thumbnail>http://1.bp.blogspot.com/-ZDRpegkpstA/UCXkdDQIaNI/AAAAAAAASCM/g5rx_A5ATB8/s1600/morrissey_vina-del-mar-capinha.jpg</thumbnail>
 <fanart>http://ondemandweekly.com/images/sized/images/article_images/Music_On_Demand_Report_Banner-625x0.jpg</fanart>
@@ -2397,21 +2607,21 @@ Ano de LanÁamento:2014
 </subitem>
 
 <subitem>
-<title>[COLOR orange]STING - VI—A DEL MAR FESTIVAL 2011 HD[/COLOR]</title>
+<title>[COLOR orange]STING - VI√ëA DEL MAR FESTIVAL 2011 HD[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1noG5aOgn6U</link>
 <thumbnail>http://www.music-dvd-trading.de/files/downloads/sting.vina.del.mar.jpg.jpg</thumbnail>
 <fanart>http://ondemandweekly.com/images/sized/images/article_images/Music_On_Demand_Report_Banner-625x0.jpg</fanart>
 </subitem>
 
 <subitem>
-<title>[COLOR orange]THE POLICE - VI—A DEL MAR FESTIVAL 1982 HD[/COLOR]</title>
+<title>[COLOR orange]THE POLICE - VI√ëA DEL MAR FESTIVAL 1982 HD[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ZLmpWX4gO6I</link>
 <thumbnail>http://1.bp.blogspot.com/-Lg9hjOzkkwc/T38F8af8jDI/AAAAAAAAOhE/LLFK4QP7N2A/s1600/DVD+Cover+-+The+Police+-+1982-02-20+-+Vina+Del+Mar.jpg</thumbnail>
 <fanart>http://ondemandweekly.com/images/sized/images/article_images/Music_On_Demand_Report_Banner-625x0.jpg</fanart>
 </subitem>
 
 <subitem>
-<title>[COLOR orange]ROD STEWART - LIVE VI—A DEL MAR FESTIVAL 2014 HD[/COLOR]</title>
+<title>[COLOR orange]ROD STEWART - LIVE VI√ëA DEL MAR FESTIVAL 2014 HD[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=3PQkSCGbmUY</link>
 <thumbnail>http://redvalparaiso.com/festival2014/wp-content/uploads/2014/02/27-rod-stewart.png</thumbnail>
 <fanart>http://ondemandweekly.com/images/sized/images/article_images/Music_On_Demand_Report_Banner-625x0.jpg</fanart>
@@ -2480,8 +2690,8 @@ Ano de LanÁamento:2014
 <fanart>http://hdwallpicture.com/wp-content/uploads/2013/10/HD-Wallpaper-For-Samsung-Galaxy-S44.jpg</fanart>
 <info>TV NACIONAL</info>
 <genre>TV
-Ano de LanÁamento:2014 
-¡udio: LATINO
+Ano de Lan√ßamento:2014 
+√Åudio: LATINO
 </genre>TV
 <subitems>
 
@@ -2587,7 +2797,7 @@ Ano de LanÁamento:2014
 </subitem>
 
 <subitem>
-<title>[COLOR orange]AlizÈe en Concert[/COLOR]  [COLOR lime]HD[/COLOR]</title>
+<title>[COLOR orange]Aliz√©e en Concert[/COLOR]  [COLOR lime]HD[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=4NpN6syNWaI</link>
 <thumbnail>http://alizee21rocks.files.wordpress.com/2012/09/as2.jpg</thumbnail>
 <info><![CDATA[]]></info>
@@ -2622,8 +2832,8 @@ Ano de LanÁamento:2014
 <fanart>http://hdwallpicture.com/wp-content/uploads/2013/10/HD-Wallpaper-For-Samsung-Galaxy-S44.jpg</fanart>
 <info>TV NACIONAL</info>
 <genre>TV
-Ano de LanÁamento:2014 
-¡udio: LATINO
+Ano de Lan√ßamento:2014 
+√Åudio: LATINO
 </genre>TV
 <subitems>
 
@@ -2691,8 +2901,8 @@ Ano de LanÁamento:2014
 <fanart>http://hdwallpicture.com/wp-content/uploads/2013/10/HD-Wallpaper-For-Samsung-Galaxy-S44.jpg</fanart>
 <info>TV NACIONAL</info>
 <genre>TV
-Ano de LanÁamento:2014 
-¡udio: LATINO
+Ano de Lan√ßamento:2014 
+√Åudio: LATINO
 </genre>TV
 <subitems>
 
@@ -2704,7 +2914,7 @@ Ano de LanÁamento:2014
 </subitem>
 
 <subitem>
-<title>[COLOR skyblue]DR. ALBAN - LIVE VI—A DEL MAR FESTIVAL 1993 HD[/COLOR]</title>
+<title>[COLOR skyblue]DR. ALBAN - LIVE VI√ëA DEL MAR FESTIVAL 1993 HD[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=rgqjiRw4_Sk</link>
 <thumbnail>http://lillabryggeriet.se/wp-content/uploads/dr.-alban.jpg</thumbnail>
 <fanart>http://ondemandweekly.com/images/sized/images/article_images/Music_On_Demand_Report_Banner-625x0.jpg</fanart>
@@ -2754,8 +2964,8 @@ Ano de LanÁamento:2014
 <fanart>http://hdwallpicture.com/wp-content/uploads/2013/10/HD-Wallpaper-For-Samsung-Galaxy-S44.jpg</fanart>
 <info>TV NACIONAL</info>
 <genre>TV
-Ano de LanÁamento:2014 
-¡udio: LATINO
+Ano de Lan√ßamento:2014 
+√Åudio: LATINO
 </genre>TV
 </subitems>
 
@@ -2791,7 +3001,7 @@ Ano de LanÁamento:2014
 </subitem>
 
 <subitem>
-<title>[COLOR orange]Scorpions Live @ Saarbr¸cken[/COLOR]  [COLOR lime]HD[/COLOR]</title>
+<title>[COLOR orange]Scorpions Live @ Saarbr√ºcken[/COLOR]  [COLOR lime]HD[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=EEcIsjMC88M</link>
 <thumbnail>http://k45.kn3.net/E796090E2.jpg</thumbnail>
 <info><![CDATA[]]></info>
@@ -2817,8 +3027,8 @@ Ano de LanÁamento:2014
 <fanart>http://hdwallpicture.com/wp-content/uploads/2013/10/HD-Wallpaper-For-Samsung-Galaxy-S44.jpg</fanart>
 <info>TV NACIONAL</info>
 <genre>TV
-Ano de LanÁamento:2014 
-¡udio: LATINO
+Ano de Lan√ßamento:2014 
+√Åudio: LATINO
 </genre>TV
 <subitems>
 
@@ -2914,7 +3124,7 @@ Ano de LanÁamento:2014
 <title>[COLOR red]LA MARCA DEL ZORRILLO SD[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=oYup9_HU7cE&list=TLr0GLKCvdpLMlg_YSIlq4SHXzOpaokgkn</link>
 <thumbnail>https://i1.ytimg.com/vi/oYup9_HU7cE/movieposter.jpg?v=4f4d0c0d</thumbnail>
-<info>En este cl·sico Mexicano de comedia, Tin-Tan y El Zorrillo son la misma persona, pero Lupe sÛlo est· enamorada del ˙ltimo. Cuando Don MartÌn y sus trabajadores son encarcelados por el malvado Don Gaspar, le toca a El Zorrillo salvar a aquÈllos en problemas</info>
+<info>En este cl√°sico Mexicano de comedia, Tin-Tan y El Zorrillo son la misma persona, pero Lupe s√≥lo est√° enamorada del √∫ltimo. Cuando Don Mart√≠n y sus trabajadores son encarcelados por el malvado Don Gaspar, le toca a El Zorrillo salvar a aqu√©llos en problemas</info>
 <fanart></fanart>
 </item>
 
@@ -2930,15 +3140,15 @@ Ano de LanÁamento:2014
 <title>[COLOR red]CUANDO LOS PADRES SE QUIEDAN SOLOS SD[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=TLr0GLKCvdpLMlg_YSIlq4SHXzOpaokgkn&index=6</link>
 <thumbnail>https://i1.ytimg.com/vi/DwaDSYRqwWQ/movieposter.jpg?v=4f4d04b6</thumbnail>
-<info>Roberto y Cristina, padres de cinco, viven intensamente los problemas de los tres que est·n casados. Una pelÌcula acerca de cÛmo los padres dirigen sus vidas mientras se preocupan al mismo tiempo por sus hijos</info>
+<info>Roberto y Cristina, padres de cinco, viven intensamente los problemas de los tres que est√°n casados. Una pel√≠cula acerca de c√≥mo los padres dirigen sus vidas mientras se preocupan al mismo tiempo por sus hijos</info>
 <fanart></fanart>
 </item>
 
 <item>
-<title> [COLOR red]EL NI—O PERDIDO SD[/COLOR]</title>
+<title> [COLOR red]EL NI√ëO PERDIDO SD[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=eIBLTRJ7Xi0&list=TLr0GLKCvdpLMlg_YSIlq4SHXzOpaokgkn&index=3</link>
 <thumbnail>https://i1.ytimg.com/vi/eIBLTRJ7Xi0/movieposter.jpg?v=4f42c32c</thumbnail>
-<info>Criado como un niÒo por sus tÌas Pura y Pita, el joven AgustÌn sufre de doble identidad y cada dÌa, a las siete de la noche en punto, se convierte en un lobo aullador que persigue a toda mujer que se le acerca. La situaciÛn se enreda m·s a la llegada del abuelo don Jacobo, quien desconoce la manera en que su nieto ha sido criado</info>
+<info>Criado como un ni√±o por sus t√≠as Pura y Pita, el joven Agust√≠n sufre de doble identidad y cada d√≠a, a las siete de la noche en punto, se convierte en un lobo aullador que persigue a toda mujer que se le acerca. La situaci√≥n se enreda m√°s a la llegada del abuelo don Jacobo, quien desconoce la manera en que su nieto ha sido criado</info>
 <fanart></fanart>
 </item>
 
@@ -2946,7 +3156,7 @@ Ano de LanÁamento:2014
 <title>[COLOR red]EL AMOR DE MARIA ISABEL SD[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Dj3yo6GSdFE&list=TLr0GLKCvdpLMlg_YSIlq4SHXzOpaokgkn&index=4</link>
 <thumbnail>https://i1.ytimg.com/vi/Dj3yo6GSdFE/movieposter.jpg?v=4e6d6ae3</thumbnail>
-<info>ContinuaciÛn de MarÌa Isabel. ReciÈn casada con un hombre rico, MarÌa Isabel se enfrenta todavÌa al estigma de ser una simple criada y deber· soportar el desprecio de su hija adoptiva y de su esposo</info>
+<info>Continuaci√≥n de Mar√≠a Isabel. Reci√©n casada con un hombre rico, Mar√≠a Isabel se enfrenta todav√≠a al estigma de ser una simple criada y deber√° soportar el desprecio de su hija adoptiva y de su esposo</info>
 <fanart></fanart>
 </item>
 
@@ -2954,7 +3164,7 @@ Ano de LanÁamento:2014
 <title>[COLOR red]EL HIJO DESOBEDIENTE SD[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Nj_akWEBYBc&index=5&list=TLr0GLKCvdpLMlg_YSIlq4SHXzOpaokgkn</link>
 <thumbnail>https://i1.ytimg.com/vi/Nj_akWEBYBc/movieposter.jpg?v=4f42c69c</thumbnail>
-<info>En esta divertida comedia, el primer largometraje de Tin Tan, Èl es confundido por un millonario a quien su familia quiere despojar de su fortuna.</info>
+<info>En esta divertida comedia, el primer largometraje de Tin Tan, √©l es confundido por un millonario a quien su familia quiere despojar de su fortuna.</info>
 <fanart></fanart>
 </item>
 
@@ -2962,7 +3172,7 @@ Ano de LanÁamento:2014
 <title> [COLOR red]EL REY DEL BARRIO[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=7&list=TLr0GLKCvdpLMlg_YSIlq4SHXzOpaokgkn</link>
 <thumbnail>https://i1.ytimg.com/vi/OrBAweaOCBE/movieposter.jpg?v=4f42bf9b</thumbnail>
-<info>Un joven ferrocarrilero (Tin Tan) est· empeÒado en proteger a su vecina Carmelita (Silvia Pinal) a pesar de que la ayuda siempre es rechazada. Tin Tan es en realidad un Robin Hood moderno cuya banda de ladrones estafa a mujeres millonarias. La situaciÛn se complica cuando una de las estafadas, la Nena (Vitola), se enamora de Èl</info>
+<info>Un joven ferrocarrilero (Tin Tan) est√° empe√±ado en proteger a su vecina Carmelita (Silvia Pinal) a pesar de que la ayuda siempre es rechazada. Tin Tan es en realidad un Robin Hood moderno cuya banda de ladrones estafa a mujeres millonarias. La situaci√≥n se complica cuando una de las estafadas, la Nena (Vitola), se enamora de √©l</info>
 <fanart></fanart>
 </item>
 
@@ -2970,7 +3180,7 @@ Ano de LanÁamento:2014
 <title> [COLOR red]LA EDAD DE PIEDRA[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8&list=TLr0GLKCvdpLMlg_YSIlq4SHXzOpaokgkn</link>
 <thumbnail>https://i1.ytimg.com/vi/T-dhi_UlyRU/movieposter.jpg?v=4f6782cd</thumbnail>
-<info>Un cientifico brillante, el Doctor Atom, ha constuido una maquina para viajar por el tiempo, cuyo decubrimiento ha llamado el interes de una banda de espias, que ha decidido usar a los tontos de Viruta y Capulina para destruir la maquina. El par de comicos es tan inutil que logran regresar la bomba a los espias. El Dr. Atom ha visto todo por sus camaras y decide que Viruta y Capulina ser·n los condidatos perfectos para viajar al pasado cien millones de aÒos para recaudar un metal esoterico que Èl necesita para construer una nueva maquina. Viruta y Capulina llegan al pasado, donde encuentran adventuras y romance</info>
+<info>Un cientifico brillante, el Doctor Atom, ha constuido una maquina para viajar por el tiempo, cuyo decubrimiento ha llamado el interes de una banda de espias, que ha decidido usar a los tontos de Viruta y Capulina para destruir la maquina. El par de comicos es tan inutil que logran regresar la bomba a los espias. El Dr. Atom ha visto todo por sus camaras y decide que Viruta y Capulina ser√°n los condidatos perfectos para viajar al pasado cien millones de a√±os para recaudar un metal esoterico que √©l necesita para construer una nueva maquina. Viruta y Capulina llegan al pasado, donde encuentran adventuras y romance</info>
 <fanart></fanart>
 </item>
 
@@ -2978,7 +3188,7 @@ Ano de LanÁamento:2014
 <title> [COLOR red]CAPULINA CORAZON DE LEON[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=TLr0GLKCvdpLMlg_YSIlq4SHXzOpaokgkn&index=9</link>
 <thumbnail>https://i1.ytimg.com/vi/cjaQB4wD3Cs/movieposter.jpg?v=4f393640</thumbnail>
-<info>Capulina accidentalmente adopta a un leÛn de una tienda de mascotas, pensando que es un gato. Las cosas se complican cuando, encima de todo, lo toman por asaltante</info>
+<info>Capulina accidentalmente adopta a un le√≥n de una tienda de mascotas, pensando que es un gato. Las cosas se complican cuando, encima de todo, lo toman por asaltante</info>
 <fanart></fanart>
 </item>
 
@@ -2986,7 +3196,7 @@ Ano de LanÁamento:2014
 <title> [COLOR red]VAGABUNDA[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=VaN4B2E1nRM&list=TLr0GLKCvdpLMlg_YSIlq4SHXzOpaokgkn&index=10</link>
 <thumbnail>https://i1.ytimg.com/vi/VaN4B2E1nRM/movieposter.jpg?v=4f4d0785</thumbnail>
-<info>Una bailarina exÛtica que se ha cansado de trabajar en las secciones m·s turbias de la ciudad pone sus miras en la calle como medio de mantener su delicada dignidad. Un cl·sico drama cotidiano protagonizado por Leticia Palma y Antonio Bad˙.</info>
+<info>Una bailarina ex√≥tica que se ha cansado de trabajar en las secciones m√°s turbias de la ciudad pone sus miras en la calle como medio de mantener su delicada dignidad. Un cl√°sico drama cotidiano protagonizado por Leticia Palma y Antonio Bad√∫.</info>
 <fanart></fanart>
 </item>
 
@@ -2994,12 +3204,12 @@ Ano de LanÁamento:2014
 <title> [COLOR red]CHUCHO EL REMENDADO[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=u_1RPz0Wg3o&index=11&list=TLr0GLKCvdpLMlg_YSIlq4SHXzOpaokgkn</link>
 <thumbnail>https://i1.ytimg.com/vi/u_1RPz0Wg3o/movieposter.jpg?v=4fa02030</thumbnail>
-<info>ValentÌn y Magdalena viven casados y con lujo, gracias al dinero de ella. Mientras ofrecen una fiesta, un ladrÛn enmascarado roba las joyas de las invitadas y luego roba las que ValentÌn comprÛ para su esposa. El ladrÛn resulta ser el mismo ValentÌn, quien se ha enredado con Margot, una chantajista cantante de cabaret</info>
+<info>Valent√≠n y Magdalena viven casados y con lujo, gracias al dinero de ella. Mientras ofrecen una fiesta, un ladr√≥n enmascarado roba las joyas de las invitadas y luego roba las que Valent√≠n compr√≥ para su esposa. El ladr√≥n resulta ser el mismo Valent√≠n, quien se ha enredado con Margot, una chantajista cantante de cabaret</info>
 <fanart></fanart>
 </item>
 
 <item>
-<title> [COLOR red]EL NANO NI—ERA CON BIGOTES[/COLOR]</title>
+<title> [COLOR red]EL NANO NI√ëERA CON BIGOTES[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=QLFOprFYfoU&index=12&list=TLr0GLKCvdpLMlg_YSIlq4SHXzOpaokgkn</link>
 <thumbnail>https://i1.ytimg.com/vi/QLFOprFYfoU/movieposter.jpg?v=80152b</thumbnail>
 <info></info>
@@ -3010,7 +3220,7 @@ Ano de LanÁamento:2014
 <title> [COLOR red]VIVO O MUERTO[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=JSigti22uLM&list=PLKMzENZiEbIGxfixWVQnYzc2PzUA2UBC3</link>
 <thumbnail>https://i1.ytimg.com/vi/JSigti22uLM/movieposter.jpg?v=50b8c55a</thumbnail>
-<info>En este western, seg˙n se dijo en El Redondel, Capetillo "hace el papel de un charro valeroso que se pelea con todo los malhechores habidos y por haber, que enamora a cuanta muchacha se le pone por delante y que se sale con suya al fin y al cabo, no sin correr grandes peligros en sus fieras y repetidas peleas". La publicidad de la pelÌcula mostraba, al modo de los carteles de reward norteamericanos, de frente y de perfil a Capetillo, por cuya captura se ofrecÌan 10,000 pesos de recompensa</info>
+<info>En este western, seg√∫n se dijo en El Redondel, Capetillo "hace el papel de un charro valeroso que se pelea con todo los malhechores habidos y por haber, que enamora a cuanta muchacha se le pone por delante y que se sale con suya al fin y al cabo, no sin correr grandes peligros en sus fieras y repetidas peleas". La publicidad de la pel√≠cula mostraba, al modo de los carteles de reward norteamericanos, de frente y de perfil a Capetillo, por cuya captura se ofrec√≠an 10,000 pesos de recompensa</info>
 <fanart></fanart>
 </item>
 
@@ -3018,7 +3228,7 @@ Ano de LanÁamento:2014
 <title> [COLOR red]AMOR EN LA SOMBRA[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bmJoSKcU67M&index=2&list=PLKMzENZiEbIGxfixWVQnYzc2PzUA2UBC3</link>
 <thumbnail>https://i1.ytimg.com/vi/bmJoSKcU67M/movieposter.jpg?v=50b8c701</thumbnail>
-<info>El destino que les separÛ vuelve a unir a Claudia Montes, cantante y a Octavio Mor·n, pero al no aceptar ella que Octavio se divorcie y abandone a su hija Mariela, prefiere compartir en la sombra el amor de el. AsÌ pasan unos aÒos hasta que Octavio muere de un sÌncope. Su hija Mariela, que intuye que su padre tenÌa un amor, no puede confiarse a su madre ni a Patricio, su novio, y busca a Claudia, con quien recientemente entablÛ amistad</info>
+<info>El destino que les separ√≥ vuelve a unir a Claudia Montes, cantante y a Octavio Mor√°n, pero al no aceptar ella que Octavio se divorcie y abandone a su hija Mariela, prefiere compartir en la sombra el amor de el. As√≠ pasan unos a√±os hasta que Octavio muere de un s√≠ncope. Su hija Mariela, que intuye que su padre ten√≠a un amor, no puede confiarse a su madre ni a Patricio, su novio, y busca a Claudia, con quien recientemente entabl√≥ amistad</info>
 <fanart></fanart>
 </item>
 
@@ -3026,7 +3236,7 @@ Ano de LanÁamento:2014
 <title> [COLOR red]A SI ES MI TIERRA[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ZWVfk-aAwTs&index=3&list=PLKMzENZiEbIGxfixWVQnYzc2PzUA2UBC3</link>
 <thumbnail>https://i1.ytimg.com/vi/ZWVfk-aAwTs/movieposter.jpg?v=50aea2c0</thumbnail>
-<info>El general llega a su rancho, con el objeto de descansar de las fatigas sufridas en la revoluciÛn. Es recibido por la multitud. Tiene como asistente a Procopio y como secretario a un abogado. AquÌ se encuentra con un tipo original pero que se hace pasar por amigo del general, es un sujeto "ladino" y astuto como un zorro, le llaman "el tejÛn" (Cantinflas), en todo anda y en todo se mete, constantemente se enfrenta con Procopio, al que hace ver su suerte, dando motivo a una serie de di·logos, de los mas jocoso que pueda imaginarse.</info>
+<info>El general llega a su rancho, con el objeto de descansar de las fatigas sufridas en la revoluci√≥n. Es recibido por la multitud. Tiene como asistente a Procopio y como secretario a un abogado. Aqu√≠ se encuentra con un tipo original pero que se hace pasar por amigo del general, es un sujeto "ladino" y astuto como un zorro, le llaman "el tej√≥n" (Cantinflas), en todo anda y en todo se mete, constantemente se enfrenta con Procopio, al que hace ver su suerte, dando motivo a una serie de di√°logos, de los mas jocoso que pueda imaginarse.</info>
 <fanart></fanart>
 </item>
 
@@ -3034,7 +3244,7 @@ Ano de LanÁamento:2014
 <title> [COLOR red]BORRASCA EN LAS ALMAS[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=PLKMzENZiEbIGxfixWVQnYzc2PzUA2UBC3&index=4</link>
 <thumbnail>https://i1.ytimg.com/vi/KjcwAfv3-yg/movieposter.jpg?v=50da1e65</thumbnail>
-<info>Martha y Alicia son gemelas y ambas llevan pesadas cargas sobre sus espaldas: un esposo alcohÛlico y un pasado tormentoso. En esta historia los celos, el rencor y la traiciÛn llevar·n a estos personajes a la perdiciÛn</info>
+<info>Martha y Alicia son gemelas y ambas llevan pesadas cargas sobre sus espaldas: un esposo alcoh√≥lico y un pasado tormentoso. En esta historia los celos, el rencor y la traici√≥n llevar√°n a estos personajes a la perdici√≥n</info>
 <fanart></fanart>
 </item>
 
@@ -3042,7 +3252,7 @@ Ano de LanÁamento:2014
 <title> [COLOR red]CADA QUIEN SU VIDA[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1VWlnTLezXI&index=5&list=PLKMzENZiEbIGxfixWVQnYzc2PzUA2UBC3</link>
 <thumbnail>https://i1.ytimg.com/vi/1VWlnTLezXI/movieposter.jpg?v=50dbb444</thumbnail>
-<info>Durante la celebraciÛn de aÒo nuevo en un cabaret, clientes y prostitutas rezan por la muerte del pianista. El resto de la noche transcurre entre peculiares personajes, encuentros fortuitos, amores aÒejos, tragedias y sorpresas inesperadas.</info>
+<info>Durante la celebraci√≥n de a√±o nuevo en un cabaret, clientes y prostitutas rezan por la muerte del pianista. El resto de la noche transcurre entre peculiares personajes, encuentros fortuitos, amores a√±ejos, tragedias y sorpresas inesperadas.</info>
 <fanart></fanart>
 </item>
 
@@ -3050,7 +3260,7 @@ Ano de LanÁamento:2014
 <title> [COLOR red]CON LA MUSICA POR DENTRO[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8ymcBKle6UI&index=6&list=PLKMzENZiEbIGxfixWVQnYzc2PzUA2UBC3</link>
 <thumbnail>https://i1.ytimg.com/vi/8ymcBKle6UI/movieposter.jpg?v=50a2c27a</thumbnail>
-<info>En esta farsa, "Tin Tan" tenÌa que disfrazarse de mujer, el inevitable trasvesti al que todo actor cÛmico debe someterse, para entrar como aristocr·tica cocinera "condesa de TallarÌn", al improbable universo de la comedia mundana. Los mayordomos inverosÌmiles y las costumbres de principio de siglo se localizaban ahora en la casa del rico Marcelo, a cuyas hija y esposa la "condesa" cortejaba. Las cl·sicas situaciones humorÌsticas se repetÌan, esta vez en detrimento de un actor lleno de inventiva y vitalidad como lo era "Tin Tan": su personaje se asfixiaba en los estrechos lÌmites de una Ûptica pequeÒo-burguesa al modo porfiriano cada vez mas insostenible</info>
+<info>En esta farsa, "Tin Tan" ten√≠a que disfrazarse de mujer, el inevitable trasvesti al que todo actor c√≥mico debe someterse, para entrar como aristocr√°tica cocinera "condesa de Tallar√≠n", al improbable universo de la comedia mundana. Los mayordomos inveros√≠miles y las costumbres de principio de siglo se localizaban ahora en la casa del rico Marcelo, a cuyas hija y esposa la "condesa" cortejaba. Las cl√°sicas situaciones humor√≠sticas se repet√≠an, esta vez en detrimento de un actor lleno de inventiva y vitalidad como lo era "Tin Tan": su personaje se asfixiaba en los estrechos l√≠mites de una √≥ptica peque√±o-burguesa al modo porfiriano cada vez mas insostenible</info>
 <fanart></fanart>
 </item>
 
@@ -3058,7 +3268,7 @@ Ano de LanÁamento:2014
 <title> [COLOR red]EL CAPITAN AVENTURERO[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=GrhHg6xh77k&list=PLKMzENZiEbIGxfixWVQnYzc2PzUA2UBC3&index=7</link>
 <thumbnail>https://i1.ytimg.com/vi/GrhHg6xh77k/movieposter.jpg?v=50a2cceb</thumbnail>
-<info>Don Gil de Alcal· y su paje, el Sargento de Carrasquilla, llegan a Puebla y al pasar por un convento de niÒas oye la voz de Carmina ahijada del corregidor que va a ser casada con el conde Don Diego de Bustamante y Escalona. Don Gil encantado por la bella voz desmonta su caballo y trepa la barda. Sorprendida de ver a un hombre en lo alto de la barda huye. Juanito el sirviente de Carmina trata de correrlo, pero don Gil con unos cuantos centavos hace que Juanito le diga quien es la bella colegiala. Don Gil y su paje dejan su equipaje en una posada cercana. Carrasquilla, oye voces, y descubre que unos bandidos est·n planeando el robo al tren</info>
+<info>Don Gil de Alcal√° y su paje, el Sargento de Carrasquilla, llegan a Puebla y al pasar por un convento de ni√±as oye la voz de Carmina ahijada del corregidor que va a ser casada con el conde Don Diego de Bustamante y Escalona. Don Gil encantado por la bella voz desmonta su caballo y trepa la barda. Sorprendida de ver a un hombre en lo alto de la barda huye. Juanito el sirviente de Carmina trata de correrlo, pero don Gil con unos cuantos centavos hace que Juanito le diga quien es la bella colegiala. Don Gil y su paje dejan su equipaje en una posada cercana. Carrasquilla, oye voces, y descubre que unos bandidos est√°n planeando el robo al tren</info>
 <fanart></fanart>
 </item>
 
@@ -3066,7 +3276,7 @@ Ano de LanÁamento:2014
 <title> [COLOR red]EL CORREO DEL NORTE[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=mghmC2-nYWI&list=PLKMzENZiEbIGxfixWVQnYzc2PzUA2UBC3&index=8</link>
 <thumbnail>https://i1.ytimg.com/vi/mghmC2-nYWI/movieposter.jpg?v=50a3c61e</thumbnail>
-<info>Cuando Pancho Villa celebra en su cuartel una fiesta con el coronel Camacho y otros, llegan a entregarle sendos mensajes, anunciadores de victorias de sus tropas, Sergio y Carmela, por una parte, y Luis y Pascual por la otra. Villa decide iniciar una ofensiva general en combinaciÛn con Zapata, para lo cual habr· que enviarle a Èste un correo. Un traidor incÛgnito roba los planes de la ofensiva. Huyen del cuartel el capit·n Acevedo y el teniente Montes; Villa da la orden de perseguirlos. Tanto Luis y Pascual como Sergio y Carmela son enviados por Villa a entregar dos mensajes a Zapata.</info>
+<info>Cuando Pancho Villa celebra en su cuartel una fiesta con el coronel Camacho y otros, llegan a entregarle sendos mensajes, anunciadores de victorias de sus tropas, Sergio y Carmela, por una parte, y Luis y Pascual por la otra. Villa decide iniciar una ofensiva general en combinaci√≥n con Zapata, para lo cual habr√° que enviarle a √©ste un correo. Un traidor inc√≥gnito roba los planes de la ofensiva. Huyen del cuartel el capit√°n Acevedo y el teniente Montes; Villa da la orden de perseguirlos. Tanto Luis y Pascual como Sergio y Carmela son enviados por Villa a entregar dos mensajes a Zapata.</info>
 <fanart></fanart>
 </item>
 
@@ -3074,7 +3284,7 @@ Ano de LanÁamento:2014
 <title> [COLOR red]EL GAVILAN POLLERO[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=QKgIXENbz_w&list=PLKMzENZiEbIGxfixWVQnYzc2PzUA2UBC3&index=10</link>
 <thumbnail>https://i1.ytimg.com/vi/QKgIXENbz_w/movieposter.jpg?v=50a2d237</thumbnail>
-<info>Pedro Infante interpreta a Jose, un vagabundo empedernido, cuya novia de muchos aÒos, Antonia (Lilia Prado), se ve envuelta en sus jugarretas. Cuando ella se cansa del mujeriego de JosÈ, toma todas sus ganancias de una carrera de caballos arreglada y lo abandona. Jose se roba el caballo y escapa, y se conoce con Luis (Antonio Badu), quien es un mal hablado, borracho y jugador y con quien establecer· una amistad sellada por un pacto de sangre. </info>
+<info>Pedro Infante interpreta a Jose, un vagabundo empedernido, cuya novia de muchos a√±os, Antonia (Lilia Prado), se ve envuelta en sus jugarretas. Cuando ella se cansa del mujeriego de Jos√©, toma todas sus ganancias de una carrera de caballos arreglada y lo abandona. Jose se roba el caballo y escapa, y se conoce con Luis (Antonio Badu), quien es un mal hablado, borracho y jugador y con quien establecer√° una amistad sellada por un pacto de sangre. </info>
 <fanart></fanart>
 </item>
 
@@ -3082,7 +3292,7 @@ Ano de LanÁamento:2014
 <title> [COLOR red]EL JINETE SIN CABEZA[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=WbANU9mNDkg&list=PLKMzENZiEbIGxfixWVQnYzc2PzUA2UBC3&index=11</link>
 <thumbnail>https://i1.ytimg.com/vi/WbANU9mNDkg/movieposter.jpg?v=509aa0ea</thumbnail>
-<info>Tres desconocidos profanan la tumba de Pancho Villa para robar su cabeza. AÒos despuÈs, el moribundo coronel MartÌnez confÌa a sus seis compadres una caja negra cuyo contenido deber·n guardar en secreto. Un doctor, apoyado por una banda de encapuchados, quiere matar a los compadres para apoderarse de la caja. Uno de los compadres GarcÌa, pide a su amigo Reinaldo que lo proteja del doctor y de su banda. Reinaldo salva a la joven Margarita de los encapuchados, que la han secuestrado. GarcÌa y otro compadre desaparecen</info>
+<info>Tres desconocidos profanan la tumba de Pancho Villa para robar su cabeza. A√±os despu√©s, el moribundo coronel Mart√≠nez conf√≠a a sus seis compadres una caja negra cuyo contenido deber√°n guardar en secreto. Un doctor, apoyado por una banda de encapuchados, quiere matar a los compadres para apoderarse de la caja. Uno de los compadres Garc√≠a, pide a su amigo Reinaldo que lo proteja del doctor y de su banda. Reinaldo salva a la joven Margarita de los encapuchados, que la han secuestrado. Garc√≠a y otro compadre desaparecen</info>
 <fanart></fanart>
 </item>
 
@@ -3090,7 +3300,7 @@ Ano de LanÁamento:2014
 <title> [COLOR red]EL ULTIMO CARTUCHO[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9FIr13Yaawo&list=PLKMzENZiEbIGxfixWVQnYzc2PzUA2UBC3&index=14</link>
 <thumbnail>https://i1.ytimg.com/vi/9FIr13Yaawo/movieposter.jpg?v=50a2da52</thumbnail>
-<info>Pizarro, el cacique del pueblo, hace asesinar al juez y al presidente municipal y torturar a varios presos. El autor material de esos delitos es El FigurÌn, esbirro del cacique tanto Èl como el otro matÛn, El Cascabel, deciden traicionar a Pizarro por temor a un incÛgnito justiciero, el Capit·n Astucia, que desbarata los planes de los malvados. Astucia, que es hijo de los esposos Moncada, a quienes Pizarro hizo envenenar para apoderarse de su rancho, libera a un grupo de presos del cacique entre ellos a una cantante</info>
+<info>Pizarro, el cacique del pueblo, hace asesinar al juez y al presidente municipal y torturar a varios presos. El autor material de esos delitos es El Figur√≠n, esbirro del cacique tanto √©l como el otro mat√≥n, El Cascabel, deciden traicionar a Pizarro por temor a un inc√≥gnito justiciero, el Capit√°n Astucia, que desbarata los planes de los malvados. Astucia, que es hijo de los esposos Moncada, a quienes Pizarro hizo envenenar para apoderarse de su rancho, libera a un grupo de presos del cacique entre ellos a una cantante</info>
 <fanart></fanart>
 </item>
 
@@ -3098,7 +3308,7 @@ Ano de LanÁamento:2014
 <title> [COLOR red]EL VAGABUNDO[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=QeAY14AzFb4&list=PLKMzENZiEbIGxfixWVQnYzc2PzUA2UBC3&index=15</link>
 <thumbnail>https://i1.ytimg.com/vi/QeAY14AzFb4/movieposter.jpg?v=50a42763</thumbnail>
-<info>El hambriento vago "la chiva" escapa de la policÌa refugi·ndose en un pajar donde se duerme. Lo despierta la trompa de un elefante: est· en un circo. "La chiva" entra a trabajar al circo. La bella rubia Teresa y el malvado forzudo HÈrcules tratan de utilizarlo como vÌctima propiciatoria para cobrar un seguro. Eso se les facilita porque "la chiva" insiste en identificar ingenuamente a Teresa con una muchacha a quien defendiÛ en su infancia de un abusador muy parecido a HÈrcules. Gracias al amor de la joven Bonita, nieta y ayudante de un lanzador de cuchillos, "La Chiva" se da cuenta de las verdaderas intenciones de HÈrcules y Teresa. …stos son apresados. Bonita y "La Chiva" cantan en una fiesta de aÒo</info>
+<info>El hambriento vago "la chiva" escapa de la polic√≠a refugi√°ndose en un pajar donde se duerme. Lo despierta la trompa de un elefante: est√° en un circo. "La chiva" entra a trabajar al circo. La bella rubia Teresa y el malvado forzudo H√©rcules tratan de utilizarlo como v√≠ctima propiciatoria para cobrar un seguro. Eso se les facilita porque "la chiva" insiste en identificar ingenuamente a Teresa con una muchacha a quien defendi√≥ en su infancia de un abusador muy parecido a H√©rcules. Gracias al amor de la joven Bonita, nieta y ayudante de un lanzador de cuchillos, "La Chiva" se da cuenta de las verdaderas intenciones de H√©rcules y Teresa. √âstos son apresados. Bonita y "La Chiva" cantan en una fiesta de a√±o</info>
 <fanart></fanart>
 </item>
 <!-- ==================================================================================== -->
@@ -3122,8 +3332,8 @@ Ano de LanÁamento:2014
 <fanart>http://es.sonofgodmovie.com/video/SonCrossFalls.jpg</fanart>
 <info>TV NACIONAL</info>
 <genre>TV
-Ano de LanÁamento:2014 
-¡udio: LATINO
+Ano de Lan√ßamento:2014 
+√Åudio: LATINO
 </genre>TV
 <subitems>
 
@@ -3131,7 +3341,7 @@ Ano de LanÁamento:2014
 <title>[COLOR skyblue]THE ANGRIEST MAN UN BROOKLYN  [/COLOR]</title>
 <link>http://veronline.tv/player/k7%2Fp09upYF%2Fx79pZrOLE4t6fXt3n0Fqu4dLd05Wi4%2B7IWr7dxNrUYGbU3ctbotzR4dKgg%2BXmumygyMKvu4afvLrbcZG9ubW%2Be5PuvMlkvMHG3uI%3D.flv</link>
 <thumbnail>http://pics.filmaffinity.com/The_Angriest_Man_In_Brooklyn-904253790-large.jpg</thumbnail>
-<info>Una doctora que est· haciendo una sustituciÛn le comunica por error a un paciente que le quedan 90 minutos de vida. La mÈdico trata de localizar desesperadamente a este hombre, que se ha lanzado en una absurda aventura por la ciudad en la que tratar· de enmendar todos los errores que ha cometido en su vida. (FILMAFFINITY)</info>
+<info>Una doctora que est√° haciendo una sustituci√≥n le comunica por error a un paciente que le quedan 90 minutos de vida. La m√©dico trata de localizar desesperadamente a este hombre, que se ha lanzado en una absurda aventura por la ciudad en la que tratar√° de enmendar todos los errores que ha cometido en su vida. (FILMAFFINITY)</info>
 <fanart>http://www4.pictures.zimbio.com/bg/Mila+Kunis+Stars+Film+Angriest+Man+Brooklyn+5sMLRWtfRqAl.jpg</fanart>
 </subitem>
 
@@ -3139,7 +3349,7 @@ Ano de LanÁamento:2014
 <title>[COLOR skyblue]LA NARANJA MECANICA 1971[/COLOR]</title>
 <link>http://veronline.tv/player/k7/p09upYF/x79pZrOLE4t6fXt3n0Fqu4dLd05Wi4+7IWr7dxNrUYKXwypmljs6or7yed/G7rHW6rMmgyZSj58rTbJ3E1LLHhqfG3cyfv+DPtsA=.flv</link>
 <thumbnail>http://pics.filmaffinity.com/La_naranja_mec_nica-964766200-large.jpg</thumbnail>
-<info>Gran BretaÒa, en un futuro indeterminado. Alex (Malcolm McDowell) es un joven muy agresivo que tiene dos pasiones: la violencia desaforada y Beethoven. Es el jefe de la banda de los drugos, que dan rienda suelta a sus instintos m·s salvajes apaleando, violando y aterrorizando a la poblaciÛn. Cuando esa escalada de terror llega hasta el asesinato, Alex es detenido y, en prisiÛn, se someter· voluntariamente a una innovadora experiencia de reeducaciÛn que pretende anular dr·sticamente cualquier atisbo de conducta antisocial</info>
+<info>Gran Breta√±a, en un futuro indeterminado. Alex (Malcolm McDowell) es un joven muy agresivo que tiene dos pasiones: la violencia desaforada y Beethoven. Es el jefe de la banda de los drugos, que dan rienda suelta a sus instintos m√°s salvajes apaleando, violando y aterrorizando a la poblaci√≥n. Cuando esa escalada de terror llega hasta el asesinato, Alex es detenido y, en prisi√≥n, se someter√° voluntariamente a una innovadora experiencia de reeducaci√≥n que pretende anular dr√°sticamente cualquier atisbo de conducta antisocial</info>
 <fanart>http://pics.filmaffinity.com/La_naranja_mec_nica-437583795-large.jpg</fanart>
 </subitem>
 
@@ -3147,7 +3357,7 @@ Ano de LanÁamento:2014
 <title>[COLOR skyblue]EL CIELO SI EXISTE 2014[/COLOR]</title>
 <link>http://veronline.tv/player/k7%2Fp09upYF%2Fx79pZrOLE4t6fXt3n0Fqu4dLd05Wi4%2B7IWr7dxNrUYIjHxqiXlquk1tl2qt%2FGsHOA7LPK3HiVw820mpKu0tjpdGXBx5p1n7jZmt4%3D.flv</link>
 <thumbnail>http://pics.filmaffinity.com/El_cielo_es_real-377992411-large.jpg</thumbnail>
-<info>Un padre de un pueblo pequeÒo debe encontrar el coraje y la convicciÛn para compartir con el mundo una extraordinaria experiencia que ha cambiado la vida de su hijo Colton Burpo: tras una operaciÛn en el hospital el pequeÒo, de tan solo 4 aÒos, afirma haber estado en el cielo y haberse sentado en el regazo de Jes˙s. Al principio todos creen que son imaginaciones del niÒo, pero Èste demuestra saber cosas que no deberÌa saber... (FILMAFFINITY)</info>
+<info>Un padre de un pueblo peque√±o debe encontrar el coraje y la convicci√≥n para compartir con el mundo una extraordinaria experiencia que ha cambiado la vida de su hijo Colton Burpo: tras una operaci√≥n en el hospital el peque√±o, de tan solo 4 a√±os, afirma haber estado en el cielo y haberse sentado en el regazo de Jes√∫s. Al principio todos creen que son imaginaciones del ni√±o, pero √©ste demuestra saber cosas que no deber√≠a saber... (FILMAFFINITY)</info>
 <fanart>http://1.bp.blogspot.com/-AXjKHJ0Ty6U/U7A6eH_4HcI/AAAAAAAAE1A/lXdpKFSl5JY/s1600/heaven-is-for-real-movie-2014-wallpaper-53899bbf8fd82.jpg</fanart>
 </subitem>
 
@@ -3155,7 +3365,7 @@ Ano de LanÁamento:2014
 <title>[COLOR skyblue] NOE[/COLOR]</title>
 <link>http://veronline.tv/player/k7%2Fp09upYF%2Fx79pZrOLE4t6fXt3n0Fqu4dLd05Wi4%2B7IWr7dxNrUYH%2Fd7aqOmaaoy9ebf%2Brsu5ez3ZCs1aZksN%2BsgJrq2LDmomTcq8VuscyrssA%3D.flv</link>
 <thumbnail>http://www.labutaca.net/imagenes/wp-content/original/2014_02/noe-cartel-2.jpg</thumbnail>
-<info>En un mundo asolado por los pecados humanos, NoÈ, un hombre pacÌfico que sÛlo desea vivir tranquilo con su familia, recibe una misiÛn divina: construir un Arca para salvar a la creaciÛn del inminente diluvio. Todo comienza cuando, cada noche, NoÈ tiene el mismo sueÒo: las visiones de muerte provocada por el agua, seguidas de nueva vida en la Tierra. (FILMAFFINITY)</info>
+<info>En un mundo asolado por los pecados humanos, No√©, un hombre pac√≠fico que s√≥lo desea vivir tranquilo con su familia, recibe una misi√≥n divina: construir un Arca para salvar a la creaci√≥n del inminente diluvio. Todo comienza cuando, cada noche, No√© tiene el mismo sue√±o: las visiones de muerte provocada por el agua, seguidas de nueva vida en la Tierra. (FILMAFFINITY)</info>
 <fanart>http://locoxelcine.com/wp-content/uploads/2014/04/noe-teaser-trailer-y-poster.jpg</fanart>
 </subitem>
 
@@ -3163,15 +3373,15 @@ Ano de LanÁamento:2014
 <title>[COLOR skyblue]LA MUJER INVISIBLE  [/COLOR]</title>
 <link>http://veronline.tv/player//k7%2Fp09upYF%2Fx79pZrOLE4t6fXt3n0Fqu4dLd05Wi4%2B7IWr7dxNrUYISy0s6jrsTLvKWSZezXsX2Cz8rLznJ966qWjZHKzcvfaoLt2sSfm729qrQ%3D.flv</link>
 <thumbnail>http://pics.filmaffinity.com/The_Invisible_Woman_La_mujer_invisible-689874738-large.jpg</thumbnail>
-<info>En el apogeo de su carrera, el escritor Charles Dickens, casado y con 46 aÒos, conoce a una joven de 18 que se convierte en su amante secreta hasta su muerte. AdaptaciÛn de la novela de Claire Tomalin. (FILMAFFINITY)</info>
+<info>En el apogeo de su carrera, el escritor Charles Dickens, casado y con 46 a√±os, conoce a una joven de 18 que se convierte en su amante secreta hasta su muerte. Adaptaci√≥n de la novela de Claire Tomalin. (FILMAFFINITY)</info>
 <fanart>http://img2.timeinc.net/ew/i/2014/01/07/The-Invisible-Woman-Review.jpg</fanart>
 </subitem>
 
 <subitem>
-<title>[COLOR skyblue]CRIADAS Y SE—ORAS  [/COLOR]</title>
+<title>[COLOR skyblue]CRIADAS Y SE√ëORAS  [/COLOR]</title>
 <link>http://veronline.tv/player/k7%2Fp09upYF%2Fx79pZrOLE4t6fXt3n0Fqu4dLd05Wi4%2B7IWr7dxNrUYKPQ0daDfcXW2%2BJ8h%2Bfqm3i248fUyZ938PHEYJqpurq5kJ%2FU3ryakcSprqc%3D.flv</link>
 <thumbnail>http://pics.filmaffinity.com/Criadas_y_se_oras-927616110-large.jpg</thumbnail>
-<info>Mississippi, aÒos 60. Skeeter (Emma Stone) es una joven sureÒa que regresa de la universidad decidida a convertirse en escritora. Su llegada altera la vida de la ciudad e incluso la de sus amigos porque se ha propuesto entrevistar a las mujeres negras que se han pasado la vida al servicio de las grandes familias sufriendo todas las formas de discriminaciÛn racial. (FILMAFFINITY)</info>
+<info>Mississippi, a√±os 60. Skeeter (Emma Stone) es una joven sure√±a que regresa de la universidad decidida a convertirse en escritora. Su llegada altera la vida de la ciudad e incluso la de sus amigos porque se ha propuesto entrevistar a las mujeres negras que se han pasado la vida al servicio de las grandes familias sufriendo todas las formas de discriminaci√≥n racial. (FILMAFFINITY)</info>
 <fanart>http://www.notasdecine.es/files/2011/10/critica-criadas-y-senoras.jpg</fanart>
 </subitem>
 
@@ -3179,7 +3389,7 @@ Ano de LanÁamento:2014
 <title>[COLOR skyblue]JOE [/COLOR]</title>
 <link>http://veronline.tv/player/k7%2Fp09upYF%2Fx79pZrOLE4t6fXt3n0Fqu4dLd05Wi4%2B7IWr7dxNrUYJTrybuDvurC3aBjk%2BLAyn2c38Xfv4qX5smXjrbGltfjZGnewcJ%2Fj9acmtY%3D.flv</link>
 <thumbnail>http://pics.filmaffinity.com/Joe-575915378-large.jpg</thumbnail>
-<info>La historia, ambientada en Misisipi, se centra en dos personajes, Joe, un exconvicto, un hombre sin rumbo que ha vivido siempre al lÌmite, y Gary, un chaval de quince aÒos que desea huir de un hogar destruido por un padre alcohÛlico; Joe y Gary se convertir·n en atÌpicos aliados con un plan que podrÌa suponer un gran cambio sus vidas, para bien o para mal. (FILMAFFINITY)</info>
+<info>La historia, ambientada en Misisipi, se centra en dos personajes, Joe, un exconvicto, un hombre sin rumbo que ha vivido siempre al l√≠mite, y Gary, un chaval de quince a√±os que desea huir de un hogar destruido por un padre alcoh√≥lico; Joe y Gary se convertir√°n en at√≠picos aliados con un plan que podr√≠a suponer un gran cambio sus vidas, para bien o para mal. (FILMAFFINITY)</info>
 <fanart>http://www.westerngazette.ca/wp-content/uploads/2014/05/Joe-2.jpg</fanart>
 </subitem>
 
@@ -3187,7 +3397,7 @@ Ano de LanÁamento:2014
 <title>[COLOR skyblue]SCARFACE [/COLOR]</title>
 <link>http://veronline.tv/player/k7%2Fp09upYF%2Fx79pZrOLE4t6fXt3n0Fqu4dLd05Wi4%2B7IWr7dxNrUYILD4d1yj9S5nrphqMrp0aCkw7Cx4mFd5%2B7dn47P0b3XgWDqy8lymsac394%3D.flv</link>
 <thumbnail>http://pics.filmaffinity.com/El_precio_del_poder-846203734-large.jpg</thumbnail>
-<info>Tony Montana es un emigrante cubano frÌo y sanguinario que se instala en Miami con el propÛsito de convertirse en un g·ngster importante. Con la colaboraciÛn de su amigo Manny Rivera inicia una fulgurante carrera delictiva con el objetivo de acceder a la c˙pula de una organizaciÛn de narcos. (FILMAFFINITY)</info>
+<info>Tony Montana es un emigrante cubano fr√≠o y sanguinario que se instala en Miami con el prop√≥sito de convertirse en un g√°ngster importante. Con la colaboraci√≥n de su amigo Manny Rivera inicia una fulgurante carrera delictiva con el objetivo de acceder a la c√∫pula de una organizaci√≥n de narcos. (FILMAFFINITY)</info>
 <fanart>http://cinemarama.files.wordpress.com/2012/03/23.jpg</fanart>
 </subitem>
 
@@ -3195,7 +3405,7 @@ Ano de LanÁamento:2014
 <title>[COLOR skyblue]EL SECRETO DE TUS OJOS [/COLOR]</title>
 <link>http://veronline.tv/player/k7/p09upYF/x79pZrOLE4t6fXt3n0Fqu4dLd05Wi4+7IWr7dxNrUYIHQ7rdvm+yZmqOLqbDXzW+xpqvN0Zxn49Grd8Pj27jTipjPzbp6lNnJ4ac=.flv</link>
 <thumbnail>http://pics.filmaffinity.com/El_secreto_de_sus_ojos-506256516-large.jpg</thumbnail>
-<info>Argentina, aÒos 70. BenjamÌn EspÛsito es oficial de un Juzgado de InstrucciÛn de Buenos Aires reciÈn retirado. Obsesionado por un brutal asesinato ocurrido treinta aÒos antes, decide escribir una novela sobre el caso, del cual fue testigo y protagonista. Reviviendo el pasado, viene tambiÈn a su memoria el recuerdo de una mujer, a quien ha amado en silencio durante todos esos aÒos. (FILMAFFINITY)</info>
+<info>Argentina, a√±os 70. Benjam√≠n Esp√≥sito es oficial de un Juzgado de Instrucci√≥n de Buenos Aires reci√©n retirado. Obsesionado por un brutal asesinato ocurrido treinta a√±os antes, decide escribir una novela sobre el caso, del cual fue testigo y protagonista. Reviviendo el pasado, viene tambi√©n a su memoria el recuerdo de una mujer, a quien ha amado en silencio durante todos esos a√±os. (FILMAFFINITY)</info>
 <fanart>http://agenciasanluis.com/notas/wp-content/uploads/2013/06/El-Secreto-de-sus-ojos.jpg</fanart>
 </subitem>
 
@@ -3203,7 +3413,7 @@ Ano de LanÁamento:2014
 <title>[COLOR skyblue]NOTEBOOK: DIARIO DE UNA PASION   [/COLOR]</title>
 <link>http://veronline.tv/player/k7%2Fp09upYF%2Fx79pZrOLE4t6fXt3n0Fqu4dLd05Wi4%2B7IWr7dxNrUYIfI2amkob%2FE0MGqe77XlHqC36vCwICGrcfFf56psbPZmZu8r5B8ntbQurw%3D.flv</link>
 <thumbnail>http://pics.filmaffinity.com/El_diario_de_Noa-565006977-large.jpg</thumbnail>
-<info>En una residencia de ancianos, un hombre (James Garner) lee a una mujer (Gena Rowlands) una historia de amor escrita en su viejo cuaderno de notas. Es la historia de Noah Calhoun (Ryan Gosling) y Allie Nelson (Rachel McAdams), dos jÛvenes adolescentes de Carolina del Norte que, a pesar de vivir en dos ambientes sociales muy diferentes, se enamoraron profundamente y pasaron juntos un verano inolvidable, antes de ser separados, primero por sus padres, y m·s tarde por la guerra. (FILMAFFINITY)</info>
+<info>En una residencia de ancianos, un hombre (James Garner) lee a una mujer (Gena Rowlands) una historia de amor escrita en su viejo cuaderno de notas. Es la historia de Noah Calhoun (Ryan Gosling) y Allie Nelson (Rachel McAdams), dos j√≥venes adolescentes de Carolina del Norte que, a pesar de vivir en dos ambientes sociales muy diferentes, se enamoraron profundamente y pasaron juntos un verano inolvidable, antes de ser separados, primero por sus padres, y m√°s tarde por la guerra. (FILMAFFINITY)</info>
 <fanart>http://pics.filmaffinity.com/El_diario_de_Noa-921428758-large.jpg</fanart>
 </subitem>
 
@@ -3211,7 +3421,7 @@ Ano de LanÁamento:2014
 <title>[COLOR skyblue]HIJO DE DIOS[/COLOR]</title>
 <link>http://veronline.tv/player/k7%2Fp09upYF%2Fx79pZrOLE4t6fXt3n0Fqu4dLd05Wi4%2B7IWr7dxNrUYHPjrbSgntu3veFqXcfbpqCe7sq50KeY57CvgbLAmKm2eWnJsNSMgbfN4eI%3D.flv</link>
 <thumbnail>http://www.cinevistablog.com/wp-content/uploads/2014/02/peliculas-biblicas-o-cristianas-2014-el-hijo-de-dios.jpg</thumbnail>
-<info>El actor portuguÈs Diogo Morgalo, que ya protagonizÛ la adaptaciÛn televisiva "La Biblia" para History Channel, vuelve a encarnar a Jesucristo en esta biografÌa que cuenta la historia de Jes˙s de Nazaret desde su nacimiento hasta su resurrecciÛn. (FILMAFFINITY)</info>
+<info>El actor portugu√©s Diogo Morgalo, que ya protagoniz√≥ la adaptaci√≥n televisiva "La Biblia" para History Channel, vuelve a encarnar a Jesucristo en esta biograf√≠a que cuenta la historia de Jes√∫s de Nazaret desde su nacimiento hasta su resurrecci√≥n. (FILMAFFINITY)</info>
 <fanart>http://www.lomasrankiao.com/wp-content/uploads/2014/03/Son-of-GOD-movie1-650x393.jpg</fanart>
 </subitem>
 
@@ -3219,7 +3429,7 @@ Ano de LanÁamento:2014
 <title>[COLOR skyblue]AMOR ETERNO  [/COLOR]</title>
 <link>http://veronline.tv/player/k7%2Fp09upYF%2Fx79pZrOLE4t6fXt3n0Fqu4dLd05Wi4%2B7IWr7dxNrUYJHT4seVl6fV2cWgXculpXa866W7uKeg5vLckLC8lsK%2FkmPZ7qd7kt%2By1qM%3D.flv</link>
 <thumbnail>http://pics.filmaffinity.com/M_s_all_del_amor-548791385-large.jpg</thumbnail>
-<info>Jade, una tÌmida joven de familia privilegiada, y David, un chico carism·tico y divertido, se enamoran perdidamente durante un verano. Cuando el padre de ella intente separarlos, su pasiÛn los llevar· a arrostrar situaciones temerarias. Remake de 'Amor sin fin' (1981). (FILMAFFINITY)</info>
+<info>Jade, una t√≠mida joven de familia privilegiada, y David, un chico carism√°tico y divertido, se enamoran perdidamente durante un verano. Cuando el padre de ella intente separarlos, su pasi√≥n los llevar√° a arrostrar situaciones temerarias. Remake de 'Amor sin fin' (1981). (FILMAFFINITY)</info>
 <fanart>http://images.endlessloveintl.com/version-4/mx/images/sitebg/background01.jpg</fanart>
 </subitem>
 
@@ -3227,7 +3437,7 @@ Ano de LanÁamento:2014
 <title>[COLOR skyblue]MARLEY Y YO  [/COLOR]</title>
 <link>http://veronline.tv/player/k7%2Fp09upYF%2Fx79pZrOLE4t6fXt3n0Fqu4dLd05Wi4%2B7IWr7dxNrUYKripbp1mMzWsNmWperBuF3E7auhpp984%2FKXhKPo1Mnco3Hu8K2dxMaouqc%3D.flv</link>
 <thumbnail>http://1.bp.blogspot.com/-34-mvhx6uOI/Ted3ZbgOgBI/AAAAAAAACAo/PvW_7Q5q0nA/s1600/Marley%2BY%2BYo.jpg</thumbnail>
-<info>Los reciÈn casados John y Jenny Grogan deciden dejar atr·s los duros inviernos de Michigan para instalarse en la soleada West Palm Beach (Florida). Los dos consiguen empleo en dos periÛdicos rivales, compran su primera casa y afrontan los retos del matrimonio. Cuando John le confiesa a su amigo y colega Sebastian que a˙n no se siente preparado para ser padre, Èste le sugiere que le regale a Jenny un perro. Los Grogan adoptan un bonito cachorro de Labrador que, poco despuÈs, se convierte en una mole de 45 kilos que transforma la casa en una verdadera cat·strofe. (FILMAFFINITY)</info>
+<info>Los reci√©n casados John y Jenny Grogan deciden dejar atr√°s los duros inviernos de Michigan para instalarse en la soleada West Palm Beach (Florida). Los dos consiguen empleo en dos peri√≥dicos rivales, compran su primera casa y afrontan los retos del matrimonio. Cuando John le confiesa a su amigo y colega Sebastian que a√∫n no se siente preparado para ser padre, √©ste le sugiere que le regale a Jenny un perro. Los Grogan adoptan un bonito cachorro de Labrador que, poco despu√©s, se convierte en una mole de 45 kilos que transforma la casa en una verdadera cat√°strofe. (FILMAFFINITY)</info>
 <fanart>http://blogs.lanacion.com.ar/cine/files/2012/10/Marley-and-Me.jpg</fanart>
 </subitem>
 
@@ -3235,7 +3445,7 @@ Ano de LanÁamento:2014
 <title>[COLOR skyblue]RECUERDAME  [/COLOR]</title>
 <link>http://veronline.tv/player/k7%2Fp09upYF%2Fx79pZrOLE4t6fXt3n0Fqu4dLd05Wi4%2B7IWr7dxNrUYGTG3d1xsd69vNBkc8%2FOlm%2B%2Bu7qf3GGK2a6ZhMG7uLKjYpvb0KalneDGrKc%3D.flv</link>
 <thumbnail>http://pics.filmaffinity.com/Recu_rdame-256675026-large.jpg</thumbnail>
-<info>Tyler Roth (Robert Pattinson) es un joven afectado por el suicidio de su hermano, situaciÛn que desencadenar· el divorcio de sus padres (Pierce Brosnan y Lena Olin), incapaces de superar la traum·tica pÈrdida. Totalmente solo, y con una familia rota, conoce a una chica (Emile De Ravin) que har· que su vida vuelva a tener sentido. (FILMAFFINITY)</info>
+<info>Tyler Roth (Robert Pattinson) es un joven afectado por el suicidio de su hermano, situaci√≥n que desencadenar√° el divorcio de sus padres (Pierce Brosnan y Lena Olin), incapaces de superar la traum√°tica p√©rdida. Totalmente solo, y con una familia rota, conoce a una chica (Emile De Ravin) que har√° que su vida vuelva a tener sentido. (FILMAFFINITY)</info>
 <fanart>http://www.mundodescargas.com/2k10/especiales/recuerdame/imagenes/fondos_psp/demo.jpg</fanart>
 </subitem>
 
@@ -3243,7 +3453,7 @@ Ano de LanÁamento:2014
 <title>[COLOR skyblue]CARTAS A JULIETA[/COLOR]</title>
 <link>http://veronline.tv/player/k7%2Fp09upYF%2Fx79pZrOLE4t6fXt3n0Fqu4dLd05Wi4%2B7IWr7dxNrUYGfuwNxfj8%2BkoLRng7%2FrvIN4u9XL4nZ4vsDalpLPvcraZI%2B73pl1xbvNt9I%3D.flv</link>
 <thumbnail>http://pics.filmaffinity.com/Cartas_a_Julieta-242518298-large.jpg</thumbnail>
-<info>Sophie (Amanda Seyfried) y VÌctor (Gael GarcÌa Bernal), una pareja que est· de vacaciones en Italia, recibe una carta dirigida a una tal Julieta. La remitente es Claire (Vanessa Redgrave), una mujer que trata de localizar a Lorenzo (Franco Nero), un hombre con el que viviÛ en Italia, en su juventud, una aventura. Sophie emprender· entonces un viaje por la Toscana para encontrar al antiguo amor de Claire. (FILMAFFINITY)</info>
+<info>Sophie (Amanda Seyfried) y V√≠ctor (Gael Garc√≠a Bernal), una pareja que est√° de vacaciones en Italia, recibe una carta dirigida a una tal Julieta. La remitente es Claire (Vanessa Redgrave), una mujer que trata de localizar a Lorenzo (Franco Nero), un hombre con el que vivi√≥ en Italia, en su juventud, una aventura. Sophie emprender√° entonces un viaje por la Toscana para encontrar al antiguo amor de Claire. (FILMAFFINITY)</info>
 <fanart>http://www.cineol.net/galeria/fotos/4318_27213.jpg</fanart>
 </subitem>
 
@@ -3251,7 +3461,7 @@ Ano de LanÁamento:2014
 <title>[COLOR skyblue]POMPEYA  [/COLOR]</title>
 <link>http://veronline.tv/player/k7%2Fp09upYF%2Fx79pZrOLE4t6fXt3n0Fqu4dLd05Wi4%2B7IWr7dxNrUYGKuwLpxeMmXsLtqfM%2FOyW%2BP28zd32F60%2B7SXsPclNbHcqCr4q9fra2ZrLA%3D.flv</link>
 <thumbnail>http://pics.filmaffinity.com/Pompeya-812266050-large.jpg</thumbnail>
-<info>Pompeya, aÒo 79 d.C. Milo (Kit Harington), un esclavo convertido en gladiador, ve cÛmo a su amor, la joven Cassia (Emily Browning), la obligan a prometerse con Corvus (Kiefer Sutherland), un corrupto senador. Cuando el Vesubio entra en erupciÛn amenazando con destruirlo todo, Milo intentar· salvarla... mientras todo se derrumba. (FILMAFFINITY)</info>
+<info>Pompeya, a√±o 79 d.C. Milo (Kit Harington), un esclavo convertido en gladiador, ve c√≥mo a su amor, la joven Cassia (Emily Browning), la obligan a prometerse con Corvus (Kiefer Sutherland), un corrupto senador. Cuando el Vesubio entra en erupci√≥n amenazando con destruirlo todo, Milo intentar√° salvarla... mientras todo se derrumba. (FILMAFFINITY)</info>
 <fanart>http://www.elmulticine.com/imagenes/noticias/9/kit-emily-pompeya-pic3.jpg</fanart>
 </subitem>
 
@@ -3259,7 +3469,7 @@ Ano de LanÁamento:2014
 <title>[COLOR skyblue]AGUA PARA ELEFANTES [/COLOR]</title>
 <link>http://veronline.tv/player/k7%2Fp09upYF%2Fx79pZrOLE4t6fXt3n0Fqu4dLd05Wi4%2B7IWr7dxNrUYJjArtqapMnG4uGen9vlynKa5prataSJ08bEn5y9p5rXaWeu66ZcvdfS1t4%3D.flv</link>
 <thumbnail>http://3.bp.blogspot.com/-xEj7ajIHb40/Tm35MlGPClI/AAAAAAAACdk/UtVggjwxrZc/s1600/portada-agua-para-elefantes1.jpg</thumbnail>
-<info>En la Època de la Gran DepresiÛn, un joven estudiante de veterinaria se ve obligado a dejar sus estudios tras la muerte de sus padres. Empieza entonces a trabajar en el circo de los hermanos Benzini como veterinario. El joven se enamora de Marlena, una amazona que est· casada con August, el dueÒo del circo, un hombre tan carism·tico como retorcidoÖ AdaptaciÛn del aclamado best-seller homÛnimo de Sara Gruen.</info>
+<info>En la √©poca de la Gran Depresi√≥n, un joven estudiante de veterinaria se ve obligado a dejar sus estudios tras la muerte de sus padres. Empieza entonces a trabajar en el circo de los hermanos Benzini como veterinario. El joven se enamora de Marlena, una amazona que est√° casada con August, el due√±o del circo, un hombre tan carism√°tico como retorcido¬Ö Adaptaci√≥n del aclamado best-seller hom√≥nimo de Sara Gruen.</info>
 <fanart>http://img.blogdecine.com/2011/05/water-for-elephants-2011-agua-para-elefantes-foto.jpg</fanart>
 </subitem>
 
@@ -3289,8 +3499,8 @@ Ano de LanÁamento:2014
 <fanart>http://1.bp.blogspot.com/-MX7faDUGuVI/T9y4SsjtymI/AAAAAAAABYg/HR7Nugxsbzg/s1600/300-spartans.jpg</fanart>
 <info>TV NACIONAL</info>
 <genre>TV
-Ano de LanÁamento:2014 
-¡udio: LATINO
+Ano de Lan√ßamento:2014 
+√Åudio: LATINO
 </genre>TV
 <subitems>
 
@@ -3298,7 +3508,7 @@ Ano de LanÁamento:2014
 <title>[COLOR skyblue] NOE[/COLOR]</title>
 <link>http://veronline.tv/player/k7%2Fp09upYF%2Fx79pZrOLE4t6fXt3n0Fqu4dLd05Wi4%2B7IWr7dxNrUYH%2Fd7aqOmaaoy9ebf%2Brsu5ez3ZCs1aZksN%2BsgJrq2LDmomTcq8VuscyrssA%3D.flv</link>
 <thumbnail>http://www.labutaca.net/imagenes/wp-content/original/2014_02/noe-cartel-2.jpg</thumbnail>
-<info>En un mundo asolado por los pecados humanos, NoÈ, un hombre pacÌfico que sÛlo desea vivir tranquilo con su familia, recibe una misiÛn divina: construir un Arca para salvar a la creaciÛn del inminente diluvio. Todo comienza cuando, cada noche, NoÈ tiene el mismo sueÒo: las visiones de muerte provocada por el agua, seguidas de nueva vida en la Tierra. (FILMAFFINITY)</info>
+<info>En un mundo asolado por los pecados humanos, No√©, un hombre pac√≠fico que s√≥lo desea vivir tranquilo con su familia, recibe una misi√≥n divina: construir un Arca para salvar a la creaci√≥n del inminente diluvio. Todo comienza cuando, cada noche, No√© tiene el mismo sue√±o: las visiones de muerte provocada por el agua, seguidas de nueva vida en la Tierra. (FILMAFFINITY)</info>
 <fanart>http://locoxelcine.com/wp-content/uploads/2014/04/noe-teaser-trailer-y-poster.jpg</fanart>
 </subitem>
 
@@ -3306,7 +3516,7 @@ Ano de LanÁamento:2014
 <title>[COLOR skyblue]CODIGO SOMBRA: JACK RYAN  [/COLOR]</title>
 <link>http://veronline.tv/player/k7%2Fp09upYF%2Fx79pZrOLE4t6fXt3n0Fqu4dLd05Wi4%2B7IWr7dxNrUYHP028KfuceroeKJpae%2F2pmgubu%2FpYlp3bnMbr%2Bu2te%2BdGTA3s9jhMvV3qc%3D.flv</link>
 <thumbnail>http://pics.filmaffinity.com/Jack_Ryan_Operaci_n_Sombra-267363033-large.jpg</thumbnail>
-<info>Jack Ryan (Chris Pine) es un veterano de guerra que lleva una doble vida: es un ejecutivo de Wall Street y adem·s trabaja de forma encubierta como analista de la CIA. Cuando descubre un complot meticulosamente planeado para hundir la economÌa norteamericana y sembrar el caos en todo el mundo, deciden que Èl es el hombre m·s adecuado para impedirlo debido a su habilidad para interpretar datos globales.</info>
+<info>Jack Ryan (Chris Pine) es un veterano de guerra que lleva una doble vida: es un ejecutivo de Wall Street y adem√°s trabaja de forma encubierta como analista de la CIA. Cuando descubre un complot meticulosamente planeado para hundir la econom√≠a norteamericana y sembrar el caos en todo el mundo, deciden que √©l es el hombre m√°s adecuado para impedirlo debido a su habilidad para interpretar datos globales.</info>
 <fanart>http://pics.filmaffinity.com/Jack_Ryan_Operaci_n_Sombra-141257349-large.jpg</fanart>
 </subitem>
 
@@ -3314,7 +3524,7 @@ Ano de LanÁamento:2014
 <title>[COLOR skyblue]POMPEYA  [/COLOR]</title>
 <link>http://veronline.tv/player/k7%2Fp09upYF%2Fx79pZrOLE4t6fXt3n0Fqu4dLd05Wi4%2B7IWr7dxNrUYGKuwLpxeMmXsLtqfM%2FOyW%2BP28zd32F60%2B7SXsPclNbHcqCr4q9fra2ZrLA%3D.flv</link>
 <thumbnail>http://pics.filmaffinity.com/Pompeya-812266050-large.jpg</thumbnail>
-<info>Pompeya, aÒo 79 d.C. Milo (Kit Harington), un esclavo convertido en gladiador, ve cÛmo a su amor, la joven Cassia (Emily Browning), la obligan a prometerse con Corvus (Kiefer Sutherland), un corrupto senador. Cuando el Vesubio entra en erupciÛn amenazando con destruirlo todo, Milo intentar· salvarla... mientras todo se derrumba. (FILMAFFINITY)</info>
+<info>Pompeya, a√±o 79 d.C. Milo (Kit Harington), un esclavo convertido en gladiador, ve c√≥mo a su amor, la joven Cassia (Emily Browning), la obligan a prometerse con Corvus (Kiefer Sutherland), un corrupto senador. Cuando el Vesubio entra en erupci√≥n amenazando con destruirlo todo, Milo intentar√° salvarla... mientras todo se derrumba. (FILMAFFINITY)</info>
 <fanart>http://www.elmulticine.com/imagenes/noticias/9/kit-emily-pompeya-pic3.jpg</fanart>
 </subitem>
 
@@ -3338,8 +3548,8 @@ Ano de LanÁamento:2014
 <fanart>http://3.bp.blogspot.com/-bi1UQyIEqG8/UbIbngGcGGI/AAAAAAAADYI/carHs8fvKfk/s1600/diario+de+una+pasi%C3%B3n.jpg</fanart>
 <info>TV NACIONAL</info>
 <genre>TV
-Ano de LanÁamento:2014 
-¡udio: LATINO
+Ano de Lan√ßamento:2014 
+√Åudio: LATINO
 </genre>TV
 <subitems>
 
@@ -3347,7 +3557,7 @@ Ano de LanÁamento:2014
 <title>[COLOR skyblue]RECUERDAME  [/COLOR]</title>
 <link>http://veronline.tv/player/k7%2Fp09upYF%2Fx79pZrOLE4t6fXt3n0Fqu4dLd05Wi4%2B7IWr7dxNrUYGTG3d1xsd69vNBkc8%2FOlm%2B%2Bu7qf3GGK2a6ZhMG7uLKjYpvb0KalneDGrKc%3D.flv</link>
 <thumbnail>http://pics.filmaffinity.com/Recu_rdame-256675026-large.jpg</thumbnail>
-<info>Tyler Roth (Robert Pattinson) es un joven afectado por el suicidio de su hermano, situaciÛn que desencadenar· el divorcio de sus padres (Pierce Brosnan y Lena Olin), incapaces de superar la traum·tica pÈrdida. Totalmente solo, y con una familia rota, conoce a una chica (Emile De Ravin) que har· que su vida vuelva a tener sentido. (FILMAFFINITY)</info>
+<info>Tyler Roth (Robert Pattinson) es un joven afectado por el suicidio de su hermano, situaci√≥n que desencadenar√° el divorcio de sus padres (Pierce Brosnan y Lena Olin), incapaces de superar la traum√°tica p√©rdida. Totalmente solo, y con una familia rota, conoce a una chica (Emile De Ravin) que har√° que su vida vuelva a tener sentido. (FILMAFFINITY)</info>
 <fanart>http://www.mundodescargas.com/2k10/especiales/recuerdame/imagenes/fondos_psp/demo.jpg</fanart>
 </subitem>
 
@@ -3355,7 +3565,7 @@ Ano de LanÁamento:2014
 <title>[COLOR skyblue]LOCA POR LAS COMPRAS  [/COLOR]</title>
 <link>http://veronline.tv/player/k7%2Fp09upYF%2Fx79pZrOLE4t6fXt3n0Fqu4dLd05Wi4%2B7IWr7dxNrUYICwxtByjNy30eKfkr3H05qQ4bDap5Zhw8alYq3GrbjZiJPe6Zpff6qs3bw%3D.flv</link>
 <thumbnail>http://pics.filmaffinity.com/Confesiones_de_una_compradora_compulsiva-288986194-large.jpg</thumbnail>
-<info>Romance. Comedia | Comedia rom·ntica En el sofisticado mundo de Nueva York, Rebecca Bloom (Isla Fisher) es una chica muy divertida y una compradora compulsiva. SueÒa vanamente con trabajar en su revista de moda favorita; lo curioso es que consigue un puesto como columnista en una revista econÛmica publicada por la misma empresa. (FILMAFFINITY)</info>
+<info>Romance. Comedia | Comedia rom√°ntica En el sofisticado mundo de Nueva York, Rebecca Bloom (Isla Fisher) es una chica muy divertida y una compradora compulsiva. Sue√±a vanamente con trabajar en su revista de moda favorita; lo curioso es que consigue un puesto como columnista en una revista econ√≥mica publicada por la misma empresa. (FILMAFFINITY)</info>
 <fanart>http://www.productos-financieros.com/wp-content/uploads/2013/02/9c00d__loca-por-las-compras.jpg</fanart>
 </subitem>
 
@@ -3363,7 +3573,7 @@ Ano de LanÁamento:2014
 <title>[COLOR skyblue]THE RINGHT KING OF WRONG  [/COLOR]</title>
 <link>http://veronline.tv/player/k7%2Fp09upYF%2Fx79pZrOLE4t6fXt3n0Fqu4dLd05Wi4%2B7IWr7dxNrUYJiwr6Zcg8nRy6icY9DOtGKxyZy%2Bpqinx%2B7LXp%2FUlbC%2FdofP6ch6tMC6nrA%3D.flv</link>
 <thumbnail>http://pics.filmaffinity.com/The_Right_Kind_of_Wrong-229904024-large.jpg</thumbnail>
-<info>Leo, un lavaplatos, se enamora de una novia durante el dÌa de su boda; una boda llevada a cabo, claro, con otro hombre. (FILMAFFINITY)</info>
+<info>Leo, un lavaplatos, se enamora de una novia durante el d√≠a de su boda; una boda llevada a cabo, claro, con otro hombre. (FILMAFFINITY)</info>
 <fanart>http://www.thecouchsessions.com/wp-content/uploads/2013/10/right-kind-wrong-618.jpg</fanart>
 </subitem>
 
@@ -3371,7 +3581,7 @@ Ano de LanÁamento:2014
 <title>[COLOR skyblue]NOTEBOOK: DIARIO DE UNA PASION   [/COLOR]</title>
 <link>http://veronline.tv/player/k7%2Fp09upYF%2Fx79pZrOLE4t6fXt3n0Fqu4dLd05Wi4%2B7IWr7dxNrUYIfI2amkob%2FE0MGqe77XlHqC36vCwICGrcfFf56psbPZmZu8r5B8ntbQurw%3D.flv</link>
 <thumbnail>http://pics.filmaffinity.com/El_diario_de_Noa-565006977-large.jpg</thumbnail>
-<info>En una residencia de ancianos, un hombre (James Garner) lee a una mujer (Gena Rowlands) una historia de amor escrita en su viejo cuaderno de notas. Es la historia de Noah Calhoun (Ryan Gosling) y Allie Nelson (Rachel McAdams), dos jÛvenes adolescentes de Carolina del Norte que, a pesar de vivir en dos ambientes sociales muy diferentes, se enamoraron profundamente y pasaron juntos un verano inolvidable, antes de ser separados, primero por sus padres, y m·s tarde por la guerra. (FILMAFFINITY)</info>
+<info>En una residencia de ancianos, un hombre (James Garner) lee a una mujer (Gena Rowlands) una historia de amor escrita en su viejo cuaderno de notas. Es la historia de Noah Calhoun (Ryan Gosling) y Allie Nelson (Rachel McAdams), dos j√≥venes adolescentes de Carolina del Norte que, a pesar de vivir en dos ambientes sociales muy diferentes, se enamoraron profundamente y pasaron juntos un verano inolvidable, antes de ser separados, primero por sus padres, y m√°s tarde por la guerra. (FILMAFFINITY)</info>
 <fanart>http://pics.filmaffinity.com/El_diario_de_Noa-921428758-large.jpg</fanart>
 </subitem>
 
@@ -3379,7 +3589,7 @@ Ano de LanÁamento:2014
 <title>[COLOR skyblue]AMOR ETERNO  [/COLOR]</title>
 <link>http://veronline.tv/player/k7%2Fp09upYF%2Fx79pZrOLE4t6fXt3n0Fqu4dLd05Wi4%2B7IWr7dxNrUYJHT4seVl6fV2cWgXculpXa866W7uKeg5vLckLC8lsK%2FkmPZ7qd7kt%2By1qM%3D.flv</link>
 <thumbnail>http://pics.filmaffinity.com/M_s_all_del_amor-548791385-large.jpg</thumbnail>
-<info>Jade, una tÌmida joven de familia privilegiada, y David, un chico carism·tico y divertido, se enamoran perdidamente durante un verano. Cuando el padre de ella intente separarlos, su pasiÛn los llevar· a arrostrar situaciones temerarias. Remake de 'Amor sin fin' (1981). (FILMAFFINITY)</info>
+<info>Jade, una t√≠mida joven de familia privilegiada, y David, un chico carism√°tico y divertido, se enamoran perdidamente durante un verano. Cuando el padre de ella intente separarlos, su pasi√≥n los llevar√° a arrostrar situaciones temerarias. Remake de 'Amor sin fin' (1981). (FILMAFFINITY)</info>
 <fanart>http://images.endlessloveintl.com/version-4/mx/images/sitebg/background01.jpg</fanart>
 </subitem>
 
@@ -3387,7 +3597,7 @@ Ano de LanÁamento:2014
 <title>[COLOR skyblue]MARLEY Y YO  [/COLOR]</title>
 <link>http://veronline.tv/player/k7%2Fp09upYF%2Fx79pZrOLE4t6fXt3n0Fqu4dLd05Wi4%2B7IWr7dxNrUYKripbp1mMzWsNmWperBuF3E7auhpp984%2FKXhKPo1Mnco3Hu8K2dxMaouqc%3D.flv</link>
 <thumbnail>http://1.bp.blogspot.com/-34-mvhx6uOI/Ted3ZbgOgBI/AAAAAAAACAo/PvW_7Q5q0nA/s1600/Marley%2BY%2BYo.jpg</thumbnail>
-<info>Los reciÈn casados John y Jenny Grogan deciden dejar atr·s los duros inviernos de Michigan para instalarse en la soleada West Palm Beach (Florida). Los dos consiguen empleo en dos periÛdicos rivales, compran su primera casa y afrontan los retos del matrimonio. Cuando John le confiesa a su amigo y colega Sebastian que a˙n no se siente preparado para ser padre, Èste le sugiere que le regale a Jenny un perro. Los Grogan adoptan un bonito cachorro de Labrador que, poco despuÈs, se convierte en una mole de 45 kilos que transforma la casa en una verdadera cat·strofe. (FILMAFFINITY)</info>
+<info>Los reci√©n casados John y Jenny Grogan deciden dejar atr√°s los duros inviernos de Michigan para instalarse en la soleada West Palm Beach (Florida). Los dos consiguen empleo en dos peri√≥dicos rivales, compran su primera casa y afrontan los retos del matrimonio. Cuando John le confiesa a su amigo y colega Sebastian que a√∫n no se siente preparado para ser padre, √©ste le sugiere que le regale a Jenny un perro. Los Grogan adoptan un bonito cachorro de Labrador que, poco despu√©s, se convierte en una mole de 45 kilos que transforma la casa en una verdadera cat√°strofe. (FILMAFFINITY)</info>
 <fanart>http://blogs.lanacion.com.ar/cine/files/2012/10/Marley-and-Me.jpg</fanart>
 </subitem>
 
@@ -3395,7 +3605,7 @@ Ano de LanÁamento:2014
 <title>[COLOR skyblue]CARTAS A JULIETA[/COLOR]</title>
 <link>http://veronline.tv/player/k7%2Fp09upYF%2Fx79pZrOLE4t6fXt3n0Fqu4dLd05Wi4%2B7IWr7dxNrUYGfuwNxfj8%2BkoLRng7%2FrvIN4u9XL4nZ4vsDalpLPvcraZI%2B73pl1xbvNt9I%3D.flv</link>
 <thumbnail>http://pics.filmaffinity.com/Cartas_a_Julieta-242518298-large.jpg</thumbnail>
-<info>Sophie (Amanda Seyfried) y VÌctor (Gael GarcÌa Bernal), una pareja que est· de vacaciones en Italia, recibe una carta dirigida a una tal Julieta. La remitente es Claire (Vanessa Redgrave), una mujer que trata de localizar a Lorenzo (Franco Nero), un hombre con el que viviÛ en Italia, en su juventud, una aventura. Sophie emprender· entonces un viaje por la Toscana para encontrar al antiguo amor de Claire. (FILMAFFINITY)</info>
+<info>Sophie (Amanda Seyfried) y V√≠ctor (Gael Garc√≠a Bernal), una pareja que est√° de vacaciones en Italia, recibe una carta dirigida a una tal Julieta. La remitente es Claire (Vanessa Redgrave), una mujer que trata de localizar a Lorenzo (Franco Nero), un hombre con el que vivi√≥ en Italia, en su juventud, una aventura. Sophie emprender√° entonces un viaje por la Toscana para encontrar al antiguo amor de Claire. (FILMAFFINITY)</info>
 <fanart>http://www.cineol.net/galeria/fotos/4318_27213.jpg</fanart>
 </subitem>
 
@@ -3403,7 +3613,7 @@ Ano de LanÁamento:2014
 <title>[COLOR skyblue]AGUA PARA ELEFANTES [/COLOR]</title>
 <link>http://veronline.tv/player/k7%2Fp09upYF%2Fx79pZrOLE4t6fXt3n0Fqu4dLd05Wi4%2B7IWr7dxNrUYJjArtqapMnG4uGen9vlynKa5prataSJ08bEn5y9p5rXaWeu66ZcvdfS1t4%3D.flv</link>
 <thumbnail>http://3.bp.blogspot.com/-xEj7ajIHb40/Tm35MlGPClI/AAAAAAAACdk/UtVggjwxrZc/s1600/portada-agua-para-elefantes1.jpg</thumbnail>
-<info>En la Època de la Gran DepresiÛn, un joven estudiante de veterinaria se ve obligado a dejar sus estudios tras la muerte de sus padres. Empieza entonces a trabajar en el circo de los hermanos Benzini como veterinario. El joven se enamora de Marlena, una amazona que est· casada con August, el dueÒo del circo, un hombre tan carism·tico como retorcidoÖ AdaptaciÛn del aclamado best-seller homÛnimo de Sara Gruen.</info>
+<info>En la √©poca de la Gran Depresi√≥n, un joven estudiante de veterinaria se ve obligado a dejar sus estudios tras la muerte de sus padres. Empieza entonces a trabajar en el circo de los hermanos Benzini como veterinario. El joven se enamora de Marlena, una amazona que est√° casada con August, el due√±o del circo, un hombre tan carism√°tico como retorcido¬Ö Adaptaci√≥n del aclamado best-seller hom√≥nimo de Sara Gruen.</info>
 <fanart>http://img.blogdecine.com/2011/05/water-for-elephants-2011-agua-para-elefantes-foto.jpg</fanart>
 </subitem>
 
@@ -3433,8 +3643,8 @@ Ano de LanÁamento:2014
 <fanart>http://diario.mx/imagesnotas/2013/02/OSC888977cb79d81f_0.jpg</fanart>
 <info>TV NACIONAL</info>
 <genre>TV
-Ano de LanÁamento:2014 
-¡udio: LATINO
+Ano de Lan√ßamento:2014 
+√Åudio: LATINO
 </genre>TV
 <subitems>
 
@@ -3443,7 +3653,7 @@ Ano de LanÁamento:2014
 <title>[COLOR skyblue]LOS MUPPETS 2  [/COLOR]</title>
 <link>http://veronline.tv/player//k7%2Fp09upYF%2Fx79pZrOLE4t6fXt3n0Fqu4dLd05Wi4%2B7IWr7dxNrUYISy0s6jrsTLvKWSZezXsX2Cz8rLznJ966qWjZHKzcvfaoLt2sSfm729qrQ%3D.flv</link>
 <thumbnail>http://pics.filmaffinity.com/El_tour_de_los_Muppets-335013063-large.jpg</thumbnail>
-<info>La pandilla de los Muppets se va de gira por todo el mundo, llenando las mejores salas de las capitales europeas como BerlÌn, Madrid o Londres. Pero no se libran del caos ni siquiera en el extranjero, pues se ven involuntariamente atrapados en una intriga internacional que encabezan Constantine, el mayor delincuente del mundo y la viva imagen de la Rana RenÈ, y Dominic, su vil compinche. (FILMAFFINITY)</info>
+<info>La pandilla de los Muppets se va de gira por todo el mundo, llenando las mejores salas de las capitales europeas como Berl√≠n, Madrid o Londres. Pero no se libran del caos ni siquiera en el extranjero, pues se ven involuntariamente atrapados en una intriga internacional que encabezan Constantine, el mayor delincuente del mundo y la viva imagen de la Rana Ren√©, y Dominic, su vil compinche. (FILMAFFINITY)</info>
 <fanart>http://www.cine365static.com/assets/img/peliculas/1409/2/extra/4ff88-tour3.jpg</fanart>
 </subitem>
 
@@ -3489,8 +3699,8 @@ Ano de LanÁamento:2014
 <fanart>http://cdn01.am.infobae.com/adjuntos/163/imagenes/010/316/0010316659.jpg</fanart>
 <info>TV NACIONAL</info>
 <genre>TV
-Ano de LanÁamento:2014 
-¡udio: LATINO
+Ano de Lan√ßamento:2014 
+√Åudio: LATINO
 </genre>TV
 <subitems>
 
@@ -3498,7 +3708,7 @@ Ano de LanÁamento:2014
 <title>[COLOR skyblue]EL EXORSISMO DE GIORGIA 2014  [/COLOR]</title>
 <link>http://cuevana2.tv/ariel.php?file=http://veronline.tv/player/k7%2Fp09upYF%2Fx79pZrOLE4t6fXt3n0Fqu4dLd05Wi4%2B7IWr7dxNrUYGDnwdd4s7ep3bRjlPKxyXyhuLPcpmJ06cXWbpjNk8q6m5Xg57ZulMWYz%2BI%3D.flv</link>
 <thumbnail>http://pics.filmaffinity.com/Exorcismo_en_Georgia-369110132-large.jpg</thumbnail>
-<info>Poco despuÈs de instalarse en su nueva casa de Georgia, una pareja descubre que su hija mantiene misteriosos encuentros con personas que sÛlo ella parece ver. La situaciÛn se complica cuando tambiÈn los padres son testigos de extraÒos fenÛmenos alrededor de la casa, que sugieren un escalofriante misterio que se ha mantenido en secreto durante generaciones. (FILMAFFINITY)</info>
+<info>Poco despu√©s de instalarse en su nueva casa de Georgia, una pareja descubre que su hija mantiene misteriosos encuentros con personas que s√≥lo ella parece ver. La situaci√≥n se complica cuando tambi√©n los padres son testigos de extra√±os fen√≥menos alrededor de la casa, que sugieren un escalofriante misterio que se ha mantenido en secreto durante generaciones. (FILMAFFINITY)</info>
 <fanart>http://cine3.es/galerias/exorcismo-en-georgia/exorcismo-en-georgia-03.jpg</fanart>
 </subitem>
 
@@ -3506,7 +3716,7 @@ Ano de LanÁamento:2014
 <title>[COLOR skyblue]OCULUS 2013 [/COLOR]</title>
 <link>http://veronline.tv/player/k7%2Fp09upYF%2Fx79pZrOLE4t6fXt3n0Fqu4dLd05Wi4%2B7IWr7dxNrUYH%2FS6tWlxO%2Bc4Ld%2Fkq%2FClFuMvtHQpnVmwMXHnpfqq8%2B7iqWzrreKpabXsuY%3D.flv</link>
 <thumbnail>http://pics.filmaffinity.com/Oculus-992178617-main.jpg</thumbnail>
-<info>Tiempo atr·s, un asesinato dejÛ dos niÒos huÈrfanos. Las autoridades culparon al hermano, mientras que la hermana creciÛ creyendo que el verdadero culpable fue un antiguo espejo maldito. Ahora, completamente rehabilitado y con veinte aÒos, el hermano est· listo para empezar de nuevo, pero la hermana est· decidida a demostrar que fue el espejo lo que destrozÛ a su familia. (FILMAFFINITY)</info>
+<info>Tiempo atr√°s, un asesinato dej√≥ dos ni√±os hu√©rfanos. Las autoridades culparon al hermano, mientras que la hermana creci√≥ creyendo que el verdadero culpable fue un antiguo espejo maldito. Ahora, completamente rehabilitado y con veinte a√±os, el hermano est√° listo para empezar de nuevo, pero la hermana est√° decidida a demostrar que fue el espejo lo que destroz√≥ a su familia. (FILMAFFINITY)</info>
 <fanart>http://www.wwe.com/f/styles/ep_trending/public/article/thumb/2014/03/20140310_Oculus_LIGHT_HOMEPAGE.jpg</fanart>
 </subitem>
 
@@ -3514,7 +3724,7 @@ Ano de LanÁamento:2014
 <title>[COLOR skyblue]TOKAREV  [/COLOR]</title>
 <link>http://veronline.tv/player/k7%2Fp09upYF%2Fx79pZrOLE4t6fXt3n0Fqu4dLd05Wi4%2B7IWr7dxNrUYJjZ7px0udyW4biaos%2FixqWXqrSwn5pxsN62dJbMrdPFf2nSrc6hwdzFoeY%3D.flv</link>
 <thumbnail>http://pics.filmaffinity.com/Tokarev-889615331-large.jpg</thumbnail>
-<info>Un respetado hombre de negocios de pasado oscuro busca venganza despuÈs de que su hija sea secuestrada por unos hombres que quieren saldar viejas deudas. Ante sus amigos y familiares, Paul Maguire (Nicolas Cage) es un hombre familiar y trabajador, pero desconocen que Paul tiene un pasado muy diferente, en el que la vida era barata y las deudas se pagaban con sangre.(FILMAFFINITY)</info>
+<info>Un respetado hombre de negocios de pasado oscuro busca venganza despu√©s de que su hija sea secuestrada por unos hombres que quieren saldar viejas deudas. Ante sus amigos y familiares, Paul Maguire (Nicolas Cage) es un hombre familiar y trabajador, pero desconocen que Paul tiene un pasado muy diferente, en el que la vida era barata y las deudas se pagaban con sangre.(FILMAFFINITY)</info>
 <fanart>http://gigscreen.com/wp-content/uploads/2014/03/Tokarev-2014.jpg</fanart>
 </subitem>
 
@@ -3576,8 +3786,8 @@ Ano de LanÁamento:2014
 <fanart>http://peliculasdecomedia.net/wp-content/uploads/2012/06/la-boda-de-mi-mejor-amiga-peliculas-de-comedia-615x356.jpg</fanart>
 <info>TV NACIONAL</info>
 <genre>TV
-Ano de LanÁamento:2014 
-¡udio: LATINO
+Ano de Lan√ßamento:2014 
+√Åudio: LATINO
 </genre>TV
 <subitems>
 
@@ -3585,7 +3795,7 @@ Ano de LanÁamento:2014
 <title>[COLOR skyblue]MUJERES AL ATAQUE   [/COLOR]</title>
 <link>http://veronline.tv/player/k7%2Fp09upYF%2Fx79pZrOLE4t6fXt3n0Fqu4dLd05Wi4%2B7IWr7dxNrUYKes6tBxo7%2FMq%2BaEns%2FBrGyixZzV2YGVsc7Vl7zl19%2BceafMz92jlNmzyuY%3D.flv</link>
 <thumbnail>http://vallecasdigital.com/wp-content/uploads/2014/06/kate-upton-cameron-poster334.jpg</thumbnail>
-<info>Cameron Diaz interpreta a una mujer que descubre que su novio estaba casado con otra. Cuando se dispone a rehacer su vida, conoce accidentalmente a la esposa que ha estado engaÒando (Leslie Mann) y se da cuenta de que tienen mucho en com˙n, y en vez de hacer las recriminaciones habituales, acaba convirtiÈndose en su mejor amiga. Cuando otro asunto semejante se descubre (Kate Upton), las tres mujeres se unen para trazar una venganza</info>
+<info>Cameron Diaz interpreta a una mujer que descubre que su novio estaba casado con otra. Cuando se dispone a rehacer su vida, conoce accidentalmente a la esposa que ha estado enga√±ando (Leslie Mann) y se da cuenta de que tienen mucho en com√∫n, y en vez de hacer las recriminaciones habituales, acaba convirti√©ndose en su mejor amiga. Cuando otro asunto semejante se descubre (Kate Upton), las tres mujeres se unen para trazar una venganza</info>
 <fanart>http://visiondelcine.com.ar/wp-content/uploads/2014/05/mujeres-al-ataque.jpg</fanart>
 </subitem>
 
@@ -3593,7 +3803,7 @@ Ano de LanÁamento:2014
 <title>[COLOR skyblue]THE ANGRIEST MAN UN BROOKLYN  [/COLOR]</title>
 <link>http://veronline.tv/player/k7%2Fp09upYF%2Fx79pZrOLE4t6fXt3n0Fqu4dLd05Wi4%2B7IWr7dxNrUYGbU3ctbotzR4dKgg%2BXmumygyMKvu4afvLrbcZG9ubW%2Be5PuvMlkvMHG3uI%3D.flv</link>
 <thumbnail>http://pics.filmaffinity.com/The_Angriest_Man_In_Brooklyn-904253790-large.jpg</thumbnail>
-<info>Una doctora que est· haciendo una sustituciÛn le comunica por error a un paciente que le quedan 90 minutos de vida. La mÈdico trata de localizar desesperadamente a este hombre, que se ha lanzado en una absurda aventura por la ciudad en la que tratar· de enmendar todos los errores que ha cometido en su vida. (FILMAFFINITY)</info>
+<info>Una doctora que est√° haciendo una sustituci√≥n le comunica por error a un paciente que le quedan 90 minutos de vida. La m√©dico trata de localizar desesperadamente a este hombre, que se ha lanzado en una absurda aventura por la ciudad en la que tratar√° de enmendar todos los errores que ha cometido en su vida. (FILMAFFINITY)</info>
 <fanart>http://silverscreeningreviews.s3.amazonaws.com/wp-content/uploads/2014/04/o-THE-ANGRIEST-MAN-IN-BROOKLYN-facebook.jpg</fanart>
 </subitem>
 
@@ -3601,7 +3811,7 @@ Ano de LanÁamento:2014
 <title>[COLOR skyblue]LOCA POR LAS COMPRAS  [/COLOR]</title>
 <link>http://veronline.tv/player/k7%2Fp09upYF%2Fx79pZrOLE4t6fXt3n0Fqu4dLd05Wi4%2B7IWr7dxNrUYICwxtByjNy30eKfkr3H05qQ4bDap5Zhw8alYq3GrbjZiJPe6Zpff6qs3bw%3D.flv</link>
 <thumbnail>http://pics.filmaffinity.com/Confesiones_de_una_compradora_compulsiva-288986194-large.jpg</thumbnail>
-<info>Romance. Comedia | Comedia rom·ntica En el sofisticado mundo de Nueva York, Rebecca Bloom (Isla Fisher) es una chica muy divertida y una compradora compulsiva. SueÒa vanamente con trabajar en su revista de moda favorita; lo curioso es que consigue un puesto como columnista en una revista econÛmica publicada por la misma empresa. (FILMAFFINITY)</info>
+<info>Romance. Comedia | Comedia rom√°ntica En el sofisticado mundo de Nueva York, Rebecca Bloom (Isla Fisher) es una chica muy divertida y una compradora compulsiva. Sue√±a vanamente con trabajar en su revista de moda favorita; lo curioso es que consigue un puesto como columnista en una revista econ√≥mica publicada por la misma empresa. (FILMAFFINITY)</info>
 <fanart>http://www.productos-financieros.com/wp-content/uploads/2013/02/9c00d__loca-por-las-compras.jpg</fanart>
 </subitem>
 
@@ -3609,7 +3819,7 @@ Ano de LanÁamento:2014
 <title>[COLOR skyblue]THE RINGHT KING OF WRONG  [/COLOR]</title>
 <link>http://veronline.tv/player/k7%2Fp09upYF%2Fx79pZrOLE4t6fXt3n0Fqu4dLd05Wi4%2B7IWr7dxNrUYJiwr6Zcg8nRy6icY9DOtGKxyZy%2Bpqinx%2B7LXp%2FUlbC%2FdofP6ch6tMC6nrA%3D.flv</link>
 <thumbnail>http://pics.filmaffinity.com/The_Right_Kind_of_Wrong-229904024-large.jpg</thumbnail>
-<info>Leo, un lavaplatos, se enamora de una novia durante el dÌa de su boda; una boda llevada a cabo, claro, con otro hombre. (FILMAFFINITY)</info>
+<info>Leo, un lavaplatos, se enamora de una novia durante el d√≠a de su boda; una boda llevada a cabo, claro, con otro hombre. (FILMAFFINITY)</info>
 <fanart>http://www.thecouchsessions.com/wp-content/uploads/2013/10/right-kind-wrong-618.jpg</fanart>
 </subitem>
 
@@ -3617,7 +3827,7 @@ Ano de LanÁamento:2014
 <title>[COLOR skyblue]THE WEDDING PACT  [/COLOR]</title>
 <link>http://veronline.tv/player/k7%2Fp09upYF%2Fx79pZrOLE4t6fXt3n0Fqu4dLd05Wi4%2B7IWr7dxNrUYHTN7KShkbrJsOOhkafC0mC1y6Sw5ZyjyrHEZKW%2BqN2flGbQ5NR9vsXc1tY%3D.flv</link>
 <thumbnail>http://ecx.images-amazon.com/images/I/51EIQJDEFpL._SX200_.jpg</thumbnail>
-<info>Dos mejores amigos en la universidad Mitch y Elizabeth hacen un pacto de que si dentro de diez aÒos despuÈs de la graduaciÛn que ambos est·n casados ??no quieren casarse entre sÌ. Diez aÒos m·s tarde, Mitch (todavÌa soltero) se entera de Elizabeth nunca se casÛ por lo que decide viajar por todo el paÌs, encontrarla y seguir adelante con su pacto. QuÈ pronto se da cuenta es que no ser· tan simple como pensaba.</info>
+<info>Dos mejores amigos en la universidad Mitch y Elizabeth hacen un pacto de que si dentro de diez a√±os despu√©s de la graduaci√≥n que ambos est√°n casados ??no quieren casarse entre s√≠. Diez a√±os m√°s tarde, Mitch (todav√≠a soltero) se entera de Elizabeth nunca se cas√≥ por lo que decide viajar por todo el pa√≠s, encontrarla y seguir adelante con su pacto. Qu√© pronto se da cuenta es que no ser√° tan simple como pensaba.</info>
 <fanart>http://istoreimg.com/upload/big/2014/02/04/52f0df1d422ae.png</fanart>
 </subitem>
 
@@ -3625,7 +3835,7 @@ Ano de LanÁamento:2014
 <title>[COLOR skyblue]THE INTERNSHIP  [/COLOR]</title>
 <link>http://veronline.tv/player/k7%2Fp09upYF%2Fx79pZrOLE4t6fXt3n0Fqu4dLd05Wi4%2B7IWr7dxNrUYJvQ8s%2BOfOHW1OWoebPJ1JON18qVoGqK0ODYYrvjs9uzmpGw7dt1lKyXzqc%3D.flv</link>
 <thumbnail>http://pics.filmaffinity.com/Los_becarios-486552336-large.jpg</thumbnail>
-<info>Billy (Vince Vaughn) y Nick (Owen Wilson), dos comerciales ya cuarentones que han perdido su empleo, llegan a la conclusiÛn de que su problema consiste en no haberse adaptado a las nuevas tecnologÌas. Deciden entonces empezar de cero y buscar trabajo en la empresa m·s popular de Internet: Google. Cuando, por fin, consiguen un contrato de pr·cticas como becarios, se ver·n obligados a competir con jÛvenes veinteaÒeros, universitarios brillantes mucho m·s listos y m·s familiarizados que ellos con el mundo digital. (FILMAFFINITY)</info>
+<info>Billy (Vince Vaughn) y Nick (Owen Wilson), dos comerciales ya cuarentones que han perdido su empleo, llegan a la conclusi√≥n de que su problema consiste en no haberse adaptado a las nuevas tecnolog√≠as. Deciden entonces empezar de cero y buscar trabajo en la empresa m√°s popular de Internet: Google. Cuando, por fin, consiguen un contrato de pr√°cticas como becarios, se ver√°n obligados a competir con j√≥venes veintea√±eros, universitarios brillantes mucho m√°s listos y m√°s familiarizados que ellos con el mundo digital. (FILMAFFINITY)</info>
 <fanart>http://www.theinternshipmovie.com/assets/img/gallery/new_im.jpg</fanart>
 </subitem>
 
@@ -3633,7 +3843,7 @@ Ano de LanÁamento:2014
 <title>[COLOR skyblue]LA PROPUESTA  [/COLOR]</title>
 <link>http://veronline.tv/player/k7%2Fp09upYF%2Fx79pZrOLE4t6fXt3n0Fqu4dLd05Wi4%2B7IWr7dxNrUYIfd5JybgL7asLSVesqxsXW%2F5bfJuKaRxL%2Bbgra8wsnlhZfqurBtlcS839o%3D.flv</link>
 <thumbnail>http://cinemarama.files.wordpress.com/2009/07/19.jpg</thumbnail>
-<info>Margaret (Sandra Bullock), una famosa e influyente editora de Nueva York, debido a un problema con su visado, est· a punto de ser deportada a Canad·, su paÌs natal. Para evitarlo, la astuta ejecutiva declara que est· comprometida con su joven ayudante Andrew (Ryan Reynolds), al que durante aÒos ha sometido a todo tipo de humillaciones. Andrew est· dispuesto a participar en la farsa, pero imponiendo algunas condiciones. AsÌ, ambos viajan a Alaska para que Margaret conozca a la peculiar familia de Èl, mientras que un agente de inmigraciÛn sigue los pasos de la pareja, sospechando que la prepotente ejecutiva prepara un enlace de convenicencia. (FILMAFFINITY)</info>
+<info>Margaret (Sandra Bullock), una famosa e influyente editora de Nueva York, debido a un problema con su visado, est√° a punto de ser deportada a Canad√°, su pa√≠s natal. Para evitarlo, la astuta ejecutiva declara que est√° comprometida con su joven ayudante Andrew (Ryan Reynolds), al que durante a√±os ha sometido a todo tipo de humillaciones. Andrew est√° dispuesto a participar en la farsa, pero imponiendo algunas condiciones. As√≠, ambos viajan a Alaska para que Margaret conozca a la peculiar familia de √©l, mientras que un agente de inmigraci√≥n sigue los pasos de la pareja, sospechando que la prepotente ejecutiva prepara un enlace de convenicencia. (FILMAFFINITY)</info>
 <fanart>http://general.cinequo.com/wp-content/uploads/2009/07/la-propuesta-sandra-bullock.jpeg</fanart>
 </subitem>
 
@@ -3641,7 +3851,7 @@ Ano de LanÁamento:2014
 <title>[COLOR skyblue]MARLEY Y YO  [/COLOR]</title>
 <link>http://veronline.tv/player/k7%2Fp09upYF%2Fx79pZrOLE4t6fXt3n0Fqu4dLd05Wi4%2B7IWr7dxNrUYKripbp1mMzWsNmWperBuF3E7auhpp984%2FKXhKPo1Mnco3Hu8K2dxMaouqc%3D.flv</link>
 <thumbnail>http://1.bp.blogspot.com/-34-mvhx6uOI/Ted3ZbgOgBI/AAAAAAAACAo/PvW_7Q5q0nA/s1600/Marley%2BY%2BYo.jpg</thumbnail>
-<info>Los reciÈn casados John y Jenny Grogan deciden dejar atr·s los duros inviernos de Michigan para instalarse en la soleada West Palm Beach (Florida). Los dos consiguen empleo en dos periÛdicos rivales, compran su primera casa y afrontan los retos del matrimonio. Cuando John le confiesa a su amigo y colega Sebastian que a˙n no se siente preparado para ser padre, Èste le sugiere que le regale a Jenny un perro. Los Grogan adoptan un bonito cachorro de Labrador que, poco despuÈs, se convierte en una mole de 45 kilos que transforma la casa en una verdadera cat·strofe. (FILMAFFINITY)</info>
+<info>Los reci√©n casados John y Jenny Grogan deciden dejar atr√°s los duros inviernos de Michigan para instalarse en la soleada West Palm Beach (Florida). Los dos consiguen empleo en dos peri√≥dicos rivales, compran su primera casa y afrontan los retos del matrimonio. Cuando John le confiesa a su amigo y colega Sebastian que a√∫n no se siente preparado para ser padre, √©ste le sugiere que le regale a Jenny un perro. Los Grogan adoptan un bonito cachorro de Labrador que, poco despu√©s, se convierte en una mole de 45 kilos que transforma la casa en una verdadera cat√°strofe. (FILMAFFINITY)</info>
 <fanart>http://blogs.lanacion.com.ar/cine/files/2012/10/Marley-and-Me.jpg</fanart>
 </subitem>
 
@@ -3649,7 +3859,7 @@ Ano de LanÁamento:2014
 <title>[COLOR skyblue]LA PEOR NOCHE DE MI VIDA [/COLOR]</title>
 <link>http://veronline.tv/player/k7%2Fp09upYF%2Fx79pZrOLE4t6fXt3n0Fqu4dLd05Wi4%2B7IWr7dxNrUYKne6ZWWgaXKtManeuvvynuiy7q2x4mBquWahKDbrdrnnmiv46%2BhfdvI37A%3D.flv</link>
 <thumbnail>http://3.bp.blogspot.com/-He7r9g4wNwE/U2QEmlZIIZI/AAAAAAAAMlE/LjSs8fP2src/s1600/Pelicula_la-peor-noche-de-mi-vida.jpg</thumbnail>
-<info>El sueÒo de una reportera de convertirse en presentadora de noticias entra en peligro despuÈs de que un amante la deje en el centro de Los ¡ngeles sin telÈfono, coche, identificaciÛn, ni dinero, cuando en 8 horas tiene que llegar a la entrevista de trabajo m·s importante de su vida. (FILMAFFINITY)</info>
+<info>El sue√±o de una reportera de convertirse en presentadora de noticias entra en peligro despu√©s de que un amante la deje en el centro de Los √Ångeles sin tel√©fono, coche, identificaci√≥n, ni dinero, cuando en 8 horas tiene que llegar a la entrevista de trabajo m√°s importante de su vida. (FILMAFFINITY)</info>
 <fanart>http://cinematradicional.com/wp-content/uploads/2014/06/www.indiewire1-630x384.jpg</fanart>
 </subitem>
 
@@ -3657,7 +3867,7 @@ Ano de LanÁamento:2014
 <title>[COLOR skyblue]LAS NOVIAS DE MIS AMIGOS [/COLOR]</title>
 <link>http://veronline.tv/player/k7%2Fp09upYF%2Fx79pZrOLE4t6fXt3n0Fqu4dLd05Wi4%2B7IWr7dxNrUYKLc7d2apevLraidZsjpm5WV17LJ25pyqtG0XI2qu9LQh6nIpZt1jKjS0t4%3D.flv</link>
 <thumbnail>http://bucket1.clanacion.com.ar/anexos/fotos/cartelera/las-novias-de-mis-amigos-c_5653_poster2.jpg</thumbnail>
-<info>Narra las aventuras de tres amigos viviendo ese extraÒo momento en el que deben decidir ìøa dÛnde va la relaciÛn?î con las chicas que se encuentran saliendo</info>
+<info>Narra las aventuras de tres amigos viviendo ese extra√±o momento en el que deben decidir ¬ì¬øa d√≥nde va la relaci√≥n?¬î con las chicas que se encuentran saliendo</info>
 <fanart>http://staticvosf5a.lavozdelinterior.com.ar/sites/default/files/styles/landscape_1008_566/public/nota_periodistica/08_Apr_2014_22_56_02_las-novias-de-mis-amigos.jpg</fanart>
 </subitem>
 
@@ -3665,7 +3875,7 @@ Ano de LanÁamento:2014
 <title>[COLOR skyblue]AMERICAN PIE: EL REENCUENTRO   [/COLOR]</title>
 <link>http://veronline.tv/player/k7%2Fp09upYF%2Fx79pZrOLE4t6fXt3n0Fqu4dLd05Wi4%2B7IWr7dxNrUYJmr2bGlxKmz0sCqhL%2B5qXOTopi55Xloz%2Barg6zhmpvmiqq%2Bu6htluCVqaM%3D.flv</link>
 <thumbnail>http://ehdeezion.files.wordpress.com/2012/04/american.jpg</thumbnail>
-<info>Un grupo de viejos amigos vuelven a reunirse. Jim (Jason Biggs) y Michelle (Alyson Hannigan) siguen felizmente casados, aunque hay una vecina que se ha enamorado de Èl. Adem·s, la cinta sexual con Nadia se ha convertido en uno de los videos m·s vistos de Youtube. Por su parte, Oz (Chris Klein) vive en una mansiÛn de Malib˙, pero su novia parece sÛlo interesada por su dinero. Mientras tanto, la vida de Stifler (Seann William Scott) sigue siendo un desastre. Heather (Mena Suvari) sale con un cirujano que intenta parecer m·s joven, y Finch (Eddie Kaye Thomas), que ha viajado por el mundo, intenta ligar con Trish, una camarera amiga de Michelle</info>
+<info>Un grupo de viejos amigos vuelven a reunirse. Jim (Jason Biggs) y Michelle (Alyson Hannigan) siguen felizmente casados, aunque hay una vecina que se ha enamorado de √©l. Adem√°s, la cinta sexual con Nadia se ha convertido en uno de los videos m√°s vistos de Youtube. Por su parte, Oz (Chris Klein) vive en una mansi√≥n de Malib√∫, pero su novia parece s√≥lo interesada por su dinero. Mientras tanto, la vida de Stifler (Seann William Scott) sigue siendo un desastre. Heather (Mena Suvari) sale con un cirujano que intenta parecer m√°s joven, y Finch (Eddie Kaye Thomas), que ha viajado por el mundo, intenta ligar con Trish, una camarera amiga de Michelle</info>
 <fanart>https://i.ytimg.com/vi/1PmZl3E9y9o/maxresdefault.jpg</fanart>
 </subitem>
 
@@ -3673,7 +3883,7 @@ Ano de LanÁamento:2014
 <title>[COLOR skyblue]AMERICAN PIE: EL LIBRO DEL AMOR [/COLOR]</title>
 <link>http://veronline.tv/player/k7%2Fp09upYF%2Fx79pZrOLE4t6fXt3n0Fqu4dLd05Wi4%2B7IWr7dxNrUYJny8sqXpb7K4eaSn6yotp2849q7xoeGsq2VXq7ApbvRoWjtut2FoOHN3%2BI%3D.flv</link>
 <thumbnail>http://pics.filmaffinity.com/American_Pie_7_el_libro_del_amor-624558265-large.jpg</thumbnail>
-<info>ARob (Bug Hall), Nathan (Kevin M. Horton) y Lube (Brandon Hardesty) son tres amigos del instituto East Great Falls que se proponen como misiÛn conseguir el Èxito entre las chicas. Tras varios intentos fallidos, accidentalmente descubren oculta en una biblioteca la ìBiblia del Sexoî, una legendaria guÌa sobre la seducciÛn que contiene multitud de secretos para el Èxito sexual, escrito por alumnos de las generaciones anteriores de la escuela. Pero algunas p·ginas perdidas conducir·n a divertidas sorpresas para todos, incluidos los ex-alumnos </info>
+<info>ARob (Bug Hall), Nathan (Kevin M. Horton) y Lube (Brandon Hardesty) son tres amigos del instituto East Great Falls que se proponen como misi√≥n conseguir el √©xito entre las chicas. Tras varios intentos fallidos, accidentalmente descubren oculta en una biblioteca la ¬ìBiblia del Sexo¬î, una legendaria gu√≠a sobre la seducci√≥n que contiene multitud de secretos para el √©xito sexual, escrito por alumnos de las generaciones anteriores de la escuela. Pero algunas p√°ginas perdidas conducir√°n a divertidas sorpresas para todos, incluidos los ex-alumnos </info>
 <fanart>http://peliculas-y-series.programasfull.com/wp-content/uploads/American-Pie-7-cap-2.JPG</fanart>
 </subitem>
 
@@ -3689,7 +3899,7 @@ Ano de LanÁamento:2014
 <title>[COLOR skyblue]AMERICAN PIE: UNA FIESTA DE PELOTAS  [/COLOR]</title>
 <link>http://veronline.tv/player/k7%2Fp09upYF%2Fx79pZrOLE4t6fXt3n0Fqu4dLd05Wi4%2B7IWr7dxNrUYHPL7tSXndiuwKedYsDipKG3zLrfv6l15%2BHUjJzFlpi9cpHo39CfnuvHrqc%3D.flv</link>
 <thumbnail>http://3.bp.blogspot.com/_2iKUz9Yi4_w/TOdGD029a6I/AAAAAAAAA04/9W9hN3FxFGQ/s640/25bf17115o8u8i.jpg</thumbnail>
-<info>Cuando Erik Stifler se da cuenta de que es el ˙nico miembro de la familia Stifler que podrÌa acabar el instituto sin haber perdido la virginidad, decide que tiene que estar a la altura del legado recibido. DespuÈs de algunos consejos bienintencionados del padre de Jim (Eugene Levy), Erik est· listo para arriesgarse en la anual e infame carrera universitaria desinhibidas provocar·n el fin de semana m·s escandaloso jam·s vivido </info>
+<info>Cuando Erik Stifler se da cuenta de que es el √∫nico miembro de la familia Stifler que podr√≠a acabar el instituto sin haber perdido la virginidad, decide que tiene que estar a la altura del legado recibido. Despu√©s de algunos consejos bienintencionados del padre de Jim (Eugene Levy), Erik est√° listo para arriesgarse en la anual e infame carrera universitaria desinhibidas provocar√°n el fin de semana m√°s escandaloso jam√°s vivido </info>
 <fanart>http://www.lasexta.com/clipping/2013/08/22/00588/30.jpg</fanart>
 </subitem>
 
@@ -3719,16 +3929,16 @@ Ano de LanÁamento:2014
 <fanart>http://2.bp.blogspot.com/_bRtm8GraKA4/S9uP8TML7tI/AAAAAAAAAJ4/b816Se5_KSU/s1600/IronManConcept1.jpg</fanart>
 <info>TV NACIONAL</info>
 <genre>TV
-Ano de LanÁamento:2014 
-¡udio: LATINO
+Ano de Lan√ßamento:2014 
+√Åudio: LATINO
 </genre>TV
 <subitems>
 
 <subitem>
-<title>[COLOR skyblue]EL SORPRENDENTE HOMBRE ARA—A 2  [/COLOR]</title>
+<title>[COLOR skyblue]EL SORPRENDENTE HOMBRE ARA√ëA 2  [/COLOR]</title>
 <link>http://veronline.tv/player/k7%2Fp09upYF%2Fx79pZrOLE4t6fXt3n0Fqu4dLd05Wi4%2B7IWr7dxNrUYGjHr7eMtemW2KSVn7zspHnCqsvVv2Gg0b%2BzkITImL%2B0emnKpdZxwru4ncA%3D.flv</link>
 <thumbnail>http://pics.filmaffinity.com/The_Amazing_Spider_Man_2_El_poder_de_Electro-541949532-large.jpg</thumbnail>
-<info>Peter Parker lleva una vida muy ocupada, compaginando su tiempo entre su papel como Spider-Man, acabando con los malos, y en el instituto con la persona a la que quiere, Gwen. Peter no ve el momento de graduarse. No ha olvidado la promesa que le hizo al padre de Gwen de protegerla, manteniÈndose lejos de ella, pero es una promesa que simplemente no puede cumplir. Las cosas cambiar·n para Peter cuando aparece un nuevo villano, Electro, y un viejo amigo, Harry Osborn, regresa, al tiempo que descubre nuevas pistas sobre su pasado. (FILMAFFINITY)</info>
+<info>Peter Parker lleva una vida muy ocupada, compaginando su tiempo entre su papel como Spider-Man, acabando con los malos, y en el instituto con la persona a la que quiere, Gwen. Peter no ve el momento de graduarse. No ha olvidado la promesa que le hizo al padre de Gwen de protegerla, manteni√©ndose lejos de ella, pero es una promesa que simplemente no puede cumplir. Las cosas cambiar√°n para Peter cuando aparece un nuevo villano, Electro, y un viejo amigo, Harry Osborn, regresa, al tiempo que descubre nuevas pistas sobre su pasado. (FILMAFFINITY)</info>
 <fanart>http://www.zonanegativa.com/imagenes/2013/12/Amazing-Spider-Man-2-Posters.jpg</fanart>
 </subitem>
 
@@ -3736,7 +3946,7 @@ Ano de LanÁamento:2014
 <title>[COLOR skyblue]EL CIELO SI EXISTE 2014[/COLOR]</title>
 <link>http://veronline.tv/player/k7%2Fp09upYF%2Fx79pZrOLE4t6fXt3n0Fqu4dLd05Wi4%2B7IWr7dxNrUYIjHxqiXlquk1tl2qt%2FGsHOA7LPK3HiVw820mpKu0tjpdGXBx5p1n7jZmt4%3D.flv</link>
 <thumbnail>http://pics.filmaffinity.com/El_cielo_es_real-377992411-large.jpg</thumbnail>
-<info>Un padre de un pueblo pequeÒo debe encontrar el coraje y la convicciÛn para compartir con el mundo una extraordinaria experiencia que ha cambiado la vida de su hijo Colton Burpo: tras una operaciÛn en el hospital el pequeÒo, de tan solo 4 aÒos, afirma haber estado en el cielo y haberse sentado en el regazo de Jes˙s. Al principio todos creen que son imaginaciones del niÒo, pero Èste demuestra saber cosas que no deberÌa saber... (FILMAFFINITY)</info>
+<info>Un padre de un pueblo peque√±o debe encontrar el coraje y la convicci√≥n para compartir con el mundo una extraordinaria experiencia que ha cambiado la vida de su hijo Colton Burpo: tras una operaci√≥n en el hospital el peque√±o, de tan solo 4 a√±os, afirma haber estado en el cielo y haberse sentado en el regazo de Jes√∫s. Al principio todos creen que son imaginaciones del ni√±o, pero √©ste demuestra saber cosas que no deber√≠a saber... (FILMAFFINITY)</info>
 <fanart>http://1.bp.blogspot.com/-AXjKHJ0Ty6U/U7A6eH_4HcI/AAAAAAAAE1A/lXdpKFSl5JY/s1600/heaven-is-for-real-movie-2014-wallpaper-53899bbf8fd82.jpg</fanart>
 </subitem>
 
@@ -3744,7 +3954,7 @@ Ano de LanÁamento:2014
 <title>[COLOR skyblue] NOE[/COLOR]</title>
 <link>http://veronline.tv/player/k7%2Fp09upYF%2Fx79pZrOLE4t6fXt3n0Fqu4dLd05Wi4%2B7IWr7dxNrUYH%2Fd7aqOmaaoy9ebf%2Brsu5ez3ZCs1aZksN%2BsgJrq2LDmomTcq8VuscyrssA%3D.flv</link>
 <thumbnail>http://www.labutaca.net/imagenes/wp-content/original/2014_02/noe-cartel-2.jpg</thumbnail>
-<info>En un mundo asolado por los pecados humanos, NoÈ, un hombre pacÌfico que sÛlo desea vivir tranquilo con su familia, recibe una misiÛn divina: construir un Arca para salvar a la creaciÛn del inminente diluvio. Todo comienza cuando, cada noche, NoÈ tiene el mismo sueÒo: las visiones de muerte provocada por el agua, seguidas de nueva vida en la Tierra. (FILMAFFINITY)</info>
+<info>En un mundo asolado por los pecados humanos, No√©, un hombre pac√≠fico que s√≥lo desea vivir tranquilo con su familia, recibe una misi√≥n divina: construir un Arca para salvar a la creaci√≥n del inminente diluvio. Todo comienza cuando, cada noche, No√© tiene el mismo sue√±o: las visiones de muerte provocada por el agua, seguidas de nueva vida en la Tierra. (FILMAFFINITY)</info>
 <fanart>http://locoxelcine.com/wp-content/uploads/2014/04/noe-teaser-trailer-y-poster.jpg</fanart>
 </subitem>
 
@@ -3752,7 +3962,7 @@ Ano de LanÁamento:2014
 <title>[COLOR skyblue]DIVERGENTE 2014[/COLOR]</title>
 <link>http://veronline.tv/player/k7%2Fp09upYF%2Fx79pZrOLE4t6fXt3n0Fqu4dLd05Wi4%2B7IWr7dxNrUYGKnu8KjpM%2FTrcl8kq%2BpxmK05bLX1YV%2Fs7zEZLntmcHTnmTUy5uhquGpubQ%3D.flv</link>
 <thumbnail>http://pics.filmaffinity.com/Divergente-665180025-large.jpg</thumbnail>
-<info>En un mundo distÛpico en el que la sociedad se divide en cinco categorÌas (Verdad, AbnegaciÛn, OsadÌa, Cordialidad y ErudiciÛn), los jÛvenes deben elegir, atendiendo a sus virtudes personales m·s destacadas, a quÈ facciÛn pertenecer. Beatrice sorprende a los suyos con su decisiÛn, pero ella no es como los dem·s: guarda un secreto del que podrÌa depender el orden social e incluso su propia vida. (FILMAFFINITY)</info>
+<info>En un mundo dist√≥pico en el que la sociedad se divide en cinco categor√≠as (Verdad, Abnegaci√≥n, Osad√≠a, Cordialidad y Erudici√≥n), los j√≥venes deben elegir, atendiendo a sus virtudes personales m√°s destacadas, a qu√© facci√≥n pertenecer. Beatrice sorprende a los suyos con su decisi√≥n, pero ella no es como los dem√°s: guarda un secreto del que podr√≠a depender el orden social e incluso su propia vida. (FILMAFFINITY)</info>
 <fanart>http://pics.filmaffinity.com/Divergente-716436627-large.jpg</fanart>
 </subitem>
 
@@ -3791,8 +4001,8 @@ Ano de LanÁamento:2014
 <fanart>http://www.8cn.tv/sites/default/files/NfSRun.jpg</fanart>
 <info>TV NACIONAL</info>
 <genre>TV
-Ano de LanÁamento:2014 
-¡udio: LATINO
+Ano de Lan√ßamento:2014 
+√Åudio: LATINO
 </genre>TV
 <subitems>
 
@@ -3800,7 +4010,7 @@ Ano de LanÁamento:2014
 <title>[COLOR skyblue]CAPITAN AMERICA /EL SOLDADO DEL INVIERNO 2014[/COLOR]</title>
 <link>http://veronline.tv/player/k7/p09upYF/x79pZrOLE4t6fXt3n0Fqu4dLd05Wi4+7IWr7dxNrUYIby4bCOjsLX3uB3adG93ZmE7LGf6KJm9OTZW5qspre8eKDZ0seNo8ic0bg=.flv</link>
 <thumbnail>http://pics.filmaffinity.com/Capit_n_Am_rica_El_soldado_de_invierno-863677521-large.jpg</thumbnail>
-<info>Tras los devastadores acontecimientos acaecidos en Nueva York con Los Vengadores, Steve Rogers, alias el Capit·n AmÈrica, vive tranquilamente en Washington D.C. intentando adaptarse al mundo moderno. Pero cuando atacan a un colega de S.H.I.E.L.D., Steve se ve envuelto en una trama de intrigas que representa una amenaza para el mundo. Se unir· entonces a la Viuda Negra para desenmascarar a los conspiradores. Cuando por fin descubren la magnitud de la trama, se unir· a ellos el HalcÛn. Los tres tendr·n que enfrentarse a un enemigo inesperado y extraordinario: el Soldado de Invierno. (FILMAFFINITY)</info>
+<info>Tras los devastadores acontecimientos acaecidos en Nueva York con Los Vengadores, Steve Rogers, alias el Capit√°n Am√©rica, vive tranquilamente en Washington D.C. intentando adaptarse al mundo moderno. Pero cuando atacan a un colega de S.H.I.E.L.D., Steve se ve envuelto en una trama de intrigas que representa una amenaza para el mundo. Se unir√° entonces a la Viuda Negra para desenmascarar a los conspiradores. Cuando por fin descubren la magnitud de la trama, se unir√° a ellos el Halc√≥n. Los tres tendr√°n que enfrentarse a un enemigo inesperado y extraordinario: el Soldado de Invierno. (FILMAFFINITY)</info>
 <fanart>http://www.go-mag.com/imagenes/trailer-de-capitan-america-el-soldado-de-invierno_no__13227.jpg</fanart>
 </subitem>
 
@@ -3808,7 +4018,7 @@ Ano de LanÁamento:2014
 <title>[COLOR skyblue]NEED FOR SPEED 2014  [/COLOR]</title>
 <link>http://veronline.tv/player/k7%2Fp09upYF%2Fx79pZrOLE4t6fXt3n0Fqu4dLd05Wi4%2B7IWr7dxNrUYHTTxa1jucnE4t9%2FmK%2FR05igusrg6Zam79qQgaTD0tnShoXp4cdblMXS3bw%3D.flv</link>
 <thumbnail>http://pics.filmaffinity.com/Need_For_Speed-821158567-main.jpg</thumbnail>
-<info>Cuenta la historia de un piloto de carreras clandestinas que posee su propio garaje para modificar sus coches y hacerlos m·s r·pidos. Sin embargo, es enviado a prisiÛn cuando su mejor amigo es asesinado en una de estas competiciones, y buscar· vengarse cuando quede en libertad. AdaptaciÛn al cine de la saga de videojuegos homÛnima. (FILMAFFINITY)</info>
+<info>Cuenta la historia de un piloto de carreras clandestinas que posee su propio garaje para modificar sus coches y hacerlos m√°s r√°pidos. Sin embargo, es enviado a prisi√≥n cuando su mejor amigo es asesinado en una de estas competiciones, y buscar√° vengarse cuando quede en libertad. Adaptaci√≥n al cine de la saga de videojuegos hom√≥nima. (FILMAFFINITY)</info>
 <fanart>http://pics.filmaffinity.com/Need_For_Speed-900823200-large.jpg</fanart>
 </subitem>
 
@@ -3816,7 +4026,7 @@ Ano de LanÁamento:2014
 <title>[COLOR skyblue]NON-STOP: SIN ESCALAS  [/COLOR]</title>
 <link>http://veronline.tv/player/k7%2Fp09upYF%2Fx79pZrOLE4t6fXt3n0Fqu4dLd05Wi4%2B7IWr7dxNrUYIXMvLt1jKbP0uRjj8SxyZaXrbuZt3uj7tndgaPWlbvWhqnq49Clpc6k2bw%3D.flv</link>
 <thumbnail>http://pics.filmaffinity.com/Non_Stop_Sin_escalas-314191791-large.jpg</thumbnail>
-<info>Bill Marks (Liam Neeson), un veterano agente del servicio aÈreo de los Air Marshalls, pasa por una mala etapa: tiene problemas con la bebida, y ˙ltimamente se toma su trabajo como una rutinaria tarea de vigilante a bordo de un aviÛn. Sin embargo, en un viaje de Nueva York a Londres recibe una serie de misteriosos mensajes de texto, en los que se le pide que inste al gobierno a hacer una transferencia de 150 millones de dÛlares a una cuenta secreta. En caso contrario, un pasajero morir· cada 20 minutos. El juego del gato y el ratÛn se desarrollado a 40.000 pies de altura y con la vida de 200 pasajeros pendiente de un hilo. (FILMAFFINITY)</info>
+<info>Bill Marks (Liam Neeson), un veterano agente del servicio a√©reo de los Air Marshalls, pasa por una mala etapa: tiene problemas con la bebida, y √∫ltimamente se toma su trabajo como una rutinaria tarea de vigilante a bordo de un avi√≥n. Sin embargo, en un viaje de Nueva York a Londres recibe una serie de misteriosos mensajes de texto, en los que se le pide que inste al gobierno a hacer una transferencia de 150 millones de d√≥lares a una cuenta secreta. En caso contrario, un pasajero morir√° cada 20 minutos. El juego del gato y el rat√≥n se desarrollado a 40.000 pies de altura y con la vida de 200 pasajeros pendiente de un hilo. (FILMAFFINITY)</info>
 <fanart>http://pics.filmaffinity.com/Non_Stop_Sin_escalas-965709204-large.jpg</fanart>
 </subitem>
 
@@ -3824,7 +4034,7 @@ Ano de LanÁamento:2014
 <title>[COLOR skyblue]BASTARDOS SIN GLORIA  [/COLOR]</title>
 <link>http://veronline.tv/player/k7%2Fp09upYF%2Fx79pZrOLE4t6fXt3n0Fqu4dLd05Wi4%2B7IWr7dxNrUYHnJ77JuvaLUtdmglL%2Ft0ViM5cyt2HN%2Bu9nKYI7vtK%2FdkJHGvtCBr8Ktqbw%3D.flv</link>
 <thumbnail>http://pics.filmaffinity.com/Malditos_bastardos-976286054-large.jpg</thumbnail>
-<info>Segunda Guerra Mundial. Durante la ocupaciÛn de Francia por los alemanes, Shosanna Dreyfus (MÈlanie Laurent) presencia la ejecuciÛn de su familia por orden del coronel nazi Hans Landa (Christoph Waltz). DespuÈs de huir a ParÌs, adopta una nueva identidad como propietaria de un cine. En otro lugar de Europa, el teniente Aldo Raine (Brad Pitt) adiestra a un grupo de soldados judÌos ("The Basterds") para atacar objetivos concretos. Los hombres de Raine y una actriz alemana (Diane Kruger), que trabaja para los aliados, deben llevar a cabo una misiÛn que har· caer a los jefes del Tercer Reich. El destino quiere que todos se encuentren bajo la marquesina de un cine donde Shosanna espera para vengarse. (FILMAFFINITY)</info>
+<info>Segunda Guerra Mundial. Durante la ocupaci√≥n de Francia por los alemanes, Shosanna Dreyfus (M√©lanie Laurent) presencia la ejecuci√≥n de su familia por orden del coronel nazi Hans Landa (Christoph Waltz). Despu√©s de huir a Par√≠s, adopta una nueva identidad como propietaria de un cine. En otro lugar de Europa, el teniente Aldo Raine (Brad Pitt) adiestra a un grupo de soldados jud√≠os ("The Basterds") para atacar objetivos concretos. Los hombres de Raine y una actriz alemana (Diane Kruger), que trabaja para los aliados, deben llevar a cabo una misi√≥n que har√° caer a los jefes del Tercer Reich. El destino quiere que todos se encuentren bajo la marquesina de un cine donde Shosanna espera para vengarse. (FILMAFFINITY)</info>
 <fanart>http://pics.filmaffinity.com/Malditos_bastardos-747221448-large.jpg</fanart>
 </subitem>
 
@@ -3832,7 +4042,7 @@ Ano de LanÁamento:2014
 <title>[COLOR skyblue]3 DIAS PARA MATAR  [/COLOR]</title>
 <link>http://veronline.tv/player/k7%2Fp09upYF%2Fx79pZrOLE4t6fXt3n0Fqu4dLd05Wi4%2B7IWr7dxNrUYHzCqrZbsMTO2qSgaOK8t1%2Bqq5XC0KiDu8SodnjKyb%2FEcpy8469gktuqyto%3D.flv</link>
 <thumbnail>http://pics.filmaffinity.com/3_d_as_para_matar-629206392-large.jpg</thumbnail>
-<info>Ethan Runner (Kevin Costner) es un veterano agente del servicio secreto que afronta su ˙ltima misiÛn con la esperanza de retirarse para vivir con su hija adolescente (Hailee Steinfeld), a la que apenas conoce, antes de que sea demasiado tarde para ejercer como padre. (FILMAFFINITY)</info>
+<info>Ethan Runner (Kevin Costner) es un veterano agente del servicio secreto que afronta su √∫ltima misi√≥n con la esperanza de retirarse para vivir con su hija adolescente (Hailee Steinfeld), a la que apenas conoce, antes de que sea demasiado tarde para ejercer como padre. (FILMAFFINITY)</info>
 <fanart>http://es.web.img1.acsta.net/r_640_600/b_1_d6d6d6/pictures/14/02/14/11/37/048656.jpg</fanart>
 </subitem>
 
@@ -3840,7 +4050,7 @@ Ano de LanÁamento:2014
 <title>[COLOR skyblue]TOKAREV  [/COLOR]</title>
 <link>http://veronline.tv/player/k7%2Fp09upYF%2Fx79pZrOLE4t6fXt3n0Fqu4dLd05Wi4%2B7IWr7dxNrUYJjZ7px0udyW4biaos%2FixqWXqrSwn5pxsN62dJbMrdPFf2nSrc6hwdzFoeY%3D.flv</link>
 <thumbnail>http://pics.filmaffinity.com/Tokarev-889615331-large.jpg</thumbnail>
-<info>Un respetado hombre de negocios de pasado oscuro busca venganza despuÈs de que su hija sea secuestrada por unos hombres que quieren saldar viejas deudas. Ante sus amigos y familiares, Paul Maguire (Nicolas Cage) es un hombre familiar y trabajador, pero desconocen que Paul tiene un pasado muy diferente, en el que la vida era barata y las deudas se pagaban con sangre.(FILMAFFINITY)</info>
+<info>Un respetado hombre de negocios de pasado oscuro busca venganza despu√©s de que su hija sea secuestrada por unos hombres que quieren saldar viejas deudas. Ante sus amigos y familiares, Paul Maguire (Nicolas Cage) es un hombre familiar y trabajador, pero desconocen que Paul tiene un pasado muy diferente, en el que la vida era barata y las deudas se pagaban con sangre.(FILMAFFINITY)</info>
 <fanart>http://gigscreen.com/wp-content/uploads/2014/03/Tokarev-2014.jpg</fanart>
 </subitem>
 
@@ -3848,7 +4058,7 @@ Ano de LanÁamento:2014
 <title>[COLOR skyblue]OPERACION MONUMENTO  [/COLOR]</title>
 <link>http://veronline.tv/player/k7%2Fp09upYF%2Fx79pZrOLE4t6fXt3n0Fqu4dLd05Wi4%2B7IWr7dxNrUYHmqvr16r9nJ4dyCl73w2o2846udwKaf0OqypY3vz6yckKng47eYtMm32to%3D.flv</link>
 <thumbnail>http://pics.filmaffinity.com/Monuments_Men-362800507-large.jpg</thumbnail>
-<info>A finales de la II Guerra Mundial (1939-1945), a un selecto grupo de historiadores, directores de museos y expertos en arte, tanto brit·nicos como norteamericanos, se les encomienda la importante y peligrosa misiÛn de recuperar las obras de arte robadas por los nazis durante la guerra para devolvÈrselas a sus legÌtimos propietarios. Era una misiÛn imposible: las obras estaban muy bien custodiadas y el ejÈrcito alem·n tenÌa orden de destruirlas en cuanto el Reich cayera. Pero aquellos hombres, en una carrera contrarreloj, arriesgaron sus vidas para evitar la destrucciÛn de miles de aÒos de cultura de la humanidad. (FILMAFFINITY)</info>
+<info>A finales de la II Guerra Mundial (1939-1945), a un selecto grupo de historiadores, directores de museos y expertos en arte, tanto brit√°nicos como norteamericanos, se les encomienda la importante y peligrosa misi√≥n de recuperar las obras de arte robadas por los nazis durante la guerra para devolv√©rselas a sus leg√≠timos propietarios. Era una misi√≥n imposible: las obras estaban muy bien custodiadas y el ej√©rcito alem√°n ten√≠a orden de destruirlas en cuanto el Reich cayera. Pero aquellos hombres, en una carrera contrarreloj, arriesgaron sus vidas para evitar la destrucci√≥n de miles de a√±os de cultura de la humanidad. (FILMAFFINITY)</info>
 <fanart>http://pics.filmaffinity.com/Monuments_Men-930194333-large.jpg</fanart>
 </subitem>
 
@@ -3856,7 +4066,7 @@ Ano de LanÁamento:2014
 <title>[COLOR skyblue]ROBOCOP  [/COLOR]</title>
 <link>http://veronline.tv/player/k7%2Fp09upYF%2Fx79pZrOLE4t6fXt3n0Fqu4dLd05Wi4%2B7IWr7dxNrUYGnF3c6hfejI1eeEneC8tqF%2F36ng1F6UzcLXooHCl7ifZnTBqJZfrrrElaM%3D.flv</link>
 <thumbnail>http://www.sinemafilmizle.com/wp-content/uploads/2014/05/robocop.jpg</thumbnail>
-<info>AÒo 2028, la compaÒÌa multinacional OmniCorp domina la tecnologÌa robÛtica. Sus robots han ganado todo tipo de guerras fuera de los Estados Unidos y ahora quieren probarlos dentro del paÌs. Por su parte, Alex Murphy es un policÌa de Detroit que se esfuerza por acabar con la ola de crÌmenes que arrasa la ciudad. Cuando Alex resulta gravemente herido en acto de servicio, OmniCorp utiliza sus conocimientos de ciencia robÛtica para salvarlo y, adem·s, dotarlo de extraordinarios poderes, que lo obligar·n a enfrentarse a problemas fuera de lo com˙n</info>
+<info>A√±o 2028, la compa√±√≠a multinacional OmniCorp domina la tecnolog√≠a rob√≥tica. Sus robots han ganado todo tipo de guerras fuera de los Estados Unidos y ahora quieren probarlos dentro del pa√≠s. Por su parte, Alex Murphy es un polic√≠a de Detroit que se esfuerza por acabar con la ola de cr√≠menes que arrasa la ciudad. Cuando Alex resulta gravemente herido en acto de servicio, OmniCorp utiliza sus conocimientos de ciencia rob√≥tica para salvarlo y, adem√°s, dotarlo de extraordinarios poderes, que lo obligar√°n a enfrentarse a problemas fuera de lo com√∫n</info>
 <fanart>http://heroeyvillano.com/wp-content/uploads/2014/05/2014_robocop.jpg</fanart>
 </subitem>
 
@@ -3894,8 +4104,8 @@ Ano de LanÁamento:2014
 <fanart>http://tipaso.com/wp-content/uploads/2013/07/imagen-imagenes-wallpapers-fondos-pantalla-hd-buena-calidad-peliculas-ciencia-ficcion-titanes-del-pacifico-pacific-rim-jaeger-16.jpg</fanart>
 <info>TV NACIONAL</info>
 <genre>TV
-Ano de LanÁamento:2014 
-¡udio: LATINO
+Ano de Lan√ßamento:2014 
+√Åudio: LATINO
 </genre>TV
 <subitems>
 
@@ -3903,7 +4113,7 @@ Ano de LanÁamento:2014
 <title>[COLOR skyblue]THE ZERO THEOREM 2014 [/COLOR]</title>
 <link>http://veronline.tv/player/k7%2Fp09upYF%2Fx79pZrOLE4t6fXt3n0Fqu4dLd05Wi4%2B7IWr7dxNrUYJ%2FE3s2albe6usFhe%2FLNrJq26ba%2Fo4Gh06%2FQfYLqtZzkp6K73dOSta6mz7g%3D.flv</link>
 <thumbnail>http://saltypopcorn.com.au/wp-content/uploads/2014/05/ZEROT_A4poster.jpg</thumbnail>
-<info>Qohen Leth es un excÈntrico genio de los ordenadores que vive en un mundo corporativo controlado por una oscura figura llamada "DirecciÛn". Recluido en el interior de una capilla en ruinas, Qohen trabaja en la soluciÛn a un extraÒo teorema, un proyecto que podrÌa descubrir la verdad sobre su alma y el significado de la existencia (o la falta del mismo) de una vez por todas. (FILMAFFINITY)</info>
+<info>Qohen Leth es un exc√©ntrico genio de los ordenadores que vive en un mundo corporativo controlado por una oscura figura llamada "Direcci√≥n". Recluido en el interior de una capilla en ruinas, Qohen trabaja en la soluci√≥n a un extra√±o teorema, un proyecto que podr√≠a descubrir la verdad sobre su alma y el significado de la existencia (o la falta del mismo) de una vez por todas. (FILMAFFINITY)</info>
 <fanart>http://i1.ytimg.com/vi/-6-3nGbImxQ/maxresdefault.jpg</fanart>
 </subitem>
 
@@ -3911,7 +4121,7 @@ Ano de LanÁamento:2014
 <title>[COLOR skyblue]TRASENDENCE: IDENTIDAD VIRTUAL  [/COLOR]</title>
 <link>http://veronline.tv/player/k7%2Fp09upYF%2Fx79pZrOLE4t6fXt3n0Fqu4dLd05Wi4%2B7IWr7dxNrUYJK97rOZo97ZwL2CdfDHtJa0vdiV4J917ePdkZ%2FizrPphqTf2ZiYg6zW2p8%3D.flv</link>
 <thumbnail>http://pics.filmaffinity.com/Transcendence-787338727-main.jpg</thumbnail>
-<info>El Dr. Will Caster (Johnny Depp) es el investigador m·s importante en el campo de la Inteligencia Artificial, y est· trabajando en la creaciÛn de una m·quina sensitiva que combine la inteligencia colectiva de todo lo conocido con el rango completo de emociones humanas. Sus experimentos altamente controvertidos le han hecho famoso, pero al mismo tiempo le han convertido en el principal objetivo de extremistas anti-tecnolÛgicos que, en su intento de destruir a Will, se convertir·n inadvertidamente en los catalizadores de su Èxito haciÈndole partÌcipe de su propia trascendencia. Para su mujer Evelyn (Rebecca Hall) y su mejor amigo Max Waters (Paul Bettany), ambos compaÒeros de investigaciÛn, la cuestiÛn no es si pueden hacerloÖ sino si deben hacerlo. Los peores miedos de Evelyn y Max se hacen realidad cuando la sed de conocimiento de Will evoluciona en una omnipresente b˙squeda de poder de consecuencias desconocidas. Lo ˙nico que se vuelve terrorÌficamente incuestionable es que puede no haber modo de detenerle. (FILMAFFINITY)</info>
+<info>El Dr. Will Caster (Johnny Depp) es el investigador m√°s importante en el campo de la Inteligencia Artificial, y est√° trabajando en la creaci√≥n de una m√°quina sensitiva que combine la inteligencia colectiva de todo lo conocido con el rango completo de emociones humanas. Sus experimentos altamente controvertidos le han hecho famoso, pero al mismo tiempo le han convertido en el principal objetivo de extremistas anti-tecnol√≥gicos que, en su intento de destruir a Will, se convertir√°n inadvertidamente en los catalizadores de su √©xito haci√©ndole part√≠cipe de su propia trascendencia. Para su mujer Evelyn (Rebecca Hall) y su mejor amigo Max Waters (Paul Bettany), ambos compa√±eros de investigaci√≥n, la cuesti√≥n no es si pueden hacerlo¬Ö sino si deben hacerlo. Los peores miedos de Evelyn y Max se hacen realidad cuando la sed de conocimiento de Will evoluciona en una omnipresente b√∫squeda de poder de consecuencias desconocidas. Lo √∫nico que se vuelve terror√≠ficamente incuestionable es que puede no haber modo de detenerle. (FILMAFFINITY)</info>
 <fanart>http://cde.peru.com/ima/0/0/8/3/0/830720/611x458/johnny-depp.jpg</fanart>
 </subitem>
 
@@ -3919,7 +4129,7 @@ Ano de LanÁamento:2014
 <title>[COLOR skyblue]ROBOCOP  [/COLOR]</title>
 <link>http://veronline.tv/player/k7%2Fp09upYF%2Fx79pZrOLE4t6fXt3n0Fqu4dLd05Wi4%2B7IWr7dxNrUYGnF3c6hfejI1eeEneC8tqF%2F36ng1F6UzcLXooHCl7ifZnTBqJZfrrrElaM%3D.flv</link>
 <thumbnail>http://www.sinemafilmizle.com/wp-content/uploads/2014/05/robocop.jpg</thumbnail>
-<info>AÒo 2028, la compaÒÌa multinacional OmniCorp domina la tecnologÌa robÛtica. Sus robots han ganado todo tipo de guerras fuera de los Estados Unidos y ahora quieren probarlos dentro del paÌs. Por su parte, Alex Murphy es un policÌa de Detroit que se esfuerza por acabar con la ola de crÌmenes que arrasa la ciudad. Cuando Alex resulta gravemente herido en acto de servicio, OmniCorp utiliza sus conocimientos de ciencia robÛtica para salvarlo y, adem·s, dotarlo de extraordinarios poderes, que lo obligar·n a enfrentarse a problemas fuera de lo com˙n</info>
+<info>A√±o 2028, la compa√±√≠a multinacional OmniCorp domina la tecnolog√≠a rob√≥tica. Sus robots han ganado todo tipo de guerras fuera de los Estados Unidos y ahora quieren probarlos dentro del pa√≠s. Por su parte, Alex Murphy es un polic√≠a de Detroit que se esfuerza por acabar con la ola de cr√≠menes que arrasa la ciudad. Cuando Alex resulta gravemente herido en acto de servicio, OmniCorp utiliza sus conocimientos de ciencia rob√≥tica para salvarlo y, adem√°s, dotarlo de extraordinarios poderes, que lo obligar√°n a enfrentarse a problemas fuera de lo com√∫n</info>
 <fanart>http://heroeyvillano.com/wp-content/uploads/2014/05/2014_robocop.jpg</fanart>
 </subitem>
 
@@ -3957,8 +4167,8 @@ Ano de LanÁamento:2014
 <fanart>http://images.forwallpaper.com/files/images/9/9f17/9f17652c/1092988/movie-horror-scifi-thriller-later-action-weeks-wallpaper-background-computer-film-wallpapers-images.jpg</fanart>
 <info>TV NACIONAL</info>
 <genre>TV
-Ano de LanÁamento:2014 
-¡udio: LATINO
+Ano de Lan√ßamento:2014 
+√Åudio: LATINO
 </genre>TV
 <subitems>
 
@@ -3966,7 +4176,7 @@ Ano de LanÁamento:2014
 <title>[COLOR skyblue]LOCKE 2014  [/COLOR]</title>
 <link>http://veronline.tv/player/k7%2Fp09upYF%2Fx79pZrOLE4t6fXt3n0Fqu4dLd05Wi4%2B7IWr7dxNrUYGbdu7hYgazR0bZeo7CsxW%2FCu9Gyxp2Vxc2Qlbu%2Bmd7iq4rKrMWBlte9mLw%3D.flv</link>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMTQ1MjE5MzU2M15BMl5BanBnXkFtZTgwNzE4OTMzMTE@._V1_SX640_SY720_.jpg</thumbnail>
-<info>Ivan Locke (Tom Hardy) es un hombre que ha trabajado duro para conseguir su objetivo: llevar una buena vida. Sin embargo, un dÌa, inesperadamente, recibe una llamada que trastoca todo su mundo. Desde ese momento se enfrascar· en una peligrosa huida contrarreloj. (FILMAFFINITY)</info>
+<info>Ivan Locke (Tom Hardy) es un hombre que ha trabajado duro para conseguir su objetivo: llevar una buena vida. Sin embargo, un d√≠a, inesperadamente, recibe una llamada que trastoca todo su mundo. Desde ese momento se enfrascar√° en una peligrosa huida contrarreloj. (FILMAFFINITY)</info>
 <fanart>http://101london.co.uk/wp-content/uploads/2014/05/locke-poster-film-review.jpg</fanart>
 </subitem>
 
@@ -3974,7 +4184,7 @@ Ano de LanÁamento:2014
 <title>[COLOR skyblue]LIARS ALL  [/COLOR]</title>
 <link>http://veronline.tv/player/k7%2Fp09upYF%2Fx79pZrOLE4t6fXt3n0Fqu4dLd05Wi4%2B7IWr7dxNrUYIXt4bFwe%2BOQx6OboLvRsW2R3Ja33HV8rrq2bcOuzKzZYnLr49B7osu34NI%3D.flv</link>
 <thumbnail>http://pics.filmaffinity.com/Liars_All-208731259-large.jpg</thumbnail>
-<info>En la vÌspera de AÒo Nuevo en Londres, un juego de provocaciÛn se sale de control y termina en el asesinato, el verdadero asesino escurridizo medio de conflicto testimonio y motivos ocultos.</info>
+<info>En la v√≠spera de A√±o Nuevo en Londres, un juego de provocaci√≥n se sale de control y termina en el asesinato, el verdadero asesino escurridizo medio de conflicto testimonio y motivos ocultos.</info>
 <fanart>http://i1.ytimg.com/vi/Ra9Q_FdPKq8/maxresdefault.jpg</fanart>
 </subitem>
 
@@ -3982,7 +4192,7 @@ Ano de LanÁamento:2014
 <title>[COLOR skyblue]EL SECRETO DE TUS OJOS [/COLOR]</title>
 <link>http://veronline.tv/player/k7/p09upYF/x79pZrOLE4t6fXt3n0Fqu4dLd05Wi4+7IWr7dxNrUYIHQ7rdvm+yZmqOLqbDXzW+xpqvN0Zxn49Grd8Pj27jTipjPzbp6lNnJ4ac=.flv</link>
 <thumbnail>http://pics.filmaffinity.com/El_secreto_de_sus_ojos-506256516-large.jpg</thumbnail>
-<info>Argentina, aÒos 70. BenjamÌn EspÛsito es oficial de un Juzgado de InstrucciÛn de Buenos Aires reciÈn retirado. Obsesionado por un brutal asesinato ocurrido treinta aÒos antes, decide escribir una novela sobre el caso, del cual fue testigo y protagonista. Reviviendo el pasado, viene tambiÈn a su memoria el recuerdo de una mujer, a quien ha amado en silencio durante todos esos aÒos. (FILMAFFINITY)</info>
+<info>Argentina, a√±os 70. Benjam√≠n Esp√≥sito es oficial de un Juzgado de Instrucci√≥n de Buenos Aires reci√©n retirado. Obsesionado por un brutal asesinato ocurrido treinta a√±os antes, decide escribir una novela sobre el caso, del cual fue testigo y protagonista. Reviviendo el pasado, viene tambi√©n a su memoria el recuerdo de una mujer, a quien ha amado en silencio durante todos esos a√±os. (FILMAFFINITY)</info>
 <fanart>http://agenciasanluis.com/notas/wp-content/uploads/2013/06/El-Secreto-de-sus-ojos.jpg</fanart>
 </subitem>
 
@@ -3990,7 +4200,7 @@ Ano de LanÁamento:2014
 <title>[COLOR skyblue]3 DIAS PARA MATAR  [/COLOR]</title>
 <link>http://veronline.tv/player/k7%2Fp09upYF%2Fx79pZrOLE4t6fXt3n0Fqu4dLd05Wi4%2B7IWr7dxNrUYHzCqrZbsMTO2qSgaOK8t1%2Bqq5XC0KiDu8SodnjKyb%2FEcpy8469gktuqyto%3D.flv</link>
 <thumbnail>http://pics.filmaffinity.com/3_d_as_para_matar-629206392-large.jpg</thumbnail>
-<info>Ethan Runner (Kevin Costner) es un veterano agente del servicio secreto que afronta su ˙ltima misiÛn con la esperanza de retirarse para vivir con su hija adolescente (Hailee Steinfeld), a la que apenas conoce, antes de que sea demasiado tarde para ejercer como padre. (FILMAFFINITY)</info>
+<info>Ethan Runner (Kevin Costner) es un veterano agente del servicio secreto que afronta su √∫ltima misi√≥n con la esperanza de retirarse para vivir con su hija adolescente (Hailee Steinfeld), a la que apenas conoce, antes de que sea demasiado tarde para ejercer como padre. (FILMAFFINITY)</info>
 <fanart>http://es.web.img1.acsta.net/r_640_600/b_1_d6d6d6/pictures/14/02/14/11/37/048656.jpg</fanart>
 </subitem>
 
@@ -4004,8 +4214,8 @@ Ano de LanÁamento:2014
 <fanart>http://www.objetivocine.es/wp-content/uploads/2012/11/pelis-animacion-610.jpg</fanart>
 <info>TV NACIONAL</info>
 <genre>TV
-Ano de LanÁamento:2014 
-¡udio: LATINO
+Ano de Lan√ßamento:2014 
+√Åudio: LATINO
 </genre>TV
 <subitems>
 
@@ -4013,7 +4223,7 @@ Ano de LanÁamento:2014
 <title>[COLOR skyblue]RIO 2 [/COLOR]</title>
 <link>http://veronline.tv/player/k7%2Fp09upYF%2Fx79pZrOLE4t6fXt3n0Fqu4dLd05Wi4%2B7IWr7dxNrUYIOsqdRgnLe5s6Vnndu8kKOxxNje0p2dqt2XfZ%2FF29Lfq3Kr2pVthNazrJ8%3D.flv</link>
 <thumbnail>https://d2nh4f9cbhlobh.cloudfront.net/_uploads/galleries/37888/rio_2_poster.jpg</thumbnail>
-<info>Es una selva hacia fuera allÌ para Blu, Jewel y sus tres hijos despuÈs de que se precipitaban desde RÌo de Janeiro a las selvas de la Amazonia. Como Blu trata de encajar, se va de pico-a pico con el vengativo Nigel, y se encuentra con su padre-en-ley.</info>
+<info>Es una selva hacia fuera all√≠ para Blu, Jewel y sus tres hijos despu√©s de que se precipitaban desde R√≠o de Janeiro a las selvas de la Amazonia. Como Blu trata de encajar, se va de pico-a pico con el vengativo Nigel, y se encuentra con su padre-en-ley.</info>
 <fanart>http://www.resetmx.com/wp-content/uploads/2014/04/Rio-2.jpg</fanart>
 </subitem>
 
