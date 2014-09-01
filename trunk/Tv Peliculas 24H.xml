@@ -1,12 +1,12 @@
-r<?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
+<?xml version="1.0" ?> 
+
 <channels>
-<channels_info>
-<title>TV PELICULAS 24H</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</channels_info>
 
 <channel>
+<name>Live TV Channels</name>
+<thumbnail>http://fc02.deviantart.net/fs37/f/2008/259/f/f/Apple_tv_boot_by_swarmkreep.png</thumbnail>
+<items>
+
 <item>
 <title>[COLOR red]MEGA ESTRENOS [/COLOR]</title>
 <link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_mega_movieshd live=1 timeout=20</link>
