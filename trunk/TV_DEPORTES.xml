@@ -63,8 +63,8 @@
 </item>
 
 <item>
-<title>[COLOR red]LIGA MEXICANA [/COLOR]</title>
-<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_ronitv3 live=1 timeout=20</link>
+<title>[COLOR red]LIGA MEXICANA UNIVISION DEPORTES [/COLOR]</title>
+<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_deportv_69 live=1 timeout=20</link>
 <regex>
 <name>getdecoded</name>
 <expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
@@ -83,14 +83,14 @@
 <regex>
 <name>getUrl</name>
 <expres>(.*)<expres>
-<page>http://mvn.vaughnsoft.net/video/edge/live_ronitv3$doregex[gettime]-$doregex[gettime].33434</page>
+<page>http://mvn.vaughnsoft.net/video/edge/live_deportv_69$doregex[gettime]-$doregex[gettime].33434</page>
 </regex>
 <regex>
 <name>gettime</name>
 <expres>$pyFunction:str(int(round(time.time() * 1000)))<expres>
 <page></page>
 </regex>
-<thumbnail>http://fb630.com/wp-content/uploads/2013/04/ligadraftbig.jpg</thumbnail>
+<thumbnail>http://www.dishlatino.com/mis-beneficios/deportes/images/deportes-02.jpg</thumbnail>
 </item>
 
 <item>
