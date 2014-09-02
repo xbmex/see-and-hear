@@ -9,32 +9,23 @@
 </item>
 
 <item>
-<title>[COLOR skyblue]FOX[/COLOR]</title>
-<link>rtmp://206.190.139.28/live playpath=fox2021?id=15837 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/embedplayer/fox2021/1/600/385 Conn=S:OK</link>
-<thumbnail>http://2.bp.blogspot.com/-3idAU6VSHH8/TgB399-gnHI/AAAAAAAAALE/IlSa8wXT-GM/s1600/fox.jpg</thumbnail>
-<info></info>
+<title>FOX </title>
+<link>rtmp://77.92.76.192/live playpath=fox2021?id=15837 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/embedplayer/fox2021/1/600/385 Conn=S:OK timeout=15</link>
+<thumbnail>http://www.heycanlitv.com/wp-content/uploads/2013/04/foxtv.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLOR skyblue]FOX LIFE[/COLOR]</title>
-<link>rtmp://sl100tb.cxnlive.com/live/ playpath=mgzn swfUrl=http://p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=http://www.cxntv.com/canales/mgzn/</link>
+<link>rtmp://sl100tb.cxnlive.com/live/ playpath=mgzn swfUrl=http://p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=http://www.cxntv.com/canales/mgzn/ timeout=15</link>
 <thumbnail>http://www.reportecuatro.com.ar/fotos/2013/10/31_foxlife.jpg</thumbnail>
 <info></info>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR skyblue]HISTORY[/COLOR]</title>
-<link>rtmp://46.23.67.114/live playpath=apptvsofthistory?id=16192 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/embedded/apptvsofthistory/1/500/400 Conn=S:OK</link>
-<thumbnail>http://wcchistory.files.wordpress.com/2011/12/history-id1.jpg</thumbnail>
-<info></info>
-<fanart></fanart>
-</item>
-
-<item>
 <title>[COLOR skyblue]WARNER TV[/COLOR]</title>
-<link>rtmp://206.190.139.28/live playpath=warner2021?id=15846 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/embedplayer/warner2021/1/620/385 conn=S:OK --live</link>
+<link>rtmp://46.28.48.116/live playpath=warner2021?id=15846 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/embedplayer/warner2021/1/620/385 timeout=15 conn=S:OK --live</link>
 <thumbnail>http://thevampireclub.files.wordpress.com/2010/01/warner.jpg</thumbnail>
 <info></info>
 <fanart></fanart>
@@ -416,13 +407,6 @@
 <title>GUINEA ECUATORIAL TV</title>
 <link>rtmp://82.98.138.14/live playpath=rtvgeint swfUrl=http://www.rtvgeint.tv/player.swf live=1 pageUrl=http://www.rtvgeint.tv/ timeout=20</link>
 <thumbnail>http://www.freeetv.com/images/01_logo/tvge_international_guinea.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>FOX </title>
-<link>rtmp://77.92.76.192/live playpath=fox2021?id=15837 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/embedplayer/fox2021/1/600/385 Conn=S:OK timeout=15</link>
-<thumbnail>http://www.heycanlitv.com/wp-content/uploads/2013/04/foxtv.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
