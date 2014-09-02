@@ -279,7 +279,7 @@
 <thumbnail>http://12y2.com/wp-content/uploads/2014/06/graphic-univision-branding.jpg</thumbnail>
 </item>
 
-<item><title>[COLOR skyblue]UNIVISION 41 OFF [/COLOR]</title>
+<item><title>[COLOR skyblue]UNIVISION 41 [/COLOR]</title>
 <link>$doregex[rtmp] playpath=$doregex[path] swfUrl=$doregex[swf] pageUrl=http://castalba.tv/ swfVfy=true live=true timeout=10</link>
 <regex>
 <name>rtmp</name>
@@ -291,13 +291,13 @@
 <name>path</name>
 <expres>'file': '([^']*)<expres>
 <page>http://castalba.tv/embed.php?cid=15648</page>
-<referer> http://www.univisionteve.blogspot.mx/</referer>
+<referer> http://www.tusalavip.com/</referer>
 </regex>
 <regex>
 <name>swf</name>
 <expres>'flashplayer': "([^"]*)<expres>
 <page>http://castalba.tv/embed.php?cid=15648</page>
-<referer> http://www.univisionteve.blogspot.mx/</referer>
+<referer> http://www.tusalavip.com/</referer>
 <agent></agent>
 </regex>
 <thumbnail>http://12y2.com/wp-content/uploads/2014/06/graphic-univision-branding.jpg</thumbnail>
