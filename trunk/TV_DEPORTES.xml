@@ -32,8 +32,8 @@
 </item>
 
 <item>
-<title>[COLOR red]TV PUBLICA O TELEFE [/COLOR]</title>
-<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_beto_2_telefe live=1 timeout=20</link>
+<title>[COLOR red]ESPN[/COLOR]</title>
+<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_vipracing live=1 timeout=20</link>
 <regex>
 <name>getdecoded</name>
 <expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
@@ -52,14 +52,14 @@
 <regex>
 <name>getUrl</name>
 <expres>(.*)<expres>
-<page>http://mvn.vaughnsoft.net/video/edge/live_beto_2_telefe$doregex[gettime]-$doregex[gettime].33434</page>
+<page>http://mvn.vaughnsoft.net/video/edge/live_vipracing$doregex[gettime]-$doregex[gettime].33434</page>
 </regex>
 <regex>
 <name>gettime</name>
 <expres>$pyFunction:str(int(round(time.time() * 1000)))<expres>
 <page></page>
 </regex>
-<thumbnail>http://www.videosde-futbol.com/wp-content/uploads/mvbthumbs/img_1022_ver-online-fox-tyc-tv-publica-america-24-7.jpg</thumbnail>
+<thumbnail>http://sportsnetwork.wpengine.netdna-cdn.com/wp-content/uploads/2013/11/unnamed.png</thumbnail>
 </item>
 
 <item>
@@ -156,8 +156,8 @@
 </item>
 
 <item>
-<title>[COLOR red]PSN SPORT [/COLOR]</title>
-<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_psntv2 live=1 timeout=20</link>
+<title>[COLOR red]PSN TV SPORT [/COLOR]</title>
+<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_psntv_espndeportes live=1 timeout=20</link>
 <regex>
 <name>getdecoded</name>
 <expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
@@ -176,7 +176,7 @@
 <regex>
 <name>getUrl</name>
 <expres>(.*)<expres>
-<page>http://mvn.vaughnsoft.net/video/edge/live_psntv2$doregex[gettime]-$doregex[gettime].33434</page>
+<page>http://mvn.vaughnsoft.net/video/edge/live_psntv_espndeportes$doregex[gettime]-$doregex[gettime].33434</page>
 </regex>
 <regex>
 <name>gettime</name>
@@ -188,7 +188,7 @@
 
 <item>
 <title>[COLOR red]IDOLO TV FUTBOL EN VIVO [/COLOR]</title>
-<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_idolotv live=1 timeout=20</link>
+<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_deportivotve live=1 timeout=20</link>
 <regex>
 <name>getdecoded</name>
 <expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
@@ -207,7 +207,7 @@
 <regex>
 <name>getUrl</name>
 <expres>(.*)<expres>
-<page>http://mvn.vaughnsoft.net/video/edge/live_idolotv_$doregex[gettime]-$doregex[gettime].33434</page>
+<page>http://mvn.vaughnsoft.net/video/edge/live_deportivotve_$doregex[gettime]-$doregex[gettime].33434</page>
 </regex>
 <regex>
 <name>gettime</name>
@@ -339,6 +339,14 @@
 <page></page>
 </regex>
 <thumbnail>http://www.getmesoftware.com/Industries/images/CP-Web-Slider-Sports22.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]REDBULL[/COLOR]  [COLOR lime]SD[/COLOR]</title>
+<link>http://live.iphone.redbull.de.edgesuite.net/iphone.m3u8</link>
+<thumbnail>http://attach.forum.ge/post-68-1365190091.png</thumbnail>
+<info><![CDATA[]]></info>
+<fanart></fanart>
 </item>
 
 <item>
