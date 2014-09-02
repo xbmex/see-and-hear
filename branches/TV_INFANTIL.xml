@@ -1,0 +1,550 @@
+r<?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
+
+<item>
+<title>[COLOR springgreen]ANIMETOONTV [/COLOR]</title>
+<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_animetoontv live=1 timeout=20</link>
+<regex>
+<name>getdecoded</name>
+<expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
+<page></page>
+</regex>
+<regex>
+<name>getencoded</name>
+<expres>;(0m0[0-9].*)<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getserver</name>
+<expres>(.*?);<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>(.*)<expres>
+<page>http://mvn.vaughnsoft.net/video/edge/live_animetoontv_$doregex[gettime]-$doregex[gettime].33434</page>
+</regex>
+<regex>
+<name>gettime</name>
+<expres>$pyFunction:str(int(round(time.time() * 1000)))<expres>
+<page></page>
+</regex>
+<thumbnail>https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpf1/t1.0-1/c9.0.160.160/p160x160/1536658_584721984946390_988893380_n.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR steelblue]DISNEY PIXAR[/COLOR]</title>
+<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_disney_pixar live=1 timeout=20</link>
+<regex>
+<name>getdecoded</name>
+<expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
+<page></page>
+</regex>
+<regex>
+<name>getencoded</name>
+<expres>;(0m0[0-9].*)<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getserver</name>
+<expres>(.*?);<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>(.*)<expres>
+<page>http://mvn.vaughnsoft.net/video/edge/live_disney_pixar_$doregex[gettime]-$doregex[gettime].33434</page>
+</regex>
+<regex>
+<name>gettime</name>
+<expres>$pyFunction:str(int(round(time.time() * 1000)))<expres>
+<page></page>
+</regex>
+<thumbnail>http://2.bp.blogspot.com/-UAUOX2FOiA8/TcgkQWKu_OI/AAAAAAAAEjE/M5bO1Y64Bmk/s1600/pixar.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]LATINO ANIME[/COLOR]</title>
+<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_janeth_ live=1 timeout=20</link>
+<regex>
+<name>getdecoded</name>
+<expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
+<page></page>
+</regex>
+<regex>
+<name>getencoded</name>
+<expres>;(0m0[0-9].*)<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getserver</name>
+<expres>(.*?);<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>(.*)<expres>
+<page>http://mvn.vaughnsoft.net/video/edge/live_janeth_$doregex[gettime]-$doregex[gettime].33434</page>
+</regex>
+<regex>
+<name>gettime</name>
+<expres>$pyFunction:str(int(round(time.time() * 1000)))<expres>
+<page></page>
+</regex>
+<thumbnail>http://2.bp.blogspot.com/-Avlie5TcSmE/UItQwc-LOwI/AAAAAAAAAPA/T4Wn-K0tDLk/s1600/Anime%2BLatino4.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]MAGICKIDS[/COLOR]</title>
+<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_magickids live=1 timeout=20</link>
+<regex>
+<name>getdecoded</name>
+<expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
+<page></page>
+</regex>
+<regex>
+<name>getencoded</name>
+<expres>;(0m0[0-9].*)<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getserver</name>
+<expres>(.*?);<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>(.*)<expres>
+<page>http://mvn.vaughnsoft.net/video/edge/live_magickids$doregex[gettime]-$doregex[gettime].33434</page>
+</regex>
+<regex>
+<name>gettime</name>
+<expres>$pyFunction:str(int(round(time.time() * 1000)))<expres>
+<page></page>
+</regex>
+<thumbnail>http://www.munequitas.tv/contenidos/images/stories/magic%20kids.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR turquoise]MAKIAVELO DRAGON BALL[/COLOR]</title>
+<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_makiavelo_tve live=1 timeout=20</link>
+<regex>
+<name>getdecoded</name>
+<expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
+<page></page>
+</regex>
+<regex>
+<name>getencoded</name>
+<expres>;(0m0[0-9].*)<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getserver</name>
+<expres>(.*?);<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>(.*)<expres>
+<page>http://mvn.vaughnsoft.net/video/edge/live_makiavelo_tve$doregex[gettime]-$doregex[gettime].33434</page>
+</regex>
+<regex>
+<name>gettime</name>
+<expres>$pyFunction:str(int(round(time.time() * 1000)))<expres>
+<page></page>
+</regex>
+<thumbnail>http://www.deculture.es/wp-content/uploads/2012/04/Dragon-Ball.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR sandybrown]MEGA KIDS[/COLOR]</title>
+<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_mega_kids live=1 timeout=20</link>
+<regex>
+<name>getdecoded</name>
+<expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
+<page></page>
+</regex>
+<regex>
+<name>getencoded</name>
+<expres>;(0m0[0-9].*)<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getserver</name>
+<expres>(.*?);<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>(.*)<expres>
+<page>http://mvn.vaughnsoft.net/video/edge/live_mega_kids$doregex[gettime]-$doregex[gettime].33434</page>
+</regex>
+<regex>
+<name>gettime</name>
+<expres>$pyFunction:str(int(round(time.time() * 1000)))<expres>
+<page></page>
+</regex>
+<thumbnail>http://www.meganova.com/megakids/images/mktitle.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR thistle]MEGA EVOLUCION SOUT PARK[/COLOR]</title>
+<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_mega_revolucionhd live=1 timeout=20</link>
+<regex>
+<name>getdecoded</name>
+<expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
+<page></page>
+</regex>
+<regex>
+<name>getencoded</name>
+<expres>;(0m0[0-9].*)<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getserver</name>
+<expres>(.*?);<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>(.*)<expres>
+<page>http://mvn.vaughnsoft.net/video/edge/live_mega_revolucionhd$doregex[gettime]-$doregex[gettime].33434</page>
+</regex>
+<regex>
+<name>gettime</name>
+<expres>$pyFunction:str(int(round(time.time() * 1000)))<expres>
+<page></page>
+</regex>
+<thumbnail>http://1.bp.blogspot.com/-hA2raTcPuHM/UnTaDgz0FRI/AAAAAAAAij8/0giFE7PdCJc/s1600/imagenes+de+south+park+16.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR peru]MEGA CHAVO[/COLOR]</title>
+<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_mega_chavo live=1 timeout=20</link>
+<regex>
+<name>getdecoded</name>
+<expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
+<page></page>
+</regex>
+<regex>
+<name>getencoded</name>
+<expres>;(0m0[0-9].*)<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getserver</name>
+<expres>(.*?);<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>(.*)<expres>
+<page>http://mvn.vaughnsoft.net/video/edge/live_mega_chavo$doregex[gettime]-$doregex[gettime].33434</page>
+</regex>
+<regex>
+<name>gettime</name>
+<expres>$pyFunction:str(int(round(time.time() * 1000)))<expres>
+<page></page>
+</regex>
+<thumbnail>http://s2.subirimagenes.com/otros/764886front.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR palegoldenrod]LOS SIMPSON[/COLOR]</title>
+<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_naruto_ball1 live=1 timeout=20</link>
+<regex>
+<name>getdecoded</name>
+<expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
+<page></page>
+</regex>
+<regex>
+<name>getencoded</name>
+<expres>;(0m0[0-9].*)<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getserver</name>
+<expres>(.*?);<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>(.*)<expres>
+<page>http://mvn.vaughnsoft.net/video/edge/live_naruto_ball1$doregex[gettime]-$doregex[gettime].33434</page>
+</regex>
+<regex>
+<name>gettime</name>
+<expres>$pyFunction:str(int(round(time.time() * 1000)))<expres>
+<page></page>
+</regex>
+<thumbnail>http://i1201.photobucket.com/albums/bb349/Ponderoso/simpsons/Simpsons_Logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR mediumvioletred]SERIES RAWDON SERIES ANIMADAS[/COLOR]</title>
+<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_rawdon live=1 timeout=20</link>
+<regex>
+<name>getdecoded</name>
+<expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
+<page></page>
+</regex>
+<regex>
+<name>getencoded</name>
+<expres>;(0m0[0-9].*)<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getserver</name>
+<expres>(.*?);<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>(.*)<expres>
+<page>http://mvn.vaughnsoft.net/video/edge/live_rawdon$doregex[gettime]-$doregex[gettime].33434</page>
+</regex>
+<regex>
+<name>gettime</name>
+<expres>$pyFunction:str(int(round(time.time() * 1000)))<expres>
+<page></page>
+</regex>
+<thumbnail>http://farm3.static.flickr.com/2079/1939261199_b0353afd0d.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]DRAGON BALL Z  Y GT 24 HORAS [/COLOR]</title>
+<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_rkrbardock live=1 timeout=20</link>
+<regex>
+<name>getdecoded</name>
+<expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
+<page></page>
+</regex>
+<regex>
+<name>getencoded</name>
+<expres>;(0m0[0-9].*)<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getserver</name>
+<expres>(.*?);<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>(.*)<expres>
+<page>http://mvn.vaughnsoft.net/video/edge/live_rkrbardock$doregex[gettime]-$doregex[gettime].33434</page>
+</regex>
+<regex>
+<name>gettime</name>
+<expres>$pyFunction:str(int(round(time.time() * 1000)))<expres>
+<page></page>
+</regex>
+<thumbnail>http://www.fondos12.com/data/media/4/big/dragon-ball-z-6452-1920x1440__wallpaper_480x300.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR mediumorchid]ANIME RICHIRICON RANDOM TV[/COLOR]</title>
+<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_richiriconrand0mtv live=1 timeout=20</link>
+<regex>
+<name>getdecoded</name>
+<expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
+<page></page>
+</regex>
+<regex>
+<name>getencoded</name>
+<expres>;(0m0[0-9].*)<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getserver</name>
+<expres>(.*?);<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>(.*)<expres>
+<page>http://mvn.vaughnsoft.net/video/edge/live_richiriconrand0mtv$doregex[gettime]-$doregex[gettime].33434</page>
+</regex>
+<regex>
+<name>gettime</name>
+<expres>$pyFunction:str(int(round(time.time() * 1000)))<expres>
+<page></page>
+</regex>
+<thumbnail>http://1.bp.blogspot.com/_-aFMdKrjfqU/SoGaibtQVJI/AAAAAAAAACg/Ltm1vtXs-c0/S1600-R/small+logo_edited-1.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]CANAL Z ANIME[/COLOR]</title>
+<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_ssjkml live=1 timeout=20</link>
+<regex>
+<name>getdecoded</name>
+<expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
+<page></page>
+</regex>
+<regex>
+<name>getencoded</name>
+<expres>;(0m0[0-9].*)<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getserver</name>
+<expres>(.*?);<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>(.*)<expres>
+<page>http://mvn.vaughnsoft.net/video/edge/live_ssjkml$doregex[gettime]-$doregex[gettime].33434</page>
+</regex>
+<regex>
+<name>gettime</name>
+<expres>$pyFunction:str(int(round(time.time() * 1000)))<expres>
+<page></page>
+</regex>
+<thumbnail>http://www.episodegenerator.com/wp-content/uploads/Dragon-Ball-Z-Style-Wallpaper.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR fuchsia]REGULAR TIME CARTOON NETWORK[/COLOR]</title>
+<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_yuyey live=1 timeout=20</link>
+<regex>
+<name>getdecoded</name>
+<expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
+<page></page>
+</regex>
+<regex>
+<name>getencoded</name>
+<expres>;(0m0[0-9].*)<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getserver</name>
+<expres>(.*?);<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>(.*)<expres>
+<page>http://mvn.vaughnsoft.net/video/edge/live_yuyey$doregex[gettime]-$doregex[gettime].33434</page>
+</regex>
+<regex>
+<name>gettime</name>
+<expres>$pyFunction:str(int(round(time.time() * 1000)))<expres>
+<page></page>
+</regex>
+<thumbnail>http://rsswns.amu.edu.pl/wp-content/uploads/2013/09/cartoon_network_wallpaper_attempt_by_randyadr-d56sviy.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime]CABALLEROS DEL ZODIACO  [/COLOR]</title>
+<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_mega_bot live=1 timeout=20</link>
+<regex>
+<name>getdecoded</name>
+<expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
+<page></page>
+</regex>
+<regex>
+<name>getencoded</name>
+<expres>;(0m0[0-9].*)<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getserver</name>
+<expres>(.*?);<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>(.*)<expres>
+<page>http://mvn.vaughnsoft.net/video/edge/live_mega_bot_$doregex[gettime]-$doregex[gettime].33434</page>
+</regex>
+<regex>
+<name>gettime</name>
+<expres>$pyFunction:str(int(round(time.time() * 1000)))<expres>
+<page></page>
+</regex>
+<thumbnail>http://st-listas.20minutos.es/images/2011-09/303695/list_640px.jpg?1322762306</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange]MEGA ANIMES  [/COLOR]</title>
+<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_mega_animes live=1 timeout=20</link>
+<regex>
+<name>getdecoded</name>
+<expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
+<page></page>
+</regex>
+<regex>
+<name>getencoded</name>
+<expres>;(0m0[0-9].*)<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getserver</name>
+<expres>(.*?);<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>(.*)<expres>
+<page>http://mvn.vaughnsoft.net/video/edge/live_mega_animes_$doregex[gettime]-$doregex[gettime].33434</page>
+</regex>
+<regex>
+<name>gettime</name>
+<expres>$pyFunction:str(int(round(time.time() * 1000)))<expres>
+<page></page>
+</regex>
+<thumbnail>http://files.fullanime1.webnode.es/system_preview_detail_200000006-5cd725dd0b-public/anime%20portada.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]ROCIOPORT ANIME [/COLOR]</title>
+<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_rocioport live=1 timeout=20</link>
+<regex>
+<name>getdecoded</name>
+<expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
+<page></page>
+</regex>
+<regex>
+<name>getencoded</name>
+<expres>;(0m0[0-9].*)<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getserver</name>
+<expres>(.*?);<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>(.*)<expres>
+<page>http://mvn.vaughnsoft.net/video/edge/live_rocioport_$doregex[gettime]-$doregex[gettime].33434</page>
+</regex>
+<regex>
+<name>gettime</name>
+<expres>$pyFunction:str(int(round(time.time() * 1000)))<expres>
+<page></page>
+</regex>
+<thumbnail>http://chulavista.mx/wp-content/uploads/2014/03/anime1.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]ETC TV SD[/COLOR]</title>
+<link>rtsp://movilstream.digitalproserver.com:80/etctv/etctvvivo/livestream2</link>
+<thumbnail>http://img2.wikia.nocookie.net/__cb20131204230651/doblaje/es/images/3/31/Etc.tv.jpg</thumbnail>
+<fanart>http://www.orla.upf.edu/wp-content/uploads//Chile.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR skyblue]ETC TV ED[/COLOR]</title>
+<link>rtmp://wow2.cl.digitalproserver.com/etctv/etctvvivo playpath=mp4:livestream1 swfUrl=http://dps.vod.lax-latam.digitalproserver.com/jw/6.8/jwplayer.flash.swf?v=70 live=1 pageUrl=http://media.digitalproserver.com/v2/live/etctv</link>
+<thumbnail>http://img2.wikia.nocookie.net/__cb20131204230651/doblaje/es/images/3/31/Etc.tv.jpg</thumbnail>
+<fanart>http://www.orla.upf.edu/wp-content/uploads//Chile.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR skyblue]INKA VISION[/COLOR]</title>
+<link>rtmp://192.99.200.94:1935/inkavision2014/ playpath=inkavision2014 swfUrl=http://inkavision.pe/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.inkavision.pe/</link>
+<thumbnail>https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xfa1/v/t1.0-9/418597_381619331851620_659395090_n.jpg?oh=16a8d0a64e0a2b59ad87acb4c28b8b75&oe=546A33C5&__gda__=1417141883_d4a39443a8219f96c3a330453f0d510f</thumbnail>
+<fanart></fanart>
+</item>
+
