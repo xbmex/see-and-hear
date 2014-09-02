@@ -32,37 +32,6 @@
 </item>
 
 <item>
-<title>[COLOR skyblue]TNT [/COLOR]</title>
-<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_hulisess live=1 timeout=20</link>
-<regex>
-<name>getdecoded</name>
-<expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
-<page></page>
-</regex>
-<regex>
-<name>getencoded</name>
-<expres>;(0m0[0-9].*)<expres>
-<page>$doregex[getUrl]</page>
-</regex>
-<regex>
-<name>getserver</name>
-<expres>(.*?);<expres>
-<page>$doregex[getUrl]</page>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>(.*)<expres>
-<page>http://mvn.vaughnsoft.net/video/edge/live_hulisess_$doregex[gettime]-$doregex[gettime].33434</page>
-</regex>
-<regex>
-<name>gettime</name>
-<expres>$pyFunction:str(int(round(time.time() * 1000)))<expres>
-<page></page>
-</regex>
-<thumbnail>http://www.activao.com/noticias/wp-content/uploads/2014/02/tnt.jpg</thumbnail>
-</item>
-
-<item>
 <title>[COLOR skyblue]SNY [/COLOR]</title>
 <link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_ramtvp live=1 timeout=20</link>
 <regex>
@@ -386,7 +355,7 @@
 <regex>
 <name>getUrl</name>
 <expres>(.*)<expres>
-<page>http://mvn.vaughnsoft.net/video/edge/live_mfv_05$doregex[gettime]-$doregex[gettime].33434</page>
+<page>http://mvn.vaughnsoft.net/video/edge/live_mfv_05_$doregex[gettime]-$doregex[gettime].33434</page>
 </regex>
 <regex>
 <name>gettime</name>
@@ -431,7 +400,7 @@
 <regex>
 <name>getUrl</name>
 <expres>(.*)<expres>
-<page>http://mvn.vaughnsoft.net/video/edge/live_id_inf$doregex[gettime]-$doregex[gettime].33434</page>
+<page>http://mvn.vaughnsoft.net/video/edge/live_id_inf_$doregex[gettime]-$doregex[gettime].33434</page>
 </regex>
 <regex>
 <name>gettime</name>
