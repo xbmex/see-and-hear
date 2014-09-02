@@ -32,8 +32,8 @@
 </item>
 
 <item>
-<title>[COLOR red]ESPN OFF[/COLOR]</title>
-<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_vipracing live=1 timeout=20</link>
+<title>[COLOR red]ESPN MEXICO[/COLOR]</title>
+<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_ronitv4 live=1 timeout=20</link>
 <regex>
 <name>getdecoded</name>
 <expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
@@ -52,7 +52,7 @@
 <regex>
 <name>getUrl</name>
 <expres>(.*)<expres>
-<page>http://mvn.vaughnsoft.net/video/edge/live_vipracing$doregex[gettime]-$doregex[gettime].33434</page>
+<page>http://mvn.vaughnsoft.net/video/edge/live_ronitv4_$doregex[gettime]-$doregex[gettime].33434</page>
 </regex>
 <regex>
 <name>gettime</name>
@@ -125,8 +125,8 @@
 </item>
 
 <item>
-<title>[COLOR red]DEPORTIV HONDURAS SPORT OFF [/COLOR]</title>
-<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_hondurasports live=1 timeout=20</link>
+<title>[COLOR red]DEPORTIV HONDURAS SPORT[/COLOR]</title>
+<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_hondurasport live=1 timeout=20</link>
 <regex>
 <name>getdecoded</name>
 <expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
@@ -145,7 +145,7 @@
 <regex>
 <name>getUrl</name>
 <expres>(.*)<expres>
-<page>http://mvn.vaughnsoft.net/video/edge/live_hondurasports$doregex[gettime]-$doregex[gettime].33434</page>
+<page>http://mvn.vaughnsoft.net/video/edge/live_hondurasport$doregex[gettime]-$doregex[gettime].33434</page>
 </regex>
 <regex>
 <name>gettime</name>
@@ -209,7 +209,7 @@
 </item>
 
 <item>
-<title>CABLEDEPORTES ECUADOR</title>
+<title>CABLEDEPORTES ECUADOR OFF TEMPORALMENTE</title>
 <link>$doregex[get-link]</link>
 <regex>
 <name>get-link</name>
