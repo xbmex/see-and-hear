@@ -381,7 +381,7 @@
 
 <item>
 <title>[COLOR skyblue]ID INF [/COLOR]</title>
-<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_id_inf live=1 timeout=20</link>
+<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_crimecentral live=1 timeout=20</link>
 <regex>
 <name>getdecoded</name>
 <expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
@@ -400,7 +400,7 @@
 <regex>
 <name>getUrl</name>
 <expres>(.*)<expres>
-<page>http://mvn.vaughnsoft.net/video/edge/live_id_inf_$doregex[gettime]-$doregex[gettime].33434</page>
+<page>http://mvn.vaughnsoft.net/video/edge/live_crimecentral_$doregex[gettime]-$doregex[gettime].33434</page>
 </regex>
 <regex>
 <name>gettime</name>
