@@ -9,6 +9,14 @@
 </item>
 
 <item>
+<title>[COLOR skyblue]RT EN ESPAÑOL [COLOR red]ON[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=sk9ggQBT8CA</link>
+<thumbnail>http://www.dossiergeopolitico.com/blog/wp-content/uploads/2013/08/rt_sepa_mas.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLOR skyblue]FOX [/COLOR]</title>
 <link>rtmp://77.92.76.192/live playpath=fox2021?id=15837 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/embedplayer/fox2021/1/600/385 Conn=S:OK timeout=15</link>
 <thumbnail>http://www.heycanlitv.com/wp-content/uploads/2013/04/foxtv.jpg</thumbnail>
