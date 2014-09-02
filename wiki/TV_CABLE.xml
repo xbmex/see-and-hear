@@ -1,442 +1,283 @@
 <?xml version="1.0" ?>
 
 <item>
-<title>[COLOR skyblue]TELENOVELAS [/COLOR]</title>
-<link>rtmp://77.92.76.192/live playpath=tlnovelas2021?id=15840 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/embedplayer/tlnovelas2021/1/600/385 Conn=S:OK timeout=15</link>
-<thumbnail>http://computrucos.com/wp-content/uploads/2011/04/tlnovelas.jpg</thumbnail>
-<info></info>
+<title>[COLOR red]AFA TV [/COLOR]</title>
+<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_afa_tv live=1 timeout=20</link>
+<regex>
+<name>getdecoded</name>
+<expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
+<page></page>
+</regex>
+<regex>
+<name>getencoded</name>
+<expres>;(0m0[0-9].*)<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getserver</name>
+<expres>(.*?);<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>(.*)<expres>
+<page>http://mvn.vaughnsoft.net/video/edge/live_afa_tv_$doregex[gettime]-$doregex[gettime].33434</page>
+</regex>
+<regex>
+<name>gettime</name>
+<expres>$pyFunction:str(int(round(time.time() * 1000)))<expres>
+<page></page>
+</regex>
+<thumbnail>http://www.canalvivo.com.ar/wp-content/uploads/2013/10/AFA_TV1.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]ESPN OFF[/COLOR]</title>
+<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_vipracing live=1 timeout=20</link>
+<regex>
+<name>getdecoded</name>
+<expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
+<page></page>
+</regex>
+<regex>
+<name>getencoded</name>
+<expres>;(0m0[0-9].*)<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getserver</name>
+<expres>(.*?);<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>(.*)<expres>
+<page>http://mvn.vaughnsoft.net/video/edge/live_vipracing$doregex[gettime]-$doregex[gettime].33434</page>
+</regex>
+<regex>
+<name>gettime</name>
+<expres>$pyFunction:str(int(round(time.time() * 1000)))<expres>
+<page></page>
+</regex>
+<thumbnail>http://sportsnetwork.wpengine.netdna-cdn.com/wp-content/uploads/2013/11/unnamed.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]LIGA MEXICANA UNIVISION DEPORTES [/COLOR]</title>
+<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_psntv_espndeportes live=1 timeout=20</link>
+<regex>
+<name>getdecoded</name>
+<expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
+<page></page>
+</regex>
+<regex>
+<name>getencoded</name>
+<expres>;(0m0[0-9].*)<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getserver</name>
+<expres>(.*?);<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>(.*)<expres>
+<page>http://mvn.vaughnsoft.net/video/edge/live_psntv_espndeportes$doregex[gettime]-$doregex[gettime].33434</page>
+</regex>
+<regex>
+<name>gettime</name>
+<expres>$pyFunction:str(int(round(time.time() * 1000)))<expres>
+<page></page>
+</regex>
+<thumbnail>http://www.dishlatino.com/mis-beneficios/deportes/images/deportes-02.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]BRUJITA DE PRIMERA [/COLOR]</title>
+<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_brujita_deprimera live=1 timeout=20</link>
+<regex>
+<name>getdecoded</name>
+<expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
+<page></page>
+</regex>
+<regex>
+<name>getencoded</name>
+<expres>;(0m0[0-9].*)<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getserver</name>
+<expres>(.*?);<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>(.*)<expres>
+<page>http://mvn.vaughnsoft.net/video/edge/live_brujita_deprimera$doregex[gettime]-$doregex[gettime].33434</page>
+</regex>
+<regex>
+<name>gettime</name>
+<expres>$pyFunction:str(int(round(time.time() * 1000)))<expres>
+<page></page>
+</regex>
+<thumbnail>http://www.agencianova.com/data/fotos2/14036_Brujita_Veron.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]DEPORTIV HONDURAS SPORT OFF [/COLOR]</title>
+<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_hondurasports live=1 timeout=20</link>
+<regex>
+<name>getdecoded</name>
+<expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
+<page></page>
+</regex>
+<regex>
+<name>getencoded</name>
+<expres>;(0m0[0-9].*)<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getserver</name>
+<expres>(.*?);<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>(.*)<expres>
+<page>http://mvn.vaughnsoft.net/video/edge/live_hondurasports$doregex[gettime]-$doregex[gettime].33434</page>
+</regex>
+<regex>
+<name>gettime</name>
+<expres>$pyFunction:str(int(round(time.time() * 1000)))<expres>
+<page></page>
+</regex>
+<thumbnail>http://hondurastv.hn/wp-content/uploads/2013/09/lateral.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]PSN TV SPORT [/COLOR]</title>
+<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_psntv_espndeportes live=1 timeout=20</link>
+<regex>
+<name>getdecoded</name>
+<expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
+<page></page>
+</regex>
+<regex>
+<name>getencoded</name>
+<expres>;(0m0[0-9].*)<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getserver</name>
+<expres>(.*?);<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>(.*)<expres>
+<page>http://mvn.vaughnsoft.net/video/edge/live_psntv_espndeportes$doregex[gettime]-$doregex[gettime].33434</page>
+</regex>
+<regex>
+<name>gettime</name>
+<expres>$pyFunction:str(int(round(time.time() * 1000)))<expres>
+<page></page>
+</regex>
+<thumbnail>http://www.tvmagazine.com.br/historiadatvpaga/imagens/mva_psn.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]REDBULL OFF[/COLOR]  [COLOR lime]SD[/COLOR]</title>
+<link>http://live.iphone.redbull.de.edgesuite.net/iphone.m3u8</link>
+<thumbnail>http://attach.forum.ge/post-68-1365190091.png</thumbnail>
+<info><![CDATA[]]></info>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR skyblue]FOX [/COLOR]</title>
-<link>rtmp://77.92.76.192/live playpath=fox2021?id=15837 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/embedplayer/fox2021/1/600/385 Conn=S:OK timeout=15</link>
-<thumbnail>http://www.heycanlitv.com/wp-content/uploads/2013/04/foxtv.jpg</thumbnail>
+<title>CDF (SOLO PARTIDOS)</title>
+<link>rtmp://207.244.76.206/iguide playpath=ep979xjjx9gephj swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=400&channel=271&autoplay=true token=#ed%h0#w18623jsda6523lDGD</link>
+<thumbnail>http://2.bp.blogspot.com/-fRtYVIR_LtI/T7gmyjUquWI/AAAAAAAABng/OZQ8hf04yrg/s1600/cdf+premium.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR skyblue]FOX LIFE[/COLOR]</title>
-<link>rtmp://sl100tb.cxnlive.com/live/ playpath=utilisima swfUrl=http://p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=http://www.cxntv.com/canales/utilisima/ timeout=15</link>
-<thumbnail>http://www.reportecuatro.com.ar/fotos/2013/10/31_foxlife.jpg</thumbnail>
-<info></info>
+<title>CDO PREMIUM DEPORTES OLIMPICOS</title>
+<link>http://wow2.cl.digitalproserver.com:443/cdo/cdovivo/cdo.smil/playlist.m3u8</link>
+<thumbnail>http://www.cdo.tv/2012/img/cdo.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR skyblue]WARNER TV[/COLOR]</title>
-<link>rtmp://46.28.48.116/live playpath=warner2021?id=15846 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/embedplayer/warner2021/1/620/385 timeout=15 conn=S:OK --live</link>
-<thumbnail>http://thevampireclub.files.wordpress.com/2010/01/warner.jpg</thumbnail>
-<info></info>
+<title>CABLEDEPORTES ECUADOR</title>
+<link>$doregex[get-link]</link>
+<regex>
+<name>get-link</name>
+<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/uhls/12310232/streams/live/iphone/playlist.m3u8')</expres>
+<page></page>
+</regex>
+<thumbnail>http://www.pontecool.com/artes/cable_deportes_online_5_oct_2013.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR skyblue]SNY [/COLOR]</title>
-<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_ramtvp live=1 timeout=20</link>
-<regex>
-<name>getdecoded</name>
-<expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
-<page></page>
-</regex>
-<regex>
-<name>getencoded</name>
-<expres>;(0m0[0-9].*)<expres>
-<page>$doregex[getUrl]</page>
-</regex>
-<regex>
-<name>getserver</name>
-<expres>(.*?);<expres>
-<page>$doregex[getUrl]</page>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>(.*)<expres>
-<page>http://mvn.vaughnsoft.net/video/edge/live_ramtvp_$doregex[gettime]-$doregex[gettime].33434</page>
-</regex>
-<regex>
-<name>gettime</name>
-<expres>$pyFunction:str(int(round(time.time() * 1000)))<expres>
-<page></page>
-</regex>
-<thumbnail>http://web.sny.tv/shared/images/logos/facebook/og/sny_tv.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR skyblue]TELEMUNDO 1[/COLOR]</title>
-<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_telemundo27 live=1 timeout=20</link>
-<regex>
-<name>getdecoded</name>
-<expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
-<page></page>
-</regex>
-<regex>
-<name>getencoded</name>
-<expres>;(0m0[0-9].*)<expres>
-<page>$doregex[getUrl]</page>
-</regex>
-<regex>
-<name>getserver</name>
-<expres>(.*?);<expres>
-<page>$doregex[getUrl]</page>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>(.*)<expres>
-<page>http://mvn.vaughnsoft.net/video/edge/live_telemundo27$doregex[gettime]-$doregex[gettime].33434</page>
-</regex>
-<regex>
-<name>gettime</name>
-<expres>$pyFunction:str(int(round(time.time() * 1000)))<expres>
-<page></page>
-</regex>
-<thumbnail>http://www.underconsideration.com/brandnew/archives/telemundo_followup_logo_detail.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR skyblue]TELEMUNDO 2[/COLOR]</title>
-<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_telemundo21 live=1 timeout=20</link>
-<regex>
-<name>getdecoded</name>
-<expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
-<page></page>
-</regex>
-<regex>
-<name>getencoded</name>
-<expres>;(0m0[0-9].*)<expres>
-<page>$doregex[getUrl]</page>
-</regex>
-<regex>
-<name>getserver</name>
-<expres>(.*?);<expres>
-<page>$doregex[getUrl]</page>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>(.*)<expres>
-<page>http://mvn.vaughnsoft.net/video/edge/live_telemundo21$doregex[gettime]-$doregex[gettime].33434</page>
-</regex>
-<regex>
-<name>gettime</name>
-<expres>$pyFunction:str(int(round(time.time() * 1000)))<expres>
-<page></page>
-</regex>
-<thumbnail>http://www.underconsideration.com/brandnew/archives/telemundo_followup_logo_detail.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR skyblue]TELEMUNDO 3[/COLOR]</title>
-<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_victeve1 live=1 timeout=20</link>
-<regex>
-<name>getdecoded</name>
-<expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
-<page></page>
-</regex>
-<regex>
-<name>getencoded</name>
-<expres>;(0m0[0-9].*)<expres>
-<page>$doregex[getUrl]</page>
-</regex>
-<regex>
-<name>getserver</name>
-<expres>(.*?);<expres>
-<page>$doregex[getUrl]</page>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>(.*)<expres>
-<page>http://mvn.vaughnsoft.net/video/edge/live_victeve1$doregex[gettime]-$doregex[gettime].33434</page>
-</regex>
-<regex>
-<name>gettime</name>
-<expres>$pyFunction:str(int(round(time.time() * 1000)))<expres>
-<page></page>
-</regex>
-<thumbnail>http://www.underconsideration.com/brandnew/archives/telemundo_followup_logo_detail.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR skyblue]UNIVISION 1 [/COLOR]</title>
-<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_univision_hd20 live=1 timeout=20</link>
-<regex>
-<name>getdecoded</name>
-<expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
-<page></page>
-</regex>
-<regex>
-<name>getencoded</name>
-<expres>;(0m0[0-9].*)<expres>
-<page>$doregex[getUrl]</page>
-</regex>
-<regex>
-<name>getserver</name>
-<expres>(.*?);<expres>
-<page>$doregex[getUrl]</page>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>(.*)<expres>
-<page>http://mvn.vaughnsoft.net/video/edge/live_univision_hd20$doregex[gettime]-$doregex[gettime].33434</page>
-</regex>
-<regex>
-<name>gettime</name>
-<expres>$pyFunction:str(int(round(time.time() * 1000)))<expres>
-<page></page>
-</regex>
-<thumbnail>http://12y2.com/wp-content/uploads/2014/06/graphic-univision-branding.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR skyblue]UNIVISION 2 [/COLOR]</title>
-<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_extremounivisiontv live=1 timeout=20</link>
-<regex>
-<name>getdecoded</name>
-<expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
-<page></page>
-</regex>
-<regex>
-<name>getencoded</name>
-<expres>;(0m0[0-9].*)<expres>
-<page>$doregex[getUrl]</page>
-</regex>
-<regex>
-<name>getserver</name>
-<expres>(.*?);<expres>
-<page>$doregex[getUrl]</page>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>(.*)<expres>
-<page>http://mvn.vaughnsoft.net/video/edge/live_extremounivisiontv$doregex[gettime]-$doregex[gettime].33434</page>
-</regex>
-<regex>
-<name>gettime</name>
-<expres>$pyFunction:str(int(round(time.time() * 1000)))<expres>
-<page></page>
-</regex>
-<thumbnail>http://12y2.com/wp-content/uploads/2014/06/graphic-univision-branding.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR skyblue]UNIVISION 3 [/COLOR]</title>
-<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_ronitv1 live=1 timeout=20</link>
-<regex>
-<name>getdecoded</name>
-<expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
-<page></page>
-</regex>
-<regex>
-<name>getencoded</name>
-<expres>;(0m0[0-9].*)<expres>
-<page>$doregex[getUrl]</page>
-</regex>
-<regex>
-<name>getserver</name>
-<expres>(.*?);<expres>
-<page>$doregex[getUrl]</page>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>(.*)<expres>
-<page>http://mvn.vaughnsoft.net/video/edge/live_ronitv1$doregex[gettime]-$doregex[gettime].33434</page>
-</regex>
-<regex>
-<name>gettime</name>
-<expres>$pyFunction:str(int(round(time.time() * 1000)))<expres>
-<page></page>
-</regex>
-<thumbnail>http://12y2.com/wp-content/uploads/2014/06/graphic-univision-branding.jpg</thumbnail>
-</item>
-
-<item><title>[COLOR skyblue]UNIVISION 41 [/COLOR]</title>
-<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=$doregex[swf] pageUrl=http://castalba.tv/ swfVfy=true live=true timeout=10</link>
-<regex>
-<name>rtmp</name>
-<expres>'streamer': '([^']*)<expres>
-<page>http://castalba.tv/embed.php?cid=15648</page>
-<referer> http://www.univisionteve.blogspot.mx/</referer>
-</regex>
-<regex>
-<name>path</name>
-<expres>'file': '([^']*)<expres>
-<page>http://castalba.tv/embed.php?cid=15648</page>
-<referer> http://www.tusalavip.com/</referer>
-</regex>
-<regex>
-<name>swf</name>
-<expres>'flashplayer': "([^"]*)<expres>
-<page>http://castalba.tv/embed.php?cid=15648</page>
-<referer> http://www.tusalavip.com/</referer>
-<agent></agent>
-</regex>
-<thumbnail>http://12y2.com/wp-content/uploads/2014/06/graphic-univision-branding.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR skyblue]CATOLICA TV [/COLOR]</title>
-<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_catolicatv live=1 timeout=15</link>
-<regex>
-<name>getdecoded</name>
-<expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
-<page></page>
-</regex>
-<regex>
-<name>getencoded</name>
-<expres>;(0m0[0-9].*)<expres>
-<page>$doregex[getUrl]</page>
-</regex>
-<regex>
-<name>getserver</name>
-<expres>(.*?);<expres>
-<page>$doregex[getUrl]</page>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>(.*)<expres>
-<page>http://mvn.vaughnsoft.net/video/edge/live_catolicatv$doregex[gettime]-$doregex[gettime].33434</page>
-</regex>
-<regex>
-<name>gettime</name>
-<expres>$pyFunction:str(int(round(time.time() * 1000)))<expres>
-<page></page>
-</regex>
-<thumbnail>http://catolica.tv/imagenes/TituloCatolica.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR skyblue]DISCOVERY[/COLOR]</title>
-<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_history_history live=1 timeout=20</link>
-<regex>
-<name>getdecoded</name>
-<expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
-<page></page>
-</regex>
-<regex>
-<name>getencoded</name>
-<expres>;(0m0[0-9].*)<expres>
-<page>$doregex[getUrl]</page>
-</regex>
-<regex>
-<name>getserver</name>
-<expres>(.*?);<expres>
-<page>$doregex[getUrl]</page>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>(.*)<expres>
-<page>http://mvn.vaughnsoft.net/video/edge/live_history_history$doregex[gettime]-$doregex[gettime].33434</page>
-</regex>
-<regex>
-<name>gettime</name>
-<expres>$pyFunction:str(int(round(time.time() * 1000)))<expres>
-<page></page>
-</regex>
-<thumbnail>http://images.kaneva.com/filestore9/3780483/6088314/discoverychannelUiphoneUwallpaper_ad.jpg</thumbnail>
-</item>
-
-<item>
-<title>H2</title>
-<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_mfv_05 live=1 timeout=20</link>
-<regex>
-<name>getdecoded</name>
-<expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
-<page></page>
-</regex>
-<regex>
-<name>getencoded</name>
-<expres>;(0m0[0-9].*)<expres>
-<page>$doregex[getUrl]</page>
-</regex>
-<regex>
-<name>getserver</name>
-<expres>(.*?);<expres>
-<page>$doregex[getUrl]</page>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>(.*)<expres>
-<page>http://mvn.vaughnsoft.net/video/edge/live_mfv_05_$doregex[gettime]-$doregex[gettime].33434</page>
-</regex>
-<regex>
-<name>gettime</name>
-<expres>$pyFunction:str(int(round(time.time() * 1000)))<expres>
-<page></page>
-</regex>
-<thumbnail>http://dennytu.com/uploads/h2/H2%20Hero%20Logo.jpg</thumbnail>
-</item>
-
-<item>
-  <title>[COLOR skyblue]BYU TV[/COLOR]</title>
-<link>http://byuhd2-lh.akamaihd.net/i/byutvintspanhd2_live@103133/master.m3u8</link>
-<thumbnail>http://1.bp.blogspot.com/_j94PNh-YZwY/TSTEDkYIaiI/AAAAAAAABnk/p5Kx_o7HgS0/s1600/BYUtv%2B%2528Dark%2BBlack%2529.jpg</thumbnail>
+<title>TYC SPORTS HD ARGENTINA</title>
+<link>rtmp://wdc.cxnlive.com/live/ playpath=tychd.stream</link>
+<thumbnail>http://ipuntotv.com/IMAGES/tyc-logo.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-  <title>[COLOR skyblue]GUINEA ECUATORIAL TV[/COLOR]</title>
-<link>rtmp://82.98.138.14/live playpath=rtvgeint swfUrl=http://www.rtvgeint.tv/player.swf live=1 pageUrl=http://www.rtvgeint.tv/ timeout=20</link>
-<thumbnail>http://www.freeetv.com/images/01_logo/tvge_international_guinea.jpg</thumbnail>
+<title>FOX SPORTS HD LATINO</title>
+<link>rtmp://wdc.cxnlive.com/live/ playpath=foxhd</link>
+<thumbnail>http://i.imgur.com/ZbjSxGn.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR skyblue]ID INF [/COLOR]</title>
-<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_crimecentral live=1 timeout=20</link>
-<regex>
-<name>getdecoded</name>
-<expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
-<page></page>
-</regex>
-<regex>
-<name>getencoded</name>
-<expres>;(0m0[0-9].*)<expres>
-<page>$doregex[getUrl]</page>
-</regex>
-<regex>
-<name>getserver</name>
-<expres>(.*?);<expres>
-<page>$doregex[getUrl]</page>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>(.*)<expres>
-<page>http://mvn.vaughnsoft.net/video/edge/live_crimecentral_$doregex[gettime]-$doregex[gettime].33434</page>
-</regex>
-<regex>
-<name>gettime</name>
-<expres>$pyFunction:str(int(round(time.time() * 1000)))<expres>
-<page></page>
-</regex>
-<thumbnail>http://a1220.phobos.apple.com/us/r1000/090/Purple/v4/f1/f9/9c/f1f99ce7-f88a-4e1d-7ca8-3f66c87867fa/mzl.debsjipf.png</thumbnail>
+<title>ESPN LATINO</title>
+<link>rtmp://wdc.cxnlive.com/live/ playpath=espn</link>
+<thumbnail>http://1.bp.blogspot.com/-rzP7nP4VXgo/UToo7_wpjFI/AAAAAAAAEOc/Kn0AGz-MYG8/s1600/Logo+Tv+ESPN+2013.png</thumbnail>
+<fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR skyblue]HISTORY CHANNEL[/COLOR]</title>
-<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_mfv_08 live=1 timeout=20</link>
-<regex>
-<name>getdecoded</name>
-<expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
-<page></page>
-</regex>
-<regex>
-<name>getencoded</name>
-<expres>;(0m0[0-9].*)<expres>
-<page>$doregex[getUrl]</page>
-</regex>
-<regex>
-<name>getserver</name>
-<expres>(.*?);<expres>
-<page>$doregex[getUrl]</page>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>(.*)<expres>
-<page>http://mvn.vaughnsoft.net/video/edge/live_mfv_08$doregex[gettime]-$doregex[gettime].33434</page>
-</regex>
-<regex>
-<name>gettime</name>
-<expres>$pyFunction:str(int(round(time.time() * 1000)))<expres>
-<page></page>
-</regex>
-<thumbnail>http://i1.ytimg.com/vi/XABnu9a1Lz4/maxresdefault.jpg</thumbnail>
+<title>ESPN + LATINO</title>
+<link>rtmp://wdc.cxnlive.com/live/ playpath=espn2</link>
+<thumbnail>http://2.bp.blogspot.com/-ZWlFjfEtxtU/UTQFIdki87I/AAAAAAAAHdk/5QbzSDXeFcA/s1600/Logo+Tv+Espn%252B+2013+%255BVIVO%255D.png</thumbnail>
+<fanart></fanart>
 </item>
+
+<item>
+<title>DEPORT TV ARGENTINA</title>
+<link>rtmp://wdc02.iviplanet.com:1935/DeporTV playpath=myStream.sdp swfUrl=http://www.tvmia.com/scripts/player.swf live=1 pageUrl=http://www.tvmia.com/seleccioncanal/argentina/deportv timeout=15</link>
+<thumbnail>http://todoactual.com/wp-content/uploads/2013/02/deportv.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR skyblue]WIN SPORTS [/COLOR]</title>
+<link>rtmp://media.uvault.com/live/2695-7ff1cdf/liveevent timeout=15</link>
+<thumbnail>http://www.sitioco.com/futbolcolombiano/wp-content/uploads/2012/12/win-sports-en-vivo.jpg</thumbnail>
+<info>Win Sport es el nuevo canal deportivo colombiano el cual trasmite futbol colombiano en vivo y todo el deporte de colombiano completamente en vivo las 24 </info>
+<fanart></fanart>
+<item>
+
+<item>
+<title>UFC LATINO</title>
+<link>rtmp://wdc.cxnlive.com/live/ playpath=ufc</link>
+<thumbnail>http://www.mma-latino.com/wp-content/uploads/2011/12/UFCLatinoLogo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR orange]FOX SPORT BRASIL[/COLOR]</title>
+<link>rtmp://31.204.153.72/live/ playpath=fsb swfUrl=http://www.cdnbr.biz/swf/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/FSB.html </link>
+<thumbnail>http://3.bp.blogspot.com/-VLtanwpqTy0/UHwf2IH34WI/AAAAAAAANnk/jjjUKtrmMBU/s1600/FOX+Sports.jpg</thumbnail>
+<item>
+
+<item>
+<title>[COLOR orange]ESPN BRASIL[/COLOR]</title>
+<link>rtmp://31.204.128.74/live/ playpath=master27 swfUrl=http://www.cdnbr.biz/swf/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/ESPN HD.html</link>
+<thumbnail>http://ballhyped.net/wp-content/uploads/2012/02/espn-logo.jpg</thumbnail>
+<item>
