@@ -9,6 +9,30 @@
 </item>
 
 <item>
+<title>[COLOR skyblue]HISPAN TV [COLOR lime]FULL HD/[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=tIlIng-sOeI</link>
+<thumbnail>http://www.webislam.com/media/2013/01/55957_hispan-tv_big.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR skyblue]TELE 5 CHILE [COLOR lime]FULL HD/[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Z8OsdwKmOwo</link>
+<thumbnail>http://a3.mzstatic.com/us/r30/Purple4/v4/89/39/7f/89397f48-6871-5eb3-5735-da9a3374938e/mzl.qpvcuxop.175x175-75.jpg</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR skyblue]RT EN ESPAÑOL [COLOR red]HD[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=sk9ggQBT8CA</link>
+<thumbnail>http://www.dossiergeopolitico.com/blog/wp-content/uploads/2013/08/rt_sepa_mas.png</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLOR skyblue]FOX [/COLOR]</title>
 <link>rtmp://77.92.76.192/live playpath=fox2021?id=15837 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/embedplayer/fox2021/1/600/385 Conn=S:OK timeout=15</link>
 <thumbnail>http://www.heycanlitv.com/wp-content/uploads/2013/04/foxtv.jpg</thumbnail>
