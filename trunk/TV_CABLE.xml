@@ -9,7 +9,7 @@
 </item>
 
 <item>
-<title>FOX </title>
+<title>[COLOR skyblue]FOX [/COLOR]</title>
 <link>rtmp://77.92.76.192/live playpath=fox2021?id=15837 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/embedplayer/fox2021/1/600/385 Conn=S:OK timeout=15</link>
 <thumbnail>http://www.heycanlitv.com/wp-content/uploads/2013/04/foxtv.jpg</thumbnail>
 <fanart></fanart>
@@ -273,7 +273,7 @@
 </item>
 
 <item>
-<title>[COLOR red]CATOLICA TV [/COLOR]</title>
+<title>[COLOR skyblue]CATOLICA TV [/COLOR]</title>
 <link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_catolicatv live=1 timeout=15</link>
 <regex>
 <name>getdecoded</name>
@@ -304,7 +304,7 @@
 </item>
 
 <item>
-<title>DISCOVERY</title>
+<title>[COLOR skyblue]DISCOVERY[/COLOR]</title>
 <link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_history_history live=1 timeout=20</link>
 <regex>
 <name>getdecoded</name>
@@ -366,14 +366,14 @@
 </item>
 
 <item>
-<title>BYU TV</title>
+  <title>[COLOR skyblue]BYU TV[/COLOR]</title>
 <link>http://byuhd2-lh.akamaihd.net/i/byutvintspanhd2_live@103133/master.m3u8</link>
 <thumbnail>http://1.bp.blogspot.com/_j94PNh-YZwY/TSTEDkYIaiI/AAAAAAAABnk/p5Kx_o7HgS0/s1600/BYUtv%2B%2528Dark%2BBlack%2529.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>GUINEA ECUATORIAL TV</title>
+  <title>[COLOR skyblue]GUINEA ECUATORIAL TV[/COLOR]</title>
 <link>rtmp://82.98.138.14/live playpath=rtvgeint swfUrl=http://www.rtvgeint.tv/player.swf live=1 pageUrl=http://www.rtvgeint.tv/ timeout=20</link>
 <thumbnail>http://www.freeetv.com/images/01_logo/tvge_international_guinea.jpg</thumbnail>
 <fanart></fanart>
@@ -411,7 +411,7 @@
 </item>
 
 <item>
-<title>HISTORY CHANNEL</title>
+<title>[COLOR skyblue]HISTORY CHANNEL[/COLOR]</title>
 <link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_mfv_08 live=1 timeout=20</link>
 <regex>
 <name>getdecoded</name>
