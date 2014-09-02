@@ -2,7 +2,7 @@
 
 <item>
 <title>[COLOR skyblue]TELENOVELAS [/COLOR]</title>
-<link>rtmp://206.190.151.24/live playpath=tlnovelas2021?id=15840 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/embedplayer/tlnovelas2021/1/600/385 Conn=S:OK timeout=15</link>
+<link>rtmp://77.92.76.192/live playpath=tlnovelas2021?id=15840 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/embedplayer/tlnovelas2021/1/600/385 Conn=S:OK timeout=15</link>
 <thumbnail>http://computrucos.com/wp-content/uploads/2011/04/tlnovelas.jpg</thumbnail>
 <info></info>
 <fanart></fanart>
@@ -166,7 +166,7 @@
 
 <item>
 <title>[COLOR skyblue]TELEMUNDO 3[/COLOR]</title>
-<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_telemundo26 live=1 timeout=20</link>
+<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_victeve1 live=1 timeout=20</link>
 <regex>
 <name>getdecoded</name>
 <expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
@@ -185,7 +185,7 @@
 <regex>
 <name>getUrl</name>
 <expres>(.*)<expres>
-<page>http://mvn.vaughnsoft.net/video/edge/live_telemundo26$doregex[gettime]-$doregex[gettime].33434</page>
+<page>http://mvn.vaughnsoft.net/video/edge/live_victeve1$doregex[gettime]-$doregex[gettime].33434</page>
 </regex>
 <regex>
 <name>gettime</name>
@@ -197,7 +197,7 @@
 
 <item>
 <title>[COLOR skyblue]UNIVISION 1 [/COLOR]</title>
-<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_univision_hd19 live=1 timeout=20</link>
+<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_univision_hd20 live=1 timeout=20</link>
 <regex>
 <name>getdecoded</name>
 <expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
@@ -216,7 +216,7 @@
 <regex>
 <name>getUrl</name>
 <expres>(.*)<expres>
-<page>http://mvn.vaughnsoft.net/video/edge/live_univision_hd19$doregex[gettime]-$doregex[gettime].33434</page>
+<page>http://mvn.vaughnsoft.net/video/edge/live_univision_hd20$doregex[gettime]-$doregex[gettime].33434</page>
 </regex>
 <regex>
 <name>gettime</name>
@@ -228,6 +228,37 @@
 
 <item>
 <title>[COLOR skyblue]UNIVISION 2 [/COLOR]</title>
+<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_extremounivisiontv live=1 timeout=20</link>
+<regex>
+<name>getdecoded</name>
+<expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
+<page></page>
+</regex>
+<regex>
+<name>getencoded</name>
+<expres>;(0m0[0-9].*)<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getserver</name>
+<expres>(.*?);<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>(.*)<expres>
+<page>http://mvn.vaughnsoft.net/video/edge/live_extremounivisiontv$doregex[gettime]-$doregex[gettime].33434</page>
+</regex>
+<regex>
+<name>gettime</name>
+<expres>$pyFunction:str(int(round(time.time() * 1000)))<expres>
+<page></page>
+</regex>
+<thumbnail>http://12y2.com/wp-content/uploads/2014/06/graphic-univision-branding.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]UNIVISION 3 [/COLOR]</title>
 <link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_ronitv1 live=1 timeout=20</link>
 <regex>
 <name>getdecoded</name>
@@ -313,8 +344,8 @@
 </item>
 
 <item>
-<title>HISTORY</title>
-<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_mfv_07 live=1 timeout=20</link>
+<title>DISCOVERY</title>
+<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_history_history live=1 timeout=20</link>
 <regex>
 <name>getdecoded</name>
 <expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
@@ -333,14 +364,14 @@
 <regex>
 <name>getUrl</name>
 <expres>(.*)<expres>
-<page>http://mvn.vaughnsoft.net/video/edge/live_mfv_07_$doregex[gettime]-$doregex[gettime].33434</page>
+<page>http://mvn.vaughnsoft.net/video/edge/live_history_history$doregex[gettime]-$doregex[gettime].33434</page>
 </regex>
 <regex>
 <name>gettime</name>
 <expres>$pyFunction:str(int(round(time.time() * 1000)))<expres>
 <page></page>
 </regex>
-<thumbnail>http://www.mitvenvivo.tv/wp-content/uploads/2010/06/hist12.jpeg</thumbnail>
+<thumbnail>http://images.kaneva.com/filestore9/3780483/6088314/discoverychannelUiphoneUwallpaper_ad.jpg</thumbnail>
 </item>
 
 <item>
@@ -364,7 +395,7 @@
 <regex>
 <name>getUrl</name>
 <expres>(.*)<expres>
-<page>http://mvn.vaughnsoft.net/video/edge/live_mfv_05_$doregex[gettime]-$doregex[gettime].33434</page>
+<page>http://mvn.vaughnsoft.net/video/edge/live_mfv_05$doregex[gettime]-$doregex[gettime].33434</page>
 </regex>
 <regex>
 <name>gettime</name>
@@ -383,7 +414,77 @@
 
 <item>
 <title>GUINEA ECUATORIAL TV</title>
-<link>rtmp://82.98.138.14/live playpath=rtvgeint swfUrl=http://www.rtvgeint.tv/player.swf live=1 pageUrl=http://www.rtvgeint.tv/</link>
+<link>rtmp://82.98.138.14/live playpath=rtvgeint swfUrl=http://www.rtvgeint.tv/player.swf live=1 pageUrl=http://www.rtvgeint.tv/ timeout=20</link>
 <thumbnail>http://www.freeetv.com/images/01_logo/tvge_international_guinea.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>FOX </title>
+<link>rtmp://77.92.76.192/live playpath=fox2021?id=15837 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/embedplayer/fox2021/1/600/385 Conn=S:OK timeout=15</link>
+<thumbnail>http://www.heycanlitv.com/wp-content/uploads/2013/04/foxtv.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR skyblue]ID INF [/COLOR]</title>
+<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_id_inf live=1 timeout=20</link>
+<regex>
+<name>getdecoded</name>
+<expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
+<page></page>
+</regex>
+<regex>
+<name>getencoded</name>
+<expres>;(0m0[0-9].*)<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getserver</name>
+<expres>(.*?);<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>(.*)<expres>
+<page>http://mvn.vaughnsoft.net/video/edge/live_id_inf$doregex[gettime]-$doregex[gettime].33434</page>
+</regex>
+<regex>
+<name>gettime</name>
+<expres>$pyFunction:str(int(round(time.time() * 1000)))<expres>
+<page></page>
+</regex>
+<thumbnail>http://a1220.phobos.apple.com/us/r1000/090/Purple/v4/f1/f9/9c/f1f99ce7-f88a-4e1d-7ca8-3f66c87867fa/mzl.debsjipf.png</thumbnail>
+</item>
+
+<item>
+<title>HISTORY CHANNEL</title>
+<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_mfv_08 live=1 timeout=20</link>
+<regex>
+<name>getdecoded</name>
+<expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
+<page></page>
+</regex>
+<regex>
+<name>getencoded</name>
+<expres>;(0m0[0-9].*)<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getserver</name>
+<expres>(.*?);<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>(.*)<expres>
+<page>http://mvn.vaughnsoft.net/video/edge/live_mfv_08$doregex[gettime]-$doregex[gettime].33434</page>
+</regex>
+<regex>
+<name>gettime</name>
+<expres>$pyFunction:str(int(round(time.time() * 1000)))<expres>
+<page></page>
+</regex>
+<thumbnail>http://i1.ytimg.com/vi/XABnu9a1Lz4/maxresdefault.jpg</thumbnail>
+</item>
+
