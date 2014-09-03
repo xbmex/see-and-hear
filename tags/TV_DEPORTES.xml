@@ -63,6 +63,14 @@
 </item>
 
 <item>
+<title>[COLOR skyblue]EL CHIRINGUITO ESPNEOX [COLOR lime]FULL HD/[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=XHjX98uBVEs</link>
+<thumbnail>http://www.formulatv.com/images/fgaleria/39100/39182_logo-el-chiringuito-de-jugones.jpg</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLOR red]LIGA MEXICANA UNIVISION DEPORTES [/COLOR]</title>
 <link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_psntv_espndeportes live=1 timeout=20</link>
 <regex>
