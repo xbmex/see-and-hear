@@ -17,9 +17,17 @@
 </item>
 
 <item>
-<title>[COLOR skyblue]TELE 5 CHILE [COLOR lime]FULL HD/[/COLOR]</title>
+<title>[COLOR skyblue]TELE 5 CHILE [COLOR lime]FULL HD SOLO EN CHILE/[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Z8OsdwKmOwo</link>
 <thumbnail>http://a3.mzstatic.com/us/r30/Purple4/v4/89/39/7f/89397f48-6871-5eb3-5735-da9a3374938e/mzl.qpvcuxop.175x175-75.jpg</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR skyblue]AHORAVISION VENEZUELA  [COLOR lime]FULL HD [/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=JmF62_qGdKA</link>
+<thumbnail>https://pbs.twimg.com/profile_images/438653290927374336/x16tB_TN.jpeg</thumbnail>
 <info></info>
 <fanart></fanart>
 </item>
