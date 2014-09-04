@@ -25,7 +25,7 @@
 </item>
 
 <item>
-<title>[COLOR skyblue]RT EN ESPAÑOL [COLOR red]HD[/COLOR]</title>
+<title>[COLOR skyblue]RT EN ESPAÑOL [COLOR lime]FULL HD [/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=sk9ggQBT8CA</link>
 <thumbnail>http://www.dossiergeopolitico.com/blog/wp-content/uploads/2013/08/rt_sepa_mas.png</thumbnail>
 <info></info>
@@ -328,8 +328,8 @@
 </item>
 
 <item>
-<title>[COLOR skyblue]DISCOVERY[/COLOR]</title>
-<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_history_history live=1 timeout=20</link>
+<title>[COLOR skyblue]MUNDO FOX[/COLOR]</title>
+<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_mundofox28 live=1 timeout=20</link>
 <regex>
 <name>getdecoded</name>
 <expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
@@ -348,18 +348,18 @@
 <regex>
 <name>getUrl</name>
 <expres>(.*)<expres>
-<page>http://mvn.vaughnsoft.net/video/edge/live_history_history$doregex[gettime]-$doregex[gettime].33434</page>
+<page>http://mvn.vaughnsoft.net/video/edge/live_mundofox28_$doregex[gettime]-$doregex[gettime].33434</page>
 </regex>
 <regex>
 <name>gettime</name>
 <expres>$pyFunction:str(int(round(time.time() * 1000)))<expres>
 <page></page>
 </regex>
-<thumbnail>http://images.kaneva.com/filestore9/3780483/6088314/discoverychannelUiphoneUwallpaper_ad.jpg</thumbnail>
+<thumbnail>http://4.bp.blogspot.com/-qqFVGyrJ1sU/UAUCWdi848I/AAAAAAAAIBU/xb-iZ_C1A-0/s1600/Mundo+Fox+BLOG.png</thumbnail>
 </item>
 
 <item>
-  <title>[COLOR akyblue]H2[/COLOR]</title>
+<title>[COLOR skyblue]H2[/COLOR]</title>
 <link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_mfv_05 live=1 timeout=20</link>
 <regex>
 <name>getdecoded</name>
