@@ -1,7 +1,113 @@
 <?xml version="1.0" ?>
 
 <item>
-<title>[COLOR red]AFA TV [/COLOR]</title>
+<title>[COLOR skyblue]CDO PREMIUM DEPORTES OLIMPICOS (CH)[/COLOR]</title>
+<link>http://wow2.cl.digitalproserver.com:443/cdo/cdovivo/cdo.smil/playlist.m3u8</link>
+<thumbnail>http://www.cdo.tv/2012/img/cdo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR skyblue]CDF (SOLO PARTIDOS) & DEPORTES (CH)[/COLOR]</title>
+<link>rtmp://207.244.76.206/iguide playpath=ep979xjjx9gephj swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=400&channel=271&autoplay=true token=#ed%h0#w18623jsda6523lDGD</link>
+<thumbnail>http://2.bp.blogspot.com/-fRtYVIR_LtI/T7gmyjUquWI/AAAAAAAABng/OZQ8hf04yrg/s1600/cdf+premium.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR skyblue]DEPORT TV (ARG)[/COLOR]</title>
+<link>rtmp://wdc02.iviplanet.com:1935/DeporTV playpath=myStream.sdp swfUrl=http://www.tvmia.com/scripts/player.swf live=1 pageUrl=http://www.tvmia.com/seleccioncanal/argentina/deportv timeout=15</link>
+<thumbnail>http://todoactual.com/wp-content/uploads/2013/02/deportv.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR skyblue]TYC SPORTS HD (ARG)[/COLOR]</title>
+<link>rtmp://wdc.cxnlive.com/live/ playpath=tychd.stream</link>
+<thumbnail>http://ipuntotv.com/IMAGES/tyc-logo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR skyblue]FOX SPORTS HD LATINO[/COLOR]</title>
+<link>rtmp://wdc.cxnlive.com/live/ playpath=foxhd</link>
+<thumbnail>http://i.imgur.com/ZbjSxGn.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR skyblue]FOX SPORTS BRASIL[/COLOR]</title>
+<link>rtmp://31.204.153.72/live/ playpath=fsb swfUrl=http://www.cdnbr.biz/swf/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/FSB.html </link>
+<thumbnail>http://3.bp.blogspot.com/-VLtanwpqTy0/UHwf2IH34WI/AAAAAAAANnk/jjjUKtrmMBU/s1600/FOX+Sports.jpg</thumbnail>
+<item>
+
+<item>
+<title>[COLOR skyblue]ESPN LATINO[/COLOR]</title>
+<link>rtmp://wdc.cxnlive.com/live/ playpath=espn</link>
+<thumbnail>http://1.bp.blogspot.com/-rzP7nP4VXgo/UToo7_wpjFI/AAAAAAAAEOc/Kn0AGz-MYG8/s1600/Logo+Tv+ESPN+2013.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR skyblue]ESPN + LATINO[/COLOR]</title>
+<link>rtmp://wdc.cxnlive.com/live/ playpath=espn2</link>
+<thumbnail>http://2.bp.blogspot.com/-ZWlFjfEtxtU/UTQFIdki87I/AAAAAAAAHdk/5QbzSDXeFcA/s1600/Logo+Tv+Espn%252B+2013+%255BVIVO%255D.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR skyblue]ESPN 3 (MEX)[/COLOR]</title>
+<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_parach703 live=1 timeout=30</link>
+<regex>
+<name>getdecoded</name>
+<expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
+<page></page>
+</regex>
+<regex>
+<name>getencoded</name>
+<expres>;(0m0[0-9].*)<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getserver</name>
+<expres>(.*?);<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>(.*)<expres>
+<page>http://mvn.vaughnsoft.net/video/edge/live_parach703_$doregex[gettime]-$doregex[gettime].33434</page>
+</regex>
+<regex>
+<name>gettime</name>
+<expres>$pyFunction:str(int(round(time.time() * 1000)))<expres>
+<page></page>
+</regex>
+<thumbnail>http://2.bp.blogspot.com/-ZWlFjfEtxtU/UTQFIdki87I/AAAAAAAAHdk/5QbzSDXeFcA/s1600/Logo+Tv+Espn%252B+2013+%255BVIVO%255D.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]ESPN BRASIL[/COLOR]</title>
+<link>rtmp://31.204.128.74/live/ playpath=master27 swfUrl=http://www.cdnbr.biz/swf/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/ESPN HD.html</link>
+<thumbnail>http://ballhyped.net/wp-content/uploads/2012/02/espn-logo.jpg</thumbnail>
+<item>
+
+<item>
+<title>[COLOR skyblue]ESPN (UK)[/COLOR]</title>
+<link>rtmpe://46.246.124.28:1935/live/ playpath=espnk swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf  pageUrl=http://www.hdcast.org/embedlive2.php?u=espnk&amp;vw=620&vh=490&domain=cricfree.tv live=1 swfVfy=1 token=#yw%tt#w@kku timeout=15</link>
+<thumbnail>http://ballhyped.net/wp-content/uploads/2012/02/espn-logo.jpg</thumbnail>
+<item>
+
+<item> 
+<title>[COLOR skyblue]WIN SPORTS (COL)[/COLOR]</title> 
+<link>rtmp://media.uvault.com/live/2695-7ff1cdf/liveevent timeout=15</link> 
+<thumbnail>http://www.sitioco.com/futbolcolombiano/wp-content/uploads/2012/12/win-sports-en-vivo.jpg</thumbnail> 
+<info>Win Sport es el nuevo canal deportivo colombiano el cual trasmite futbol colombiano en vivo y todo el deporte de colombiano completamente en vivo las 24 </info> 
+<fanart></fanart> 
+<item>
+
+<item>
+<title>[COLOR skyblue]AFA TV (ARG)[/COLOR]</title>
 <link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_afa_tv live=1 timeout=20</link>
 <regex>
 <name>getdecoded</name>
@@ -32,7 +138,7 @@
 </item>
 
 <item>
-<title>[COLOR red]ESPN MEXICO[/COLOR]</title>
+<title>[COLOR skyblue]ESPN MEXICO & DEPORTES[/COLOR]</title>
 <link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_ronitv4 live=1 timeout=20</link>
 <regex>
 <name>getdecoded</name>
@@ -102,7 +208,7 @@
 </item>
 
 <item>
-<title>[COLOR red]BRUJITA DE PRIMERA [/COLOR]</title>
+<title>[COLOR red]BRUJITA DE PRIMERA (ARG)[/COLOR]</title>
 <link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_brujita_deprimera live=1 timeout=20</link>
 <regex>
 <name>getdecoded</name>
@@ -164,7 +270,7 @@
 </item>
 
 <item>
-<title>[COLOR red]PSN TV SPORT [/COLOR]</title>
+<title>[COLOR skyblue]PSN TV SPORT [/COLOR]</title>
 <link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_psntv_espndeportes live=1 timeout=20</link>
 <regex>
 <name>getdecoded</name>
@@ -195,97 +301,253 @@
 </item>
 
 <item>
-<title>[COLOR skyblue]REDBULL OFF[/COLOR]  [COLOR lime]SD[/COLOR]</title>
-<link>http://live.iphone.redbull.de.edgesuite.net/iphone.m3u8</link>
-<thumbnail>http://attach.forum.ge/post-68-1365190091.png</thumbnail>
-<info><![CDATA[]]></info>
-<fanart></fanart>
-</item>
-
-<item>
-<title>CDF (SOLO PARTIDOS)</title>
-<link>rtmp://207.244.76.206/iguide playpath=ep979xjjx9gephj swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=400&channel=271&autoplay=true token=#ed%h0#w18623jsda6523lDGD</link>
-<thumbnail>http://2.bp.blogspot.com/-fRtYVIR_LtI/T7gmyjUquWI/AAAAAAAABng/OZQ8hf04yrg/s1600/cdf+premium.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>CDO PREMIUM DEPORTES OLIMPICOS</title>
-<link>http://wow2.cl.digitalproserver.com:443/cdo/cdovivo/cdo.smil/playlist.m3u8</link>
-<thumbnail>http://www.cdo.tv/2012/img/cdo.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>CABLEDEPORTES ECUADOR OFF TEMPORALMENTE</title>
-<link>$doregex[get-link]</link>
-<regex>
-<name>get-link</name>
-<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/uhls/12310232/streams/live/iphone/playlist.m3u8')</expres>
-<page></page>
-</regex>
-<thumbnail>http://www.pontecool.com/artes/cable_deportes_online_5_oct_2013.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>TYC SPORTS HD ARGENTINA</title>
-<link>rtmp://wdc.cxnlive.com/live/ playpath=tychd.stream</link>
-<thumbnail>http://ipuntotv.com/IMAGES/tyc-logo.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>FOX SPORTS HD LATINO</title>
-<link>rtmp://wdc.cxnlive.com/live/ playpath=foxhd</link>
-<thumbnail>http://i.imgur.com/ZbjSxGn.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>ESPN LATINO</title>
-<link>rtmp://wdc.cxnlive.com/live/ playpath=espn</link>
-<thumbnail>http://1.bp.blogspot.com/-rzP7nP4VXgo/UToo7_wpjFI/AAAAAAAAEOc/Kn0AGz-MYG8/s1600/Logo+Tv+ESPN+2013.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>ESPN + LATINO</title>
-<link>rtmp://wdc.cxnlive.com/live/ playpath=espn2</link>
-<thumbnail>http://2.bp.blogspot.com/-ZWlFjfEtxtU/UTQFIdki87I/AAAAAAAAHdk/5QbzSDXeFcA/s1600/Logo+Tv+Espn%252B+2013+%255BVIVO%255D.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>DEPORT TV ARGENTINA</title>
-<link>rtmp://wdc02.iviplanet.com:1935/DeporTV playpath=myStream.sdp swfUrl=http://www.tvmia.com/scripts/player.swf live=1 pageUrl=http://www.tvmia.com/seleccioncanal/argentina/deportv timeout=15</link>
-<thumbnail>http://todoactual.com/wp-content/uploads/2013/02/deportv.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR skyblue]WIN SPORTS [/COLOR]</title>
-<link>rtmp://media.uvault.com/live/2695-7ff1cdf/liveevent timeout=15</link>
-<thumbnail>http://www.sitioco.com/futbolcolombiano/wp-content/uploads/2012/12/win-sports-en-vivo.jpg</thumbnail>
-<info>Win Sport es el nuevo canal deportivo colombiano el cual trasmite futbol colombiano en vivo y todo el deporte de colombiano completamente en vivo las 24 </info>
-<fanart></fanart>
-<item>
-
-<item>
-<title>UFC LATINO</title>
+<title>[COLOR skyblue]UFC LATINO[/COLOR]</title>
 <link>rtmp://wdc.cxnlive.com/live/ playpath=ufc</link>
 <thumbnail>http://www.mma-latino.com/wp-content/uploads/2011/12/UFCLatinoLogo.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR orange]FOX SPORT BRASIL[/COLOR]</title>
-<link>rtmp://31.204.153.72/live/ playpath=fsb swfUrl=http://www.cdnbr.biz/swf/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/FSB.html </link>
-<thumbnail>http://3.bp.blogspot.com/-VLtanwpqTy0/UHwf2IH34WI/AAAAAAAANnk/jjjUKtrmMBU/s1600/FOX+Sports.jpg</thumbnail>
-<item>
+<title>[COLOR skyblue]UFC PPV (SOLO EVENTOS)[/COLOR]</title>
+<link>http://nlds60.cdnak.neulion.com/nlds/ufce/affiliate/as/live/affiliate_hd_4500.m3u8</link>
+<thumbnail>http://s3.amazonaws.com/assets.ufcvipexperience.com/assets/image/375/320x320%2523/UFC-Event-Thumbnail-UFC-182-UFC-VIP-Experience.jpg</thumbnail>
+<fanart></fanart>
+</item>
 
 <item>
-<title>[COLOR orange]ESPN BRASIL[/COLOR]</title>
-<link>rtmp://31.204.128.74/live/ playpath=master27 swfUrl=http://www.cdnbr.biz/swf/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/ESPN HD.html</link>
-<thumbnail>http://ballhyped.net/wp-content/uploads/2012/02/espn-logo.jpg</thumbnail>
+<title>[COLOR skyblue]FIGHT CHANNEL[/COLOR]</title>
+<link>http://83.139.104.101/Content/HLS/Live/Channel(fight_channel)/Stream(03)/index.m3u8</link>
+<thumbnail>http://epg.orlando-film.hr/images/show_image/noimage_2.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
 <item>
+<title>[COLOR skyblue]BOX NATION[/COLOR]</title>
+<link>rtmpe://46.246.124.24:1935/live/ playpath=sboxn swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/embedlive.php?u=sboxn&vw=854&amp;vh=480&domain=streamhd.eu live=1 token=#yw%tt#w@kku timeout=15</link>
+<thumbnail>http://techjunkie.tk/TV%20&%20Radio%20Logos/Box%20Nation.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR skyblue]MASKED REPUBLIC AAA LUCHA LIBRE[/COLOR]</title>
+<link>rtmp://mi2.gv.filmon.com:8086/live/802.high.stream</link>
+<thumbnail>http://www.luchaworld.com/wordpress/wp-content/uploads/2012/06/mr_fp.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR skyblue]WWE WRESTLING[/COLOR]</title>
+<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_parahd804 live=1 timeout=20</link>
+<regex>
+<name>getdecoded</name>
+<expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
+<page></page>
+</regex>
+<regex>
+<name>getencoded</name>
+<expres>;(0m0[0-9].*)<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getserver</name>
+<expres>(.*?);<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>(.*)<expres>
+<page>http://mvn.vaughnsoft.net/video/edge/live_parahd804_$doregex[gettime]-$doregex[gettime].33434</page>
+</regex>
+<regex>
+<name>gettime</name>
+<expres>$pyFunction:str(int(round(time.time() * 1000)))<expres>
+<page></page>
+</regex>
+<thumbnail>http://448143326.r.cdn77.net/wp-content/uploads/2013/11/wwe.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]EURO SPORTS (RU)[/COLOR]</title>
+<link>rtmp://edge04-09.az.myvideo.az/dvrh264/eurosport/ playpath=mp4:eurosport swfUrl=http://www.myvideo.az/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=eurosport</link>
+<thumbnail>http://identitydesigned.com/images/eurosport/eurosport-logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]EURO SPORTS 2 (RU) (OFF)[/COLOR]</title>
+<link>rtmp://edge04-04.az.myvideo.az/dvrh264/eurosport2 playpath=mp4:eurosport2 swfUrl=http://www.myvideo.az/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=eurosport2</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/8/85/Eurosport2.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]EURO SPORTS (UK)[/COLOR]</title>
+<link>http://83.139.104.101/Content/HLS/Live/Channel(eurosport)/Stream(03)/index.m3u8</link>
+<thumbnail>http://identitydesigned.com/images/eurosport/eurosport-logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]EURO SPORTS 2 (UK)[/COLOR]</title>
+<link>http://83.139.104.101/Content/HLS/Live/Channel(eurosport_2)/Stream(03)/index.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/8/85/Eurosport2.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]SKY SPORTS 1 (UK)[/COLOR]</title>
+<link>rtmpe://31.220.0.198/live playpath=sky1 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 pageUrl=http://www.pvtserverz.com/</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_mx_sports1.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]SKY SPORTS 2 (UK)[/COLOR]</title>
+<link>rtmpe://31.220.0.198/live playpath=sky2 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 pageUrl=http://www.pvtserverz.com/</link>
+<thumbnail>http://go.sky.com/SVOD/SKYSPORTS/_Streams/Video%20Streams/Promo%20Images/New%20Channel%20Images/video-sign-in_ss2.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]SKY SPORTS 3 (UK)[/COLOR]</title>
+<link>rtmpe://31.220.0.198/live playpath=sky3 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 pageUrl=http://www.pvtserverz.com/</link>
+<thumbnail>http://www.entertainmentdoor.com.pk/images/channel_image/TVnewsroom-2010-01-24-20h56m28s206.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]SKY SPORTS 4 (UK)[/COLOR]</title>
+<link>rtmpe://31.220.0.198/live playpath=sky4 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 pageUrl=http://www.pvtserverz.com/</link>
+<thumbnail>http://3.bp.blogspot.com/-N-haVmxFcoA/UluIte7duaI/AAAAAAAAA5w/j7WGMf9HbxU/s1600/Sky+Sport+4+live+stream+online+%D8%B3%D9%83%D8%A7%D9%89+%D8%B3%D8%A8%D9%88%D8%B1%D8%AA+%D8%A8%D8%AB+%D9%85%D8%A8%D8%A7%D8%B4%D8%B1.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]SKY SPORTS 5 (UK)[/COLOR]</title>
+<link>rtmpe://31.220.0.198/live playpath=sky5 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 pageUrl=http://www.pvtserverz.com/</link>
+<thumbnail>http://ak.c.ooyala.com/VybG45bjoOR_9FvI3d3tCLlkIr9ODTuJ/utWmvUErw70ot42n4xMDoxOjA4MTsiGN</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]FOOTBALL UK[/COLOR]</title>
+<link>rtmp://mi2.gv.filmon.com:8086/live/374.high.stream</link>
+<thumbnail>http://static.filmon.com/couch/channels/374/extra_big_logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]SPORT KLUB1[/COLOR]</title>
+<link>http://83.139.104.101/Content/HLS/Live/Channel(Sk_1)/Stream(03)/index.m3u8</link>
+<thumbnail>http://www.sportklub.info/img_hp/SK_logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]SPORT KLUB3[/COLOR]</title>
+<link>http://83.139.104.101/Content/HLS/Live/Channel(Sk_3)/Stream(03)/index.m3u8</link>
+<thumbnail>http://www.sportklub.rs/img/pssk3.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]SPORTSKA TV[/COLOR]</title>
+<link>http://83.139.104.101/Content/HLS/Live/Channel(sportska_tv)/Stream(03)/index.m3u8</link>
+<thumbnail>http://www.znet.hr/wp-content/uploads/sportska-televizija-e1292504354372-475x316.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]SPORTTIME TV 1 (TEST)[/COLOR]</title>
+<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_1200</link>
+<thumbnail>http://bratu-marian.ro/wp-content/uploads/2014/07/Sports-Time-TV.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]SPORTTIME TV 2 (TEST)[/COLOR]</title>
+<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200</link>
+<thumbnail>http://bratu-marian.ro/wp-content/uploads/2014/07/Sports-Time-TV.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]SPORTTIME TV 3 (TEST)[/COLOR]</title>
+<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200</link>
+<thumbnail>http://bratu-marian.ro/wp-content/uploads/2014/07/Sports-Time-TV.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]SPORTTIME TV 4 (TEST)[/COLOR]</title>
+<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200</link>
+<thumbnail>http://bratu-marian.ro/wp-content/uploads/2014/07/Sports-Time-TV.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]SPORTTIME TV 5 (TEST)[/COLOR]</title>
+<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200</link>
+<thumbnail>http://bratu-marian.ro/wp-content/uploads/2014/07/Sports-Time-TV.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]SPORTTIME TV 6 (TEST)[/COLOR]</title>
+<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_1200</link>
+<thumbnail>http://bratu-marian.ro/wp-content/uploads/2014/07/Sports-Time-TV.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]SPORTTIME TV 7 (TEST)[/COLOR]</title>
+<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200</link>
+<thumbnail>http://bratu-marian.ro/wp-content/uploads/2014/07/Sports-Time-TV.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]EX SPORTS[/COLOR]</title>
+<link>http://83.139.104.101/Content/HLS/Live/Channel(extreme_sports)/Stream(03)/index.m3u8</link>
+<thumbnail>http://www.appurity.co.uk/sites/default/files/images/logo4Steve_BlackBgrnd_0.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]XTREME SPORTS[/COLOR]</title>
+<link>rtmp://mi2.gv.filmon.com:8086/live/326.high.stream</link>
+<thumbnail>http://2.bp.blogspot.com/_ZuqU4sewrR4/ShhUZFybVHI/AAAAAAAAAIw/F63arVAtTEY/s320/extreme-sports.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]PAC12 LOS ANGELES HD (US)[/COLOR]</title>
+<link>http://xrxs.net/video/live-p12losa-4728.m3u8</link>
+<thumbnail>http://www.collegetennisonline.com/Uploads/Common/Images/Pac12%20Logo_ctofeatured.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]PAC12 WASHINGTON ED (US)[/COLOR]</title>
+<link>http://pac12hd2-lh.akamaihd.net/i/p12wash_delivery@132841/index_1728_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://www.localtel.net/dev/content/PAC-12.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]PAC12 WASHINGTON HD (US)[/COLOR]</title>
+<link>http://pac12hd2-lh.akamaihd.net/i/p12wash_delivery@132841/index_2328_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://www.localtel.net/dev/content/PAC-12.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]PAC12 WASHINGTON FULL HD (US)[/COLOR]</title>
+<link>http://pac12hd2-lh.akamaihd.net/i/p12wash_delivery@132841/index_4728_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://www.localtel.net/dev/content/PAC-12.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]PAC12 ARIZONA ED (US)[/COLOR]</title>
+<link>http://pac12hd2-lh.akamaihd.net/i/p12ariz_delivery@132836/index_1728_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://www.orbitelcom.com/wp-content/uploads/2012/08/Pac12_Arizona-3-450x450.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]PAC12 ARIZONA HD (US)[/COLOR]</title>
+<link>http://pac12hd2-lh.akamaihd.net/i/p12ariz_delivery@132836/index_2328_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://www.orbitelcom.com/wp-content/uploads/2012/08/Pac12_Arizona-3-450x450.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]PAC12 ARIZONA FULL HD (US)[/COLOR]</title>
+<link>http://pac12hd2-lh.akamaihd.net/i/p12ariz_delivery@132836/index_4728_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://www.orbitelcom.com/wp-content/uploads/2012/08/Pac12_Arizona-3-450x450.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]SPORTS SKOOL[/COLOR]</title>
+<link>rtmp://204.107.26.252:8086/live/686.high.stream</link>
+<thumbnail>http://www.sportskool.com/content_images/15/ss-ad-banner-youtube01.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]W2C RICE[/COLOR]</title>
+<link>mms://83.222.161.217/100livesport</link>
+<thumbnail>http://s3.argim.net/files/g/fia_world_rally_championship.jpg</thumbnail>
+</item>
