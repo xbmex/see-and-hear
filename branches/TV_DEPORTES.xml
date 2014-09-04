@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 
 <item>
-<title>[COLOR red]AFA TV [/COLOR]</title>
+<title>[COLOR skyblue]AFA TV [/COLOR]</title>
 <link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_afa_tv live=1 timeout=20</link>
 <regex>
 <name>getdecoded</name>
@@ -32,7 +32,7 @@
 </item>
 
 <item>
-<title>[COLOR red]ESPN MEXICO[/COLOR]</title>
+<title>[COLOR skyblue]ESPN MEXICO[/COLOR]</title>
 <link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_ronitv4 live=1 timeout=20</link>
 <regex>
 <name>getdecoded</name>
@@ -63,7 +63,7 @@
 </item>
 
 <item>
-<title>[COLOR skyblue]EL CHIRINGUITO ESPNEOX [COLOR lime]FULL HD/[/COLOR]</title>
+<title>[COLOR red]EL CHIRINGUITO ESPNEOX [COLOR lime]FULL HD OFF[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=XHjX98uBVEs</link>
 <thumbnail>http://www.formulatv.com/images/fgaleria/39100/39182_logo-el-chiringuito-de-jugones.jpg</thumbnail>
 <info></info>
@@ -71,7 +71,7 @@
 </item>
 
 <item>
-<title>[COLOR red]LIGA MEXICANA UNIVISION DEPORTES [/COLOR]</title>
+<title>[COLOR skyblue]LIGA MEXICANA UNIVISION DEPORTES [/COLOR]</title>
 <link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_psntv_espndeportes live=1 timeout=20</link>
 <regex>
 <name>getdecoded</name>
@@ -102,7 +102,7 @@
 </item>
 
 <item>
-<title>[COLOR red]BRUJITA DE PRIMERA [/COLOR]</title>
+<title>[COLOR skyblue]BRUJITA DE PRIMERA [/COLOR]</title>
 <link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_brujita_deprimera live=1 timeout=20</link>
 <regex>
 <name>getdecoded</name>
@@ -133,7 +133,7 @@
 </item>
 
 <item>
-<title>[COLOR red]DEPORTIV HONDURAS SPORT[/COLOR]</title>
+<title>[COLOR skyblue]DEPORTIV HONDURAS SPORT[/COLOR]</title>
 <link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_hondurasport live=1 timeout=20</link>
 <regex>
 <name>getdecoded</name>
