@@ -1,6 +1,19 @@
 <?xml version="1.0" ?>
 
 <item>
+<title>[COLOR skyblue]BAJA 1000 TV[/COLOR]</title>
+<link>http://iphone-streaming.ustream.tv/ustreamVideo/$doregex[path]/streams/live/playlist.m3u8</link>
+<regex>
+<name>path</name>
+<expres>"https://www.ustream.tv/embed/(.+?)"></expres>
+<page>http://www.ustream.tv/baja1000tv</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://2.bp.blogspot.com/-OrtJ6_x9zDQ/U1Rh2nNLxzI/AAAAAAAADCo/0HZiqW3xQyc/s640/Dirt+live.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR skyblue]CDO PREMIUM DEPORTES OLIMPICOS (CH)[/COLOR]</title>
 <link>http://wow2.cl.digitalproserver.com:443/cdo/cdovivo/cdo.smil/playlist.m3u8</link>
 <thumbnail>http://www.cdo.tv/2012/img/cdo.jpg</thumbnail>
@@ -98,12 +111,12 @@
 <thumbnail>http://ballhyped.net/wp-content/uploads/2012/02/espn-logo.jpg</thumbnail>
 <item>
 
-<item> 
-<title>[COLOR skyblue]WIN SPORTS (COL)[/COLOR]</title> 
-<link>rtmp://media.uvault.com/live/2695-7ff1cdf/liveevent timeout=15</link> 
-<thumbnail>http://www.sitioco.com/futbolcolombiano/wp-content/uploads/2012/12/win-sports-en-vivo.jpg</thumbnail> 
-<info>Win Sport es el nuevo canal deportivo colombiano el cual trasmite futbol colombiano en vivo y todo el deporte de colombiano completamente en vivo las 24 </info> 
-<fanart></fanart> 
+<item>
+<title>[COLOR skyblue]WIN SPORTS (COL)[/COLOR]</title>
+<link>rtmp://media.uvault.com/live/2695-7ff1cdf/liveevent timeout=15</link>
+<thumbnail>http://www.sitioco.com/futbolcolombiano/wp-content/uploads/2012/12/win-sports-en-vivo.jpg</thumbnail>
+<info>Win Sport es el nuevo canal deportivo colombiano el cual trasmite futbol colombiano en vivo y todo el deporte de colombiano completamente en vivo las 24 </info>
+<fanart></fanart>
 <item>
 
 <item>
@@ -551,4 +564,3 @@
 <link>mms://83.222.161.217/100livesport</link>
 <thumbnail>http://s3.argim.net/files/g/fia_world_rally_championship.jpg</thumbnail>
 </item>
-
