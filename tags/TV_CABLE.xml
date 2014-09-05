@@ -48,11 +48,16 @@
 </item>
 
 <item>
-<title>[COLOR red]WARNER TV OFF TEMPORALMENTE[/COLOR]</title>
-<link>rtmp://46.28.48.116/live playpath=warner2021?id=15846 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/embedplayer/warner2021/1/620/385 timeout=15 conn=S:OK --live</link>
-<thumbnail>http://thevampireclub.files.wordpress.com/2010/01/warner.jpg</thumbnail>
-<info></info>
-<fanart></fanart>
+<title>[COLOR skyblue]DISCOVERY [COLOR lime]PROBAR DOS VECES[/COLOR]</title>
+<link>http://iphone-streaming.ustream.tv/ustreamVideo/$doregex[path]/streams/live/playlist.m3u8</link>
+<regex>
+<name>path</name>
+<expres>"https://www.ustream.tv/embed/(.+?)"></expres>
+<page>http://www.ustream.tv/channel/discomar</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/dd/discovery_us_hd.png</thumbnail>
 </item>
 
 <item>
