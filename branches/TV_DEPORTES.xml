@@ -181,13 +181,13 @@
 <thumbnail>http://sportsnetwork.wpengine.netdna-cdn.com/wp-content/uploads/2013/11/unnamed.png</thumbnail>
 </item>
 
-<item>
-<title>[COLOR skyblue]EL CHIRINGUITO ESPNEOX [COLOR lime]FULL HD/[/COLOR]</title>
+<subitem>
+<title>[COLOR skyblue]EL CHIRINGUITO ESPNEOX OFF[COLOR lime]FULL HD/[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=XHjX98uBVEs</link>
 <thumbnail>http://www.formulatv.com/images/fgaleria/39100/39182_logo-el-chiringuito-de-jugones.jpg</thumbnail>
 <info></info>
 <fanart></fanart>
-</item>
+</subitem>
 
 <item>
 <title>[COLOR red]LIGA MEXICANA UNIVISION DEPORTES [/COLOR]</title>
@@ -279,7 +279,7 @@
 <expres>$pyFunction:str(int(round(time.time() * 1000)))<expres>
 <page></page>
 </regex>
-<thumbnail>http://hondurastv.hn/wp-content/uploads/2013/09/lateral.png</thumbnail>
+<thumbnail>http://lanoticia.hn/wp-content/uploads/2014/06/CAMISETA.jpg</thumbnail>
 </item>
 
 <item>
@@ -385,11 +385,11 @@
 <thumbnail>http://identitydesigned.com/images/eurosport/eurosport-logo.jpg</thumbnail>
 </item>
 
-<item>
+<subitem>
 <title>[COLOR skyblue]EURO SPORTS 2 (RU) (OFF)[/COLOR]</title>
 <link>rtmp://edge04-04.az.myvideo.az/dvrh264/eurosport2 playpath=mp4:eurosport2 swfUrl=http://www.myvideo.az/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=eurosport2</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/8/85/Eurosport2.png</thumbnail>
-</item>
+</subitem>
 
 <item>
 <title>[COLOR skyblue]EURO SPORTS (UK)[/COLOR]</title>
