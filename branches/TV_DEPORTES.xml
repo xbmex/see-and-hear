@@ -42,6 +42,12 @@
 </item>
 
 <item>
+<title>[COLOR skyblue]CANAL + LIGA (ESP)[/COLOR]</title>
+<link>http://acabsw.doiptv.com/cs_liga/playlist.m3u8</link>
+<thumbnail>http://www.plus.es/img/portadilla_liga.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR skyblue]FOX SPORTS HD LATINO[/COLOR]</title>
 <link>rtmp://wdc.cxnlive.com/live/ playpath=foxhd</link>
 <thumbnail>http://i.imgur.com/ZbjSxGn.png</thumbnail>
@@ -100,6 +106,12 @@
 </item>
 
 <item>
+<title>[COLOR skyblue]GOL TV[/COLOR]</title>
+<link>http://cdnvir-edge05.mediapro.es/niceLiveServer/_definst_/5400f208/a66dabc06f4e223e5cacd61729a165fc/golt_live_24h_MB_2000/chunklist.m3u8?wowzasessionid=632104703&secHash=035416822c299ebdc6fbe9a1ad944a76</link>
+<thumbnail>http://www.blogtarifas.es/wp-content/uploads/2009/07/gol-tv-logo.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR skyblue]ESPN BRASIL[/COLOR]</title>
 <link>rtmp://31.204.128.74/live/ playpath=master27 swfUrl=http://www.cdnbr.biz/swf/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/ESPN HD.html</link>
 <thumbnail>http://ballhyped.net/wp-content/uploads/2012/02/espn-logo.jpg</thumbnail>
@@ -148,6 +160,24 @@
 <page></page>
 </regex>
 <thumbnail>http://www.canalvivo.com.ar/wp-content/uploads/2013/10/AFA_TV1.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]CANAL + LIGA DE CAMPEONES[/COLOR]</title> 
+<link>http://acabsw.doiptv.com/cs_ligachamp/playlist.m3u8</link>
+<thumbnail>http://tutele.s3.amazonaws.com/wp-content/uploads/2012/08/canal-liga-de-campeones.jpg</thumbnail>
+</item>     
+
+<item>
+<title>[COLOR skyblue]CANAL + FUTBOL[/COLOR]</title>   
+<link>http://acabsw.doiptv.com/cs_futbol/playlist.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Canal%2B_F%C3%BAtbol_2008.svg/200px-Canal%2B_F%C3%BAtbol_2008.svg.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]CANAL FIGHTBOX[/COLOR]</title>
+<link>http://stream1.zoovision.com//livespi/fightbox/playlist.m3u8</link>
+<thumbnail>http://tvonlineapp.com/wp-content/uploads/2013/08/fight-Box-HD.jpg</thumbnail>
 </item>
 
 <item>
