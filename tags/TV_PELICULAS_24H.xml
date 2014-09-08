@@ -614,8 +614,15 @@ r<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
 <title>[COLOR purple]-M-O-V-I-E-S-[/COLOR]</title>
-<link>plugin://plugin.video.veetle/?channel=4e530fffd056f</link>
+<link>plugin://plugin.video.veetle/?channel=53fb80904cd36/b9ce41d40895e62600b9acf966ec8177</link>
 <thumbnail>http://misterrandom.net/wp-content/uploads/2009/02/movies-logo1-500x286.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR red]۩۞۩ SCI-FI MOVIES ۩۞۩[/COLOR]</title>
+<link>plugin://plugin.video.veetle/?channel=53bafabd82ee1</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/mm/movies_now_hd.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -635,7 +642,7 @@ r<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
 <title>[COLOR yellow]FIREBALL CINEMA - ANIMATION[/COLOR]</title>
-<link>plugin://plugin.video.veetle/?channel=53f937a0d399f</link>
+<link>plugin://plugin.video.veetle/?channel=53df8de08604a</link>
 <thumbnail>http://www.ranklogos.com/wp-content/uploads/2012/04/movies-logo-1.gif</thumbnail>
 <fanart></fanart>
 </item>
