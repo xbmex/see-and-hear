@@ -1,7 +1,33 @@
 r<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR red]MEGA ESTRENOS [/COLOR]</title>
+<title>[COLOR red]==========AUDIO ESPANOL=========[/COLOR]</title>
+<link>rtmp://</link>
+<thumbnail>http://www.ipadforos.com/images/downloads/2014/08/07/3_xEi80ed.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR yellow]CANAL 5 [/COLOR]</title>
+<link>$doregex[get-page]$doregex[get-initsesion]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
+<regex>
+<name>get-initsesion</name>
+<expres></expres>
+<page>$doregex[get-page]</page>
+<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get-page</name>
+<expres>"m3u8_url":"(.*?)"</expres>
+<page>http://new.livestream.com/accounts/4253742/events/3331315</page>
+<agent>Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53</agent>
+<cookieJar></cookieJar>
+<thumbnail>http://i.minus.com/ibkN5GciJRlGIo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange]MEGA ESTRENOS [/COLOR]</title>
 <link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_mega_movieshd live=1 timeout=20</link>
 <regex>
 <name>getdecoded</name>
@@ -63,7 +89,7 @@ r<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 </item>
 
 <item>
-<title>[COLOR red]CINE STAR[/COLOR]</title>
+<title>[COLOR skyblue]CINE STAR[/COLOR]</title>
 <link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_cine_star live=1 timeout=20</link>
 <regex>
 <name>getdecoded</name>
@@ -94,7 +120,7 @@ r<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 </item>
 
 <item>
-<title>[COLOR red]CINEMA LATINO[/COLOR]</title>
+<title>[COLOR lime]CINEMA LATINO[/COLOR]</title>
 <link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_cinemalatinohd01 live=1 timeout=20</link>
 <regex>
 <name>getdecoded</name>
@@ -125,8 +151,8 @@ r<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 </item>
 
 <item>
-<title>[COLOR red]PELICULAS KEVIN HD [/COLOR]</title>
-<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_kevin_hd2 live=1 timeout=20</link>
+<title>[COLOR white]PLATINO MOVIEHD [/COLOR]</title>
+<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_platino_moviehd live=1 timeout=20</link>
 <regex>
 <name>getdecoded</name>
 <expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
@@ -145,18 +171,18 @@ r<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <regex>
 <name>getUrl</name>
 <expres>(.*)<expres>
-<page>http://mvn.vaughnsoft.net/video/edge/live_kevin_hd2_$doregex[gettime]-$doregex[gettime].33434</page>
+<page>http://mvn.vaughnsoft.net/video/edge/live_platino_moviehd$doregex[gettime]-$doregex[gettime].33434</page>
 </regex>
 <regex>
 <name>gettime</name>
 <expres>$pyFunction:str(int(round(time.time() * 1000)))<expres>
 <page></page>
 </regex>
-<thumbnail>http://sp4.fotolog.com/photo/4/0/57/lasjaibasibailan/1224015615524_f.jpg</thumbnail>
+<thumbnail>http://multiredtv.com/wp-content/uploads/2014/08/platino_moviehd_320.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR red]PELICULAS DE CANTINFLAS [/COLOR]</title>
+<title>[COLOR purple]PELICULAS DE CANTINFLAS [/COLOR]</title>
 <link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_juanito_10205036 live=1 timeout=20</link>
 <regex>
 <name>getdecoded</name>
@@ -187,38 +213,7 @@ r<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 </item>
 
 <item>
-<title>[COLOR red]CAJUNFLIX  PELICULAS HD INGLES [/COLOR]</title>
-<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_cajunflix1 live=1 timeout=20</link>
-<regex>
-<name>getdecoded</name>
-<expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
-<page></page>
-</regex>
-<regex>
-<name>getencoded</name>
-<expres>;(0m0[0-9].*)<expres>
-<page>$doregex[getUrl]</page>
-</regex>
-<regex>
-<name>getserver</name>
-<expres>(.*?);<expres>
-<page>$doregex[getUrl]</page>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>(.*)<expres>
-<page>http://mvn.vaughnsoft.net/video/edge/live_cajunflix1$doregex[gettime]-$doregex[gettime].33434</page>
-</regex>
-<regex>
-<name>gettime</name>
-<expres>$pyFunction:str(int(round(time.time() * 1000)))<expres>
-<page></page>
-</regex>
-<thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/cajunflix1_320.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR red]LCREME MOVIES[/COLOR]</title>
+<title>[COLOR navyblue]LCREME MOVIES[/COLOR]</title>
 <link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_lcreme live=1 timeout=20</link>
 <regex>
 <name>getdecoded</name>
@@ -249,7 +244,7 @@ r<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 </item>
 
 <item>
-<title>[COLOR red]UNIVERSAL MOVIEZ[/COLOR]</title>
+<title>[COLOR fuchsia]UNIVERSAL MOVIEZ[/COLOR]</title>
 <link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_universal_movies live=1 timeout=20</link>
 <regex>
 <name>getdecoded</name>
@@ -280,7 +275,7 @@ r<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 </item>
 
 <item>
-<title>[COLOR red] CINE ACCION 2[/COLOR]</title>
+<title>[COLOR green] CINE ACCION 2[/COLOR]</title>
 <link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_sebastiann24 live=1 timeout=20</link>
 <regex>
 <name>getdecoded</name>
@@ -310,8 +305,8 @@ r<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <thumbnail>http://www.walpaper.es/images/wallpapers/escena-de-accion-110933.jpeg</thumbnail>
 </item>
 
-<item>
-<title>[COLOR red]CINEMA PLUS[/COLOR]</title>
+<subitem>
+<title>[COLOR maroon]CINEMA PLUS[/COLOR]</title>
 <link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_cinemaplus live=1 timeout=20</link>
 <regex>
 <name>getdecoded</name>
@@ -339,7 +334,7 @@ r<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <page></page>
 </regex>
 <thumbnail>https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xpa1/t31.0-8/c0.0.851.315/p851x315/10496138_652209901537772_650330784130287424_o.jpg</thumbnail>
-</item>
+</subitem>
 
 <item>
 <title>[COLOR red]VITATO TV[/COLOR]</title>
@@ -373,7 +368,7 @@ r<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 </item>
 
 <item>
-<title>[COLOR red]LOBOS TV[/COLOR]</title>
+<title>[COLOR violet]LOBOS TV[/COLOR]</title>
 <link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_lobos_tv live=1 timeout=20</link>
 <regex>
 <name>getdecoded</name>
@@ -404,7 +399,7 @@ r<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 </item>
 
 <item>
-<title>[COLOR red]MOVIE LATINE EXPRESS [/COLOR]</title>
+<title>[COLOR lime]MOVIE LATINE EXPRESS [/COLOR]</title>
 <link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_movielatinexpress live=1 timeout=20</link>
 <regex>
 <name>getdecoded</name>
@@ -437,7 +432,7 @@ r<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
 <item>
-<title>[COLOR red]MORENA CLARA [/COLOR]</title>
+<title>[COLOR white]MORENA CLARA [/COLOR]</title>
 <link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_morena_clara12 live=1 timeout=20</link>
 <regex>
 <name>getdecoded</name>
@@ -468,7 +463,7 @@ r<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 </item>
 
 <item>
-<title>[COLOR red]MEGA MOVIES [/COLOR]</title>
+<title>[COLOR pink]MEGA MOVIES [/COLOR]</title>
 <link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_mega_extremo live=1 timeout=20</link>
 <regex>
 <name>getdecoded</name>
@@ -499,7 +494,7 @@ r<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 </item>
 
 <item>
-<title>[COLOR red]KATY [/COLOR]</title>
+<title>[COLOR orange]KATY [/COLOR]</title>
 <link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_katyhd live=1 timeout=20</link>
 <regex>
 <name>getdecoded</name>
@@ -529,8 +524,8 @@ r<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <thumbnail>http://www.just-spotted.com/wp-content/uploads/2011/06/free-summer-movies.jpg</thumbnail>
 </item>
 
-<item>
-<title>[COLOR red]ZONA FILMS HD[/COLOR]</title>
+<subitem>
+<title>[COLOR chestnut]ZONA FILMS HD[/COLOR]</title>
 <link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_zonafilmshd live=1 timeout=20</link>
 <regex>
 <name>getdecoded</name>
@@ -558,17 +553,16 @@ r<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <page></page>
 </regex>
 <thumbnail>http://us.123rf.com/400wm/400/400/hoperan/hoperan1008/hoperan100800403/7580302-elemento-de-diseno-para-el-tema-de-la-pelicula.jpg</thumbnail>
-</item>
+</subitem>
 
 <item>
-<title>[COLOR red]CINE CHILENO[/COLOR]</title>
+<title>[COLOR golden]CINE CHILENO [/COLOR]</title>
 <link>rtmp://149.11.34.6/live playpath=sesioncontinuatv.stream swfUrl=http://lasteles.com/js/mediaplayer-5.10/player.swf?35 live=1 pageUrl=http://lasteles.com/es/directo/SESI%C3%93N-CONT%C3%8DNUA-TV/</link>
 <thumbnail>http://radio.uchile.cl/wp-content/uploads/2012/12/cinechileno.jpg</thumbnail>
-<fanart>http://radio.uchile.cl/wp-content/uploads/2012/12/cinechileno.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR skyblue]UNIVERSAL MOVIES [COLOR lime]PROBAR DOS VECES[/COLOR]</title>
+<title>[COLOR skyblue]UNIVERSAL MOVIES [COLOR orange]SOLO PARA LOS DE MENOS DE 3 MEGAS[/COLOR]</title>
 <link>http://iphone-streaming.ustream.tv/ustreamVideo/$doregex[path]/streams/live/playlist.m3u8</link>
 <regex>
 <name>path</name>
@@ -578,6 +572,100 @@ r<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 </regex>
 </link>
 <thumbnail>http://www.myfilmviews.com/wp-content/uploads/2012/12/universal-pictures-100th-anniversary-logo1.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR green]AUDIO INLGES [COLOR red] TENER VEETLE INSTALADO[/COLOR]</title>
+<link>rtmp://</link>
+<thumbnail>http://www.ipadforos.com/images/downloads/2014/08/07/3_xEi80ed.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR silver]CAJUNFLIX  PELICULAS HD INGLES [/COLOR]</title>
+<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_cajunflix1 live=1 timeout=20</link>
+<regex>
+<name>getdecoded</name>
+<expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
+<page></page>
+</regex>
+<regex>
+<name>getencoded</name>
+<expres>;(0m0[0-9].*)<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getserver</name>
+<expres>(.*?);<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>(.*)<expres>
+<page>http://mvn.vaughnsoft.net/video/edge/live_cajunflix1$doregex[gettime]-$doregex[gettime].33434</page>
+</regex>
+<regex>
+<name>gettime</name>
+<expres>$pyFunction:str(int(round(time.time() * 1000)))<expres>
+<page></page>
+</regex>
+<thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/cajunflix1_320.jpg</thumbnail>
+</item>
+
+<item>
+<title>-M-O-V-I-E-S-</title>
+<link>plugin://plugin.video.veetle/?channel=4e530fffd056f</link>
+<thumbnail>http://misterrandom.net/wp-content/uploads/2009/02/movies-logo1-500x286.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Nᴇᴡ Aᴄᴛɪᴏɴ Mᴏᴠɪᴇs HD</title>
+<link>plugin://plugin.video.veetle/?channel=540b8e6e7afc5</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/mm/movies_now_hd.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Random Movies</title>
+<link>plugin://plugin.video.veetle/?channel=5407d772b97f1</link>
+<thumbnail>http://outdoormovieevents.com/images/movie_logos-final-9-05-ver91.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>FIREBALL CINEMA - ANIMATION</title>
+<link>plugin://plugin.video.veetle/?channel=53f937a0d399f</link>
+<thumbnail>http://www.ranklogos.com/wp-content/uploads/2012/04/movies-logo-1.gif</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Horror Channel By HorrorKing</title>
+<link>plugin://plugin.video.veetle/?channel=523b956f4679f</link>
+<thumbnail>http://4.bp.blogspot.com/-bORqxOfj0vE/T2XxWIAG-OI/AAAAAAAAAIQ/RDGVUucBRpE/s1600/The_HORRO%D0%AF_Channel.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>(((①))) HQ Bollywood™ ●Subtitled● Blu-Ray</title>
+<link>plugin://plugin.video.veetle/?channel=4e0e6f4dcc2d3</link>
+<thumbnail>http://www.bollywoodaajtak.in/wp-content/uploads/Kajal-Agarwal-Hd-HQ-Wallpapers.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>:::▲Edels Movies▲:::</title>
+<link>plugin://plugin.video.veetle/?channel=53ff7df27114a</link>
+<thumbnail>http://images.naldzgraphics.net/2010/09/40MovieLogos_29.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>END78´s ☆.:*´¨'*Movie World*´¨'*:.☆</title>
+<link>plugin://plugin.video.veetle/?channel=52e10e3fc03bd</link>
+<thumbnail>http://4.bp.blogspot.com/_Fv90J7eTcis/S9kNCaHfp0I/AAAAAAAAEK4/J3p0CqNn5uc/s1600/Top-Channel+Logos2.jpg</thumbnail>
+<fanart></fanart>
 </item>
 
 
