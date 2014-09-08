@@ -1,11 +1,9 @@
 <?xml version="1.0" ?>
 
 <item>
-<title>[COLOR red]TELENOVELAS OFF TEMPORALMENTE [/COLOR]</title>
-<link>rtmp://77.92.76.192/live playpath=tlnovelas2021?id=15840 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/embedplayer/tlnovelas2021/1/600/385 Conn=S:OK timeout=15</link>
-<thumbnail>http://computrucos.com/wp-content/uploads/2011/04/tlnovelas.jpg</thumbnail>
-<info></info>
-<fanart></fanart>
+<title>[COLOR orange]=========CANALES INTERNACIONALES===========[/COLOR]</title>
+<link>http://xbmc.org</link>
+<thumbnail>http://www.real.com/resources/wp-content/uploads/2012/05/ikea-smart-tv3.jpg</thumbnail>
 </item>
 
 <item>
@@ -30,34 +28,6 @@
 <thumbnail>http://www.dossiergeopolitico.com/blog/wp-content/uploads/2013/08/rt_sepa_mas.png</thumbnail>
 <info></info>
 <fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR red]FOX OFF TEMPORALMENTE[/COLOR]</title>
-<link>rtmp://77.92.76.192/live playpath=fox2021?id=15837 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/embedplayer/fox2021/1/600/385 Conn=S:OK timeout=15</link>
-<thumbnail>http://www.heycanlitv.com/wp-content/uploads/2013/04/foxtv.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR skyblue]FOX LIFE[/COLOR]</title>
-<link>rtmp://sl100tb.cxnlive.com/live/ playpath=utilisima swfUrl=http://p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=http://www.cxntv.com/canales/utilisima/ timeout=15</link>
-<thumbnail>http://www.reportecuatro.com.ar/fotos/2013/10/31_foxlife.jpg</thumbnail>
-<info></info>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR skyblue]DISCOVERY [COLOR lime]PROBAR DOS VECES[/COLOR]</title>
-<link>http://iphone-streaming.ustream.tv/ustreamVideo/$doregex[path]/streams/live/playlist.m3u8</link>
-<regex>
-<name>path</name>
-<expres>"https://www.ustream.tv/embed/(.+?)"></expres>
-<page>http://www.ustream.tv/channel/discomar</page>
-<referer> </referer>
-</regex>
-</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/dd/discovery_us_hd.png</thumbnail>
 </item>
 
 <item>
@@ -302,37 +272,6 @@
 </item>
 
 <item>
-<title>[COLOR skyblue]CATOLICA TV [/COLOR]</title>
-<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_catolicatv live=1 timeout=15</link>
-<regex>
-<name>getdecoded</name>
-<expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
-<page></page>
-</regex>
-<regex>
-<name>getencoded</name>
-<expres>;(0m0[0-9].*)<expres>
-<page>$doregex[getUrl]</page>
-</regex>
-<regex>
-<name>getserver</name>
-<expres>(.*?);<expres>
-<page>$doregex[getUrl]</page>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>(.*)<expres>
-<page>http://mvn.vaughnsoft.net/video/edge/live_catolicatv$doregex[gettime]-$doregex[gettime].33434</page>
-</regex>
-<regex>
-<name>gettime</name>
-<expres>$pyFunction:str(int(round(time.time() * 1000)))<expres>
-<page></page>
-</regex>
-<thumbnail>http://catolica.tv/imagenes/TituloCatolica.jpg</thumbnail>
-</item>
-
-<item>
 <title>[COLOR skyblue]MUNDO FOX[/COLOR]</title>
 <link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_mundofox28 live=1 timeout=20</link>
 <regex>
@@ -364,8 +303,58 @@
 </item>
 
 <item>
-<title>[COLOR skyblue]H2[/COLOR]</title>
-<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_master1982 live=1 timeout=20</link>
+<title>[COLOR skyblue]BYU TV[/COLOR]</title>
+<link>http://byuhd2-lh.akamaihd.net/i/byutvintspanhd2_live@103133/master.m3u8</link>
+<thumbnail>http://1.bp.blogspot.com/_j94PNh-YZwY/TSTEDkYIaiI/AAAAAAAABnk/p5Kx_o7HgS0/s1600/BYUtv%2B%2528Dark%2BBlack%2529.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR skyblue]GUINEA ECUATORIAL TV[/COLOR]</title>
+<link>rtmp://82.98.138.14/live playpath=rtvgeint swfUrl=http://www.rtvgeint.tv/player.swf live=1 pageUrl=http://www.rtvgeint.tv/ timeout=20</link>
+<thumbnail>http://www.freeetv.com/images/01_logo/tvge_international_guinea.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR orange]=========CANALES DE CABLE===========[/COLOR]</title>
+<link>http://xbmc.org</link>
+<thumbnail>http://www.real.com/resources/wp-content/uploads/2012/05/ikea-smart-tv3.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]FOX LIFE[/COLOR]</title>
+<link>rtmp://sl100tb.cxnlive.com/live/ playpath=utilisima swfUrl=http://p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=http://www.cxntv.com/canales/utilisima/ timeout=15</link>
+<thumbnail>http://www.reportecuatro.com.ar/fotos/2013/10/31_foxlife.jpg</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR skyblue]TELENOVELAS[/COLOR]</title>
+<link>rtmp://77.92.76.192/live playpath=tlnovelas2021?id=15840 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/embedplayer/tlnovelas2021/1/600/385 Conn=S:OK timeout=15</link>
+<thumbnail>http://computrucos.com/wp-content/uploads/2011/04/tlnovelas.jpg</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR skyblue]DISCOVERY [COLOR lime]PROBAR DOS VECES[/COLOR]</title>
+<link>http://iphone-streaming.ustream.tv/ustreamVideo/$doregex[path]/streams/live/playlist.m3u8</link>
+<regex>
+<name>path</name>
+<expres>"https://www.ustream.tv/embed/(.+?)"></expres>
+<page>http://www.ustream.tv/channel/discomar</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/dd/discovery_us_hd.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]CATOLICA TV [/COLOR]</title>
+<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_catolicatv live=1 timeout=15</link>
 <regex>
 <name>getdecoded</name>
 <expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
@@ -384,32 +373,18 @@
 <regex>
 <name>getUrl</name>
 <expres>(.*)<expres>
-<page>http://mvn.vaughnsoft.net/video/edge/live_mfv_05_$doregex[gettime]-$doregex[gettime].33434</page>
+<page>http://mvn.vaughnsoft.net/video/edge/live_catolicatv$doregex[gettime]-$doregex[gettime].33434</page>
 </regex>
 <regex>
 <name>gettime</name>
 <expres>$pyFunction:str(int(round(time.time() * 1000)))<expres>
 <page></page>
 </regex>
-<thumbnail>http://dennytu.com/uploads/h2/H2%20Hero%20Logo.jpg</thumbnail>
+<thumbnail>http://catolica.tv/imagenes/TituloCatolica.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR skyblue]BYU TV[/COLOR]</title>
-<link>http://byuhd2-lh.akamaihd.net/i/byutvintspanhd2_live@103133/master.m3u8</link>
-<thumbnail>http://1.bp.blogspot.com/_j94PNh-YZwY/TSTEDkYIaiI/AAAAAAAABnk/p5Kx_o7HgS0/s1600/BYUtv%2B%2528Dark%2BBlack%2529.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR skyblue]GUINEA ECUATORIAL TV[/COLOR]</title>
-<link>rtmp://82.98.138.14/live playpath=rtvgeint swfUrl=http://www.rtvgeint.tv/player.swf live=1 pageUrl=http://www.rtvgeint.tv/ timeout=20</link>
-<thumbnail>http://www.freeetv.com/images/01_logo/tvge_international_guinea.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR skyblue]ID INF [/COLOR]</title>
+<title>[COLOR skyblue]HISTORY[/COLOR]</title>
 <link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_mfv_05 live=1 timeout=20</link>
 <regex>
 <name>getdecoded</name>
@@ -436,11 +411,11 @@
 <expres>$pyFunction:str(int(round(time.time() * 1000)))<expres>
 <page></page>
 </regex>
-<thumbnail>http://a1220.phobos.apple.com/us/r1000/090/Purple/v4/f1/f9/9c/f1f99ce7-f88a-4e1d-7ca8-3f66c87867fa/mzl.debsjipf.png</thumbnail>
+<thumbnail>http://i1.ytimg.com/vi/XABnu9a1Lz4/maxresdefault.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR skyblue]HISTORY CHANNEL[/COLOR]</title>
+<title>[COLOR skyblue]HISTORY HD[/COLOR]</title>
 <link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_mfv_08 live=1 timeout=20</link>
 <regex>
 <name>getdecoded</name>
@@ -467,5 +442,65 @@
 <expres>$pyFunction:str(int(round(time.time() * 1000)))<expres>
 <page></page>
 </regex>
-<thumbnail>http://i1.ytimg.com/vi/XABnu9a1Lz4/maxresdefault.jpg</thumbnail>
+<thumbnail>http://www.k-iptv.com/images/Channels/53315f00df1cdtest3.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]WARNER  (LATINO)[/COLOR]</title>
+<link>rtmp://206.190.150.8/live playpath=warner2021?id=15846 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/embedplayer/warner2021/1/620/385 buffer=80000 Conn=S:OK timeout=15</link>
+<thumbnail>https://thevampireclub.files.wordpress.com/2010/01/warner.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]FX  (LATINO)[/COLOR]</title>
+<link>rtmp://46.28.48.116/live playpath=fx2021?id=15847 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/embedplayer/fx2021/1/600/385/byDMO Conn=S:OK --live timeout=15</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/fx_me.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]TNT  (LATINO)[/COLOR]</title>
+<link>rtmp://46.28.48.116/live playpath=tnt2021?id=15841 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/embedplayer/byDMO/1/620/385 Conn=S:OK --live timeout=15</link>
+<thumbnail>http://blogtelevisual.com/wp-content/uploads/2012/04/0007_tnt_2012.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]FOX LATINO (LATINO)[/COLOR]</title>
+<link>rtmp://46.28.53.18/live playpath=fox2021?id=15837 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/embedplayer/fox2021/1/600/385/byDMO Conn=S:OK --live timeout=15</link>
+<thumbnail>http://www.superpoligon.com/img/news/fox_tv_log.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]AXN  (ESPANA)[/COLOR]</title>
+<link>http://acabsw.doiptv.com/cs_axn/playlist.m3u8</link>
+<thumbnail>http://payload.cargocollective.com/1/4/155736/2095741/axn_boards3_03.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]FOX  (ESPANA)[/COLOR]</title>
+<link>http://acabsw.doiptv.com/cs_fox/playlist.m3u8</link>
+<thumbnail>http://ver-tv-online.com/wp-content/uploads/2014/02/fox-tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]TNT  (ESPANA)[/COLOR]</title>
+<link>http://acabsw.doiptv.com/cs_tnt/playlist.m3u8</link>
+<thumbnail>http://blogtelevisual.com/wp-content/uploads/2012/04/0007_tnt_2012.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]BIO  (ESPANA)[/COLOR]</title>
+<link>http://acabsw.doiptv.com/cs_odisea/playlist.m3u8</link>
+<thumbnail>http://blog.adnstream.tv/wp-content/uploads/2009/04/the-biography-channelblog.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]canal + COMEDIA (ESPANA)[/COLOR]</title>
+<link>http://acabsw.doiptv.com/cs_comedia/playlist.m3u8</link>
+<thumbnail>http://4.bp.blogspot.com/-1dAB8Gegq6Y/UoU_MaPguLI/AAAAAAAAACs/UyyCrZMF0dk/s320/comedia.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]HOLIWOOD  (ESPANA)[/COLOR]</title>
+<link>http://acabsw.doiptv.com/cs_hollywood/playlist.m3u8</link>
+<thumbnail>http://layaproducciones.es/wp-content/uploads/2013/02/canal-hollywood-estrellas.jpg</thumbnail>
 </item>
