@@ -582,7 +582,7 @@ r<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 </item>
 
 <item>
-<title>[COLOR silver]CAJUNFLIX  PELICULAS HD INGLES [/COLOR]</title>
+<title>[COLOR silver]CAJUNFLIX [/COLOR]</title>
 <link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_cajunflix1 live=1 timeout=20</link>
 <regex>
 <name>getdecoded</name>
@@ -613,56 +613,56 @@ r<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 </item>
 
 <item>
-<title>-M-O-V-I-E-S-</title>
+<title>[COLOR purple]-M-O-V-I-E-S-[/COLOR]</title>
 <link>plugin://plugin.video.veetle/?channel=4e530fffd056f</link>
 <thumbnail>http://misterrandom.net/wp-content/uploads/2009/02/movies-logo1-500x286.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>Nᴇᴡ Aᴄᴛɪᴏɴ Mᴏᴠɪᴇs HD</title>
+<title>[COLOR red]Nᴇᴡ Aᴄᴛɪᴏɴ Mᴏᴠɪᴇs HD[/COLOR]</title>
 <link>plugin://plugin.video.veetle/?channel=540b8e6e7afc5</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/mm/movies_now_hd.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>Random Movies</title>
+<title>[COLOR green]Random Movies[/COLOR]</title>
 <link>plugin://plugin.video.veetle/?channel=5407d772b97f1</link>
 <thumbnail>http://outdoormovieevents.com/images/movie_logos-final-9-05-ver91.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>FIREBALL CINEMA - ANIMATION</title>
+<title>[COLOR yellow]FIREBALL CINEMA - ANIMATION[/COLOR]</title>
 <link>plugin://plugin.video.veetle/?channel=53f937a0d399f</link>
 <thumbnail>http://www.ranklogos.com/wp-content/uploads/2012/04/movies-logo-1.gif</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>The Horror Channel By HorrorKing</title>
+<title>[COLOR pink]The Horror Channel By HorrorKing[/COLOR]</title>
 <link>plugin://plugin.video.veetle/?channel=523b956f4679f</link>
 <thumbnail>http://4.bp.blogspot.com/-bORqxOfj0vE/T2XxWIAG-OI/AAAAAAAAAIQ/RDGVUucBRpE/s1600/The_HORRO%D0%AF_Channel.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>(((①))) HQ Bollywood™ ●Subtitled● Blu-Ray</title>
+<title>[COLOR silver](((①))) HQ Bollywood™ ●Subtitled● Blu-Ray[/COLOR]</title>
 <link>plugin://plugin.video.veetle/?channel=4e0e6f4dcc2d3</link>
 <thumbnail>http://www.bollywoodaajtak.in/wp-content/uploads/Kajal-Agarwal-Hd-HQ-Wallpapers.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>:::▲Edels Movies▲:::</title>
+<title>[COLOR skyblue]:::▲Edels Movies▲:::[/COLOR]</title>
 <link>plugin://plugin.video.veetle/?channel=53ff7df27114a</link>
 <thumbnail>http://images.naldzgraphics.net/2010/09/40MovieLogos_29.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>END78´s ☆.:*´¨'*Movie World*´¨'*:.☆</title>
+<title>[COLOR lime]END78´s ☆.:*´¨'*Movie World*´¨'*:.☆[/COLOR]</title>
 <link>plugin://plugin.video.veetle/?channel=52e10e3fc03bd</link>
 <thumbnail>http://4.bp.blogspot.com/_Fv90J7eTcis/S9kNCaHfp0I/AAAAAAAAEK4/J3p0CqNn5uc/s1600/Top-Channel+Logos2.jpg</thumbnail>
 <fanart></fanart>
