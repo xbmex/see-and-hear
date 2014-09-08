@@ -7,6 +7,48 @@
 </item>
 
 <item>
+<title>[COLOR skyblue]CLICK TV  [COLOR yellow](COLOMBIA)[/COLOR]</title>
+<link>http://uneapple-i.akamaihd.net/hls/live/206577/grupoune_st19@206577/st19_index.m3u8</link>
+<thumbnail>https://i.ytimg.com/i/uYaT937Ebm2ccmmR_hM65Q/mq1.jpg?v=5081b659</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]CABLE NOTICIAS[COLOR yellow](COLOMBIA)[/COLOR]</title>
+<link>http://uneapple-i.akamaihd.net/hls/live/205016/grupoune_st7@205016/st7_index.m3u8</link>
+<thumbnail>http://i.imgur.com/Eezkv.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]YES TV [COLOR yellow](COLOMBIA)[/COLOR]</title>
+<link>http://uneapple-i.akamaihd.net/hls/live/205010/grupoune_st1@205010/st1_index.m3u8</link>
+<thumbnail>http://www.ourfamilyworld.com/wp-content/uploads/2014/08/YES-TV-e1408121389834.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]TRENDY TV  [COLOR yellow](COLOMBIA)[/COLOR]</title>
+<link>http://uneapple-i.akamaihd.net/hls/live/205019/grupoune_st10@205019/st10_index.m3u8</link>
+<thumbnail>https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-frc3/t31.0-8/c0.25.851.315/p851x315/1268740_1402531206642776_1395000891_o.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]LIFE DESIGN  [COLOR yellow](COLOMBIA)[/COLOR]</title>
+<link>http://uneapple-i.akamaihd.net/hls/live/207384/grupoune_st22@207384/st22_index.m3u8</link>
+<thumbnail>http://4.bp.blogspot.com/-MJZ3A3u6E78/U-JWxeGtvrI/AAAAAAAACzg/mFikMtH2yW0/s1600/life_design_tv.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]VMAS TV  [COLOR yellow](COLOMBIA)[/COLOR]</title>
+<link>http://uneapple-i.akamaihd.net/hls/live/207642/grupoune_st23@207642/st23_index.m3u8</link>
+<thumbnail>http://i.imgur.com/3PANr.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]EL TIEMPO TV  [COLOR yellow](COLOMBIA)[/COLOR]</title>
+<link>http://uneapple-i.akamaihd.net/hls/live/207648/grupoune_st29@207648/st29_index.m3u8</link>
+<thumbnail>http://foromedios.com/uploads/gallery/category_2/med_gallery_1163_2_9241.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR skyblue]HISPAN TV [COLOR lime]FULL HD/[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=tIlIng-sOeI</link>
 <thumbnail>http://www.webislam.com/media/2013/01/55957_hispan-tv_big.png</thumbnail>
@@ -446,61 +488,61 @@
 </item>
 
 <item>
-<title>[COLOR skyblue]WARNER  (LATINO)[/COLOR]</title>
-<link>rtmp://206.190.150.8/live playpath=warner2021?id=15846 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/embedplayer/warner2021/1/620/385 buffer=80000 Conn=S:OK timeout=15</link>
+<title>[COLOR skyblue]WARNER  [COLOR silver](LATINO)[/COLOR]</title>
+<link>rtmp://46.28.53.18/live playpath=warner2021?id=15846 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/embedplayer/warner2021/1/620/385 buffer=80000 timeout=15 Conn=S:OK --live</link>
 <thumbnail>https://thevampireclub.files.wordpress.com/2010/01/warner.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR skyblue]FX  (LATINO)[/COLOR]</title>
-<link>rtmp://46.28.48.116/live playpath=fx2021?id=15847 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/embedplayer/fx2021/1/600/385/byDMO Conn=S:OK --live timeout=15</link>
+<title>[COLOR skyblue]FX  [COLOR silver](LATINO)[/COLOR]</title>
+<link>rtmp://185.2.137.220/live playpath=fx2021?id=15847 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/embedplayer/fx2021/1/600/385 timeout=15 Conn=S:OK --live</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fx_me.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR skyblue]TNT  (LATINO)[/COLOR]</title>
-<link>rtmp://46.28.48.116/live playpath=tnt2021?id=15841 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/embedplayer/byDMO/1/620/385 Conn=S:OK --live timeout=15</link>
+<title>[COLOR skyblue]TNT  [COLOR silver](LATINO)[/COLOR]</title>
+<link>rtmp://77.92.76.182/live playpath=tnt2021?id=15841 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/embedplayer/tnt2021/1/620/385 timeout=15 Conn=S:OK --live</link>
 <thumbnail>http://blogtelevisual.com/wp-content/uploads/2012/04/0007_tnt_2012.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR skyblue]FOX LATINO (LATINO)[/COLOR]</title>
-<link>rtmp://46.28.53.18/live playpath=fox2021?id=15837 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/embedplayer/fox2021/1/600/385/byDMO Conn=S:OK --live timeout=15</link>
+<title>[COLOR skyblue]FOX LATINO [COLOR silver](LATINO)[/COLOR]</title>
+<link>rtmp://46.28.53.18/live playpath=fox2021?id=15837 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/embedplayer/fox2021/1/600/385 timeout=15 Conn=S:OK --live</link>
 <thumbnail>http://www.superpoligon.com/img/news/fox_tv_log.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR skyblue]AXN  (ESPANA)[/COLOR]</title>
+<title>[COLOR skyblue]AXN  [COLOR orange](ESPANA)[/COLOR]</title>
 <link>http://acabsw.doiptv.com/cs_axn/playlist.m3u8</link>
 <thumbnail>http://payload.cargocollective.com/1/4/155736/2095741/axn_boards3_03.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR skyblue]FOX  (ESPANA)[/COLOR]</title>
+<title>[COLOR skyblue]FOX  [COLOR orange](ESPANA)[/COLOR]</title>
 <link>http://acabsw.doiptv.com/cs_fox/playlist.m3u8</link>
 <thumbnail>http://ver-tv-online.com/wp-content/uploads/2014/02/fox-tv.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR skyblue]TNT  (ESPANA)[/COLOR]</title>
+<title>[COLOR skyblue]TNT  [COLOR orange](ESPANA)[/COLOR]</title>
 <link>http://acabsw.doiptv.com/cs_tnt/playlist.m3u8</link>
 <thumbnail>http://blogtelevisual.com/wp-content/uploads/2012/04/0007_tnt_2012.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR skyblue]BIO  (ESPANA)[/COLOR]</title>
-<link>http://acabsw.doiptv.com/cs_odisea/playlist.m3u8</link>
+<title>[COLOR skyblue]BIO  [COLOR orange](ESPANA)[/COLOR]</title>
+<link>http://acabsw.doiptv.com/cs_bio/playlist.m3u8</link>
 <thumbnail>http://blog.adnstream.tv/wp-content/uploads/2009/04/the-biography-channelblog.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR skyblue]canal + COMEDIA (ESPANA)[/COLOR]</title>
+<title>[COLOR skyblue]CANAL + COMEDIA [COLOR orange](ESPANA)[/COLOR]</title>
 <link>http://acabsw.doiptv.com/cs_comedia/playlist.m3u8</link>
 <thumbnail>http://4.bp.blogspot.com/-1dAB8Gegq6Y/UoU_MaPguLI/AAAAAAAAACs/UyyCrZMF0dk/s320/comedia.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR skyblue]HOLIWOOD  (ESPANA)[/COLOR]</title>
+<title>[COLOR skyblue]HOLIWOOD  [COLOR orange](ESPANA)[/COLOR]</title>
 <link>http://acabsw.doiptv.com/cs_hollywood/playlist.m3u8</link>
 <thumbnail>http://layaproducciones.es/wp-content/uploads/2013/02/canal-hollywood-estrellas.jpg</thumbnail>
 </item>
