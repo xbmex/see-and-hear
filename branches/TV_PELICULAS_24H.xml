@@ -7,7 +7,7 @@ r<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 </item>
 
 
-<item>
+<subitem>
 <title>[COLOR yellow]CANAL 5 [/COLOR]</title>
 <link>$doregex[get-page]$doregex[get-initsesion]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
 <regex>
@@ -24,7 +24,7 @@ r<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <agent>Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53</agent>
 <cookieJar></cookieJar>
 <thumbnail>http://i.minus.com/ibkN5GciJRlGIo.png</thumbnail>
-</item>
+</subitem>
 
 <item>
 <title>[COLOR orange]MEGA ESTRENOS [/COLOR]</title>
