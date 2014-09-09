@@ -42,12 +42,6 @@
 </item>
 
 <item>
-<title>[COLOR skyblue]CANAL + LIGA (ESP)[/COLOR]</title>
-<link>http://acabsw.doiptv.com/cs_liga/playlist.m3u8</link>
-<thumbnail>http://www.plus.es/img/portadilla_liga.jpg</thumbnail>
-</item>
-
-<item>
 <title>[COLOR skyblue]FOX SPORTS HD LATINO[/COLOR]</title>
 <link>rtmp://wdc.cxnlive.com/live/ playpath=foxhd</link>
 <thumbnail>http://i.imgur.com/ZbjSxGn.png</thumbnail>
@@ -106,18 +100,6 @@
 </subitem>
 
 <item>
-<title>[COLOR skyblue]GOL TV[/COLOR]</title>
-<link>http://cdnvir-edge05.mediapro.es/niceLiveServer/_definst_/5400f208/a66dabc06f4e223e5cacd61729a165fc/golt_live_24h_MB_2000/chunklist.m3u8?wowzasessionid=632104703&secHash=035416822c299ebdc6fbe9a1ad944a76</link>
-<thumbnail>http://www.blogtarifas.es/wp-content/uploads/2009/07/gol-tv-logo.jpg</thumbnail>
-</item>
-
-<item>
-<title>ESPN LIVE</title>
-<link>http://acabsw.doiptv.com/sky_espn/playlist.m3u8</link>
-<thumbnail>http://1.bp.blogspot.com/-5lFRvlBWF2Y/U3NeCNaB5QI/AAAAAAAAB10/SEVa7oh0meY/s1600/espn_ba.png</thumbnail>
-</item>
-
-<item>
 <title>[COLOR skyblue]ESPN BRASIL[/COLOR]</title>
 <link>rtmp://31.204.128.74/live/ playpath=master27 swfUrl=http://www.cdnbr.biz/swf/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/ESPN HD.html</link>
 <thumbnail>http://ballhyped.net/wp-content/uploads/2012/02/espn-logo.jpg</thumbnail>
@@ -173,18 +155,6 @@
 <link>http://acabsw.doiptv.com/cs_ligachamp/playlist.m3u8</link>
 <thumbnail>http://tutele.s3.amazonaws.com/wp-content/uploads/2012/08/canal-liga-de-campeones.jpg</thumbnail>
 </item>     
-
-<item>
-<title>[COLOR skyblue]CANAL + FUTBOL[/COLOR]</title>   
-<link>http://acabsw.doiptv.com/cs_futbol/playlist.m3u8</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Canal%2B_F%C3%BAtbol_2008.svg/200px-Canal%2B_F%C3%BAtbol_2008.svg.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR skyblue]CANAL FIGHTBOX[/COLOR]</title>
-<link>http://stream1.zoovision.com//livespi/fightbox/playlist.m3u8</link>
-<thumbnail>http://tvonlineapp.com/wp-content/uploads/2013/08/fight-Box-HD.jpg</thumbnail>
-</item>
 
 <item>
 <title>[COLOR skyblue]ESPN MEXICO & DEPORTES[/COLOR]</title>
@@ -349,12 +319,12 @@
 <thumbnail>http://www.tvmagazine.com.br/historiadatvpaga/imagens/mva_psn.jpg</thumbnail>
 </item>
 
-<item>
+<subitem>
 <title>[COLOR skyblue]UFC LATINO[/COLOR]</title>
 <link>rtmp://wdc.cxnlive.com/live/ playpath=ufc</link>
 <thumbnail>http://www.mma-latino.com/wp-content/uploads/2011/12/UFCLatinoLogo.jpg</thumbnail>
 <fanart></fanart>
-</item>
+</subitem>
 
 <item>
 <title>[COLOR skyblue]UFC PPV (SOLO EVENTOS)[/COLOR]</title>
@@ -444,24 +414,24 @@
 <link>http://83.139.104.101/Content/HLS/Live/Channel(eurosport_2)/Stream(03)/index.m3u8</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/8/85/Eurosport2.png</thumbnail>
 </item>
-<<<<<<<<<<<<<<<<<<<<<------------------------------------------->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<subitem>
+
+<item>
 <title>[COLOR skyblue]SKY SPORTS 1 (UK)[/COLOR]</title>
 <link>rtmpe://31.220.0.198/live playpath=sky1 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 pageUrl=http://www.pvtserverz.com/</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_mx_sports1.png</thumbnail>
-</subitem>
+</item>
 
-<subitem>
+<item>
 <title>[COLOR skyblue]SKY SPORTS 2 (UK)[/COLOR]</title>
 <link>rtmpe://31.220.0.198/live playpath=sky2 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 pageUrl=http://www.pvtserverz.com/</link>
 <thumbnail>http://go.sky.com/SVOD/SKYSPORTS/_Streams/Video%20Streams/Promo%20Images/New%20Channel%20Images/video-sign-in_ss2.jpg</thumbnail>
-</subitem>
+</item>
 
-<subitem>
+<item>
 <title>[COLOR skyblue]SKY SPORTS 3 (UK)[/COLOR]</title>
 <link>rtmpe://31.220.0.198/live playpath=sky3 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 pageUrl=http://www.pvtserverz.com/</link>
 <thumbnail>http://www.entertainmentdoor.com.pk/images/channel_image/TVnewsroom-2010-01-24-20h56m28s206.jpg</thumbnail>
-</subitem>
+</item>
 
 <item>
 <title>[COLOR skyblue]SKY SPORTS 4 (UK)[/COLOR]</title>
@@ -469,51 +439,21 @@
 <thumbnail>http://3.bp.blogspot.com/-N-haVmxFcoA/UluIte7duaI/AAAAAAAAA5w/j7WGMf9HbxU/s1600/Sky+Sport+4+live+stream+online+%D8%B3%D9%83%D8%A7%D9%89+%D8%B3%D8%A8%D9%88%D8%B1%D8%AA+%D8%A8%D8%AB+%D9%85%D8%A8%D8%A7%D8%B4%D8%B1.png</thumbnail>
 </item>
 
-<subitem>
+<item>
 <title>[COLOR skyblue]SKY SPORTS 5 (UK)[/COLOR]</title>
 <link>rtmpe://31.220.0.198/live playpath=sky5 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 pageUrl=http://www.pvtserverz.com/</link>
-<thumbnail>http://ak.c.ooyala.com/VybG45bjoOR_9FvI3d3tCLlkIr9ODTuJ/utWmvUErw70ot42n4xMDoxOjA4MTsiGN</thumbnail>
-</subitem>
-<<<<<<<<<<<<<<<<<<<<<------------------------------------------->>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>[COLOR skyblue]SKY SPORTS 1 (UK)[/COLOR]</title>
-<link>http://acabsw.doiptv.com/sky_sport_1/playlist.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_mx_sports1.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR skyblue]SKY SPORTS 2 (UK)[/COLOR]</title>
-<link>http://acabsw.doiptv.com/sky_sport_2/playlist.m3u8</link>
-<thumbnail>http://go.sky.com/SVOD/SKYSPORTS/_Streams/Video%20Streams/Promo%20Images/New%20Channel%20Images/video-sign-in_ss2.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR skyblue]SKY SPORTS 3 (UK)[/COLOR]</title>
-<link>http://acabsw.doiptv.com/sky_sport_3/playlist.m3u8</link>
-<thumbnail>http://www.entertainmentdoor.com.pk/images/channel_image/TVnewsroom-2010-01-24-20h56m28s206.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR skyblue]SKY SPORTS 4 (UK)[/COLOR]</title>
-<link>http://acabsw.doiptv.com/sky_sport_4/playlist.m3u8</link>
-<thumbnail>http://3.bp.blogspot.com/-N-haVmxFcoA/UluIte7duaI/AAAAAAAAA5w/j7WGMf9HbxU/s1600/Sky+Sport+4+live+stream+online+%D8%B3%D9%83%D8%A7%D9%89+%D8%B3%D8%A8%D9%88%D8%B1%D8%AA+%D8%A8%D8%AB+%D9%85%D8%A8%D8%A7%D8%B4%D8%B1.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR skyblue]SKY SPORTS 5 (UK)[/COLOR]</title>
-<link>http://acabsw.doiptv.com/sky_sport_5/playlist.m3u8</link>
 <thumbnail>http://ak.c.ooyala.com/VybG45bjoOR_9FvI3d3tCLlkIr9ODTuJ/utWmvUErw70ot42n4xMDoxOjA4MTsiGN</thumbnail>
 </item>
 
 <item>
 <title>[COLOR skyblue]SKY SPORT NEWS[/COLOR]</title>
-<link>http://acabsw.doiptv.com/sky_sport_news/playlist.m3u8</link>
+<link>rtmp://31.220.0.134:1935/live playpath=skksnews swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=skksnews&vw=620&vh=490</link>
 <thumbnail>http://tvnewsroom.org/wp-content/uploads/2012/03/Sky-Spts-News-Evening-Report-03-01-18-01-30.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR skyblue]SKY F1[/COLOR]</title>
-<link>http://acabsw.doiptv.com/sky_sport_f1/playlist.m3u8</link>
+<link>rtmp://31.220.0.194:1935/live playpath=skksnf1 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=skksnf1&vw=620&vh=490</link>
 <thumbnail>http://www.thedrum.com/uploads/drum_basic_article/122994/main_images/Sky-Sports-F1-The-F1-Show-2012-Preview-03-09-20-00-02.jpg</thumbnail>
 </item>
 
