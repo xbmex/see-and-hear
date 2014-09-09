@@ -160,7 +160,7 @@
 <expres>'streamer', '(.*?)'</expres>
 <page>http://vercosasgratis.com/embed.php?a=270</page>
 </regex>
-<thumbnail>http://img2.wikia.nocookie.net/__cb20100603175253/logopedia/images/d/d3/Canal%2B_F%C3%BAtbol_2008.svg</thumbnail>
+<thumbnail>http://www.adslzone.tv/content/uploads/2010/09/canal+-f%C3%BAtbol-hd.jpg</thumbnail>
 </item>     
 
 <item>
@@ -340,7 +340,7 @@
 
 <item>
 <title>[COLOR skyblue]FIGHT SPORT (RU) (TEST)[/COLOR]</title>
-<link>http://92.63.88.19:f8001/60</link>
+<link>http://92.63.88.19:8001/60</link>
 <thumbnail>http://www.mmainterplay.com/wp-content/uploads/2013/09/fight-now-tv.jpg</thumbnail>
 </item>
 
