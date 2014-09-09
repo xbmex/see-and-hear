@@ -334,6 +334,12 @@
 </item>
 
 <item>
+<title>[COLOR skyblue]FIGHT BOX[/COLOR]</title>
+<link>http://stream1.zoovision.com//livespi/fightbox/playlist.m3u8</link>
+<thumbnail>http://fightbox.akpa.pl/img/fightbox.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR skyblue]FIGHT CHANNEL[/COLOR]</title>
 <link>http://83.139.104.101/Content/HLS/Live/Channel(fight_channel)/Stream(03)/index.m3u8</link>
 <thumbnail>http://epg.orlando-film.hr/images/show_image/noimage_2.jpg</thumbnail>
