@@ -34,12 +34,12 @@
 <thumbnail>http://3.bp.blogspot.com/-VLtanwpqTy0/UHwf2IH34WI/AAAAAAAANnk/jjjUKtrmMBU/s1600/FOX+Sports.jpg</thumbnail>
 <item>
 
-<item>
+<subitem>
 <title>[COLOR skyblue]ESPN LATINO[/COLOR]</title>
 <link>rtmp://wdc.cxnlive.com/live/ playpath=espn</link>
 <thumbnail>http://1.bp.blogspot.com/-rzP7nP4VXgo/UToo7_wpjFI/AAAAAAAAEOc/Kn0AGz-MYG8/s1600/Logo+Tv+ESPN+2013.png</thumbnail>
 <fanart></fanart>
-</item>
+</subitem>
 
 <item>
 <title>[COLOR skyblue]ESPN + LATINO[/COLOR]</title>
@@ -165,7 +165,7 @@
 
 <item>
 <title>[COLOR skyblue]ESPN MEXICO & DEPORTES[/COLOR]</title>
-<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_vipracing live=1 timeout=20</link>
+<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_ronitv4 live=1 timeout=20</link>
 <regex>
 <name>getdecoded</name>
 <expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
@@ -184,7 +184,7 @@
 <regex>
 <name>getUrl</name>
 <expres>(.*)<expres>
-<page>http://mvn.vaughnsoft.net/video/edge/live_vipracing$doregex[gettime]-$doregex[gettime].33434</page>
+<page>http://mvn.vaughnsoft.net/video/edge/live_ronitv4_$doregex[gettime]-$doregex[gettime].33434</page>
 </regex>
 <regex>
 <name>gettime</name>
@@ -194,7 +194,7 @@
 <thumbnail>http://sportsnetwork.wpengine.netdna-cdn.com/wp-content/uploads/2013/11/unnamed.png</thumbnail>
 </item>
 
-<item><title>[COLOR skyblue]TDN[/COLOR] [COLOR silver] HD (TEST)[/COLOR]</title>
+<item><title>[COLOR skyblue]TDN [/COLOR][COLOR red] HD (TEST)SOLO EVENTOS [/COLOR]</title>
 <link>$doregex[rtmp] playpath=$doregex[path] swfUrl=$doregex[swf] pageUrl=http://castalba.tv/ swfVfy=true live=true timeout=10</link>
 <regex>
 <name>rtmp</name>
@@ -220,7 +220,7 @@
 
 <item>
 <title>[COLOR skyblue]LIGA MEXICANA UNIVISION DEPORTES [/COLOR]</title>
-<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_psntv_espndeportes live=1 timeout=20</link>
+<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_deportv_69 live=1 timeout=20</link>
 <regex>
 <name>getdecoded</name>
 <expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
@@ -239,7 +239,7 @@
 <regex>
 <name>getUrl</name>
 <expres>(.*)<expres>
-<page>http://mvn.vaughnsoft.net/video/edge/live_psntv_espndeportes$doregex[gettime]-$doregex[gettime].33434</page>
+<page>http://mvn.vaughnsoft.net/video/edge/live_deportv_69_$doregex[gettime]-$doregex[gettime].33434</page>
 </regex>
 <regex>
 <name>gettime</name>
@@ -280,7 +280,7 @@
 <thumbnail>http://www.agencianova.com/data/fotos2/14036_Brujita_Veron.jpg</thumbnail>
 </item>
 
-<item>
+<subitem>
 <title>[COLOR skyblue]DEPORTIV HONDURAS SPORT[/COLOR]</title>
 <link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_hondurasport live=1 timeout=20</link>
 <regex>
@@ -309,7 +309,7 @@
 <page></page>
 </regex>
 <thumbnail>http://lanoticia.hn/wp-content/uploads/2014/06/CAMISETA.jpg</thumbnail>
-</item>
+</subitem>
 
 <item>
 <title>[COLOR skyblue]PSN TV SPORT [/COLOR]</title>
@@ -340,6 +340,37 @@
 <page></page>
 </regex>
 <thumbnail>http://www.tvmagazine.com.br/historiadatvpaga/imagens/mva_psn.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]BEISBOL CUBAN[/COLOR]</title>
+<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_elmonaco40 live=1 timeout=20</link>
+<regex>
+<name>getdecoded</name>
+<expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
+<page></page>
+</regex>
+<regex>
+<name>getencoded</name>
+<expres>;(0m0[0-9].*)<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getserver</name>
+<expres>(.*?);<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>(.*)<expres>
+<page>http://mvn.vaughnsoft.net/video/edge/live_elmonaco40_$doregex[gettime]-$doregex[gettime].33434</page>
+</regex>
+<regex>
+<name>gettime</name>
+<expres>$pyFunction:str(int(round(time.time() * 1000)))<expres>
+<page></page>
+</regex>
+<thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/elmonaco40_320.jpg</thumbnail>
 </item>
 
 <subitem>
