@@ -26,6 +26,25 @@
 </item>
 
 <item>
+<title>[COLOR skyblue]DTV MUNDO  [COLOR orange](VENEZUELA)[/COLOR]</title>
+<link>$doregex[get-page]$doregex[get-initsesion]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
+<regex>
+<name>get-initsesion</name>
+<expres></expres>
+<page>$doregex[get-page]</page>
+<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get-page</name>
+<expres>"m3u8_url":"(.*?)"</expres>
+<page>http://new.livestream.com/accounts/7240714/events/3022694</page>
+<agent>Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53</agent>
+<cookieJar></cookieJar>
+<thumbnail>http://dtvmundo.com/wp-content/uploads/2014/06/logo_web1.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR skyblue]CLICK TV  [COLOR yellow](COLOMBIA)[/COLOR]</title>
 <link>http://uneapple-i.akamaihd.net/hls/live/206577/grupoune_st19@206577/st19_index.m3u8</link>
 <thumbnail>https://i.ytimg.com/i/uYaT937Ebm2ccmmR_hM65Q/mq1.jpg?v=5081b659</thumbnail>
