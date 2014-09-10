@@ -6,6 +6,12 @@ r<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <thumbnail>http://www.ipadforos.com/images/downloads/2014/08/07/3_xEi80ed.png</thumbnail>
 </item>
 
+<item>
+<title>[COLOR yellow]HBO PLUS[/COLOR]</title>
+<link>rtmp://46.165.251.99/live playpath=hhhhbo?id=211931 swfUrl=http://www.mips.tv/content/scripts/fplayer.swf live=1 pageUrl=http://www.mips.tv/embedplayer/hhhhbo/1/620/382 timeout=20 Conn=S:OK</link>
+<thumbnailhttp://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png</thumbnail>
+</item>
+
 
 <subitem>
 <title>[COLOR yellow]CANAL 5 [/COLOR]</title>
@@ -576,7 +582,7 @@ r<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
 <item>
-<title>[COLOR green]AUDIO INLGES [COLOR red] TENER VEETLE INSTALADO[/COLOR]</title>
+<title>[COLOR green]AUDIO INGLES [COLOR red] TENER VEETLE INSTALADO[/COLOR]</title>
 <link>rtmp://</link>
 <thumbnail>http://www.ipadforos.com/images/downloads/2014/08/07/3_xEi80ed.png</thumbnail>
 </item>
