@@ -194,6 +194,30 @@
 <thumbnail>http://sportsnetwork.wpengine.netdna-cdn.com/wp-content/uploads/2013/11/unnamed.png</thumbnail>
 </item>
 
+<item><title>[COLOR skyblue]TDN HD  [/COLOR] [COLOR silver] HD (Castalba)[/COLOR] </title>
+<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=$doregex[swf] pageUrl=http://castalba.tv/ swfVfy=true live=true timeout=10</link>
+<regex>
+<name>rtmp</name>
+<expres>'streamer': '([^']*)<expres>
+<page>http://castalba.tv/embed.php?cid=23876</page>
+<referer>http://cdn.eventosppv.me/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>'file': '([^']*)<expres>
+<page>http://castalba.tv/embed.php?cid=23876</page>
+<referer>http://cdn.eventosppv.me/</referer>
+</regex>
+<regex>
+<name>swf</name>
+<expres>'flashplayer': "([^"]*)<expres>
+<page>http://castalba.tv/embed.php?cid=23876</page>
+<referer>http://cdn.eventosppv.me/</referer>
+<agent></agent>
+</regex>
+<thumbnail>http://www.diariorta.com/wp-content/uploads/2013/05/TDN-logo.jpg</thumbnail>
+</item>
+
 <item>
 <title>[COLOR skyblue]LIGA MEXICANA UNIVISION DEPORTES [/COLOR]</title>
 <link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_psntv_espndeportes live=1 timeout=20</link>
