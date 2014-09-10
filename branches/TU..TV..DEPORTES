@@ -194,7 +194,7 @@
 <thumbnail>http://sportsnetwork.wpengine.netdna-cdn.com/wp-content/uploads/2013/11/unnamed.png</thumbnail>
 </item>
 
-<item><title>[COLOR skyblue]TDN HD  [/COLOR] [COLOR silver] HD (Castalba)[/COLOR] </title>
+<item><title>[COLOR skyblue]TDN [/COLOR][COLOR silver] HD (TEST)[/COLOR]</title>
 <link>$doregex[rtmp] playpath=$doregex[path] swfUrl=$doregex[swf] pageUrl=http://castalba.tv/ swfVfy=true live=true timeout=10</link>
 <regex>
 <name>rtmp</name>
