@@ -1,7 +1,5 @@
 r<?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
 
-r<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
 <item>
 <title>[COLOR steelblue]DISNEY PIXAR[/COLOR]</title>
 <link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_disney_pixar live=1 timeout=20</link>
@@ -62,6 +60,24 @@ r<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <page></page>
 </regex>
 <thumbnail>http://2.bp.blogspot.com/-Avlie5TcSmE/UItQwc-LOwI/AAAAAAAAAPA/T4Wn-K0tDLk/s1600/Anime%2BLatino4.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]CINE INFANTIL[/COLOR]</title>
+<link>rtmp://46.28.50.124/live playpath=tutvinfantil?id=73395 swfUrl=http://www.ucaster.eu/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.eu/embedded/tutvinfantil/1/650/440 timeout=20 Conn=S:OK</link>
+<thumbnail>http://3.bp.blogspot.com/_QpSdK5Att3s/TThh2J7x04I/AAAAAAAAAFo/uPMnmODBwSI/s1600/cine-infantil-1.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR silver]LOS SIMPSONS TV[/COLOR]</title>
+<link>rtmp://212.7.209.17/live playpath=tutvsimpsons?id=73425 swfUrl=http://www.ucaster.eu/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.eu/embedded/tutvsimpsons/1/650/440 timeout=20 Conn=S:OK</link>
+<thumbnail>http://www.cdr.cr/sites/default/files/fotos-de-los-simpson-18.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue]THUNDERCATS TV[/COLOR]</title>
+<link>rtmp://212.7.209.6/live playpath=tutvthundercast?id=73421 swfUrl=http://www.ucaster.eu/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.eu/embedded/tutvthundercast/1/650/440 timeout=20 Conn=S:OK</link>
+<thumbnail>http://www.top10de.com/wp-content/uploads/2012/12/Thundercats.jpg</thumbnail>
 </item>
 
 <item>
