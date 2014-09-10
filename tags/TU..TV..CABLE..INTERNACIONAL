@@ -69,7 +69,7 @@
 
 <item>
 <title>[COLOR skyblue]HISPAN TV [COLOR lime]FULL HD/[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=tIlIng-sOeI</link>
+<link>rtmp://mtv.fms-01.visionip.tv/live/mtv-m_tv-live-25f-4x3-SDh</link>
 <thumbnail>http://www.webislam.com/media/2013/01/55957_hispan-tv_big.png</thumbnail>
 <info></info>
 <fanart></fanart>
@@ -91,7 +91,7 @@
 <fanart></fanart>
 </item>
 
-<item>
+<subitem>
 <title>[COLOR skyblue]SNY [/COLOR]</title>
 <link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_ramtvp live=1 timeout=20</link>
 <regex>
@@ -120,7 +120,7 @@
 <page></page>
 </regex>
 <thumbnail>http://web.sny.tv/shared/images/logos/facebook/og/sny_tv.jpg</thumbnail>
-</item>
+</subitem>
 
 <item>
 <title>[COLOR skyblue]TELEMUNDO 1[/COLOR]</title>
@@ -246,7 +246,7 @@
 <thumbnail>http://12y2.com/wp-content/uploads/2014/06/graphic-univision-branding.jpg</thumbnail>
 </item>
 
-<item>
+<subitem>
 <title>[COLOR skyblue]UNIVISION 2 [/COLOR]</title>
 <link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_extremounivisiontv live=1 timeout=20</link>
 <regex>
@@ -275,7 +275,7 @@
 <page></page>
 </regex>
 <thumbnail>http://12y2.com/wp-content/uploads/2014/06/graphic-univision-branding.jpg</thumbnail>
-</item>
+</subitem>
 
 <item>
 <title>[COLOR skyblue]UNIVISION 3 [/COLOR]</title>
@@ -529,5 +529,4 @@
 <link>rtmp://46.28.53.18/live playpath=fox2021?id=15837 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/embedplayer/fox2021/1/600/385 timeout=15 Conn=S:OK --live</link>
 <thumbnail>http://www.superpoligon.com/img/news/fox_tv_log.jpg</thumbnail>
 </item>
-
 
