@@ -132,7 +132,7 @@
 
 <item>
 <title>[COLOR skyblue]GOL TV  [COLOR orange](ESPANA)[/COLOR]</title>
-<link>$doregex[rtmp] playpath=ver8i8264g swfUrl=http://vercosasgratis.com/player.swf token=9mbCywv2Qyw1cXbeCkRyQw pageUrl=http://vercosasgratis.com live=1 timeout=15</link>
+<link>$doregex[rtmp] playpath=ver8i8264g swfUrl=http://vercosasgratis.com/player.swf token=nGuRN5PE3IEAP_5zfVn7Jg pageUrl=http://vercosasgratis.com live=1 timeout=15</link>
 <regex>
 <name>rtmp</name>
 <expres>'streamer', '(.*?)'</expres>
