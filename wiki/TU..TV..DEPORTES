@@ -35,14 +35,14 @@
 <item>
 
 <subitem>
-<title>[COLOR skyblue]ESPN LATINO[/COLOR]</title>
+<title>[COLOR skyblue]ESPN LATINO  [COLOR red]OFF[/COLOR]</title>
 <link>rtmp://wdc.cxnlive.com/live/ playpath=espn</link>
 <thumbnail>http://1.bp.blogspot.com/-rzP7nP4VXgo/UToo7_wpjFI/AAAAAAAAEOc/Kn0AGz-MYG8/s1600/Logo+Tv+ESPN+2013.png</thumbnail>
 <fanart></fanart>
 </subitem>
 
 <item>
-<title>[COLOR skyblue]ESPN + LATINO[/COLOR]</title>
+<title>[COLOR skyblue]ESPN + LATINO    [COLOR red]OFF[/COLOR]</title>
 <link>rtmp://wdc.cxnlive.com/live/ playpath=espn2</link>
 <thumbnail>http://2.bp.blogspot.com/-ZWlFjfEtxtU/UTQFIdki87I/AAAAAAAAHdk/5QbzSDXeFcA/s1600/Logo+Tv+Espn%252B+2013+%255BVIVO%255D.png</thumbnail>
 <fanart></fanart>
@@ -93,7 +93,7 @@
 
 <item>
 <title>[COLOR skyblue]WIN SPORTS (COL)[/COLOR]</title>
-<link>rtmp://fl01.iviplanet.com/CronicaCOL playpath=myStream.sdp swfUrl=http://www.tvmia.com/scripts/player.swf live=1 pageUrl=http://www.tvmia.com/seleccioncanal/colombia/wins timeout=15</link>
+<link>rtmp://media.uvault.com/live/2695-7ff1cdf/ playpath=liveevent swfUrl=https://www.teleorion.com/jsstable/jwplayer.flash.swf live=1 pageUrl=https://www.teleorion.com/programacion# timeout=15</link>
 <thumbnail>http://www.sitioco.com/futbolcolombiano/wp-content/uploads/2012/12/win-sports-en-vivo.jpg</thumbnail>
 <info>Win Sport es el nuevo canal deportivo colombiano el cual trasmite futbol colombiano en vivo y todo el deporte de colombiano completamente en vivo las 24 </info>
 <fanart></fanart>
@@ -131,6 +131,37 @@
 </item>
 
 <item>
+<title>[COLOR skyblue]AFA TV 2 (ARG)[/COLOR]</title>
+<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_afa_tv2 live=1 timeout=20</link>
+<regex>
+<name>getdecoded</name>
+<expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
+<page></page>
+</regex>
+<regex>
+<name>getencoded</name>
+<expres>;(0m0[0-9].*)<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getserver</name>
+<expres>(.*?);<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>(.*)<expres>
+<page>http://mvn.vaughnsoft.net/video/edge/live_afa_tv2_$doregex[gettime]-$doregex[gettime].33434</page>
+</regex>
+<regex>
+<name>gettime</name>
+<expres>$pyFunction:str(int(round(time.time() * 1000)))<expres>
+<page></page>
+</regex>
+<thumbnail>http://www.canalvivo.com.ar/wp-content/uploads/2013/10/AFA_TV1.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR skyblue]GOL TV  [COLOR orange](ESPANA)[/COLOR]</title>
 <link>$doregex[rtmp] playpath=ver8i8264g swfUrl=http://vercosasgratis.com/player.swf token=9mbCywv2Qyw1cXbeCkRyQw pageUrl=http://vercosasgratis.com live=1 timeout=15</link>
 <regex>
@@ -142,7 +173,7 @@
 </item>
 
 <item>
-<title>[COLOR skyblue]CANAL + LIGA  [COLOR orange](ESPANA)[/COLOR]</title>
+<title>[COLOR skyblue]CANAL + LIGA  [COLOR red](ESPANA) OFF[/COLOR]</title>
 <link>$doregex[rtmp] playpath=ver8i1f7p9 swfUrl=http://vercosasgratis.com/player.swf token==-_-iZ1dibJ1_z0MNE6hPtg pageUrl=http://vercosasgratis.com live=1 timeout=15</link>
 <regex>
 <name>rtmp</name>
@@ -220,7 +251,7 @@
 
 <item>
 <title>[COLOR skyblue]LIGA MEXICANA UNIVISION DEPORTES [/COLOR]</title>
-<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_deportv_69 live=1 timeout=20</link>
+<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_vipracing live=1 timeout=20</link>
 <regex>
 <name>getdecoded</name>
 <expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
@@ -239,7 +270,7 @@
 <regex>
 <name>getUrl</name>
 <expres>(.*)<expres>
-<page>http://mvn.vaughnsoft.net/video/edge/live_deportv_69_$doregex[gettime]-$doregex[gettime].33434</page>
+<page>http://mvn.vaughnsoft.net/video/edge/live_vipracing$doregex[gettime]-$doregex[gettime].33434</page>
 </regex>
 <regex>
 <name>gettime</name>
@@ -313,7 +344,7 @@
 
 <item>
 <title>[COLOR skyblue]PSN TV SPORT [/COLOR]</title>
-<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_psntv_espndeportes live=1 timeout=20</link>
+<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_psntv_espnd live=1 timeout=20</link>
 <regex>
 <name>getdecoded</name>
 <expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
@@ -332,7 +363,7 @@
 <regex>
 <name>getUrl</name>
 <expres>(.*)<expres>
-<page>http://mvn.vaughnsoft.net/video/edge/live_psntv_espndeportes$doregex[gettime]-$doregex[gettime].33434</page>
+<page>http://mvn.vaughnsoft.net/video/edge/live_psntv_espnd$doregex[gettime]-$doregex[gettime].33434</page>
 </regex>
 <regex>
 <name>gettime</name>
@@ -343,7 +374,7 @@
 </item>
 
 <item>
-<title>[COLOR skyblue]BEISBOL CUBAN[/COLOR]</title>
+<title>[COLOR skyblue]BEISBOL CUBAN   [COLOR red]OFF[/COLOR]</title>
 <link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_elmonaco40 live=1 timeout=20</link>
 <regex>
 <name>getdecoded</name>
