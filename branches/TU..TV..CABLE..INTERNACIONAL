@@ -7,6 +7,12 @@
 </item>
 
 <item>
+<title>[COLOR skyblue]LA 6 SEXTA  [COLOR orange]HD (ESPANA)[/COLOR]</title>
+<link>http://d1tn626vzf9xd3.cloudfront.net/livecf/lasexta.stream/master.m3u8</link>
+<thumbnail>http://img2.wikia.nocookie.net/__cb20130403194854/logopedia/images/a/a3/Lasexta_hd_1.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR skyblue]ATEVE [COLOR red](PUERTO RICO)[/COLOR]</title>
 <link>$doregex[get-page]$doregex[get-initsesion]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
 <regex>
@@ -23,6 +29,12 @@
 <agent>Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53</agent>
 <cookieJar></cookieJar>
 <thumbnail>http://flashnews.tvboricuausa.com/file/n5002805/Am%2525C3%2525A9rica%252520Tev%2525C3%2525A9.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]CRONICA TV  [COLOR orange](CHILE)[/COLOR]</title>
+<link>rtmp://wdc.cxnlive.com/live/cronica</link>
+<thumbnail>http://3.bp.blogspot.com/-3xHbhdNBDcU/U5DS91FhgwI/AAAAAAAAAkM/PFGq9ZKP8Eo/s1600/cronicaLogo.png</thumbnail>
 </item>
 
 <item>
