@@ -7,6 +7,63 @@
 </item>
 
 <item>
+<title>[COLOR skyblue]ATEVE [COLOR red](PUERTO RICO)[/COLOR]</title>
+<link>$doregex[get-page]$doregex[get-initsesion]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
+<regex>
+<name>get-initsesion</name>
+<expres></expres>
+<page>$doregex[get-page]</page>
+<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get-page</name>
+<expres>"m3u8_url":"(.*?)"</expres>
+<page>http://new.livestream.com/AmericaTeVeCanal41/events/2966225</page>
+<agent>Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53</agent>
+<cookieJar></cookieJar>
+<thumbnail>http://flashnews.tvboricuausa.com/file/n5002805/Am%2525C3%2525A9rica%252520Tev%2525C3%2525A9.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]MUNDO UNTREF[COLOR blue](ARGENTINA)[/COLOR]</title>
+<link>$doregex[get-page]$doregex[get-initsesion]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
+<regex>
+<name>get-initsesion</name>
+<expres></expres>
+<page>$doregex[get-page]</page>
+<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get-page</name>
+<expres>"m3u8_url":"(.*?)"</expres>
+<page>http://new.livestream.com/un3/events/3306514</page>
+<agent>Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53</agent>
+<cookieJar></cookieJar>
+<thumbnail>http://untref.edu.ar/mundountref/admin/server/files/grande/television-mu.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]DTV MUNDO  [COLOR orange](VENEZUELA)[/COLOR]</title>
+<link>$doregex[get-page]$doregex[get-initsesion]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
+<regex>
+<name>get-initsesion</name>
+<expres></expres>
+<page>$doregex[get-page]</page>
+<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get-page</name>
+<expres>"m3u8_url":"(.*?)"</expres>
+<page>http://new.livestream.com/accounts/7240714/events/3022694</page>
+<agent>Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53</agent>
+<cookieJar></cookieJar>
+<thumbnail>http://dtvmundo.com/wp-content/uploads/2014/06/logo_web1.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR skyblue]CLICK TV  [COLOR yellow](COLOMBIA)[/COLOR]</title>
 <link>http://uneapple-i.akamaihd.net/hls/live/206577/grupoune_st19@206577/st19_index.m3u8</link>
 <thumbnail>https://i.ytimg.com/i/uYaT937Ebm2ccmmR_hM65Q/mq1.jpg?v=5081b659</thumbnail>
@@ -50,7 +107,7 @@
 
 <item>
 <title>[COLOR skyblue]HISPAN TV [COLOR lime]FULL HD/[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=tIlIng-sOeI</link>
+<link>rtmp://mtv.fms-01.visionip.tv/live/mtv-m_tv-live-25f-4x3-SDh</link>
 <thumbnail>http://www.webislam.com/media/2013/01/55957_hispan-tv_big.png</thumbnail>
 <info></info>
 <fanart></fanart>
@@ -65,14 +122,14 @@
 </item>
 
 <item>
-<title>[COLOR skyblue]RT EN ESPAÑOL [COLOR lime]FULL HD [/COLOR]</title>
+<title>[COLOR skyblue]RT EN ESPAÃ‘OL [COLOR lime]FULL HD [/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=sk9ggQBT8CA</link>
 <thumbnail>http://www.dossiergeopolitico.com/blog/wp-content/uploads/2013/08/rt_sepa_mas.png</thumbnail>
 <info></info>
 <fanart></fanart>
 </item>
 
-<item>
+<subitem>
 <title>[COLOR skyblue]SNY [/COLOR]</title>
 <link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_ramtvp live=1 timeout=20</link>
 <regex>
@@ -101,7 +158,7 @@
 <page></page>
 </regex>
 <thumbnail>http://web.sny.tv/shared/images/logos/facebook/og/sny_tv.jpg</thumbnail>
-</item>
+</subitem>
 
 <item>
 <title>[COLOR skyblue]TELEMUNDO 1[/COLOR]</title>
@@ -198,37 +255,6 @@
 
 <item>
 <title>[COLOR skyblue]UNIVISION 1 [/COLOR]</title>
-<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_univision_hd20 live=1 timeout=20</link>
-<regex>
-<name>getdecoded</name>
-<expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
-<page></page>
-</regex>
-<regex>
-<name>getencoded</name>
-<expres>;(0m0[0-9].*)<expres>
-<page>$doregex[getUrl]</page>
-</regex>
-<regex>
-<name>getserver</name>
-<expres>(.*?);<expres>
-<page>$doregex[getUrl]</page>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>(.*)<expres>
-<page>http://mvn.vaughnsoft.net/video/edge/live_univision_hd20$doregex[gettime]-$doregex[gettime].33434</page>
-</regex>
-<regex>
-<name>gettime</name>
-<expres>$pyFunction:str(int(round(time.time() * 1000)))<expres>
-<page></page>
-</regex>
-<thumbnail>http://12y2.com/wp-content/uploads/2014/06/graphic-univision-branding.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR skyblue]UNIVISION 2 [/COLOR]</title>
 <link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_extremounivisiontv live=1 timeout=20</link>
 <regex>
 <name>getdecoded</name>
@@ -257,6 +283,37 @@
 </regex>
 <thumbnail>http://12y2.com/wp-content/uploads/2014/06/graphic-univision-branding.jpg</thumbnail>
 </item>
+
+<subitem>
+<title>[COLOR skyblue]UNIVISION 2 [/COLOR]</title>
+<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_extremounivisiontv live=1 timeout=20</link>
+<regex>
+<name>getdecoded</name>
+<expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
+<page></page>
+</regex>
+<regex>
+<name>getencoded</name>
+<expres>;(0m0[0-9].*)<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getserver</name>
+<expres>(.*?);<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>(.*)<expres>
+<page>http://mvn.vaughnsoft.net/video/edge/live_extremounivisiontv$doregex[gettime]-$doregex[gettime].33434</page>
+</regex>
+<regex>
+<name>gettime</name>
+<expres>$pyFunction:str(int(round(time.time() * 1000)))<expres>
+<page></page>
+</regex>
+<thumbnail>http://12y2.com/wp-content/uploads/2014/06/graphic-univision-branding.jpg</thumbnail>
+</subitem>
 
 <item>
 <title>[COLOR skyblue]UNIVISION 3 [/COLOR]</title>
@@ -345,6 +402,37 @@
 </item>
 
 <item>
+<title>[COLOR skyblue]NATIONAL GEOGRAPHIC[/COLOR]</title>
+<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_mfv_05 live=1 timeout=20</link>
+<regex>
+<name>getdecoded</name>
+<expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
+<page></page>
+</regex>
+<regex>
+<name>getencoded</name>
+<expres>;(0m0[0-9].*)<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getserver</name>
+<expres>(.*?);<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>(.*)<expres>
+<page>http://mvn.vaughnsoft.net/video/edge/live_mfv_05_$doregex[gettime]-$doregex[gettime].33434</page>
+</regex>
+<regex>
+<name>gettime</name>
+<expres>$pyFunction:str(int(round(time.time() * 1000)))<expres>
+<page></page>
+</regex>
+<thumbnail>http://images.nationalgeographic.com/wpf/sites/common/i/presentation/NGLogo560x430-cb1343821768.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR skyblue]BYU TV[/COLOR]</title>
 <link>http://byuhd2-lh.akamaihd.net/i/byutvintspanhd2_live@103133/master.m3u8</link>
 <thumbnail>http://1.bp.blogspot.com/_j94PNh-YZwY/TSTEDkYIaiI/AAAAAAAABnk/p5Kx_o7HgS0/s1600/BYUtv%2B%2528Dark%2BBlack%2529.jpg</thumbnail>
@@ -427,37 +515,6 @@
 
 <item>
 <title>[COLOR skyblue]HISTORY[/COLOR]</title>
-<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_mfv_05 live=1 timeout=20</link>
-<regex>
-<name>getdecoded</name>
-<expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
-<page></page>
-</regex>
-<regex>
-<name>getencoded</name>
-<expres>;(0m0[0-9].*)<expres>
-<page>$doregex[getUrl]</page>
-</regex>
-<regex>
-<name>getserver</name>
-<expres>(.*?);<expres>
-<page>$doregex[getUrl]</page>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>(.*)<expres>
-<page>http://mvn.vaughnsoft.net/video/edge/live_mfv_05_$doregex[gettime]-$doregex[gettime].33434</page>
-</regex>
-<regex>
-<name>gettime</name>
-<expres>$pyFunction:str(int(round(time.time() * 1000)))<expres>
-<page></page>
-</regex>
-<thumbnail>http://i1.ytimg.com/vi/XABnu9a1Lz4/maxresdefault.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR skyblue]HISTORY HD[/COLOR]</title>
 <link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_mfv_08 live=1 timeout=20</link>
 <regex>
 <name>getdecoded</name>
@@ -477,7 +534,38 @@
 <regex>
 <name>getUrl</name>
 <expres>(.*)<expres>
-<page>http://mvn.vaughnsoft.net/video/edge/live_mfv_08$doregex[gettime]-$doregex[gettime].33434</page>
+<page>http://mvn.vaughnsoft.net/video/edge/live_mfv_08_$doregex[gettime]-$doregex[gettime].33434</page>
+</regex>
+<regex>
+<name>gettime</name>
+<expres>$pyFunction:str(int(round(time.time() * 1000)))<expres>
+<page></page>
+</regex>
+<thumbnail>http://i1.ytimg.com/vi/XABnu9a1Lz4/maxresdefault.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR skyblue]HISTORY HD[/COLOR]</title>
+<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_mfv_09 live=1 timeout=20</link>
+<regex>
+<name>getdecoded</name>
+<expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
+<page></page>
+</regex>
+<regex>
+<name>getencoded</name>
+<expres>;(0m0[0-9].*)<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getserver</name>
+<expres>(.*?);<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>(.*)<expres>
+<page>http://mvn.vaughnsoft.net/video/edge/live_mfv_09_$doregex[gettime]-$doregex[gettime].33434</page>
 </regex>
 <regex>
 <name>gettime</name>
@@ -509,40 +597,4 @@
 <title>[COLOR skyblue]FOX LATINO [COLOR silver](LATINO)[/COLOR]</title>
 <link>rtmp://46.28.53.18/live playpath=fox2021?id=15837 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/embedplayer/fox2021/1/600/385 timeout=15 Conn=S:OK --live</link>
 <thumbnail>http://www.superpoligon.com/img/news/fox_tv_log.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR skyblue]AXN  [COLOR orange](ESPANA)[/COLOR]</title>
-<link>http://acabsw.doiptv.com/cs_axn/playlist.m3u8</link>
-<thumbnail>http://payload.cargocollective.com/1/4/155736/2095741/axn_boards3_03.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR skyblue]FOX  [COLOR orange](ESPANA)[/COLOR]</title>
-<link>http://acabsw.doiptv.com/cs_fox/playlist.m3u8</link>
-<thumbnail>http://ver-tv-online.com/wp-content/uploads/2014/02/fox-tv.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR skyblue]TNT  [COLOR orange](ESPANA)[/COLOR]</title>
-<link>http://acabsw.doiptv.com/cs_tnt/playlist.m3u8</link>
-<thumbnail>http://blogtelevisual.com/wp-content/uploads/2012/04/0007_tnt_2012.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR skyblue]BIO  [COLOR orange](ESPANA)[/COLOR]</title>
-<link>http://acabsw.doiptv.com/cs_bio/playlist.m3u8</link>
-<thumbnail>http://blog.adnstream.tv/wp-content/uploads/2009/04/the-biography-channelblog.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR skyblue]CANAL + COMEDIA [COLOR orange](ESPANA)[/COLOR]</title>
-<link>http://acabsw.doiptv.com/cs_comedia/playlist.m3u8</link>
-<thumbnail>http://4.bp.blogspot.com/-1dAB8Gegq6Y/UoU_MaPguLI/AAAAAAAAACs/UyyCrZMF0dk/s320/comedia.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR skyblue]HOLIWOOD  [COLOR orange](ESPANA)[/COLOR]</title>
-<link>http://acabsw.doiptv.com/cs_hollywood/playlist.m3u8</link>
-<thumbnail>http://layaproducciones.es/wp-content/uploads/2013/02/canal-hollywood-estrellas.jpg</thumbnail>
 </item>
