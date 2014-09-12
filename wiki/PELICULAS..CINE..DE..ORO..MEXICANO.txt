@@ -1,0 +1,298 @@
+﻿r<?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
+
+<item>
+<title>[COLOR red]CANTINFLAS:CABALLERO A LA MEDIDA [/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=WQVyUYwXyUg&list=UUoK9YumhaqzM7uOdgxGgeqQ</link>
+<thumbnail>http://www.fundaciondoctordepando.com/cine-trailers/0_CANTINFLAS/Caballero%20a%20la%20medida%20(1954).jpg</thumbnail>
+<info>Cantinflas es un modelo de smokings de Ortiz, una prestigiosa sastrería, al mismo tiempo mánager de un boxeador que desea ser campeón a pesar de sus dificultades técnicas. Trabaja ademàs como sastre para sus vecinos de la vecindad. Colabora con Lita y el padre Feliciano en el dispensario. Paralelamente se muestra la vida de un angustiado millonario cuya familia sólo lo respeta como proveedor. Un día de trabajo llega a devolver el smoking pero la tienda estaba cerrada y debe sacarse el letrero publicitario y volver así vestido, topándose en el camino con la boda de la hija del millonario. El padre al verlo elegantemente vestido le confunde y le agrada la sinceridad con que le trata Cantinflas y le ofrece su amistad.</info>
+</item>
+
+<item>
+<title>[COLOR red]CANTINFLAS:POR MIS PISTOLAS[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=VXzhMjL9Wzw&index=2&list=UUoK9YumhaqzM7uOdgxGgeqQ</link>
+<thumbnail>http://www.planetacomic.net/imagenes/dvd/I00000000000308601g.jpg</thumbnail>
+<info>La película narra la historia de Fidencio Barrenillo (Cantinflas). Un boticario de pueblo en la frontera norte de México descubre unos viejos títulos de propiedad de una mina en Arizona y decide ir a reclamarlos. Al tratar de cruzar la frontera es interceptado por un guardia fronterizo (Carlos Pouliot), que exagera en el cumplimiento de su deber. En el trayecto es capturado por una tribu de apaches y está a punto de ser quemado vivo, pero gracias a que el Gran Jefe Caballo Recostado tiene dolor de muelas y se entera que el prisionero lo puede sanar, ordena su liberación con la condición de que lo cure. Fidencio le saca la muela y obtiene la amistad eterna del Jefe apache.</info>
+</item>
+
+<item>
+<title>[COLOR red]CANTINFLAS:EL PORTERO [/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=m9-mO2Wlex4&list=UUoK9YumhaqzM7uOdgxGgeqQ&index=3</link>
+<thumbnail>http://www.prodiscos.com/productos/images/600/139101.jpg</thumbnail>
+<info>Cantinflas trabaja como portero y además escribe cartas y discursos en su vieja máquina de escribir para ganar dinero extra. Los problemas sentimentales surgen cuando Cantinflas se enamora de su bella vecina llamada Rosita la cual no puede caminar. Además, las cosas no son fáciles, ya que un militar joven también está enamorado de la chica. Cantinflas desea que su vecina sea feliz y por ello se convertirá en una especie de Cyrano de Bergerac, escribiéndole cartas a ella, pero firmando como su admirador militar. Paralelamente, tiene un plan para que ella vuelva a caminar, mediante ganar dinero en las carreras de caballos y así pagar su operación.</info>
+</item>
+
+<item>
+<title>[COLOR red]CANTINFLAS:GRAN HOTEL [/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=57xL9Lnwo3o&list=UUoK9YumhaqzM7uOdgxGgeqQ&index=4</link>
+<thumbnail>http://blogs.montevideo.com.uy/imgnoticias/200808/14992.jpg</thumbnail>
+<info>Gran Hotel es una película mexicana de Cantinflas de 1944. En ella, Cantinflas es un vago que es desalojado por no pagar la renta, luego de deambular consigue trabajo en el "Gran Hotel" por intermedio de una amiga, ahí es confundido con el Duque de Alfanje , quien se encuentra de incógnito en el hotel, el robo de una joya complica más esta divertida película. Dirigida por Miguel M. Delgado.</info>
+</item>
+
+<item>
+<title>[COLOR red]CANTINFLAS: NI SANGRE NI ARENA[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8XudX53ES4s&list=UUoK9YumhaqzM7uOdgxGgeqQ&index=5</link>
+<thumbnail>http://www.diccionariosdigitales.net/CARATULAS_338/338_CCC/Cantinflas%20Ni%20sangre%20ni%20arena.jpg</thumbnail>
+<info>Manuel Marquez "Manolete" un torero muy famoso, tiene una presentación en una plaza de toros , el "Chato" ("Cantinflas") un vendedor ambulante y empleado del dueño de la cantina quiere ingresar para ver la corrida pero al no tener dinero para las entradas quedrá a toda costa ingresar ayudado por su amigo "Charifas" (Fernando Soto "Mantequilla") logrará entrar y ver a Manolete quien tiene un asombroso parecido con él.</info>
+</item>
+
+<item>
+<title>[COLOR red]CANTINFLAS:ENTREGA INMEDIATA [/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=wKIhJY1SWsg&index=6&list=UUoK9YumhaqzM7uOdgxGgeqQ</link>
+<thumbnail>http://www.benitomovieposter.com/catalog/images/movieposter/cantinflas-entrega-inmediata-img-30149.jpg</thumbnail>
+<info>La película es claramente una parodia a las películas de espías populares durante la guerra fría. Curiosamente el número 777 ya lo había usado Cantinflas en la película El bombero atómico de 1950 y lo volverá a usar en 1978 en El patrullero 777. Con gran uso de combinaciones de nombres divertidos Cantinflas lleva a un personaje típico de bajo nivel socioeconómico de México a mezclarse en una intriga internacional de espionaje logrando divertidas situaciones, donde logra salir airoso.</info>
+</item>
+
+<item>
+<title>[COLOR red]LA INDIA MARIA:SOR TEQUILA [/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=F2_MYyrj0zQ</link>
+<thumbnail>http://ecx.images-amazon.com/images/I/518pJBIWMrL._SS500_.jpg</thumbnail>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR red]LA INDIA MARIA:LA COMADRITA [/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=OfErfvHalhI&list=UUoK9YumhaqzM7uOdgxGgeqQ</link>
+<thumbnail>http://o20.metroflog.com/pictures/989/98/7/556798989_AELFGEFKCPMRHIW.jpg</thumbnail>
+<info>Para huir de su enamorado Pantaleón, Nicolasa se va a la ciudad como sirvienta. Sus patrones deciden separarse y dejar la casa a su cargo durante un año</info>
+</item>
+
+<item>
+<title>[COLOR red]LA INDIA MARIA:OK MISTER PANCHO[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=qMLOZz6UCsY&index=15&list=UUoK9YumhaqzM7uOdgxGgeqQ</link>
+<thumbnail>http://ecx.images-amazon.com/images/I/41JB8jf0NvL._SL500_.jpg</thumbnail>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR red]MUSICO POETA Y LOCO (1947)[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=jm_zkn2lhfU&list=UUqXM5aPjJuDs0X5Xba69QOg</link>
+<thumbnail>http://s3-eu-west-1.amazonaws.com/abandomedia/indie/foto/db_4375.jpg</thumbnail>
+<info>Perseguidos por quienes han estafado como merolicos, Tin Tan y Marcelo se refugian en un internado para señoritas. Allí son confundidos con médicos por la estricta directora y pasan a hacerse cargo de la salud de las internas, ordenando curiosas "terapias" como acortar sus vestidos y bailar el tango, la conga y el "boogie-boogie". En el internado, Tin Tan se enamora de la hermosa Mercedes, quien ha sido enviada allí para evitar que reciba una herencia.</info>
+</item>
+
+<item>
+<title>[COLOR red]LA LOCA [/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=fQOuD29hpu0&list=UUqXM5aPjJuDs0X5Xba69QOg</link>
+<thumbnail>http://mlm-s2-p.mlstatic.com/libertad-lamarque-la-loca-cartel-lobby-card-3-2815-MLM3606247219_122012-F.jpg</thumbnail>
+<info>Un psiquiatra se interesa en el caso de una loca quien cree estar viviendo en el año 1936. Sus parientes quieren hacerla pasar por sana para poder cobrar una cuantiosa herencia pero el psiquiatra lucha contra toda la familia para defenderla.</info>
+</item>
+
+<item>
+<title>[COLOR red]BORRASCAS EN LAS ALMAS [/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=UUqXM5aPjJuDs0X5Xba69QOg</link>
+<thumbnail>http://pics.filmaffinity.com/Borrasca_en_las_almas-476249355-large.jpg</thumbnail>
+<info>Martha y Alicia son gemelas y ambas llevan pesadas cargas sobre sus espaldas: un esposo alcohólico y un pasado tormentoso. En esta historia los celos, el rencor y la traición llevarán a estos personajes a la perdición</info>
+</item>
+
+<item>
+<title>[COLOR red]SANTO EN EL HOTEL DE LA MUERTE[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=rK7sEVONVu0&list=UUqXM5aPjJuDs0X5Xba69QOg</link>
+<thumbnail>http://www.morbidofest.com/wp-content/uploads/2014/03/santo_in_hotel_of_death_poster_02-1.jpg?0d736f</thumbnail>
+<info>No 3 en una serie de 3. El Santo ayuda una vez más a Fernando y Conrado, esta vez a resolver el misterio de ciertas muertes y cadáveres que desaparecen en un lujoso hotel y su conexión con un olvidado tesoro</info>
+</item>
+
+<item>
+<title>[COLOR red]LAS TRES ALEGRES COMADRES [/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=70--ZU2H12Y&list=UUqXM5aPjJuDs0X5Xba69QOg</link>
+<thumbnail>http://www.benitomovieposter.com/catalog/images/movieposter/las-3-alegres-comadres-img-107615.jpg</thumbnail>
+<info>Marina, Estela y Perla, extras de cine, las tres con novio cada una. Sin que la dueña de la pensión se entere, Marina aloja en su cuarto a sus "comadres" Estela y Perla. Las tres se quejan de su pobreza, y, como no tienen trabajo, entran de cigarreras en un cabaret. El dueño de éste les da la oportunidad, pero se enfurece la vedette, la Montalvo. La dueña de la pensión se da cuenta del truco de Marina y las corre</info>
+</item>
+
+<item>
+<title>[COLOR red]LA HERMANA BLANCA[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=zhbN2KpB3XQ&list=UUqXM5aPjJuDs0X5Xba69QOg</link>
+<thumbnail>http://i.ytimg.com/vi/zhbN2KpB3XQ/movieposter.jpg</thumbnail>
+<info>Una hermosa mujer, Ángela, y un militar, el capitán Juan Escandón. Ella parece tenerlo todo en la vida y el amor de su novio Juan. Muere su Padre y le dice su tía que no tiene ningún derecho. Ángela se va a vivir con su institutriz, y Juan es nombrado agregado militar en París. Se despiden jurando él matrimonio</info>
+</item>
+
+<item>
+<title>[COLOR red]LA MARCA DEL ZORRILLO SD[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=oYup9_HU7cE&list=TLr0GLKCvdpLMlg_YSIlq4SHXzOpaokgkn</link>
+<thumbnail>https://i1.ytimg.com/vi/oYup9_HU7cE/movieposter.jpg?v=4f4d0c0d</thumbnail>
+<info>En este clásico Mexicano de comedia, Tin-Tan y El Zorrillo son la misma persona, pero Lupe sólo está enamorada del último. Cuando Don Martín y sus trabajadores son encarcelados por el malvado Don Gaspar, le toca a El Zorrillo salvar a aquéllos en problemas</info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR red]EL CAMINO DE LOS ESPANTOS SD[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8NbgSDjv39A&list=TLr0GLKCvdpLMlg_YSIlq4SHXzOpaokgkn&index=2</link>
+<thumbnail>https://i1.ytimg.com/vi/8NbgSDjv39A/movieposter.jpg?v=4f393d7b</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR red]CUANDO LOS PADRES SE QUIEDAN SOLOS SD[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=TLr0GLKCvdpLMlg_YSIlq4SHXzOpaokgkn&index=6</link>
+<thumbnail>https://i1.ytimg.com/vi/DwaDSYRqwWQ/movieposter.jpg?v=4f4d04b6</thumbnail>
+<info>Roberto y Cristina, padres de cinco, viven intensamente los problemas de los tres que están casados. Una película acerca de cómo los padres dirigen sus vidas mientras se preocupan al mismo tiempo por sus hijos</info>
+<fanart></fanart>
+</item>
+
+<item>
+<title> [COLOR red]EL NIÑO PERDIDO SD[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=eIBLTRJ7Xi0&list=TLr0GLKCvdpLMlg_YSIlq4SHXzOpaokgkn&index=3</link>
+<thumbnail>https://i1.ytimg.com/vi/eIBLTRJ7Xi0/movieposter.jpg?v=4f42c32c</thumbnail>
+<info>Criado como un niño por sus tías Pura y Pita, el joven Agustín sufre de doble identidad y cada día, a las siete de la noche en punto, se convierte en un lobo aullador que persigue a toda mujer que se le acerca. La situación se enreda más a la llegada del abuelo don Jacobo, quien desconoce la manera en que su nieto ha sido criado</info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR red]EL AMOR DE MARIA ISABEL SD[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Dj3yo6GSdFE&list=TLr0GLKCvdpLMlg_YSIlq4SHXzOpaokgkn&index=4</link>
+<thumbnail>https://i1.ytimg.com/vi/Dj3yo6GSdFE/movieposter.jpg?v=4e6d6ae3</thumbnail>
+<info>Continuación de María Isabel. Recién casada con un hombre rico, María Isabel se enfrenta todavía al estigma de ser una simple criada y deberá soportar el desprecio de su hija adoptiva y de su esposo</info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR red]EL HIJO DESOBEDIENTE SD[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Nj_akWEBYBc&index=5&list=TLr0GLKCvdpLMlg_YSIlq4SHXzOpaokgkn</link>
+<thumbnail>https://i1.ytimg.com/vi/Nj_akWEBYBc/movieposter.jpg?v=4f42c69c</thumbnail>
+<info>En esta divertida comedia, el primer largometraje de Tin Tan, él es confundido por un millonario a quien su familia quiere despojar de su fortuna.</info>
+<fanart></fanart>
+</item>
+
+<item>
+<title> [COLOR red]EL REY DEL BARRIO[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=7&list=TLr0GLKCvdpLMlg_YSIlq4SHXzOpaokgkn</link>
+<thumbnail>https://i1.ytimg.com/vi/OrBAweaOCBE/movieposter.jpg?v=4f42bf9b</thumbnail>
+<info>Un joven ferrocarrilero (Tin Tan) está empeñado en proteger a su vecina Carmelita (Silvia Pinal) a pesar de que la ayuda siempre es rechazada. Tin Tan es en realidad un Robin Hood moderno cuya banda de ladrones estafa a mujeres millonarias. La situación se complica cuando una de las estafadas, la Nena (Vitola), se enamora de él</info>
+<fanart></fanart>
+</item>
+
+<item>
+<title> [COLOR red]LA EDAD DE PIEDRA[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8&list=TLr0GLKCvdpLMlg_YSIlq4SHXzOpaokgkn</link>
+<thumbnail>https://i1.ytimg.com/vi/T-dhi_UlyRU/movieposter.jpg?v=4f6782cd</thumbnail>
+<info>Un cientifico brillante, el Doctor Atom, ha constuido una maquina para viajar por el tiempo, cuyo decubrimiento ha llamado el interes de una banda de espias, que ha decidido usar a los tontos de Viruta y Capulina para destruir la maquina. El par de comicos es tan inutil que logran regresar la bomba a los espias. El Dr. Atom ha visto todo por sus camaras y decide que Viruta y Capulina serán los condidatos perfectos para viajar al pasado cien millones de años para recaudar un metal esoterico que él necesita para construer una nueva maquina. Viruta y Capulina llegan al pasado, donde encuentran adventuras y romance</info>
+<fanart></fanart>
+</item>
+
+<item>
+<title> [COLOR red]CAPULINA CORAZON DE LEON[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=TLr0GLKCvdpLMlg_YSIlq4SHXzOpaokgkn&index=9</link>
+<thumbnail>https://i1.ytimg.com/vi/cjaQB4wD3Cs/movieposter.jpg?v=4f393640</thumbnail>
+<info>Capulina accidentalmente adopta a un león de una tienda de mascotas, pensando que es un gato. Las cosas se complican cuando, encima de todo, lo toman por asaltante</info>
+<fanart></fanart>
+</item>
+
+<item>
+<title> [COLOR red]VAGABUNDA[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=VaN4B2E1nRM&list=TLr0GLKCvdpLMlg_YSIlq4SHXzOpaokgkn&index=10</link>
+<thumbnail>https://i1.ytimg.com/vi/VaN4B2E1nRM/movieposter.jpg?v=4f4d0785</thumbnail>
+<info>Una bailarina exótica que se ha cansado de trabajar en las secciones más turbias de la ciudad pone sus miras en la calle como medio de mantener su delicada dignidad. Un clásico drama cotidiano protagonizado por Leticia Palma y Antonio Badú.</info>
+<fanart></fanart>
+</item>
+
+<item>
+<title> [COLOR red]CHUCHO EL REMENDADO[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=u_1RPz0Wg3o&index=11&list=TLr0GLKCvdpLMlg_YSIlq4SHXzOpaokgkn</link>
+<thumbnail>https://i1.ytimg.com/vi/u_1RPz0Wg3o/movieposter.jpg?v=4fa02030</thumbnail>
+<info>Valentín y Magdalena viven casados y con lujo, gracias al dinero de ella. Mientras ofrecen una fiesta, un ladrón enmascarado roba las joyas de las invitadas y luego roba las que Valentín compró para su esposa. El ladrón resulta ser el mismo Valentín, quien se ha enredado con Margot, una chantajista cantante de cabaret</info>
+<fanart></fanart>
+</item>
+
+<item>
+<title> [COLOR red]EL NANO NIÑERA CON BIGOTES[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=QLFOprFYfoU&index=12&list=TLr0GLKCvdpLMlg_YSIlq4SHXzOpaokgkn</link>
+<thumbnail>https://i1.ytimg.com/vi/QLFOprFYfoU/movieposter.jpg?v=80152b</thumbnail>
+<info></info>
+<fanart></fanart>
+</item>
+
+<item>
+<title> [COLOR red]VIVO O MUERTO[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=JSigti22uLM&list=PLKMzENZiEbIGxfixWVQnYzc2PzUA2UBC3</link>
+<thumbnail>https://i1.ytimg.com/vi/JSigti22uLM/movieposter.jpg?v=50b8c55a</thumbnail>
+<info>En este western, según se dijo en El Redondel, Capetillo "hace el papel de un charro valeroso que se pelea con todo los malhechores habidos y por haber, que enamora a cuanta muchacha se le pone por delante y que se sale con suya al fin y al cabo, no sin correr grandes peligros en sus fieras y repetidas peleas". La publicidad de la película mostraba, al modo de los carteles de reward norteamericanos, de frente y de perfil a Capetillo, por cuya captura se ofrecían 10,000 pesos de recompensa</info>
+<fanart></fanart>
+</item>
+
+<item>
+<title> [COLOR red]AMOR EN LA SOMBRA[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bmJoSKcU67M&index=2&list=PLKMzENZiEbIGxfixWVQnYzc2PzUA2UBC3</link>
+<thumbnail>https://i1.ytimg.com/vi/bmJoSKcU67M/movieposter.jpg?v=50b8c701</thumbnail>
+<info>El destino que les separó vuelve a unir a Claudia Montes, cantante y a Octavio Morán, pero al no aceptar ella que Octavio se divorcie y abandone a su hija Mariela, prefiere compartir en la sombra el amor de el. Así pasan unos años hasta que Octavio muere de un síncope. Su hija Mariela, que intuye que su padre tenía un amor, no puede confiarse a su madre ni a Patricio, su novio, y busca a Claudia, con quien recientemente entabló amistad</info>
+<fanart></fanart>
+</item>
+
+<item>
+<title> [COLOR red]A SI ES MI TIERRA[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ZWVfk-aAwTs&index=3&list=PLKMzENZiEbIGxfixWVQnYzc2PzUA2UBC3</link>
+<thumbnail>https://i1.ytimg.com/vi/ZWVfk-aAwTs/movieposter.jpg?v=50aea2c0</thumbnail>
+<info>El general llega a su rancho, con el objeto de descansar de las fatigas sufridas en la revolución. Es recibido por la multitud. Tiene como asistente a Procopio y como secretario a un abogado. Aquí se encuentra con un tipo original pero que se hace pasar por amigo del general, es un sujeto "ladino" y astuto como un zorro, le llaman "el tejón" (Cantinflas), en todo anda y en todo se mete, constantemente se enfrenta con Procopio, al que hace ver su suerte, dando motivo a una serie de diálogos, de los mas jocoso que pueda imaginarse.</info>
+<fanart></fanart>
+</item>
+
+<item>
+<title> [COLOR red]BORRASCA EN LAS ALMAS[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=PLKMzENZiEbIGxfixWVQnYzc2PzUA2UBC3&index=4</link>
+<thumbnail>https://i1.ytimg.com/vi/KjcwAfv3-yg/movieposter.jpg?v=50da1e65</thumbnail>
+<info>Martha y Alicia son gemelas y ambas llevan pesadas cargas sobre sus espaldas: un esposo alcohólico y un pasado tormentoso. En esta historia los celos, el rencor y la traición llevarán a estos personajes a la perdición</info>
+<fanart></fanart>
+</item>
+
+<item>
+<title> [COLOR red]CADA QUIEN SU VIDA[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1VWlnTLezXI&index=5&list=PLKMzENZiEbIGxfixWVQnYzc2PzUA2UBC3</link>
+<thumbnail>https://i1.ytimg.com/vi/1VWlnTLezXI/movieposter.jpg?v=50dbb444</thumbnail>
+<info>Durante la celebración de año nuevo en un cabaret, clientes y prostitutas rezan por la muerte del pianista. El resto de la noche transcurre entre peculiares personajes, encuentros fortuitos, amores añejos, tragedias y sorpresas inesperadas.</info>
+<fanart></fanart>
+</item>
+
+<item>
+<title> [COLOR red]CON LA MUSICA POR DENTRO[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8ymcBKle6UI&index=6&list=PLKMzENZiEbIGxfixWVQnYzc2PzUA2UBC3</link>
+<thumbnail>https://i1.ytimg.com/vi/8ymcBKle6UI/movieposter.jpg?v=50a2c27a</thumbnail>
+<info>En esta farsa, "Tin Tan" tenía que disfrazarse de mujer, el inevitable trasvesti al que todo actor cómico debe someterse, para entrar como aristocrática cocinera "condesa de Tallarín", al improbable universo de la comedia mundana. Los mayordomos inverosímiles y las costumbres de principio de siglo se localizaban ahora en la casa del rico Marcelo, a cuyas hija y esposa la "condesa" cortejaba. Las clásicas situaciones humorísticas se repetían, esta vez en detrimento de un actor lleno de inventiva y vitalidad como lo era "Tin Tan": su personaje se asfixiaba en los estrechos límites de una óptica pequeño-burguesa al modo porfiriano cada vez mas insostenible</info>
+<fanart></fanart>
+</item>
+
+<item>
+<title> [COLOR red]EL CAPITAN AVENTURERO[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=GrhHg6xh77k&list=PLKMzENZiEbIGxfixWVQnYzc2PzUA2UBC3&index=7</link>
+<thumbnail>https://i1.ytimg.com/vi/GrhHg6xh77k/movieposter.jpg?v=50a2cceb</thumbnail>
+<info>Don Gil de Alcalá y su paje, el Sargento de Carrasquilla, llegan a Puebla y al pasar por un convento de niñas oye la voz de Carmina ahijada del corregidor que va a ser casada con el conde Don Diego de Bustamante y Escalona. Don Gil encantado por la bella voz desmonta su caballo y trepa la barda. Sorprendida de ver a un hombre en lo alto de la barda huye. Juanito el sirviente de Carmina trata de correrlo, pero don Gil con unos cuantos centavos hace que Juanito le diga quien es la bella colegiala. Don Gil y su paje dejan su equipaje en una posada cercana. Carrasquilla, oye voces, y descubre que unos bandidos están planeando el robo al tren</info>
+<fanart></fanart>
+</item>
+
+<item>
+<title> [COLOR red]EL CORREO DEL NORTE[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=mghmC2-nYWI&list=PLKMzENZiEbIGxfixWVQnYzc2PzUA2UBC3&index=8</link>
+<thumbnail>https://i1.ytimg.com/vi/mghmC2-nYWI/movieposter.jpg?v=50a3c61e</thumbnail>
+<info>Cuando Pancho Villa celebra en su cuartel una fiesta con el coronel Camacho y otros, llegan a entregarle sendos mensajes, anunciadores de victorias de sus tropas, Sergio y Carmela, por una parte, y Luis y Pascual por la otra. Villa decide iniciar una ofensiva general en combinación con Zapata, para lo cual habrá que enviarle a éste un correo. Un traidor incógnito roba los planes de la ofensiva. Huyen del cuartel el capitán Acevedo y el teniente Montes; Villa da la orden de perseguirlos. Tanto Luis y Pascual como Sergio y Carmela son enviados por Villa a entregar dos mensajes a Zapata.</info>
+<fanart></fanart>
+</item>
+
+<item>
+<title> [COLOR red]EL GAVILAN POLLERO[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=QKgIXENbz_w&list=PLKMzENZiEbIGxfixWVQnYzc2PzUA2UBC3&index=10</link>
+<thumbnail>https://i1.ytimg.com/vi/QKgIXENbz_w/movieposter.jpg?v=50a2d237</thumbnail>
+<info>Pedro Infante interpreta a Jose, un vagabundo empedernido, cuya novia de muchos años, Antonia (Lilia Prado), se ve envuelta en sus jugarretas. Cuando ella se cansa del mujeriego de José, toma todas sus ganancias de una carrera de caballos arreglada y lo abandona. Jose se roba el caballo y escapa, y se conoce con Luis (Antonio Badu), quien es un mal hablado, borracho y jugador y con quien establecerá una amistad sellada por un pacto de sangre. </info>
+<fanart></fanart>
+</item>
+
+<item>
+<title> [COLOR red]EL JINETE SIN CABEZA[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=WbANU9mNDkg&list=PLKMzENZiEbIGxfixWVQnYzc2PzUA2UBC3&index=11</link>
+<thumbnail>https://i1.ytimg.com/vi/WbANU9mNDkg/movieposter.jpg?v=509aa0ea</thumbnail>
+<info>Tres desconocidos profanan la tumba de Pancho Villa para robar su cabeza. Años después, el moribundo coronel Martínez confía a sus seis compadres una caja negra cuyo contenido deberán guardar en secreto. Un doctor, apoyado por una banda de encapuchados, quiere matar a los compadres para apoderarse de la caja. Uno de los compadres García, pide a su amigo Reinaldo que lo proteja del doctor y de su banda. Reinaldo salva a la joven Margarita de los encapuchados, que la han secuestrado. García y otro compadre desaparecen</info>
+<fanart></fanart>
+</item>
+
+<item>
+<title> [COLOR red]EL ULTIMO CARTUCHO[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9FIr13Yaawo&list=PLKMzENZiEbIGxfixWVQnYzc2PzUA2UBC3&index=14</link>
+<thumbnail>https://i1.ytimg.com/vi/9FIr13Yaawo/movieposter.jpg?v=50a2da52</thumbnail>
+<info>Pizarro, el cacique del pueblo, hace asesinar al juez y al presidente municipal y torturar a varios presos. El autor material de esos delitos es El Figurín, esbirro del cacique tanto él como el otro matón, El Cascabel, deciden traicionar a Pizarro por temor a un incógnito justiciero, el Capitán Astucia, que desbarata los planes de los malvados. Astucia, que es hijo de los esposos Moncada, a quienes Pizarro hizo envenenar para apoderarse de su rancho, libera a un grupo de presos del cacique entre ellos a una cantante</info>
+<fanart></fanart>
+</item>
+
+<item>
+<title> [COLOR red]EL VAGABUNDO[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=QeAY14AzFb4&list=PLKMzENZiEbIGxfixWVQnYzc2PzUA2UBC3&index=15</link>
+<thumbnail>https://i1.ytimg.com/vi/QeAY14AzFb4/movieposter.jpg?v=50a42763</thumbnail>
+<info>El hambriento vago "la chiva" escapa de la policía refugiándose en un pajar donde se duerme. Lo despierta la trompa de un elefante: está en un circo. "La chiva" entra a trabajar al circo. La bella rubia Teresa y el malvado forzudo Hércules tratan de utilizarlo como víctima propiciatoria para cobrar un seguro. Eso se les facilita porque "la chiva" insiste en identificar ingenuamente a Teresa con una muchacha a quien defendió en su infancia de un abusador muy parecido a Hércules. Gracias al amor de la joven Bonita, nieta y ayudante de un lanzador de cuchillos, "La Chiva" se da cuenta de las verdaderas intenciones de Hércules y Teresa. Éstos son apresados. Bonita y "La Chiva" cantan en una fiesta de año</info>
+<fanart></fanart>
+</item>
