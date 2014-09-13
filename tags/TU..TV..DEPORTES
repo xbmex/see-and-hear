@@ -88,7 +88,7 @@
 </item>
 
 <item>
-<title>[COLOR skyblue]CANAL + LIGA  [COLOR red](ESPANA)</title>
+<title>[COLOR skyblue]CANAL + LIGA  [COLOR orange](ESPANA)[/COLOR]</title>
 <link>$doregex[rtmp] playpath=ver8i1f7p9 swfUrl=http://vercosasgratis.com/player.swf token==-_-iZ1dibJ1_z0MNE6hPtg pageUrl=http://vercosasgratis.com live=1 timeout=15</link>
 <regex>
 <name>rtmp</name>
@@ -140,7 +140,7 @@
 </item>
 
 <item>
-<title>[COLOR skyblue]GOL TV (SUDAMERICA) LD</title>
+<title>[COLOR skyblue]GOL TV (SUDAMERICA) LD[/COLOR]</title>
 <link>http://www.ienlace-tv.com:1935/live12/livestream1.sdp/playlist.m3u8</link>
 <thumbnail>http://www.goltv.tv/sites/default/files/goltvimages/goltv_logo.gif</thumbnail>
 </item>
@@ -260,7 +260,7 @@
 </item>
 
 <item>
-<title>[COLOR skyblue]FOX SPORTS (LATIN) LD</title>
+<title>[COLOR skyblue]FOX SPORTS (LATIN) LD[/COLOR]</title>
 <link>http://www.ienlace-tv.com:1935/live7/livestream1.sdp/playlist.m3u8</link>
 <thumbnail>http://trequartistaclasico.files.wordpress.com/2011/04/fox_sports_espanol.png</thumbnail>
 </item>
@@ -1025,7 +1025,7 @@
 </item>
 
 <item>
-<title>[COLOR skyblue]SMART SPOR</title>
+<title>[COLOR skyblue]SMART SPOR[/COLOR]</title>
 <link>http://5.196.62.65:8080/smarthd</link>
 <thumbnail>http://www.macyayinlari.com/wp-content/uploads/smart-spor.jpg</thumbnail>
 </item
@@ -1059,4 +1059,4 @@
 <title>[COLOR skyblue] [/COLOR]</title>
 <link></link>
 <thumbnail></thumbnail>
-</item
+</item>
