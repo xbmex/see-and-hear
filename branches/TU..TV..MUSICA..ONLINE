@@ -1,4 +1,4 @@
-﻿?xml version="1.0" encoding="utf-8" standalone="yes"?>
+ ?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
 <item>
 <title>1 MUSIC HU</title>
@@ -190,6 +190,27 @@
 <link>http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8</link>
 <thumbnail>http://www.frocus.net/images/logotv/original/Capital-TV.jpg</thumbnail>
 <fanart>http://www.peotv.com/blog/wp-content/uploads/2014/05/835917577_1387023807.jpg</fanart>
+</item>
+
+<item>
+<title>CHANNEL V INTERNATIONAL</title>
+<link>http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=9e38a0084e6d45d080139a166c60a102</link>
+<thumbnail>http://stewardjohn.com/wp-content/uploads/2010/06/Channel.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>CHANNEL V CHINA</title>
+<link>http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=9102f3553f3246ecbbc9738dd4803344</link>
+<thumbnail>http://mio.singtel.com/miotv/_channels/pic_ch547.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>CHANNEL V INDIA</title>
+<link>http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=09cac500285d42ec97465b2219db5f53</link>
+<thumbnail>http://img3.wikia.nocookie.net/__cb20110928220452/logopedia/images/f/f8/Channel_V_India.png</thumbnail>
+<fanart></fanart>
 </item>
 
 <item>
@@ -906,6 +927,13 @@
 </item>
 
 <item>
+<title>MFM TV</title>
+<link>http://ec.playmedia.fr/mfmtv/live/playlist.m3u8</link>
+<thumbnail>http://www.reezom.net/images/mfmtv/07.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>MIMUSICA HD</title>
 <link>$doregex[get-page]$doregex[get-initsesion]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
 <regex>
@@ -922,7 +950,7 @@
 <agent>Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53</agent>
 <cookieJar></cookieJar>
 <thumbnail>http://www.canalmimusica.com/wp-content/uploads/2012/11/logo-mimusica.png</thumbnail>
-</item> 
+</item>
 
 <item>
 <title>MI MUSICA</title>
@@ -939,14 +967,28 @@
 </item>
 
 <item>
-<title>MTV (US)</title>
+<title>MTV ASIA</title>
+<link>http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=ebce2f5139c54eda8b111e5923af9c9e</link>
+<thumbnail>http://somancini.blog.uol.com.br/images/MTVAsiaAid2005.gif</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>MTV HITS CHINA</title>
+<link>http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=deb56e700dbc4d9ea5af08e9d300a675</link>
+<thumbnail>http://www.mtvchina.com/images/shows/village.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>MTV (CZ)</title>
 <link>http://83.139.104.101/Content/HLS/Live/Channel(mtv)/Stream(03)/index.m3u8</link>
 <thumbnail>http://www.vpnchoice.com/blog/wp-content/uploads/2012/01/mtv-300x238.png</thumbnail>
 <fanart>http://www.peotv.com/blog/wp-content/uploads/2014/05/835917577_1387023807.jpg</fanart>
 </item>
  
 <item>
-<title>MTV 2 (US)</title>
+<title>MTV UPRAVO (CZ)</title>
 <link>http://83.139.104.101/Content/HLS/Live/Channel(mtv_music)/Stream(03)/index.m3u8</link>
 <thumbnail>http://graffica.info/wp-content/uploads/mtv2.jpg</thumbnail>
 <fanart>http://www.peotv.com/blog/wp-content/uploads/2014/05/835917577_1387023807.jpg</fanart>
@@ -1059,6 +1101,13 @@
 <link>http://92.63.88.19:8001/81</link>
 <thumbnail>http://vb.bdr1.net/image/13/09/%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%B1_%D8%A8%D8%A7%D9%86%D8%B1_just_music_k.jpg</thumbnail>
 <fanart>http://www.peotv.com/blog/wp-content/uploads/2014/05/835917577_1387023807.jpg</fanart>
+</item>
+
+<item>
+<title>NAT GEO MUSIC</title>
+<link>http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=69c2eab6794344619a049c5dea60ca22</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Nat_Geo_Music.svg/359px-Nat_Geo_Music.svg.png</thumbnail>
+<fanart></fanart>
 </item>
 
 <item>
