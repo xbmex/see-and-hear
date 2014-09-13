@@ -7,7 +7,7 @@
 </item>
 
 <item>
-<title>WAPA TV</title>
+<title>[COLOR skyblue]WAPA TV [COLOR red](PUERTO RICO)[/COLOR]</title>
 <thumbnail>http://logo-city.org/data_images/6316/811/99580.png</thumbnail>
 <link>plugin://plugin.video.f4mTester/?url=$doregex[get-token-encoded]</link>
 <regex>
