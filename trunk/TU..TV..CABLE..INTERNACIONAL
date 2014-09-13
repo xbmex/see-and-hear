@@ -7,6 +7,22 @@
 </item>
 
 <item>
+<title>WAPA TV</title>
+<thumbnail>http://logo-city.org/data_images/6316/811/99580.png</thumbnail>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[get-token-encoded]</link>
+<regex>
+<name>get-token-encoded</name>
+<expres>$pyFunction:urllib.quote_plus('http://dcunilive14-lh.akamaihd.net/z/dclive_1@176094/manifest.f4m$doregex[get-token]')</expres>
+<page>$doregex[get-token]</page>
+</regex>
+<regex>
+<name>get-token</name>
+<expres>(.*)</expres>
+<page>http://services.viewer.dacast.com/token/z/b/1724/c/28391?flash</page>
+</regex>
+</item>
+
+<item>
 <title>[COLOR skyblue]ATEVE [COLOR red](PUERTO RICO)[/COLOR]</title>
 <link>$doregex[get-page]$doregex[get-initsesion]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
 <regex>
@@ -86,6 +102,7 @@
 <link>http://uneapple-i.akamaihd.net/hls/live/205019/grupoune_st10@205019/st10_index.m3u8</link>
 <thumbnail>https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-frc3/t31.0-8/c0.25.851.315/p851x315/1268740_1402531206642776_1395000891_o.jpg</thumbnail>
 </item>
+
 
 <item>
 <title>[COLOR skyblue]LIFE DESIGN  [COLOR yellow](COLOMBIA)[/COLOR]</title>
