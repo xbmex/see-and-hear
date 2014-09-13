@@ -1,15 +1,39 @@
 <?xml version="1.0" ?>
 
-<subitem>
+<item>
 <title>[COLOR yellow]SEXY SAT TV[/COLOR]</title>
-<link>rtmp://81.89.48.215/xxxsexysat/xxxsexysat.stream_360p</link>
+<link>rtmp://81.89.48.215/xyz999wkz/ playpath=sexysat.stream_360p </link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/0/0b/Sexy_Sat_TV_logo.jpg</thumbnail>
-</subitem>
+</item>
 
 <item>
-<title>[COLOR yellow]CAM PLAY[/COLOR]</title>
+<title>[COLOR yellow]CAM PLAYBOY 1[/COLOR]</title>
 <link>http://playback.d2see.com:1935/wavemachine-live01/_definst_/mp4:playboytv_channel2/playlist.m3u8</link>
 <thumbnail>http://www.vecinitasxxx.com/wp-content/uploads/2012/08/Increible-vecinita-culona-e.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]CAM PLAYBOY 2[/COLOR]</title>
+<link>http://playback.d2see.com:1935/wavemachine-live01/_definst_/mp4:playboytv_channel1/chunklist_w550654983.m3u8</link>
+<thumbnail>http://2.bp.blogspot.com/-pnxhmtls_DE/Tq2Kacomo1I/AAAAAAAAAcQ/YDHBKf3Bm6c/s1600/jess3.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]CAM PLAYBOY 3[/COLOR]</title>
+<link>rtmp://46.105.116.88/cellcast/ playpath=encoder72 swfUrl=http://iptv.firestormmedia.tv/flash/player/player.swf live=1 pageUrl=http://iptv.firestormmedia.tv/iframes/firecall/?type=123&affid=1738887&width=940&hO=0&member=0</link>
+<thumbnail>http://xxxbunker.com/ella_in_glasses_on_sexstation_1-2.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]CAM PLAYBOY 4[/COLOR]</title>
+<link>rtmp://178.33.229.131/cellcast/ playpath=encoder42 swfUrl=http://iptv.firestormmedia.tv/flash/player/player.swf live=1 pageUrl=http://iptv.firestormmedia.tv/iframes/firecall/?type=123&affid=1738887&width=940&hO=0&member=0</link>
+<thumbnail>http://www.telephonemodels.com/wp-content/uploads/2013/05/TelephoneModels.com-11-05-2013-12-04-54.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]CAM CHAT LATINAS[/COLOR]</title>
+<link>rtmp://178.33.229.131/leved/ playpath=livesexlatinas swfUrl=http://iptv.firestormmedia.tv/flash/player/player.swf live=1 pageUrl=http://iptv.firestormmedia.tv/iframes/firecall/?type=123&affid=1738887&width=940&hO=0&member=0</link>
+<thumbnail>http://xxxbunker.com/ella_in_glasses_on_sexstation_2.jpg</thumbnail>
 </item>
 
 <item>
@@ -19,20 +43,15 @@
 </item>
 
 <item>
-<title>[COLOR yellow]LIVE CHAT[/COLOR]</title>
-<link>rtsp://81.89.48.215:1935/xyz777wkz/xy_360p</link>
-<thumbnail>http://www.xxxlivewebcams.com/img/webcams-header.jpg</thumbnail>
+<title>XXL</title>
+<link>http://188.138.9.234:8119/</link>
+<thumbnail>http://freshkreations.com/wp-content/uploads/2013/01/xxl-logo.png</thumbnail>
+<fanart></fanart>
 </item>
 
-<subitem>
-<title>[COLOR yellow]BELLA LUZ TV[/COLOR]</title>
-<link>http://46.249.213.87/iPhone/broadcast/bellaluz-tablet.3gp.m3u8</link>
-<thumbnail>http://tecnofanatico.com/wp-content/uploads/2011/09/XXX-dominio.jpg</thumbnail>
-</subitem>
-
 <item>
-<title>[COLOR yellow]SEXY TV[/COLOR]</title>
-<link>rtsp://85.12.5.8:1935/aovivo/sexprive</link>
+<title>[COLOR yellow]SEXY HOT[/COLOR]</title>
+<link>rtmp://edge-05.livestreamcast.org/sexhothd/sexhothd/ playpath=sexhothd swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://livestreamcast.org/embed.php?c=sexhothd&vh=100%25&vw=100%</link>
 <thumbnail>http://1.bp.blogspot.com/-kj1fmJKpRco/T46dMBs3i6I/AAAAAAAAEKo/LcSXmg3gIUA/s1600/Sexy+Hot+2.png</thumbnail>
 </item>
 
@@ -63,22 +82,30 @@ c=pboytv&vw=460&vh=360</link>
 </item>
 
 <item>
+<title>OH LA LA!</title>
+<link>http://188.138.9.234:8118/</link>
+<thumbnail>http://fc04.deviantart.net/fs71/f/2010/169/6/5/ooh_la_la_xxx_by_doodles4cash.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>BLUE HUSTLER ON/OFF</title>
+<link>http://188.138.9.234:8120/</link>
+<thumbnail>http://www.frosat.net/images/logotv/original/blue_hustler.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLOR yellow]HOT[/COLOR]</title>
 <link>rtmp://109.123.126.66/live playpath=vvenus?id=67043 swfUrl=http://www.ucaster.eu/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.eu/embedded/vvenus/1/480/380 conn=S:OK</link>
 <thumbnail>http://www.wtvision.com/files/img/news/hotgold.jpg</thumbnail>
 </item>
 
 <subitem>
-<title>[COLOR yellow]DESIRE TV[/COLOR]</title>
-<link>http://artm:artm@84.22.33.24:8060</link>
-<thumbnail>http://es.kingofsat.net/jpg/desire.jpg</thumbnail>
-</subitem>
-
-<item>
 <title>[COLOR yellow]BRAZZERS TV[/COLOR]</title>
 <link>http://195.154.188.161/hls/sexy.m3u8</link>
 <thumbnail>http://satcesc.com/web/wp-content/uploads/2014/02/brazzers-tv-europe1.jpg</thumbnail>
-</item>
+</subitem>
 
 <item>
 <title>[COLOR yellow]MILF TV[/COLOR]</title>
@@ -110,20 +137,20 @@ c=pboytv&vw=460&vh=360</link>
 <thumbnail>http://fap.to/images/49/632659550/amateur-porn/The-most-beautiful-Brazilian-shemales-part-5-cock-1.jpg</thumbnail>
 </item>
 
-<item>
+<subitem>
 <title>[COLOR yellow]ASIAN TV[/COLOR]</title>
 <link>rtmp://live190.la3.origin.filmon.com:8086/live/198.high.stream</link>
 <thumbnail>http://content.wafflegirl.com/galleries/gthumb/0/350/350225_a2258ea_770x2000.jpg</thumbnail>
-</item>
+</subitem>
 
 <item>
-<title>[COLOR yellow]SCT[/COLOR]</title>
+<title>[COLOR yellow]SCT OFF[/COLOR]</title>
 <link>rtmp://94.242.221.176:1937/live/ playpath=stream48?key=www.negmtv.tk swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf live=1 pageUrl=http://negmtv.altervista.org/php/xplayer.php?ch=russkayanoch1</link>
 <thumbnail>http://www.satworld.ie/images/detailed/1/sct_logo.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR yellow]BRAZZERS EU SD[/COLOR]</title>
+<title>[COLOR yellow]BRAZZERS EU SD OFF[/COLOR]</title>
 <link>rtmp://94.242.221.176:1937/live/ playpath=stream185?key=www.negmtv.tk swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf live=1 pageUrl=http://negmtv.altervista.org/php/xplayer.php?ch=SpicePlatinum</link>
 <thumbnail>http://www.dish.com/entertainment/adult/images/brazzers.jpg</thumbnail>
 </item>
@@ -253,3 +280,4 @@ c=pboytv&vw=460&vh=360</link>
 <link></link>
 <thumbnail></thumbnail>
 </item>
+
