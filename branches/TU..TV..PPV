@@ -81,8 +81,20 @@
 
 <item>
 <title>[COLOR yellow]Floyd Mayweather vs. Chino Maidana, la revancha [COLOR red](8)[/COLOR]</title>
-<link>rtmp://212.7.209.16/live playpath=xadrivo05?id=73631 swfUrl=http://www.ucaster.eu/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.eu/embedded/xadrivo05/1/728/440 Conn=S:OK</link>
-<thumbnail>http://www.vanglaini.org/uploads/imagesposts/88f5c94957810049300fdf79a75b1615MayweatherVsMaidana.jpg</thumbnail>
-<fanart></fanart>
+<link>$doregex[get-page]$doregex[get-initsesion]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
+<regex>
+<name>get-initsesion</name>
+<expres></expres>
+<page>$doregex[get-page]</page>
+<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get-page</name>
+<expres>"m3u8_url":"(.*?)"</expres>
+<page>http://new.livestream.com/accounts/156016/events/3388560</page>
+<agent>Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53</agent>
+<cookieJar></cookieJar>
+<thumbnail>http://bucket2.clanacion.com.ar/anexos/fotos/94/mayweather-vs-maidana-1874994w620.jpg</thumbnail>
 </item>
 
