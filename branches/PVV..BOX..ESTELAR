@@ -28,7 +28,7 @@
 
 <item>
 <title>[COLOR yellow]Floyd Mayweather vs. Chino Maidana La revancha [COLOR red](2)[/COLOR]</title>
-<link>rtmp://lat2.cxnlive.com/live/7</link>
+<link>rtmp://wdc02.iviplanet.com/TVPublicaHD/</link>
 <thumbnail>http://448143326.r.cdn77.net/wp-content/uploads/2014/07/Mayweather-vs-Maidana.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -68,34 +68,21 @@
 
 <item>
 <title>[COLOR yellow]Floyd Mayweather vs. Chino Maidana, la revancha [COLOR red](6)[/COLOR]</title>
-<link>rtmp://31.204.153.72/live/ playpath=fsb swfUrl=http://www.cdnbr.biz/swf/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/FSB.html </link>
+<link>http://92.63.88.19:8001/35</link>
 <thumbnail>http://www.vanglaini.org/uploads/imagesposts/88f5c94957810049300fdf79a75b1615MayweatherVsMaidana.jpg</thumbnail>
 <item>
 
 <item>
 <title>[COLOR yellow]Floyd Mayweather vs. Chino Maidana, la revancha [COLOR red](7)[/COLOR]</title>
-<link>rtmp://212.7.209.16/live playpath=xadrivo05?id=73631 swfUrl=http://www.ucaster.eu/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.eu/embedded/xadrivo05/1/728/440 timeout=10 Conn=S:OK</link>
+<link>rtmpe://46.246.124.24:1935/live/ playpath=sboxn swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/embedlive.php?u=sboxn&vw=854&amp;vh=480&domain=streamhd.eu live=1 token=#yw%tt#w@kku timeout=15</link>
 <thumbnail>http://www.vanglaini.org/uploads/imagesposts/88f5c94957810049300fdf79a75b1615MayweatherVsMaidana.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLOR yellow]Floyd Mayweather vs. Chino Maidana, la revancha [COLOR red](8)[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=fy6zKLuZOZ0</link>
-<thumbnail>http://matense.net/wp-content/uploads/2014/05/Floyd-Mayweather-vs-Maidana.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]Floyd Mayweather vs. Chino Maidana, la revancha [COLOR red](9)[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=wzKRUdMcSaM</link>
+<link>rtmp://212.7.209.16/live playpath=xadrivo05?id=73631 swfUrl=http://www.ucaster.eu/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.eu/embedded/xadrivo05/1/728/440 Conn=S:OK</link>
 <thumbnail>http://www.vanglaini.org/uploads/imagesposts/88f5c94957810049300fdf79a75b1615MayweatherVsMaidana.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
-<item>
-<title>[COLOR yellow]Floyd Mayweather vs. Chino Maidana, la revancha [COLOR red](10)[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=zcSjBIjegl4</link>
-<thumbnail>http://cdn.ntrzacatecas.com/archivos/2014/08/mayweather-vs-maidana1.jpg</thumbnail>
-<fanart></fanart>
-</item>
