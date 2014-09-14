@@ -9,7 +9,7 @@
 <item>
 <title>[COLOR skyblue]WAPA TV [COLOR red](PUERTO RICO)[/COLOR]</title>
 <thumbnail>http://logo-city.org/data_images/6316/811/99580.png</thumbnail>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[get-token-encoded]</link>
+<link>plugin://plugin.video.latinTester/?url=$doregex[get-token-encoded]</link>
 <regex>
 <name>get-token-encoded</name>
 <expres>$pyFunction:urllib.quote_plus('http://dcunilive14-lh.akamaihd.net/z/dclive_1@176094/manifest.f4m$doregex[get-token]')</expres>
