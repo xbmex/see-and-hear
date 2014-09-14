@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+<item>
+<title>[COLOR yellow]Floyd Mayweather vs. Chino Maidana La revancha [COLOR red](1)[/COLOR]</title>
+<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=$doregex[swf] pageUrl=http://castalba.tv/ swfVfy=true live=true timeout=10</link>
+<regex>
+<name>rtmp</name>
+<expres>'streamer': '([^']*)<expres>
+<page>http://castalba.tv/embed.php?cid=23876</page>
+<referer>http://cdn.eventosppv.me/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>'file': '([^']*)<expres>
+<page>http://castalba.tv/embed.php?cid=23876</page>
+<referer>http://cdn.eventosppv.me/</referer>
+</regex>
+<regex>
+<name>swf</name>
+<expres>'flashplayer': "([^"]*)<expres>
+<page>http://castalba.tv/embed.php?cid=23876</page>
+<referer>http://cdn.eventosppv.me/</referer>
+<agent></agent>
+</regex>
+<thumbnail>http://www.vanglaini.org/uploads/imagesposts/88f5c94957810049300fdf79a75b1615MayweatherVsMaidana.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]Floyd Mayweather vs. Chino Maidana La revancha [COLOR red](2)[/COLOR]</title>
+<link>rtmp://lat2.cxnlive.com/live/7</link>
+<thumbnail>http://448143326.r.cdn77.net/wp-content/uploads/2014/07/Mayweather-vs-Maidana.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Floyd Mayweather vs. Chino Maidana, la revancha [COLOR red](3)[/COLOR]</title>
+<link>rtmp://wdc02.iviplanet.com/TVPublicaHD playpath=myStream.sdp swfUrl=http://www.tvmia.com/scripts/player.swf live=1 pageUrl=http://www.tvmia.com/seleccioncanal/argentina/tvpublica</link>
+<thumbnail>http://eldiariodemadryn.com/wp-content/uploads/2014/09/BOX.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Floyd Mayweather vs. Chino Maidana, la revancha [COLOR red](4)[/COLOR]</title>
+<link>http://92.63.88.19:8001/21</link>
+<thumbnail>http://floydmayweathervsmaidana.com/wp-content/uploads/2014/09/Mayhem-Mayweather-vs-Maidana-2-en-VIVO.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Floyd Mayweather vs. Chino Maidana, la revancha [COLOR red](5)[/COLOR]</title>
+<link>$doregex[get-page]$doregex[get-initsesion]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
+<regex>
+<name>get-initsesion</name>
+<expres></expres>
+<page>$doregex[get-page]</page>
+<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get-page</name>
+<expres>"m3u8_url":"(.*?)"</expres>
+<page>http://new.livestream.com/accounts/9057810/events/3354201</page>
+<agent>Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53</agent>
+<cookieJar></cookieJar>
+<thumbnail>http://bucket2.clanacion.com.ar/anexos/fotos/94/mayweather-vs-maidana-1874994w620.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]Floyd Mayweather vs. Chino Maidana, la revancha [COLOR red](6)[/COLOR]</title>
+<link>rtmp://31.204.153.72/live/ playpath=fsb swfUrl=http://www.cdnbr.biz/swf/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/FSB.html </link>
+<thumbnail>http://www.vanglaini.org/uploads/imagesposts/88f5c94957810049300fdf79a75b1615MayweatherVsMaidana.jpg</thumbnail>
+<item>
+
+<item>
+<title>[COLOR yellow]Floyd Mayweather vs. Chino Maidana, la revancha [COLOR red](7)[/COLOR]</title>
+<link>rtmp://212.7.209.16/live playpath=xadrivo05?id=73631 swfUrl=http://www.ucaster.eu/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.eu/embedded/xadrivo05/1/728/440 timeout=10 Conn=S:OK</link>
+<thumbnail>http://www.vanglaini.org/uploads/imagesposts/88f5c94957810049300fdf79a75b1615MayweatherVsMaidana.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Floyd Mayweather vs. Chino Maidana, la revancha [COLOR red](8)[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=fy6zKLuZOZ0</link>
+<thumbnail>http://matense.net/wp-content/uploads/2014/05/Floyd-Mayweather-vs-Maidana.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Floyd Mayweather vs. Chino Maidana, la revancha [COLOR red](9)[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=wzKRUdMcSaM</link>
+<thumbnail>http://www.vanglaini.org/uploads/imagesposts/88f5c94957810049300fdf79a75b1615MayweatherVsMaidana.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR yellow]Floyd Mayweather vs. Chino Maidana, la revancha [COLOR red](10)[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=zcSjBIjegl4</link>
+<thumbnail>http://cdn.ntrzacatecas.com/archivos/2014/08/mayweather-vs-maidana1.jpg</thumbnail>
+<fanart></fanart>
+</item>
