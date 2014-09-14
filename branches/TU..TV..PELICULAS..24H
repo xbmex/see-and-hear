@@ -8,7 +8,7 @@ r<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
 <title>[COLOR yellow]HBO PLUS[/COLOR]</title>
-<link>rtmp://46.165.251.99/live playpath=hhhhbo?id=211931 swfUrl=http://www.mips.tv/content/scripts/fplayer.swf live=1 pageUrl=http://www.mips.tv/embedplayer/hhhhbo/1/620/382 timeout=20 Conn=S:OK</link>
+<link>rtmp://wdc.cxnlive.com/live/ playpath=foxhd swfUrl=http://p.jwpcdn.com/6/2/jwplayer.flash.swf live=1 pageUrl=http://www.cxntv.com/canales/foxsports-argentina/ timeout=20</link>
 <thumbnailhttp://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png</thumbnail>
 </item>
 
