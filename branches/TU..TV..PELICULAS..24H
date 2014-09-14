@@ -12,26 +12,6 @@ r<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <thumbnailhttp://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png</thumbnail>
 </item>
 
-
-<subitem>
-<title>[COLOR yellow]CANAL 5 [/COLOR]</title>
-<link>$doregex[get-page]$doregex[get-initsesion]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
-<regex>
-<name>get-initsesion</name>
-<expres></expres>
-<page>$doregex[get-page]</page>
-<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>get-page</name>
-<expres>"m3u8_url":"(.*?)"</expres>
-<page>http://new.livestream.com/accounts/4253742/events/3331315</page>
-<agent>Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53</agent>
-<cookieJar></cookieJar>
-<thumbnail>http://i.minus.com/ibkN5GciJRlGIo.png</thumbnail>
-</subitem>
-
 <item>
 <title>[COLOR orange]MEGA ESTRENOS [/COLOR]</title>
 <link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_mega_movieshd live=1 timeout=20</link>
@@ -61,6 +41,37 @@ r<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <page></page>
 </regex>
 <thumbnail>http://www.numerama.com/media/attach/mega-logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange]MEGA ESTREMO [/COLOR]</title>
+<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_mega_extremo live=1 timeout=20</link>
+<regex>
+<name>getdecoded</name>
+<expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
+<page></page>
+</regex>
+<regex>
+<name>getencoded</name>
+<expres>;(0m0[0-9].*)<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getserver</name>
+<expres>(.*?);<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>(.*)<expres>
+<page>http://mvn.vaughnsoft.net/video/edge/live_mega_extremo$doregex[gettime]-$doregex[gettime].33434</page>
+</regex>
+<regex>
+<name>gettime</name>
+<expres>$pyFunction:str(int(round(time.time() * 1000)))<expres>
+<page></page>
+</regex>
+<thumbnail>http://files.herpzradio.webnode.mx/200000166-15e1a16db7/mega.jpg</thumbnail>
 </item>
 
 <item>
@@ -96,7 +107,7 @@ r<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
 <title>[COLOR skyblue]CINE STAR[/COLOR]</title>
-<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_cine_star live=1 timeout=20</link>
+<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_ochin1 live=1 timeout=20</link>
 <regex>
 <name>getdecoded</name>
 <expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
@@ -115,7 +126,7 @@ r<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <regex>
 <name>getUrl</name>
 <expres>(.*)<expres>
-<page>http://mvn.vaughnsoft.net/video/edge/live_cine_star_$doregex[gettime]-$doregex[gettime].33434</page>
+<page>http://mvn.vaughnsoft.net/video/edge/live_ochin1_$doregex[gettime]-$doregex[gettime].33434</page>
 </regex>
 <regex>
 <name>gettime</name>
@@ -185,37 +196,6 @@ r<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <page></page>
 </regex>
 <thumbnail>http://multiredtv.com/wp-content/uploads/2014/08/platino_moviehd_320.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR purple]PELICULAS DE CANTINFLAS [/COLOR]</title>
-<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_juanito_10205036 live=1 timeout=20</link>
-<regex>
-<name>getdecoded</name>
-<expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
-<page></page>
-</regex>
-<regex>
-<name>getencoded</name>
-<expres>;(0m0[0-9].*)<expres>
-<page>$doregex[getUrl]</page>
-</regex>
-<regex>
-<name>getserver</name>
-<expres>(.*?);<expres>
-<page>$doregex[getUrl]</page>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>(.*)<expres>
-<page>http://mvn.vaughnsoft.net/video/edge/live_juanito_10205036_$doregex[gettime]-$doregex[gettime].33434</page>
-</regex>
-<regex>
-<name>gettime</name>
-<expres>$pyFunction:str(int(round(time.time() * 1000)))<expres>
-<page></page>
-</regex>
-<thumbnail>http://www.obituariosdevenezuela.com/wp-content/uploads/2013/04/cantinflas.jpg</thumbnail>
 </item>
 
 <item>
@@ -439,7 +419,7 @@ r<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
 <title>[COLOR white]MORENA CLARA [/COLOR]</title>
-<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_morena_clara12 live=1 timeout=20</link>
+<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_morena_channels12 live=1 timeout=20</link>
 <regex>
 <name>getdecoded</name>
 <expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
@@ -458,7 +438,7 @@ r<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <regex>
 <name>getUrl</name>
 <expres>(.*)<expres>
-<page>http://mvn.vaughnsoft.net/video/edge/live_morena_clara12_$doregex[gettime]-$doregex[gettime].33434</page>
+<page>http://mvn.vaughnsoft.net/video/edge/live_morena_channels12_$doregex[gettime]-$doregex[gettime].33434</page>
 </regex>
 <regex>
 <name>gettime</name>
@@ -582,10 +562,41 @@ r<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
 <item>
-<title>[COLOR green]AUDIO INGLES [COLOR red] TENER VEETLE INSTALADO[/COLOR]</title>
+<title>[COLOR skyblue]========AUDIO INGLES [COLOR yellow] TENER VEETLE INSTALADO==========[/COLOR]</title>
 <link>rtmp://</link>
 <thumbnail>http://www.ipadforos.com/images/downloads/2014/08/07/3_xEi80ed.png</thumbnail>
 </item>
+
+<subitem>
+<title>[COLOR maroon]CINEMA CRIMECENTRAL[/COLOR]</title>
+<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_crimecentral live=1 timeout=20</link>
+<regex>
+<name>getdecoded</name>
+<expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
+<page></page>
+</regex>
+<regex>
+<name>getencoded</name>
+<expres>;(0m0[0-9].*)<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getserver</name>
+<expres>(.*?);<expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>(.*)<expres>
+<page>http://mvn.vaughnsoft.net/video/edge/live_crimecentral$doregex[gettime]-$doregex[gettime].33434</page>
+</regex>
+<regex>
+<name>gettime</name>
+<expres>$pyFunction:str(int(round(time.time() * 1000)))<expres>
+<page></page>
+</regex>
+<thumbnail>http://www.rbaymca.org/clientuploads/stock_all_small/movie-night.jpg</thumbnail>
+</subitem>
 
 <item>
 <title>[COLOR silver]CAJUNFLIX [/COLOR]</title>
