@@ -65,19 +65,19 @@
 </subitem>
 
 <item>
-<title>[COLOR skyblue]GOL TV HD ESPAÑA[/COLOR]</title>
+<title>[COLOR red]GOL TV HD ESPAÑA OFF[/COLOR]</title>
 <link>http://cdnvir-edge05.mediapro.es/niceLiveServer/_definst_/5400f208/a66dabc06f4e223e5cacd61729a165fc/golt_live_24h_MB_2000/chunklist.m3u8?wowzasessionid=632104703&secHash=035416822c299ebdc6fbe9a1ad944a76</link>
 <thumbnail>http://files.mundocccam.webnode.es/200000039-940f6950b5/goltv_.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR skyblue]GOL TV SD ESPAÑA [/COLOR]</title>
+<title>[COLOR red]GOL TV SD ESPAÑA OFF[/COLOR]</title>
 <link>rtmp://46.23.67.114/live playpath=comemelnabo3?id=73051 swfUrl=http://www.ucaster.eu/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.eu/ Conn=S:OK</link>
 <thumbnail>http://files.mundocccam.webnode.es/200000039-940f6950b5/goltv_.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR skyblue]GOL TV  [COLOR orange](ESPANA)[/COLOR] Opcion 2</title>
+<title>[COLOR skyblue]GOL TV  [COLOR orange](ESPANA)[/COLOR]</title>
 <link>$doregex[rtmp] playpath=ver8i8264g swfUrl=http://vercosasgratis.com/player.swf token=9mbCywv2Qyw1cXbeCkRyQw pageUrl=http://vercosasgratis.com live=1 timeout=15</link>
 <regex>
 <name>rtmp</name>
@@ -99,7 +99,7 @@
 </item>
 
 <item>
-<title>[COLOR skyblue]CANAL + LIGA Opcion 2[/COLOR]</title>
+<title>[COLOR skyblue]CANAL + LIGA [COLOR orange](ESPANA)Opcion 2[/COLOR]</title>
 <link>rtmp://173.192.209.69/live playpath=cacarotolc?id=72541 swfUrl=http://www.ucaster.eu/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.eu/ Conn=S:OK</link>
 <thumbnail>http://lacajatv.tv/wp-content/uploads/2014/03/canal_plus_liga_campeones.jpg</thumbnail>
 </item>
@@ -116,7 +116,7 @@
 </item>  
 
 <item>
-<title>[COLOR skyblue]CANAL + FUTBOL Opcion 2[/COLOR]</title>
+<title>[COLOR red]CANAL + FUTBOL Opcion 2 OFF[/COLOR]</title>
 <link>rtmp://109.123.126.34/live playpath=comemelnabo5?id=73067 swfUrl=http://www.ucaster.eu/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.eu/ Conn=S:OK</link>
 <thumbnail>http://www.adslzone.tv/content/uploads/2010/07/fin_semana_comienza_Liga_Canal_Plus_Liga.jpg</thumbnail>
 </item>
@@ -134,7 +134,7 @@
 </item>
 
 <item>
-<title>[COLOR skyblue]DIRECT TV SPORTS[/COLOR]</title>
+<title>[COLOR red]DIRECT TV SPORTS OFF[/COLOR]</title>
 <link>rtmp://77.92.76.192/live playpath=osopanda?id=18232 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/embedplayer/osopanda/1/600/385 Conn=S:OK</link>
 <thumbnail>https://yt3.ggpht.com/-w_pF-zJ_Wr0/AAAAAAAAAAI/AAAAAAAAAAA/5SGHlYCRszA/s900-c-k-no/photo.jpg</thumbnail>
 </item>
@@ -246,7 +246,7 @@
 </item>
 
 <item>
-<title>[COLOR skyblue]TYC SPORTS HD (ARG)[/COLOR]</title>
+<title>[COLOR red]TYC SPORTS HD (ARG) OFF[/COLOR]</title>
 <link>rtmp://wdc.cxnlive.com/live/ playpath=tychd.stream</link>
 <thumbnail>http://ipuntotv.com/IMAGES/tyc-logo.jpg</thumbnail>
 <fanart></fanart>
@@ -266,7 +266,7 @@
 </item>
 
 <item>
-<title>[COLOR skyblue]FOX SPORTS (MEX)[/COLOR]</title>
+<title>[COLOR red]FOX SPORTS (MEX)OFF[/COLOR]</title>
 <link>rtmp://109.123.116.154/live playpath=comedia22?id=73470 swfUrl=http://www.ucaster.eu/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.eu/embedded/comedia22/1/620/382 Conn=S:OK</link>
 <thumbnail>http://trequartistaclasico.files.wordpress.com/2011/04/fox_sports_espanol.png</thumbnail>
 </item>
@@ -365,8 +365,8 @@
 </subitem>
 
 <item>
-<title>[COLOR skyblue]ESPN MEXICO & DEPORTES[/COLOR]</title>
-<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_ronitv4 live=1 timeout=20</link>
+<title>[COLOR skyblue]ESPN MEXICO & DEPORTES [/COLOR]</title>
+<link>rtmp://$doregex[getserver]/live?$doregex[getdecoded] playpath=live_vipracing live=1 timeout=20</link>
 <regex>
 <name>getdecoded</name>
 <expres>$pyFunction:decrypt_vaughnlive("$doregex[getencoded]")<expres>
@@ -385,7 +385,7 @@
 <regex>
 <name>getUrl</name>
 <expres>(.*)<expres>
-<page>http://mvn.vaughnsoft.net/video/edge/live_ronitv4_$doregex[gettime]-$doregex[gettime].33434</page>
+<page>http://mvn.vaughnsoft.net/video/edge/live_vipracing$doregex[gettime]-$doregex[gettime].33434</page>
 </regex>
 <regex>
 <name>gettime</name>
@@ -427,7 +427,7 @@
 </item>
 
 <item>
-<title>[COLOR skyblue]TDN & ESPN [/COLOR][COLOR red] HD (TEST) SOLO EVENTOS [/COLOR]</title>
+<title>[COLOR orange]TDN & ESPN [/COLOR][COLOR red] HD (TEST) SOLO EVENTOS [/COLOR]</title>
 <link>$doregex[rtmp] playpath=$doregex[path] swfUrl=$doregex[swf] pageUrl=http://castalba.tv/ swfVfy=true live=true timeout=10</link>
 <regex>
 <name>rtmp</name>
@@ -452,7 +452,7 @@
 </item>
 
 <item>
-<title>[COLOR skyblue]TDN BASICO SD[/COLOR]</title>
+<title>[COLOR red]TDN BASICO SD OFF[/COLOR]</title>
 <link>rtmp://212.7.209.20/live playpath=tutvtdn?id=73411 swfUrl=http://www.ucaster.eu/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.eu/embedded/tutvtdn/1/650/440 Conn=S:OK</link>
 <thumbnail>http://www.diariorta.com/wp-content/uploads/2013/05/TDN-logo.jpg</thumbnail>
 </item>
@@ -489,7 +489,7 @@
 </item>
 
 <item>
-<title>[COLOR skyblue]UFC LATINO OFF[/COLOR]</title>
+<title>[COLOR red]UFC LATINO OFF[/COLOR]</title>
 <link>rtmp://wdc.cxnlive.com/live/ playpath=ufc</link>
 <thumbnail>http://www.mma-latino.com/wp-content/uploads/2011/12/UFCLatinoLogo.jpg</thumbnail>
 <fanart></fanart>
@@ -653,36 +653,6 @@
 <title>[COLOR skyblue]TSN 2[/COLOR]</title>
 <link>rtmp://31.220.0.194:1935/live playpath=tsn2x pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tsn2.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR skyblue]ARENASPORT 1[/COLOR]</title>
-<link>rtmp://5.79.75.110:1935/live playpath=ar11 pageUrl=http://www.sports-x.net/play/ token=#kurac#Od#Ovce#</link>
-<thumbnail>http://teve.ba/img/articles/2756.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR skyblue]ARENASPORT 2[/COLOR]</title>
-<link>rtmp://5.79.75.110:1935/live playpath=ar21 pageUrl=http://www.sports-x.net/play/ token=#kurac#Od#Ovce#</link>
-<thumbnail>http://teve.ba/img/articles/2756.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR skyblue]ARENASPORT 3[/COLOR]</title>
-<link>rtmp://5.79.75.110:1935/live playpath=ar31 pageUrl=http://www.sports-x.net/play/ token=#kurac#Od#Ovce#</link>
-<thumbnail>http://teve.ba/img/articles/2756.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR skyblue]ARENASPORT 4[/COLOR]</title>
-<link>rtmp://5.79.75.110:1935/live playpath=ar41 pageUrl=http://www.sports-x.net/play/ token=#kurac#Od#Ovce#</link>
-<thumbnail>http://teve.ba/img/articles/2756.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR skyblue]ARENASPORT 5[/COLOR]</title>
-<link>rtmp://5.79.75.110:1935/live playpath=ar51 pageUrl=http://www.sports-x.net/play/ token=#kurac#Od#Ovce#</link>
-<thumbnail>http://teve.ba/img/articles/2756.jpg</thumbnail>
 </item>
 
 <item>
@@ -878,7 +848,7 @@
 </item>
 
 <item>
-<title>[COLOR skyblue]XTREME IMPACTS</title>
+<title>[COLOR skyblue]XTREME IMPACTS[/COLOR]</title>
 <link>http://46.249.213.93/iPhone/broadcast/xtremeimpacts-tablet.3gp/xtremeimpacts-tablet.3gp-mr647k.m3u8</link>
 <thumbnail>http://tvonlineapp.com/wp-content/uploads/2013/06/xtreme-impact-logo.jpg</thumbnail>
 </item
