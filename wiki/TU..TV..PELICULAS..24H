@@ -6,12 +6,6 @@ r<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <thumbnail>http://www.ipadforos.com/images/downloads/2014/08/07/3_xEi80ed.png</thumbnail>
 </item>
 
-<item>
-<title>[COLOR yellow]HBO PLUS[/COLOR]</title>
-<link>rtmp://46.165.251.99/live playpath=hhhhbo?id=211931 swfUrl=http://www.mips.tv/content/scripts/fplayer.swf live=1 pageUrl=http://www.mips.tv/embedplayer/hhhhbo/1/620/382 timeout=20 Conn=S:OK</link>
-<thumbnailhttp://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png</thumbnail>
-</item>
-
 
 <subitem>
 <title>[COLOR yellow]CANAL 5 [/COLOR]</title>
@@ -582,7 +576,7 @@ r<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
 <item>
-<title>[COLOR green]AUDIO INGLES [COLOR red] TENER VEETLE INSTALADO[/COLOR]</title>
+<title>[COLOR green]======AUDIO INLGES [COLOR red] TENER VEETLE INSTALADO=========[/COLOR]</title>
 <link>rtmp://</link>
 <thumbnail>http://www.ipadforos.com/images/downloads/2014/08/07/3_xEi80ed.png</thumbnail>
 </item>
@@ -619,22 +613,8 @@ r<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 </item>
 
 <item>
-<title>[COLOR purple]-M-O-V-I-E-S-[/COLOR]</title>
-<link>plugin://plugin.video.veetle/?channel=53fb80904cd36/b9ce41d40895e62600b9acf966ec8177</link>
-<thumbnail>http://misterrandom.net/wp-content/uploads/2009/02/movies-logo1-500x286.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR red]۩۞۩ SCI-FI MOVIES ۩۞۩[/COLOR]</title>
+<title>[COLOR red]??? SCI-FI MOVIES ???[/COLOR]</title>
 <link>plugin://plugin.video.veetle/?channel=53bafabd82ee1</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/mm/movies_now_hd.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR red]Nᴇᴡ Aᴄᴛɪᴏɴ Mᴏᴠɪᴇs HD[/COLOR]</title>
-<link>plugin://plugin.video.veetle/?channel=540b8e6e7afc5</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/mm/movies_now_hd.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -647,13 +627,6 @@ r<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 </item>
 
 <item>
-<title>[COLOR yellow]FIREBALL CINEMA - ANIMATION[/COLOR]</title>
-<link>plugin://plugin.video.veetle/?channel=53df8de08604a</link>
-<thumbnail>http://www.ranklogos.com/wp-content/uploads/2012/04/movies-logo-1.gif</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
 <title>[COLOR pink]The Horror Channel By HorrorKing[/COLOR]</title>
 <link>plugin://plugin.video.veetle/?channel=523b956f4679f</link>
 <thumbnail>http://4.bp.blogspot.com/-bORqxOfj0vE/T2XxWIAG-OI/AAAAAAAAAIQ/RDGVUucBRpE/s1600/The_HORRO%D0%AF_Channel.png</thumbnail>
@@ -661,21 +634,21 @@ r<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 </item>
 
 <item>
-<title>[COLOR silver](((①))) HQ Bollywood™ ●Subtitled● Blu-Ray[/COLOR]</title>
+<title>[COLOR silver](((?)))?? HQ Bollywood ?Subtitled? Blu-Ray[/COLOR]</title>
 <link>plugin://plugin.video.veetle/?channel=4e0e6f4dcc2d3</link>
 <thumbnail>http://www.bollywoodaajtak.in/wp-content/uploads/Kajal-Agarwal-Hd-HQ-Wallpapers.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR skyblue]:::▲Edels Movies▲:::[/COLOR]</title>
+<title>[COLOR skyblue]:::?Edels Movies?:::[/COLOR]</title>
 <link>plugin://plugin.video.veetle/?channel=53ff7df27114a</link>
 <thumbnail>http://images.naldzgraphics.net/2010/09/40MovieLogos_29.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR lime]END78´s ☆.:*´¨'*Movie World*´¨'*:.☆[/COLOR]</title>
+<title>[COLOR lime]END78´s ?.:*´¨'*Movie World*´¨'*:.?[/COLOR]</title>
 <link>plugin://plugin.video.veetle/?channel=52e10e3fc03bd</link>
 <thumbnail>http://4.bp.blogspot.com/_Fv90J7eTcis/S9kNCaHfp0I/AAAAAAAAEK4/J3p0CqNn5uc/s1600/Top-Channel+Logos2.jpg</thumbnail>
 <fanart></fanart>
