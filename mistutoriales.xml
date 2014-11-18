@@ -69,3 +69,31 @@
 <thumbnail>http://freedownloadeverything.com/wp-content/uploads/2013/12/xbmc-media-center-screenshot-01.jpg</thumbnail>
 <info></info>
 </item>
+
+<item>
+<title>[COLOR skyblue]1 [/COLOR]</title>
+<link>$doregex[getVipRacing]</link>
+<regex>
+<name>getVipRacing</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.tv/channel/opcion-4')</expres>
+<page></page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Ilive</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>$pyFunction:myFunctions_ilive.ilive('htt p://www.ilive.to/view/48051/')</expres>
+<page></page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Fox Sports 2</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://abcast.biz/zuca.php?file=comercio%26referer=http://www.canalesdeportivos.com/foxsports2.php</link>
+<thumbnail></thumbnail>
+</item>
