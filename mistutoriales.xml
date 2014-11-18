@@ -15,22 +15,6 @@
 </item>
 
 <item>
-<title>[COLOR red]SOLO PARTIDOS DE LA SELECCION MEXICANA[/COLOR]</title>
-<thumbnail>https://lh4.googleusercontent.com/-ic0KnKA8ZGo/AAAAAAAAAAI/AAAAAAAAABk/2W19aCxLEf8/photo.jpg</thumbnail>
-<link>plugin://plugin.video.latinTester/?url=$doregex[get-token-encoded]</link>
-<regex>
-<name>get-token-encoded</name>
-<expres>$pyFunction:urllib.quote_plus('http://3v3ntmex-lh.akamaihd.net/z/s0lm3xm4ch02_1@175398/manifest.f4m$doregex[get-token]')</expres>
-<page>$doregex[get-token]</page>
-</regex>
-<regex>
-<name>get-token</name>
-<expres>(.*)</expres>
-<page>http://services.viewer.dacast.com/token/z/b/1724/c/28391?flash</page>
-</regex>
-</item>
-
-<item>
 <title>[COLOR yellow]*´¨'*★✰TUTORIALES✰★*´¨'* [/COLOR]</title>
 <link>http://hotstickybun.com/wp-content/uploads/2013/03/1channel.jpg</link>
 <thumbnail>https://gvlswq-sn3302.files.1drv.com/y2pJcpNoi7vU0K4j-MqMglqE7XQZ147jYn1ticfwdcbQ42Bq2HvXWeEJPrtVLiWzhQEjR6z_kIRr4faYTdwxUVisGGTYhiYZtjNhS1LoGQVJeE/xbmcmexico.jpg?psid=1</thumbnail>
