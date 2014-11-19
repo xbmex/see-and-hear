@@ -22,6 +22,13 @@
 </item>
 
 <item>
+<title>[COLOR skyblue]USAR AGENTE EXTERNO PARA VER TOTALPLAY [/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=kKiKGdmhhWE</link>
+<thumbnail>http://main.makeuseoflimited.netdna-cdn.com/wp-content/uploads/2012/10/mx-player-intro.jpg</thumbnail>
+<info>ventajas al ver contendido en español como totalplay pero desventajas si usted ve peliculas en ingles los subtitulos no funcionan youtube y cualquier otra funcion que utilice dvdplayer de xbmc </info>
+</item>
+
+<item>
 <title>[COLOR orange]JAILBREAK IOS 8.1 E INSTALAR XBMC[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=pa8rEfEFp8w&list=UUEqcEWsWKIDC405-7U1n8Hg&index=1</link>
 <thumbnail>http://fastly.fotor.com/share.url/cf15ff60686e4fffa63f9e4484dfc06c.jpeg</thumbnail>
@@ -68,32 +75,4 @@
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=jeiUva9NS-U&list=UU0pW2J_qJery8ILdUqd-_sQ&index=4</link>
 <thumbnail>http://freedownloadeverything.com/wp-content/uploads/2013/12/xbmc-media-center-screenshot-01.jpg</thumbnail>
 <info></info>
-</item>
-
-<item>
-<title>[COLOR skyblue]1 [/COLOR]</title>
-<link>$doregex[getVipRacing]</link>
-<regex>
-<name>getVipRacing</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.tv/channel/opcion-4')</expres>
-<page></page>
-</regex>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Ilive</title>
-<link>$doregex[url]</link>
-<regex>
-<name>url</name>
-<expres>$pyFunction:myFunctions_ilive.ilive('htt p://www.ilive.to/view/48051/')</expres>
-<page></page>
-</regex>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Fox Sports 2</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://abcast.biz/zuca.php?file=comercio%26referer=http://www.canalesdeportivos.com/foxsports2.php</link>
-<thumbnail></thumbnail>
 </item>
