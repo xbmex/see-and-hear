@@ -76,3 +76,14 @@
 <thumbnail>http://freedownloadeverything.com/wp-content/uploads/2013/12/xbmc-media-center-screenshot-01.jpg</thumbnail>
 <info></info>
 </item>
+
+<item>
+<title>[COLOR skyblue]ESPN [/COLOR]</title>
+<link>$doregex[getVipRacing]</link>
+<regex>
+<name>getVipRacing</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.tv/channel/espn')</expres>
+<page></page>
+</regex>
+<thumbnail></thumbnail>
+</item>
