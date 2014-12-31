@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channels>
 <channels_info>
-<title></title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</channels_info>
-
+<title>prueba</title>
+<thumbnail>https://gvlswq-sn3302.files.1drv.com/y2pJcpNoi7vU0K4j-MqMglqE7XQZ147jYn1ticfwdcbQ42Bq2HvXWeEJPrtVLiWzhQEjR6z_kIRr4faYTdwxUVisGGTYhiYZtjNhS1LoGQVJeE/xbmcmexico.jpg?psid=1</thumbnail>
+<fanart>https://gvlswq-sn3302.files.1drv.com/y2pJcpNoi7vU0K4j-MqMglqE7XQZ147jYn1ticfwdcbQ42Bq2HvXWeEJPrtVLiWzhQEjR6z_kIRr4faYTdwxUVisGGTYhiYZtjNhS1LoGQVJeE/xbmcmexico.jpg?psid=1</fanart>
 
 <!--==================================================================================== -->
 <channel>
