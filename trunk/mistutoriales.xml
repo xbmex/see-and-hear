@@ -83,3 +83,19 @@
 <thumbnail>http://freedownloadeverything.com/wp-content/uploads/2013/12/xbmc-media-center-screenshot-01.jpg</thumbnail>
 <info></info>
 </item>
+
+<item>
+<title>[COLOR skyblue]prueba [COLOR orange](PUERTO RICO)[/COLOR]</title>
+<thumbnail>http://logo-city.org/data_images/6316/811/99580.png</thumbnail>
+<link>plugin://plugin.video.latinTester/?url=$doregex[get-token-encoded]</link>
+<regex>
+<name>get-token-encoded</name>
+<expres>$pyFunction:urllib.quote_plus('http://tpr199193def-vh.akamaihd.net/z/Claxson_Production/612/803/YOU_MAY_NOW_FUCK_THE_BRIDE_2_1419429,478439_25,473898_13,469326_8,464889_5,511883_3,00.mp4.csmil/manifest.f4m$doregex[get-token]')</expres>
+<page>$doregex[get-token]</page>
+</regex>
+<regex>
+<name>get-token</name>
+<expres>(.*)</expres>
+<page>http://services.viewer.dacast.com/token/z/b/1724/c/28391?flash</page>
+</regex>
+</item>
