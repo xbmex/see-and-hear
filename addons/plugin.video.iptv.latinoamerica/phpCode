@@ -1,0 +1,43 @@
+import xbmc,xbmcaddon,weblogin2
+
+def Notify(title,message,times,icon):
+        xbmc.executebuiltin("XBMC.Notification("+title+","+message+","+times+","+icon+")")
+
+def LOGIN(username,password,hidesuccess):
+        uc = username[0].upper() + username[1:]
+        lc = username.lower()
+
+        logged_in = weblogin2.doLogin(__datapath__,username,password)
+        if logged_in == True:
+
+                avatar = get_avatar(lc)
+
+                if hidesuccess == 'false':
+                     Notify('Welcome back '+uc,'Fantasti.cc loves you','4000',avatar)
+
+                addDir(uc+"'s Videos",main_url+'user/'+lc+'/videos/save_date',1,avatar)
+                addDir(uc+"'s Collections",main_url+'user/'+lc+'/collections',2,avatar)
+                addDir(uc+"'s Favourited Collections",main_url+'user/'+lc+'/collections/favourited',2,avatar)
+                addDir(uc+"'s Rated Collections",main_url+'user/'+lc+'/collections/rated',2,avatar)
+
+        elif logged_in == False:
+
+                Notify('Login Failure',uc+' could not login','4000',default_image)
+
+def STARTUP_ROUTINES():
+        #deal with bug that happens if the datapath doesn't exist
+        if not os.path.exists(__datapath__):
+          os.makedirs(__datapath__)
+
+        #check if user has enabled use-login setting
+        usrsettings = xbmcaddon.Addon(id=__addonname__)
+        use_account = usrsettings.getSetting('use-account')
+
+        if use_account == 'true':
+             #get username and password and do login with them
+             #also get whether to hid successful login notification
+             username = usrsettings.getSetting('username')
+             password = usrsettings.getSetting('password')
+             hidesuccess = usrsettings.getSetting('hide-successful-login-messages')
+
+             LOGIN(username,password,hidesuccess)
