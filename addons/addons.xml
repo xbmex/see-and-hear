@@ -37,7 +37,7 @@
         </extension>
         <extension point="xbmc.addon.metadata">
                 <summary>Maximus Addon Repository</summary>
-                <description>LOS MEJORES COMPLEMENTOS PARA TU XBMC/KODI EN ESPAÑOL: IPTVLATINOAMERICA/PELISALACARTA/UTORRENT/ ETC.</description>
+          <description>Los mejores complementos para tu Xbmc/o/Kodi disfruta</description>
                 <platform>all</platform>
         </extension>
 </addon>
