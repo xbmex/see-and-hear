@@ -1,3 +1,6 @@
+Version 1.6.0
+Thanks to Alibaba, added download support and fix url resolver issue with helix, plus many more
+
 Version 1.5.0
 Thanks to Alibaba, added download support and fix url resolver issue with helix, plus many more
 
