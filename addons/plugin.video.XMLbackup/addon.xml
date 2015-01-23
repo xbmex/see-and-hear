@@ -14,6 +14,5 @@
         <platform>all</platform>
         <summary>XML Backup</summary>
         <description>Backup all your addon and xbmc userdata xml settings in one easy step</description>
-    </extension>
-	
+    </extension>	
 </addon>
