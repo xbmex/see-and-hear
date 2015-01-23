@@ -20,6 +20,5 @@
         <platform>all</platform>
         <summary>Stream your favourite TV shows</summary>
         <description>Stream from thousands of TV shows with one click</description>
-    </extension>
-	
+    </extension>	
 </addon>
