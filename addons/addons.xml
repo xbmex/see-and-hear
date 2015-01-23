@@ -160,44 +160,6 @@
         <platform>all</platform>
     </extension>
 </addon>
-<addon id="plugin.video.musicvideojukebox"
-       name="Music Video Jukebox"
-       version="2.0.1"
-       provider-name="iZE">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="plugin.video.youtube" version="2.1.0" />
-  </requires>
-  <extension point="xbmc.python.pluginsource"
-            library="Default.py">
-        <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <platform>all</platform>
-    <summary lang="en">Search for an artist and it will play up to 150 music videos of that artist.</summary>
-    <description lang="en">This plugin uses Google Suggest API, Last.fm and YouTube to search for music videos of an artist, and plays up to 150 music videos of that artist.</description>
-  </extension>
-</addon>
-<addon id="plugin.video.thebeautifulgame"
-       name="The Beautiful Game"
-       version="1.0.0"
-       provider-name="kinkin, art by tb4ll">
-    <requires>
-        <import addon="xbmc.python" version="2.1.0"/>
-        <import addon="plugin.video.youtube"/>
-        <import addon="script.module.t0mm0.common" version="1.1.0"/>
-        <import addon="script.module.requests" version="1.1.0"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource"
-               	library="default.py">
-        <provides>video</provides>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <platform>all</platform>
-        <summary>Football news, highlights, tables and more!</summary>
-        <description>Football news, highlights, tables and more!</description>
-    </extension>	
-</addon>
 <addon id="plugin.video.tvonline.cc"
        name="TVonline 3.0"
        version="3.0.1b"
