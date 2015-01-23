@@ -16,6 +16,5 @@
         <platform>all</platform>
         <summary>A simple movie addon</summary>
         <description>SD or HD, it's your choice. Watch your favourite movies with one click.</description>
-    </extension>
-	
+    </extension>	
 </addon>
