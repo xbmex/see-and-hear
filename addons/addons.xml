@@ -217,24 +217,6 @@
 		<platform>all</platform>
 	</extension>
 </addon>
-<addon  id="repository.mortstar.addons"
-                name="mortstar's repo"
-                version="1.2.0"
-                provider-name="mortstar">
-        <extension      point="xbmc.addon.repository"
-                                name="mortstar's repo">
-                <info compressed="false">https://github.com/mortstar/repository-mortstar-addons/raw/master/addons.xml</info>
-                <checksum>https://github.com/mortstar/repository-mortstar-addons/raw/master/addons.xml.md5</checksum>
-                <datadir zip="true">https://github.com/mortstar/repository-mortstar-addons/raw/master/repo/</datadir>
-        </extension>
-        <extension point="xbmc.addon.metadata">
-                <summary>Install mortstar's repo</summary>
-                <description>Download and install mortstar's repo</description>
-                <disclaimer></disclaimer>
-                <platform>all</platform>
-        </extension>
-</addon>
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.p2p-streams.xbmc" name="p2p-streams repository" version="1.0.4" provider-name="enen92 - fightnight">
         <extension point="xbmc.addon.repository" name="p2p-streams Repository">
                 <info compressed="false">http://p2p-strm.googlecode.com/svn/addons/addons.xml</info>
@@ -248,23 +230,6 @@
                 <disclaimer></disclaimer>
                 <platform>all</platform>
         </extension>
-</addon>
-<addon id="repository.spoyser" 
-        name="spoysers XBMC Add-ons" 
-        version="1.0.6"
-        provider-name="spoyser">
-    <extension point="xbmc.addon.repository" 
-        name="spoysers XBMC Add-ons">
-        <info compressed="false">https://raw.github.com/spoyser/spoyser-repo/master/addons.xml</info>
-        <checksum>https://raw.github.com/spoyser/spoyser-repo/master/addons.xml.md5</checksum>
-        <datadir zip="true">https://raw.github.com/spoyser/spoyser-repo/master/zips/</datadir>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <summary>Install XBMC add-ons from the official spoyser repository</summary>
-        <description>Install XBMC add-ons from spoysers official repository</description>
-        <disclaimer></disclaimer>
-        <platform>all</platform>
-    </extension>
 </addon>
 <addon id="repository.tknorris.release" name="tknorris Release Repository" version="1.0.1" provider-name="tknorris">
     <extension point="xbmc.addon.repository" name="tknorris release repository">
