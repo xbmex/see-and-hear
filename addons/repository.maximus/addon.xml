@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.maximus" name="Maximus Addon Repository" version="1.0.0" provider-name="maximus">
+<addon id="repository.maximus" name="Maximus Addon Repository" version="1.0.1" provider-name="maximus">
         <extension point="xbmc.addon.repository" name="Maximus Addon Repository">
-                <info compressed="false">https://see-and-hear.googlecode.com/svn/addons/addons.xml</info>
-                <checksum>https://see-and-hear.googlecode.com/svn/addons/addons.xml.md5</checksum>
-                <datadir zip="true">http://see-and-hear.googlecode.com/svn/addons</datadir>
+                <info compressed="false">https://see-and-hear.googlecode.com/svn/complementos/addons.xml</info>
+                <checksum>https://see-and-hear.googlecode.com/svn/complementos/addons.xml.md5</checksum>
+                <datadir zip="true">http://see-and-hear.googlecode.com/svn/complementos</datadir>
         </extension>
         <extension point="xbmc.addon.metadata">
                 <summary>Maximus Addon Repository</summary>
-                <description>Los mejores complementos para tu Xbmc/o/Kodi disfruta y comparte (comunidad xbmc mexico)</description>
+                <description>Instala los complementos de IPTVLATINOAMERICA y disfruta viendo tv latina visita nuestra pagina www.iptvlatinoamerica.com</description>
                 <platform>all</platform>
         </extension>
 </addon>
