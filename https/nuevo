@@ -1,1 +1,44 @@
-iio
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="plugin.video.iptv.latinoamerica"
+       name="IPTV Latinoamerica"
+       version="1.6.0"
+       provider-name="MAXIMUS">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.youtube.dl" />
+    <import addon="plugin.video.youtube" />
+    <import addon="script.module.urlresolver" />
+    <import addon="script.module.simplejson" />    
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>IPTV Latinoamerica</summary>
+    <description>
+        SOMOS IPTV LATINOAMERICA DISFRUTA NUESTRO SERVICIO!! MAS INFORMACION VISITA NUESTRA PAGINA WEB WWW.IPTVLATINOAMERICA.COM Y ENVIANOS TUS SUGERENCIAS O REPORTES AL CORREO: IPTVLATINOAMERICA@GMAIL.COM
+    </description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="repository.maximus" name="Maximus Addon Repository" version="1.0.0" provider-name="maximus">
+        <extension point="xbmc.addon.repository" name="Maximus Addon Repository">
+                <info compressed="false">https://see-and-hear.googlecode.com/svn/addons/addons.xml</info>
+                <checksum>https://see-and-hear.googlecode.com/svn/addons/addons.xml.md5</checksum>
+                <datadir zip="true">http://see-and-hear.googlecode.com/svn/addons</datadir>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+                <summary>Maximus Addon Repository</summary>
+                <description>Los mejores complementos para tu Xbmc/o/Kodi disfruta y comparte (comunidad xbmc mexico)</description>
+                <platform>all</platform>
+        </extension>
+</addon>
+</addons>
