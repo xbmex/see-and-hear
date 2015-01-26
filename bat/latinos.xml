@@ -1,4 +1,18 @@
 r<?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
+<channels>
+<channels_info>
+<title>live TV</title>
+<thumbnail>http://www.freshtechweb.com/wp-content/uploads/2013/10/HDTV.jpg</thumbnail>
+<fanart>http://wiki.xbmc.org/images/b/bd/XBMC_wallpaper_by_Arcanthur.png</fanart>
+</channels_info>
+            <!-- ==================================================================================== -->
+
+<channel>
+<name><![CDATA[[COLOR red]CONTENIDO ADULTO( EROTICO ) +18 actualizado 20/05/14[/COLOR]]]></name>
+<thumbnail><![CDATA[http://4.bp.blogspot.com/_uRfjTKwOdLI/R3URywdVluI/AAAAAAAAADU/Lmo1zMVjCtA/s400/pegi18.jpg]]></thumbnail>
+<info><![CDATA[ADVERTENCIA Este canal muestra contenido pornográfico o considerado xxx. Nuestro contenido propio es de carácter Erótico y todas las modelos y personajes superan la mayoría de edad.Este programa esta en contra de la pornografía infantil, maltrato, abuso y lucha en su contra,por favor denunciar la pedofilia a lo cual nos sumamos estrictamente. Esperamos que disfrute de su velada en nuestros apartados Eróticos y cachondos. Nuestro único fin en este apartado es entretener a un determinado y exclusivo sector mayor de edad dependiendo de cada pais.]]></info>
+<fanart><![CDATA[http://www.grafitoys.com.ve/themes/grafitoys/img/aviso_contenido.jpg]]></fanart>
+<items>
 
 <item>
 <title>[COLOR lime]POP LATINO[/COLOR]</title>
@@ -7,4 +21,5 @@ r<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <genre>Pop latino</genre>
 </item>
 
+</channel>
 
