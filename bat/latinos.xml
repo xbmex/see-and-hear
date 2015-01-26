@@ -1,25 +1,32 @@
 r<?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
 <channels>
 <channels_info>
-<title>live TV</title>
+<title>live music</title>
 <thumbnail>http://www.freshtechweb.com/wp-content/uploads/2013/10/HDTV.jpg</thumbnail>
 <fanart>http://wiki.xbmc.org/images/b/bd/XBMC_wallpaper_by_Arcanthur.png</fanart>
 </channels_info>
             <!-- ==================================================================================== -->
 
 <channel>
-<name><![CDATA[[COLOR red]CONTENIDO ADULTO( EROTICO ) +18 actualizado 20/05/14[/COLOR]]]></name>
-<thumbnail><![CDATA[http://4.bp.blogspot.com/_uRfjTKwOdLI/R3URywdVluI/AAAAAAAAADU/Lmo1zMVjCtA/s400/pegi18.jpg]]></thumbnail>
-<info><![CDATA[ADVERTENCIA Este canal muestra contenido pornográfico o considerado xxx. Nuestro contenido propio es de carácter Erótico y todas las modelos y personajes superan la mayoría de edad.Este programa esta en contra de la pornografía infantil, maltrato, abuso y lucha en su contra,por favor denunciar la pedofilia a lo cual nos sumamos estrictamente. Esperamos que disfrute de su velada en nuestros apartados Eróticos y cachondos. Nuestro único fin en este apartado es entretener a un determinado y exclusivo sector mayor de edad dependiendo de cada pais.]]></info>
-<fanart><![CDATA[http://www.grafitoys.com.ve/themes/grafitoys/img/aviso_contenido.jpg]]></fanart>
+<name>[COLOR red]POP LATINO[/COLOR]</name>
+<thumbnail>http://rankings.com.mx/system/lists/000/000/614/medium/images.jpg?1385982863</thumbnail>
+<fanart>http://image.slidesharecdn.com/poplatino-110818212106-phpapp01/95/pop-latino-1-728.jpg?cb=1313720962</fanart>
 <items>
 
-<item>
-<title>[COLOR lime]POP LATINO[/COLOR]</title>
+<subchannel>
+<name>[COLOR blue]Guardians of the Galaxy Soundtrack - Awesome Mix Vol 1 (Big Papi)[/COLOR]</name>
+<thumbnail>https://filemanager.one.com/api/webspace/1/drive/tv-latinoamerica.com/data/albunes/Guardians%20of%20the%20Galaxy%20Soundtrack%20-%20Awesome%20Mix%20Vol%201%20(Big%20Papi)/Cover.jpg</thumbnail>
+<fanart>http://blog.turntablelab.com/wp-content/uploads/2014/09/guardiansofthegalaxy.jpg</fanart>
+<genre>MUSICA</genre>
+<subitems>
+
+<subitem>
+<title>[COLOR lime]Guardians of the Galaxy Soundtrack - Awesome Mix Vol 1 (Big Papi)[/COLOR]</title>
 <link>http://tv-latinoamerica.com/albunes/Guardians%20of%20the%20Galaxy%20Soundtrack%20-%20Awesome%20Mix%20Vol%201%20(Big%20Papi)/03%20-%20Norman%20Greenbaum%20-%20Spirit%20in%20the%20Sky.mp3?dl=1</link>
 <thumbnail>http://rankings.com.mx/system/lists/000/000/614/medium/images.jpg?1385982863</thumbnail>
 <genre>Pop latino</genre>
-</item>
+</subitem>
+</subchannel>
 
 </channel>
 
