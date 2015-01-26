@@ -1,11 +1,4 @@
 r<?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
-<channels>
-<channels_info>
-<title>musica latina</title>
-<thumbnail>http://www.que.es/archivos/201203/madonnadisco-640x640x80.jpg</thumbnail>
-<fanart>http://www.fondox.net/descargar.php?id=853&resolucion=1280x720</fanart>
-</channels_info>
-<!-- ==================================================================================== -->
 
 <channel>
 <name><![CDATA[[COLOR lime]POP LATINO[/COLOR]]]></name>
@@ -22,4 +15,3 @@ r<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 </item>
 
 </channel>
-<!-- ==================================================================================== -->
