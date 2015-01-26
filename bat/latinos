@@ -1,0 +1,25 @@
+r<?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
+<channels>
+<channels_info>
+<title>musica latina</title>
+<thumbnail>http://www.que.es/archivos/201203/madonnadisco-640x640x80.jpg</thumbnail>
+<fanart>http://www.fondox.net/descargar.php?id=853&resolucion=1280x720</fanart>
+</channels_info>
+<!-- ==================================================================================== -->
+
+<channel>
+<name><![CDATA[[COLOR lime]POP LATINO[/COLOR]]]></name>
+<thumbnail>http://laresdj.com/7/packs/files/2012/07/Popular-Music-Pop-Download.jpeg</thumbnail>
+<info>La música pop (del inglés pop music, contracción de popular music) es un género de música popular que tuvo su origen a finales de los años 1950 como una derivación del rock and roll, en combinación con otros géneros musicales que estaban en moda en aquel momento.1 2 Los términos música pop y música popular se usan a menudo de manera indistinta, aunque el segundo tiene un sentido más amplio al dar cabida a otros géneros distintos del pop que se consideren populares.Como género, la música pop es muy ecléctica, tomando prestados a menudo elementos de otros estilos como el dance, el rock, la música latina, el rhythm and blues o el folk. Con todo, hay elementos esenciales que definen al pop, como son las canciones de corta a media duración, escritas en un formato básico (a menudo la estructura estrofa-estribillo), así como el uso habitual de estribillos repetidos y de temas melódicos y pegadizos. La instrumentación se compone habitualmente de batería, bajo, guitarra eléctrica, voz, teclados, etcétera.3</info>
+<fanart>http://d31x3df3kl02zx.cloudfront.net/soompi/wp-content/blogs.dir/8/files/2013/01/SMTown-1.jpg</fanart>
+<items>
+
+<item>
+<title>[COLOR lime][/COLOR]</title>
+<link></link>
+<externallink></externallink>
+<thumbnail></thumbnail>
+</item>
+
+</channel>
+<!-- ==================================================================================== -->
