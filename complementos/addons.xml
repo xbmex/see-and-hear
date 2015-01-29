@@ -2,7 +2,7 @@
 <addons>
 <addon id="plugin.video.iptv.latinoamerica"
        name="IPTV Latinoamerica"
-       version="1.6.0"
+       version="1.6.1"
        provider-name="MAXIMUS">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
