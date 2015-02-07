@@ -2,7 +2,7 @@
 <addons>
 <addon id="plugin.video.iptv.latinoamerica"
        name="IPTV Latinoamerica"
-       version="1.6.2"
+       version="1.6.3"
        provider-name="MAXIMUS">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -53,11 +53,11 @@
     </extension>
 </addon>
 
-<?xml version="1.0.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.maximus" name="Maximus Addon Repository" version="1.0.1" provider-name="maximus">
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.maximus" name="Maximus Addon Repository" version="1.0.2" provider-name="maximus">
         <extension point="xbmc.addon.repository" name="Maximus Addon Repository">
-                <info compressed="false">https://see-and-hear.googlecode.com/svn/complementos/addons.xml</info>
-                <checksum>https://see-and-hear.googlecode.com/svn/complementos/addons.xml.md5</checksum>
+                <info compressed="false">http://see-and-hear.googlecode.com/svn/complementos/addons.xml</info>
+                <checksum>http://see-and-hear.googlecode.com/svn/complementos/addons.xml.md5</checksum>
                 <datadir zip="true">http://see-and-hear.googlecode.com/svn/complementos</datadir>
         </extension>
         <extension point="xbmc.addon.metadata">
@@ -66,4 +66,3 @@
                 <platform>all</platform>
         </extension>
 </addon>
-</addons>
