@@ -53,12 +53,12 @@
     </extension>
 </addon>
 
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.maximus" name="Maximus Addon Repository" version="1.0.2" provider-name="maximus">
+<?xml version="1.0.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.maximus" name="Maximus Addon Repository" version="1.0.1" provider-name="maximus">
         <extension point="xbmc.addon.repository" name="Maximus Addon Repository">
                 <info compressed="false">https://see-and-hear.googlecode.com/svn/complementos/addons.xml</info>
                 <checksum>https://see-and-hear.googlecode.com/svn/complementos/addons.xml.md5</checksum>
-                <datadir zip="true">https://see-and-hear.googlecode.com/svn/complementos</datadir>
+                <datadir zip="true">http://see-and-hear.googlecode.com/svn/complementos</datadir>
         </extension>
         <extension point="xbmc.addon.metadata">
                 <summary>Maximus Addon Repository</summary>
