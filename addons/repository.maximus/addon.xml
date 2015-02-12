@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.Maximus Mexico" name="Maximus Addons Repositorio" version="1.0.0" provider-name="Maximus">
+        <extension point="xbmc.addon.repository" name="Maximus Addons Repositorio">
+                <info compressed="false">https://see-and-hear.googlecode.com/svn/addons/addons.xml</info>
+                <checksum>https://see-and-hear.googlecode.com/svn/addons/addons.xml.md5</checksum>
+                <datadir zip="true">http://see-and-hear.googlecode.com/svn/addons/</datadir>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+                <summary>Maximus Addons Repositorio</summary>
+                <description>Los repositorios y add-ons recomendados por la Comunidad XBMC/KODI Mexico cualquier duda o comentario escribenos en facebook/comunidadxbmcmexico o a martin.13xx@gmail.com
+apoya ala comunidad dejando tus comentarios y sugerencias
+                </description>
+                <platform>all</platform>
+        </extension>
+</addon>
