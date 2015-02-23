@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.Maximus Mexico" name="Maximus Addons Repositorio" version="1.0.0" provider-name="Maximus">
+<addon id="repository.Maximus Mexico" name="Maximus Addons Repositorio" version="1.0.2" provider-name="Maximus">
         <extension point="xbmc.addon.repository" name="Maximus Addons Repositorio">
                 <info compressed="false">https://see-and-hear.googlecode.com/svn/addons/addons.xml</info>
                 <checksum>https://see-and-hear.googlecode.com/svn/addons/addons.xml.md5</checksum>
