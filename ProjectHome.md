@@ -1,0 +1,1 @@
+este proyecto solo es para crear una simple pagina con archivos xml los cuales contienen codigos que pueden ser leidos en kodi
