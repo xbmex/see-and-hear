@@ -1,0 +1,1228 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link href="/humans.txt" rel="author">
+<link href="/assets/img/favicon-32x32.png" rel="icon" soze="32z32" type="image/png">
+<link href="/assets/img/favicon-16x16.png" rel="icon" soze="16z16" type="image/png">
+<title>Watch Movies and Tv Shows Online Free | Channel B</title>
+<meta content="text-html; charset=UTF-8" http-equiv="Content-Type">
+<meta content="Stream Movies on Channel B. All Shows listed here are in HD Quality" name="description">
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport">
+<meta content="Watch Movies Online, Free Tv Shows, Stream Online for Free" name="keywords">
+<meta content="channelb" property="og:site_name">
+<meta content="Watch Movies and Tv Shows Online Free | Channel B" property="og:title">
+<meta content="Stream Movies on Channel B. All Shows listed here are in HD Quality" property="og:description">
+<meta content="http://channelb.com/assets/img/logo-600x600.png" property="og:image">
+<meta content="600" property="og:image:width">
+<meta content="600" property="og:image:height">
+<meta content="website" property="og:type">
+<meta content="1655326144698441" property="fb:app_id">
+<link href="/opensearch.xml" rel="search" title="channelb" type="application/opensearchdescription+xml">
+<link href="/rss.xml" rel="alternate" title="channelb" type="application/rss+xml">
+<link href="http://channelb.com/assets/dist/css/vendor.css?ver=8b7e7121777ce39c1f00e256e9504d11d1752d3a" rel="stylesheet" type="text/css">
+<link href="http://channelb.com/assets/dist/css/application.css?ver=8b7e7121777ce39c1f00e256e9504d11d1752d3a" rel="stylesheet" type="text/css">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-63405368-1', 'auto');
+  ga('send', 'pageview', '/played_landpage');
+</script>
+</head>
+<body class="landing_page red-color-scheme shadows">
+<a class="small-screen-link" href="http://channelb.com/" target="_blank"></a>
+<!-- Modal -->
+<div aria-hidden="true" aria-labelledby="myModalLabel" class="modal modal-full-mobile fade" id="loginModal" role="dialog" tabindex="-1">
+<div class="modal-close-btn" data-dismiss="modal">
+<span>
+<i class="fa fa-arrow-circle-left"></i>
+Back
+</span>
+</div>
+<div class="modal-dialog">
+<div class="modal-content login-modal">
+<form action="http://channelb.com/login" class="form-horizontal" method="POST" name="FL" role="form">
+<input class="form-control" name="ref" type="hidden">
+<div class="modal-header">
+<button aria-label="Close" class="close hidden-dropdown" data-dismiss="modal" type="button">
+<span aria-hidden="true">&times;</span>
+</button>
+<ul class="nav nav-tabs" role="tablist">
+<li class="active" role="presentation">
+<a aria-controls="home" data-toggle="tab" href="#logintab_signin_-466898" role="tab">Sign in</a>
+</li>
+<li class="signup-tab" role="presentation">
+<a aria-controls="profile" href="/signup" role="tab">Sign up</a>
+</li>
+</ul>
+<div class="tab-content">
+</div>
+</div>
+<div class="modal-body">
+<div class="row social-btn-block">
+<div class="col-sm-6">
+<a class="btn btn-block btn-social btn-google-plus" href="http://channelb.com/auth/gplus">
+<i class="fa fa-google-plus-square"></i>
+Sign in with Google
+</a>
+</div>
+<div class="col-sm-6">
+<a class="btn btn-block btn-social btn-facebook" href="http://channelb.com/auth/facebook">
+<i class="fa fa-facebook-official"></i>
+Sign in with Facebook
+</a>
+</div>
+</div>
+<div class="row-hr">
+<div>
+<div>
+or
+</div>
+</div>
+</div>
+<div class="form-group">
+<label class="col-sm-4 control-label" for="Email">Email</label>
+<div class="col-sm-8">
+<input class="form-control" id="login" name="email" placeholder="Email" type="text" value="">
+</div>
+</div>
+<div class="form-group">
+<label class="col-sm-4 control-label" for="password">Password</label>
+<div class="col-sm-8">
+<input class="form-control" id="password" name="password" placeholder="Password" type="password" value="">
+</div>
+</div>
+<div class="row text-right text-center-xs">
+<div class="col-sm-8 btn-form-line">
+<a class="form-line" href="http://channelb.com/password/forgot">Forgot password?</a>
+</div>
+<div class="col-sm-4">
+<input class="btn btn-success" type="submit" value="Login">
+</div>
+</div>
+</div>
+</form>
+
+</div>
+</div>
+</div>
+<nav class="sidebar" id="sidebar" role="navigation">
+<div class="js-sidebar-content">
+<ul class="sidebar-nav sidebar-grey">
+<li>
+<a class="login-btn" data-target="#loginModal" data-toggle="modal" href="http://channelb.com/login" type="button">
+<i class="fa fa-sign-out"></i>
+Log in
+</a>
+</li>
+</ul>
+<ul class="sidebar-nav">
+<li>
+<a href="/">Home</a>
+</li>
+<li>
+<a href="/shows/">Shows</a>
+</li>
+<li>
+<a href="/movies/">Movies</a>
+</li>
+<li>
+<a href="/trailers/">Latest Trailers</a>
+</li>
+<li>
+<a href="http://channelb.com/pages/contact">Contact Us</a>
+</li>
+</ul>
+</div>
+</nav>
+
+<nav class="page-controls navbar navbar-default nav-header">
+<div class="container-extra">
+<div class="row">
+<div class="nav-logo col-lg-5 col-md-6 col-sm-12 col-xs-12" style="height: 66px; line-height: 66px;">
+<div class="table-block">
+<div class="table-row">
+<div class="table-col-min no-wrap">
+<a class="mobile-menu hidden-lg hidden-md" data-placement="bottom" href="#" id="nav-state-toggle" title="Turn on/off sidebar collapsing">
+<i class="fa fa-bars fa-lg"></i>
+</a>
+<a class="mobile-menu-red hidden-lg hidden-md hidden-sm collapsible collapsed" data-toggle="collapse" href="#mobile-search">
+<i class="fa fa-search"></i>
+</a>
+<a class="pull-right-sm" href="http://channelb.com/">
+<img alt="ChannelB" height="44" src="/assets/img/logo2x.png" title="ChannelB">
+</a>
+<div class="collapse hidden-sm hidden-md hidden-lg" id="mobile-search">
+<div class="row">
+<form action="/search" class="gray-form" method="get">
+<div class="col-sm-9">
+<input class="form-control" name="q" onclick="clearInput(this, 'Search');" placeholder="Search" type="text">
+</div>
+<div class="col-sm-3">
+<input class="btn btn-primary sb-search-submit" type="submit" value="Search">
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="hidden-xs table-col-max">
+<div class="nav-search">
+<div class="search-block">
+<div class="search-content main-search-input">
+<form action="/search" method="get">
+<div class="input-block">
+<input data-focus-on-load="100" name="q" onclick="clearInput(this, 'Search');" placeholder="Search" type="text">
+<button>
+<span class="glyphicon glyphicon-search"></span>
+</button>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="nav-menu col-lg-7 col-md-6 hidden-sm hidden-xs" style="height: 66px; line-height: 66px;">
+<div class="nav-menu-block">
+<div class="nav-menu-content">
+<ul>
+<li>
+<a href="/shows/">Shows</a>
+</li>
+<li>
+<a href="/movies/">Movies</a>
+</li>
+<li>
+<a href="/trailers/">Latest Trailers</a>
+</li>
+</ul>
+<div class="nav-login-dropdown dropdown" id="login-menu">
+<a aria-expanded="false" aria-haspopup="true" class="login-icon guest" data-dropdown-tab data-target="#" data-toggle="dropdown" href="#" role="button">
+<em>
+Sign up / Sign in
+</em>
+<div class="glyphicon glyphicon-user"></div>
+<div class="caret"></div>
+</a>
+<div aria-labelledby="dLabel" class="dropdown-menu" role="menu">
+<div class="login-modal container-fluid">
+<form action="http://channelb.com/login" class="form-horizontal" method="POST" name="FL" role="form">
+<input class="form-control" name="ref" type="hidden">
+<div class="modal-header">
+<button aria-label="Close" class="close hidden-dropdown" data-dismiss="modal" type="button">
+<span aria-hidden="true">&times;</span>
+</button>
+<ul class="nav nav-tabs" role="tablist">
+<li class="active" role="presentation">
+<a aria-controls="home" data-toggle="tab" href="#logintab_signin_-828689" role="tab">Sign in</a>
+</li>
+<li class="signup-tab" role="presentation">
+<a aria-controls="profile" href="/signup" role="tab">Sign up</a>
+</li>
+</ul>
+<div class="tab-content">
+</div>
+</div>
+<div class="modal-body">
+<div class="row social-btn-block">
+<div class="col-sm-6">
+<a class="btn btn-block btn-social btn-google-plus" href="http://channelb.com/auth/gplus">
+<i class="fa fa-google-plus-square"></i>
+Sign in with Google
+</a>
+</div>
+<div class="col-sm-6">
+<a class="btn btn-block btn-social btn-facebook" href="http://channelb.com/auth/facebook">
+<i class="fa fa-facebook-official"></i>
+Sign in with Facebook
+</a>
+</div>
+</div>
+<div class="row-hr">
+<div>
+<div>
+or
+</div>
+</div>
+</div>
+<div class="form-group">
+<label class="col-sm-4 control-label" for="Email">Email</label>
+<div class="col-sm-8">
+<input class="form-control" id="login" name="email" placeholder="Email" type="text" value="">
+</div>
+</div>
+<div class="form-group">
+<label class="col-sm-4 control-label" for="password">Password</label>
+<div class="col-sm-8">
+<input class="form-control" id="password" name="password" placeholder="Password" type="password" value="">
+</div>
+</div>
+<div class="row text-right text-center-xs">
+<div class="col-sm-8 btn-form-line">
+<a class="form-line" href="http://channelb.com/password/forgot">Forgot password?</a>
+</div>
+<div class="col-sm-4">
+<input class="btn btn-success" type="submit" value="Login">
+</div>
+</div>
+</div>
+</form>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</nav>
+
+<div class="content-wrap">
+<main class="content" id="content" role="main">
+<div id="yield-container">
+<div class="container-extra full-width-promo-wrapper">
+<div class="row">
+<div class="carousel carousel-promo slide" data-ride="carousel" id="carousel-example-generic">
+<!-- Indicators -->
+<ol class="carousel-indicators">
+<li class="active" data-slide-to="0" data-target="#carousel-example-generic"></li>
+<li data-slide-to="1" data-target="#carousel-example-generic"></li>
+<li data-slide-to="2" data-target="#carousel-example-generic"></li>
+<li data-slide-to="3" data-target="#carousel-example-generic"></li>
+<li data-slide-to="4" data-target="#carousel-example-generic"></li>
+<li data-slide-to="5" data-target="#carousel-example-generic"></li>
+</ol>
+<!-- Wrapper for slides -->
+<div class="carousel-inner" role="listbox">
+<style>
+  @media (min-width: 992px) {
+    .img_0 {
+      background-image: url(http://channelb.com/assets/img/promo/carusel/austin-powers_bg.jpg);
+    }
+  }
+  @media (max-width: 992px) {
+    .img_0 .image-container {
+      background-image: url(http://channelb.com/assets/img/promo/carusel/austin-powers_bg_750.jpg);
+    }
+  }
+</style>
+<a class="active center-bg img_0 item" href="http://channelb.com/i/austin-powers-international-man-of-mystery" style="background-color:#000;">
+<div class="image-container"></div>
+<div class="carousel-caption right">
+<img alt="A 1960s hipster secret agent ..." src="http://channelb.com/assets/img/promo/carusel/austin-powers_title.png" title="A 1960s hipster secret agent ...">
+<p style="font-size: 18px;font-weight: bold; color: #000000; text-shadow: none;">A 1960s hipster secret agent is brought out of cryofreeze to oppose his greatest enemy in the 1990s, where his social attitudes are glaringly out of place.</p>
+</div>
+</a>
+<style>
+  @media (min-width: 992px) {
+    .img_1 {
+      background-image: url(http://channelb.com/assets/img/promo/carusel/law-abiding-citizen_bg.jpg);
+    }
+  }
+  @media (max-width: 992px) {
+    .img_1 .image-container {
+      background-image: url(http://channelb.com/assets/img/promo/carusel/law-abiding-citizen_bg_750.jpg);
+    }
+  }
+</style>
+<a class="center-bg img_1 item" href="http://channelb.com/i/law-abiding-citizen" style="background-color:#000;">
+<div class="image-container"></div>
+<div class="carousel-caption left">
+<img alt="A frustrated man decides to a ..." src="http://channelb.com/assets/img/promo/carusel/law-abiding-citizen_title.png" title="A frustrated man decides to a ...">
+<p style="font-size: 22px;color: #000; text-shadow: 0 1px 2px rgba(255,255,255,255.6);">A frustrated man decides to take justice into his own hands after a plea bargain sets one of his family's killers free. He targets not only the killer but also the district attorney and others involved in the deal.</p>
+</div>
+</a>
+<style>
+  @media (min-width: 992px) {
+    .img_2 {
+      background-image: url(http://channelb.com/assets/img/promo/carusel/ip-man_bg.jpg);
+    }
+  }
+  @media (max-width: 992px) {
+    .img_2 .image-container {
+      background-image: url(http://channelb.com/assets/img/promo/carusel/ip-man_bg_750.jpg);
+    }
+  }
+</style>
+<a class="img_2 item right-bg" href="http://channelb.com/i/ip-man" style="background-color:#000;">
+<div class="image-container"></div>
+<div class="carousel-caption left">
+<img alt="A semi-biographical account ..." src="http://channelb.com/assets/img/promo/carusel/ip-man_title.jpg" title="A semi-biographical account ...">
+<p style="font-size: 22px;font-weight: bold;font-style: italic; margin-top: 25px">A semi-biographical account of Yip Man, mentor of iconic legend Bruce Lee, who taught the Chinese martial art of Wing Chun to the world.</p>
+</div>
+</a>
+<style>
+  @media (min-width: 992px) {
+    .img_3 {
+      background-image: url(http://channelb.com/assets/img/promo/carusel/11-14_bg.jpg);
+    }
+  }
+  @media (max-width: 992px) {
+    .img_3 .image-container {
+      background-image: url(http://channelb.com/assets/img/promo/carusel/11-14_bg_750.jpg);
+    }
+  }
+</style>
+<a class="img_3 item right-bg" href="http://channelb.com/i/11-14" style="background-color:#000;">
+<div class="image-container"></div>
+<div class="carousel-caption left">
+<img alt="Recounting the events leading ..." src="http://channelb.com/assets/img/promo/carusel/11-14_title.jpg" title="Recounting the events leading ...">
+<p style="font-size: 22px;font-weight: bold;font-style: italic;">Recounting the events leading up to an 11:14 pm car crash - from five very different perspectives.</p>
+</div>
+</a>
+<style>
+  @media (min-width: 992px) {
+    .img_4 {
+      background-image: url(http://channelb.com/assets/img/promo/carusel/monster_bg.jpg);
+    }
+  }
+  @media (max-width: 992px) {
+    .img_4 .image-container {
+      background-image: url(http://channelb.com/assets/img/promo/carusel/monster_bg_750.jpg);
+    }
+  }
+</style>
+<a class="center-bg img_4 item" href="http://channelb.com/i/monster" style="background-color:#000;">
+<div class="image-container"></div>
+<div class="carousel-caption right">
+<img alt="Charlize Threron is starring ..." src="http://channelb.com/assets/img/promo/carusel/monster_title.png" title="Charlize Threron is starring ...">
+<p style="font-size: 22px;font-weight: bold; text-shadow: none; margin-top: 25px">Charlize Threron is spectacularly terrifying starring as Aileen Wuornos, a Daytona Beach prostitute who became a serial killer.</p>
+</div>
+</a>
+<style>
+  @media (min-width: 992px) {
+    .img_5 {
+      background-image: url(http://channelb.com/assets/img/promo/carusel/whats-eating-gilbert-grape_bg.jpg);
+    }
+  }
+  @media (max-width: 992px) {
+    .img_5 .image-container {
+      background-image: url(http://channelb.com/assets/img/promo/carusel/whats-eating-gilbert-grape_bg_750.jpg);
+    }
+  }
+</style>
+<a class="img_5 item left-bg" href="http://channelb.com/i/whats-eating-gilbert-grape" style="background-color:#000;">
+<div class="image-container"></div>
+<div class="carousel-caption right">
+<img alt="Gilbert has to care for his ..." src="http://channelb.com/assets/img/promo/carusel/whats-eating-gilbert-grape_title.png" title="Gilbert has to care for his ...">
+<p style="font-size: 22px;font-weight: bold;font-style: italic; color: #742f05; text-shadow: none; margin-top: 25px">Gilbert has to care for his brother Arnie and his obese mother, which gets in the way when love walks into his life.</p>
+</div>
+</a>
+</div>
+<!-- Controls -->
+<a class="left carousel-control" data-slide="prev" href="#carousel-example-generic" role="button">
+<span aria-hidden="true" class="glyphicon glyphicon-chevron-left"></span>
+<span class="sr-only">Previous</span>
+</a>
+<a class="right carousel-control" data-slide="next" href="#carousel-example-generic" role="button">
+<span aria-hidden="true" class="glyphicon glyphicon-chevron-right"></span>
+<span class="sr-only">Next</span>
+</a>
+</div>
+</div>
+</div>
+<div class="row-space"></div>
+
+<div class="container-extra">
+<div class="pull-left fb-like-index offset-right-sm">
+<a class="twitter-follow-button" data-show-count="true" data-show-screen-name="false" href="https://twitter.com/ChannelBTV">Follow @ChannelBTV</a>
+<script>
+  !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+</script>
+</div>
+<div class="pull-left fb-like-index">
+<div class="fb-like" data-action="like" data-href="https://www.facebook.com/chnlb?fref=ts" data-layout="button_count" data-share="true" data-show-faces="true"></div>
+</div>
+</div>
+<div class="container-extra">
+<div class="video-line-carusel row">
+<h1 class="mobile-padding mobile-center">Popular Movies</h1>
+<div class="jcarousel-wrapper">
+<div class="jcarousel">
+<ul>
+<li class="videoblock">
+<span>
+<a class="thumbnail" href="/v/bears">
+<img alt="Bears " src="//channelb.com/u/154x229/posters/55ca44a47449410b3100002b.jpg?1439319207" title="Bears ">
+</a>
+</span>
+<figcaption>
+<a class="grey truncate" href="/v/bears">Bears </a>
+</figcaption>
+</li>
+<li class="videoblock">
+<span>
+<a class="thumbnail" href="/v/law-abiding-citizen">
+<img alt="Law Abiding Citizen " src="//channelb.com/u/154x229/posters/55c12d59744941fc0a000002.jpg?1438723421" title="Law Abiding Citizen ">
+</a>
+</span>
+<figcaption>
+<a class="grey truncate" href="/v/law-abiding-citizen">Law Abiding Citizen </a>
+</figcaption>
+</li>
+<li class="videoblock">
+<span>
+<a class="thumbnail" href="/v/seven-samurai">
+<img alt="Seven Samurai " src="//channelb.com/u/154x229/posters/55dc5c2a7449413845000009.jpg?1440504873" title="Seven Samurai ">
+</a>
+</span>
+<figcaption>
+<a class="grey truncate" href="/v/seven-samurai">Seven Samurai </a>
+</figcaption>
+</li>
+<li class="videoblock">
+<span>
+<a class="thumbnail" href="/v/whats-eating-gilbert-grape">
+<img alt="What's Eating Gilbert Grape " src="//channelb.com/u/154x229/posters/55c12d65744941fc0a000005.jpg?1438723433" title="What's Eating Gilbert Grape ">
+</a>
+</span>
+<figcaption>
+<a class="grey truncate" href="/v/whats-eating-gilbert-grape">What's Eating Gilbert Grape </a>
+</figcaption>
+</li>
+<li class="videoblock">
+<span>
+<a class="thumbnail" href="/v/christmas-at-home">
+<img alt="Christmas at Home " src="//channelb.com/u/154x229/posters/55e0cc997449412ce3000187.jpg?1440795800" title="Christmas at Home ">
+</a>
+</span>
+<figcaption>
+<a class="grey truncate" href="/v/christmas-at-home">Christmas at Home </a>
+</figcaption>
+</li>
+<li class="videoblock">
+<span>
+<a class="thumbnail" href="/v/sugar-hill">
+<img alt="Sugar Hill " src="//channelb.com/u/154x229/posters/55c3b9d37449410a8e000003.jpg?1438890455" title="Sugar Hill ">
+</a>
+</span>
+<figcaption>
+<a class="grey truncate" href="/v/sugar-hill">Sugar Hill </a>
+</figcaption>
+</li>
+<li class="videoblock">
+<span>
+<a class="thumbnail" href="/v/planet-of-the-apes">
+<img alt="Planet of the Apes " src="//channelb.com/u/154x229/posters/559c2fa97449415e920000fa.jpg?1436299178" title="Planet of the Apes ">
+</a>
+</span>
+<figcaption>
+<a class="grey truncate" href="/v/planet-of-the-apes">Planet of the Apes </a>
+</figcaption>
+</li>
+<li class="videoblock">
+<span>
+<a class="thumbnail" href="/v/ossessione">
+<img alt="Ossessione " src="//channelb.com/u/154x229/posters/559c2f387449415e9200008c.jpg?1436299065" title="Ossessione ">
+</a>
+</span>
+<figcaption>
+<a class="grey truncate" href="/v/ossessione">Ossessione </a>
+</figcaption>
+</li>
+<li class="videoblock">
+<span>
+<a class="thumbnail" href="/v/monster">
+<img alt="Monster " src="//channelb.com/u/154x229/posters/55c12d6d744941fc0a000007.jpg?1438723441" title="Monster ">
+</a>
+</span>
+<figcaption>
+<a class="grey truncate" href="/v/monster">Monster </a>
+</figcaption>
+</li>
+<li class="videoblock">
+<span>
+<a class="thumbnail" href="/v/reasonable-excuse-2008">
+<img alt="Reasonable Excuse " src="//channelb.com/u/154x229/posters/559c2ee87449415e9200003f.jpg?1436465595" title="Reasonable Excuse ">
+</a>
+</span>
+<figcaption>
+<a class="grey truncate" href="/v/reasonable-excuse-2008">Reasonable Excuse </a>
+</figcaption>
+</li>
+<li class="videoblock">
+<span>
+<a class="thumbnail" href="/v/samurai-rebellion">
+<img alt="Samurai Rebellion " src="//channelb.com/u/154x229/posters/55db85fe7449418d4f00007e.jpg?1440450045" title="Samurai Rebellion ">
+</a>
+</span>
+<figcaption>
+<a class="grey truncate" href="/v/samurai-rebellion">Samurai Rebellion </a>
+</figcaption>
+</li>
+<li class="videoblock">
+<span>
+<a class="thumbnail" href="/v/beyond-baklava">
+<img alt="Beyond Baklava " src="//channelb.com/u/154x229/posters/55cdfddc7449413dc600001f.jpg?1439907171" title="Beyond Baklava ">
+</a>
+</span>
+<figcaption>
+<a class="grey truncate" href="/v/beyond-baklava">Beyond Baklava </a>
+</figcaption>
+</li>
+<li class="videoblock">
+<span>
+<a class="thumbnail" href="/v/the-girl-with-the-dragon-tattoo">
+<img alt="The Girl with the Dragon Tattoo " src="//channelb.com/u/154x229/posters/55c12d62744941fc0a000004.jpg?1438723429" title="The Girl with the Dragon Tattoo ">
+</a>
+</span>
+<figcaption>
+<a class="grey truncate" href="/v/the-girl-with-the-dragon-tattoo">The Girl with the Dragon Tattoo </a>
+</figcaption>
+</li>
+<li class="videoblock">
+<span>
+<a class="thumbnail" href="/v/lucky">
+<img alt="Lucky " src="//channelb.com/u/154x229/posters/55c12d5d744941fc0a000003.jpg?1438723426" title="Lucky ">
+</a>
+</span>
+<figcaption>
+<a class="grey truncate" href="/v/lucky">Lucky </a>
+</figcaption>
+</li>
+<li class="videoblock">
+<span>
+<a class="thumbnail" href="/v/drive-angry">
+<img alt="Drive Angry " src="//channelb.com/u/154x229/posters/55c3b9e37449410a8e000007.jpg?1438890471" title="Drive Angry ">
+</a>
+</span>
+<figcaption>
+<a class="grey truncate" href="/v/drive-angry">Drive Angry </a>
+</figcaption>
+</li>
+<li class="videoblock">
+<span>
+<a class="thumbnail" href="/v/no-retreat-no-surrender">
+<img alt="No Retreat, No Surrender " src="//channelb.com/u/154x229/posters/55c3b9da7449410a8e000005.jpg?1438890464" title="No Retreat, No Surrender ">
+</a>
+</span>
+<figcaption>
+<a class="grey truncate" href="/v/no-retreat-no-surrender">No Retreat, No Surrender </a>
+</figcaption>
+</li>
+<li class="videoblock">
+<span>
+<a class="thumbnail" href="/v/the-gold-rush">
+<img alt="The Gold Rush " src="//channelb.com/u/154x229/posters/55bf6de2744941eb84000063.jpg?1438608869" title="The Gold Rush ">
+</a>
+</span>
+<figcaption>
+<a class="grey truncate" href="/v/the-gold-rush">The Gold Rush </a>
+</figcaption>
+</li>
+<li class="videoblock">
+<span>
+<a class="thumbnail" href="/v/austin-powers-international-man-of-mystery">
+<img alt="Austin Powers: International Man of Mystery " src="//channelb.com/u/154x229/posters/55c12d69744941fc0a000006.jpg?1438723437" title="Austin Powers: International Man of Mystery ">
+</a>
+</span>
+<figcaption>
+<a class="grey truncate" href="/v/austin-powers-international-man-of-mystery">Austin Powers: International Man of Mystery </a>
+</figcaption>
+</li>
+<li class="videoblock">
+<span>
+<a class="thumbnail" href="/v/the-kid">
+<img alt="The Kid " src="//channelb.com/u/154x229/posters/55db86677449418d4f0000ad.jpg?1440450150" title="The Kid ">
+</a>
+</span>
+<figcaption>
+<a class="grey truncate" href="/v/the-kid">The Kid </a>
+</figcaption>
+</li>
+<li class="videoblock">
+<span>
+<a class="thumbnail" href="/v/night-shift-2010">
+<img alt="Night Shift " src="//channelb.com/u/154x229/posters/559c2f107449415e92000063.jpg?1436465741" title="Night Shift ">
+</a>
+</span>
+<figcaption>
+<a class="grey truncate" href="/v/night-shift-2010">Night Shift </a>
+</figcaption>
+</li>
+</ul>
+</div>
+<a class="jcarousel-control-prev arrow_left" href="#">
+<div class="arrow_wrap">
+<div class="arrow_border"></div>
+<div class="arrow_space"></div>
+<div class="arrow_inner"></div>
+</div>
+</a>
+<a class="jcarousel-control-next arrow_right" href="#">
+<div class="arrow_wrap">
+<div class="arrow_border"></div>
+<div class="arrow_space"></div>
+<div class="arrow_inner"></div>
+</div>
+</a>
+</div>
+</div>
+</div>
+
+<div class="video-line-grey">
+<div class="container-extra">
+<div class="video-line-carusel row">
+<h1 class="mobile-padding mobile-center">Horror Movies</h1>
+<div class="jcarousel-wrapper">
+<div class="jcarousel">
+<ul>
+<li class="videoblock">
+<span>
+<a class="thumbnail" href="/v/seven-blood-stained-orchids">
+<img alt="Seven Blood-Stained Orchids " src="//channelb.com/u/154x229/posters/559c2d147449419b2a000017.jpg?1436298518" title="Seven Blood-Stained Orchids ">
+</a>
+</span>
+<figcaption>
+<a class="grey truncate" href="/v/seven-blood-stained-orchids">Seven Blood-Stained Orchids </a>
+</figcaption>
+</li>
+<li class="videoblock">
+<span>
+<a class="thumbnail" href="/v/house-on-the-edge-of-the-park">
+<img alt="House on the Edge of the Park " src="//channelb.com/u/154x229/posters/559c2d0b7449419b2a00000f.jpg?1436298509" title="House on the Edge of the Park ">
+</a>
+</span>
+<figcaption>
+<a class="grey truncate" href="/v/house-on-the-edge-of-the-park">House on the Edge of the Park </a>
+</figcaption>
+</li>
+<li class="videoblock">
+<span>
+<a class="thumbnail" href="/v/grave-of-the-vampire">
+<img alt="Grave of the Vampire " src="//channelb.com/u/154x229/posters/559c2cfe7449419b2a000001.jpg?1436298495" title="Grave of the Vampire ">
+</a>
+</span>
+<figcaption>
+<a class="grey truncate" href="/v/grave-of-the-vampire">Grave of the Vampire </a>
+</figcaption>
+</li>
+<li class="videoblock">
+<span>
+<a class="thumbnail" href="/v/queen-of-blood">
+<img alt="Queen of Blood " src="//channelb.com/u/154x229/posters/559c2d1d7449419b2a00001f.jpg?1436298526" title="Queen of Blood ">
+</a>
+</span>
+<figcaption>
+<a class="grey truncate" href="/v/queen-of-blood">Queen of Blood </a>
+</figcaption>
+</li>
+<li class="videoblock">
+<span>
+<a class="thumbnail" href="/v/the-phantom-of-the-opera">
+<img alt="The Phantom of the Opera " src="//channelb.com/u/154x229/posters/559c2d117449419b2a000014.jpg?1436298515" title="The Phantom of the Opera ">
+</a>
+</span>
+<figcaption>
+<a class="grey truncate" href="/v/the-phantom-of-the-opera">The Phantom of the Opera </a>
+</figcaption>
+</li>
+<li class="videoblock">
+<span>
+<a class="thumbnail" href="/v/the-beast-of-the-yellow-night">
+<img alt="The Beast of the Yellow Night " src="//channelb.com/u/154x229/posters/559c2d037449419b2a000005.jpg?1436298500" title="The Beast of the Yellow Night ">
+</a>
+</span>
+<figcaption>
+<a class="grey truncate" href="/v/the-beast-of-the-yellow-night">The Beast of the Yellow Night </a>
+</figcaption>
+</li>
+<li class="videoblock">
+<span>
+<a class="thumbnail" href="/v/drive-in-massacre">
+<img alt="Drive-In Massacre " src="//channelb.com/u/154x229/posters/559c2d137449419b2a000016.jpg?1436298516" title="Drive-In Massacre ">
+</a>
+</span>
+<figcaption>
+<a class="grey truncate" href="/v/drive-in-massacre">Drive-In Massacre </a>
+</figcaption>
+</li>
+<li class="videoblock">
+<span>
+<a class="thumbnail" href="/v/the-photographer">
+<img alt="The Photographer " src="//channelb.com/u/154x229/posters/559c2d217449419b2a000022.jpg?1436298530" title="The Photographer ">
+</a>
+</span>
+<figcaption>
+<a class="grey truncate" href="/v/the-photographer">The Photographer </a>
+</figcaption>
+</li>
+<li class="videoblock">
+<span>
+<a class="thumbnail" href="/v/cannibal-holocaust">
+<img alt="Cannibal Holocaust " src="//channelb.com/u/154x229/posters/559c2d1e7449419b2a000020.jpg?1436298528" title="Cannibal Holocaust ">
+</a>
+</span>
+<figcaption>
+<a class="grey truncate" href="/v/cannibal-holocaust">Cannibal Holocaust </a>
+</figcaption>
+</li>
+<li class="videoblock">
+<span>
+<a class="thumbnail" href="/v/killer-nun">
+<img alt="Killer Nun " src="//channelb.com/u/154x229/posters/559c2d1a7449419b2a00001d.jpg?1436298524" title="Killer Nun ">
+</a>
+</span>
+<figcaption>
+<a class="grey truncate" href="/v/killer-nun">Killer Nun </a>
+</figcaption>
+</li>
+<li class="videoblock">
+<span>
+<a class="thumbnail" href="/v/silent-rage">
+<img alt="Silent Rage " src="//channelb.com/u/154x229/posters/55c3b9ca7449410a8e000001.jpg?1438890447" title="Silent Rage ">
+</a>
+</span>
+<figcaption>
+<a class="grey truncate" href="/v/silent-rage">Silent Rage </a>
+</figcaption>
+</li>
+<li class="videoblock">
+<span>
+<a class="thumbnail" href="/v/bikini-party-massacre">
+<img alt="Bikini Party Massacre " src="//channelb.com/u/154x229/posters/559c2d107449419b2a000013.jpg?1436298513" title="Bikini Party Massacre ">
+</a>
+</span>
+<figcaption>
+<a class="grey truncate" href="/v/bikini-party-massacre">Bikini Party Massacre </a>
+</figcaption>
+</li>
+<li class="videoblock">
+<span>
+<a class="thumbnail" href="/v/hatchet-for-the-honeymoon">
+<img alt="Hatchet for the Honeymoon " src="//channelb.com/u/154x229/posters/559c2d227449419b2a000025.jpg?1436298532" title="Hatchet for the Honeymoon ">
+</a>
+</span>
+<figcaption>
+<a class="grey truncate" href="/v/hatchet-for-the-honeymoon">Hatchet for the Honeymoon </a>
+</figcaption>
+</li>
+<li class="videoblock">
+<span>
+<a class="thumbnail" href="/v/point-of-fear">
+<img alt="Point of Fear " src="//channelb.com/u/154x229/posters/559c2d0a7449419b2a00000d.jpg?1436298507" title="Point of Fear ">
+</a>
+</span>
+<figcaption>
+<a class="grey truncate" href="/v/point-of-fear">Point of Fear </a>
+</figcaption>
+</li>
+<li class="videoblock">
+<span>
+<a class="thumbnail" href="/v/critters-2">
+<img alt="Critters 2 " src="//channelb.com/u/154x229/posters/55c3b9d77449410a8e000004.jpg?1438890458" title="Critters 2 ">
+</a>
+</span>
+<figcaption>
+<a class="grey truncate" href="/v/critters-2">Critters 2 </a>
+</figcaption>
+</li>
+<li class="videoblock">
+<span>
+<a class="thumbnail" href="/v/aliens-vs-avatars">
+<img alt="Aliens vs. Avatars " src="//channelb.com/u/154x229/posters/559c2d0d7449419b2a000011.jpg?1436298510" title="Aliens vs. Avatars ">
+</a>
+</span>
+<figcaption>
+<a class="grey truncate" href="/v/aliens-vs-avatars">Aliens vs. Avatars </a>
+</figcaption>
+</li>
+<li class="videoblock">
+<span>
+<a class="thumbnail" href="/v/blood-from-the-mummys-tomb">
+<img alt="Blood from the Mummy's Tomb " src="//channelb.com/u/154x229/posters/559c2d0e7449419b2a000012.jpg?1436298512" title="Blood from the Mummy's Tomb ">
+</a>
+</span>
+<figcaption>
+<a class="grey truncate" href="/v/blood-from-the-mummys-tomb">Blood from the Mummy's Tomb </a>
+</figcaption>
+</li>
+<li class="videoblock">
+<span>
+<a class="thumbnail" href="/v/the-devils-wedding-night">
+<img alt="The Devil's Wedding Night " src="//channelb.com/u/154x229/posters/559c2d1c7449419b2a00001e.jpg?1436298525" title="The Devil's Wedding Night ">
+</a>
+</span>
+<figcaption>
+<a class="grey truncate" href="/v/the-devils-wedding-night">The Devil's Wedding Night </a>
+</figcaption>
+</li>
+<li class="videoblock">
+<span>
+<a class="thumbnail" href="/v/the-severed-arm">
+<img alt="The Severed Arm " src="//channelb.com/u/154x229/posters/559c2cff7449419b2a000002.jpg?1436298496" title="The Severed Arm ">
+</a>
+</span>
+<figcaption>
+<a class="grey truncate" href="/v/the-severed-arm">The Severed Arm </a>
+</figcaption>
+</li>
+<li class="videoblock">
+<span>
+<a class="thumbnail" href="/v/13-ghosts">
+<img alt="13 Ghosts " src="//channelb.com/u/154x229/posters/559c2d267449419b2a000029.jpg?1436298536" title="13 Ghosts ">
+</a>
+</span>
+<figcaption>
+<a class="grey truncate" href="/v/13-ghosts">13 Ghosts </a>
+</figcaption>
+</li>
+</ul>
+</div>
+<a class="jcarousel-control-prev arrow_left" href="#">
+<div class="arrow_wrap">
+<div class="arrow_border"></div>
+<div class="arrow_space"></div>
+<div class="arrow_inner"></div>
+</div>
+</a>
+<a class="jcarousel-control-next arrow_right" href="#">
+<div class="arrow_wrap">
+<div class="arrow_border"></div>
+<div class="arrow_space"></div>
+<div class="arrow_inner"></div>
+</div>
+</a>
+</div>
+</div>
+</div>
+
+</div>
+<div class="container-extra">
+<div class="video-line-carusel row">
+<h1 class="mobile-padding mobile-center">Latest Trailers</h1>
+<div class="jcarousel-wrapper">
+<div class="jcarousel">
+<ul>
+<li class="videoblock">
+<span>
+<a class="thumbnail" href="/v/the-witch">
+<img alt="The Witch " src="//channelb.com/u/154x229/posters/55e08907744941c782000001.jpg?1440778664" title="The Witch ">
+</a>
+</span>
+<figcaption>
+<a class="grey truncate" href="/v/the-witch">The Witch </a>
+</figcaption>
+</li>
+<li class="videoblock">
+<span>
+<a class="thumbnail" href="/v/the-perfect-guy">
+<img alt="The Perfect Guy " src="//channelb.com/u/154x229/posters/55b29be174494177b2000200.jpg?1437770601" title="The Perfect Guy ">
+</a>
+</span>
+<figcaption>
+<a class="grey truncate" href="/v/the-perfect-guy">The Perfect Guy </a>
+</figcaption>
+</li>
+<li class="videoblock">
+<span>
+<a class="thumbnail" href="/v/inside-out-trailer">
+<img alt="Inside Out Trailer " src="//channelb.com/u/154x229/posters/556ceef3744941aac4000ad2.jpg?1437673865" title="Inside Out Trailer ">
+</a>
+</span>
+<figcaption>
+<a class="grey truncate" href="/v/inside-out-trailer">Inside Out Trailer </a>
+</figcaption>
+</li>
+<li class="videoblock">
+<span>
+<a class="thumbnail" href="/v/burnt">
+<img alt="Burnt " src="//channelb.com/u/154x229/posters/55e08cc7744941c782000007.jpg?1440779471" title="Burnt ">
+</a>
+</span>
+<figcaption>
+<a class="grey truncate" href="/v/burnt">Burnt </a>
+</figcaption>
+</li>
+<li class="videoblock">
+<span>
+<a class="thumbnail" href="/v/experimenter">
+<img alt="Experimenter " src="//channelb.com/u/154x229/posters/55b29be174494177b2000214.jpg?1437771956" title="Experimenter ">
+</a>
+</span>
+<figcaption>
+<a class="grey truncate" href="/v/experimenter">Experimenter </a>
+</figcaption>
+</li>
+<li class="videoblock">
+<span>
+<a class="thumbnail" href="/v/meru">
+<img alt="Meru " src="//channelb.com/u/154x229/posters/55b29be174494177b200021a.jpg?1437771932" title="Meru ">
+</a>
+</span>
+<figcaption>
+<a class="grey truncate" href="/v/meru">Meru </a>
+</figcaption>
+</li>
+<li class="videoblock">
+<span>
+<a class="thumbnail" href="/v/victor-frankenstein">
+<img alt="Victor Frankenstein " src="//channelb.com/u/154x229/posters/55e089aa744941c782000003.jpg?1440779453" title="Victor Frankenstein ">
+</a>
+</span>
+<figcaption>
+<a class="grey truncate" href="/v/victor-frankenstein">Victor Frankenstein </a>
+</figcaption>
+</li>
+<li class="videoblock">
+<span>
+<a class="thumbnail" href="/v/bridge-of-spies-1">
+<img alt="Bridge of Spies " src="//channelb.com/u/154x229/posters/55b29be174494177b200020c.jpg?1437771988" title="Bridge of Spies ">
+</a>
+</span>
+<figcaption>
+<a class="grey truncate" href="/v/bridge-of-spies-1">Bridge of Spies </a>
+</figcaption>
+</li>
+<li class="videoblock">
+<span>
+<a class="thumbnail" href="/v/gloria">
+<img alt="Gloria " src="//channelb.com/u/154x229/posters/55b29be174494177b2000210.jpg?1437771974" title="Gloria ">
+</a>
+</span>
+<figcaption>
+<a class="grey truncate" href="/v/gloria">Gloria </a>
+</figcaption>
+</li>
+<li class="videoblock">
+<span>
+<a class="thumbnail" href="/v/the-martian">
+<img alt="The Martian " src="//channelb.com/u/154x229/posters/55b29bd274494177b200000f.jpg?1437769119" title="The Martian ">
+</a>
+</span>
+<figcaption>
+<a class="grey truncate" href="/v/the-martian">The Martian </a>
+</figcaption>
+</li>
+<li class="videoblock">
+<span>
+<a class="thumbnail" href="/v/hotel-transylvania-2-2">
+<img alt="Hotel Transylvania 2 " src="//channelb.com/u/154x229/posters/55b29be174494177b200021b.jpg?1437771920" title="Hotel Transylvania 2 ">
+</a>
+</span>
+<figcaption>
+<a class="grey truncate" href="/v/hotel-transylvania-2-2">Hotel Transylvania 2 </a>
+</figcaption>
+</li>
+<li class="videoblock">
+<span>
+<a class="thumbnail" href="/v/fantastic-four-trailer">
+<img alt="Fantastic Four Trailer " src="//channelb.com/u/154x229/posters/556cbb007449417cf1000013.jpg?1437664749" title="Fantastic Four Trailer ">
+</a>
+</span>
+<figcaption>
+<a class="grey truncate" href="/v/fantastic-four-trailer">Fantastic Four Trailer </a>
+</figcaption>
+</li>
+<li class="videoblock">
+<span>
+<a class="thumbnail" href="/v/turbo-kid">
+<img alt="Turbo Kid " src="//channelb.com/u/154x229/posters/55b29be274494177b2000231.jpg?1437771780" title="Turbo Kid ">
+</a>
+</span>
+<figcaption>
+<a class="grey truncate" href="/v/turbo-kid">Turbo Kid </a>
+</figcaption>
+</li>
+<li class="videoblock">
+<span>
+<a class="thumbnail" href="/v/phoenix">
+<img alt="Phoenix " src="//channelb.com/u/154x229/posters/55b29be274494177b2000229.jpg?1437779310" title="Phoenix ">
+</a>
+</span>
+<figcaption>
+<a class="grey truncate" href="/v/phoenix">Phoenix </a>
+</figcaption>
+</li>
+<li class="videoblock">
+<span>
+<a class="thumbnail" href="/v/ant-man-trailer">
+<img alt="Ant-Man Trailer " src="//channelb.com/u/154x229/posters/556cd7b17449416ce2000466.jpg?1437668939" title="Ant-Man Trailer ">
+</a>
+</span>
+<figcaption>
+<a class="grey truncate" href="/v/ant-man-trailer">Ant-Man Trailer </a>
+</figcaption>
+</li>
+<li class="videoblock">
+<span>
+<a class="thumbnail" href="/v/spectre-1">
+<img alt="SPECTRE " src="//channelb.com/u/154x229/posters/55b29be174494177b200020d.jpg?1437771985" title="SPECTRE ">
+</a>
+</span>
+<figcaption>
+<a class="grey truncate" href="/v/spectre-1">SPECTRE </a>
+</figcaption>
+</li>
+<li class="videoblock">
+<span>
+<a class="thumbnail" href="/v/ride-along-2">
+<img alt="Ride Along 2 " src="//channelb.com/u/154x229/posters/55e08cbe744941c782000005.jpg?1440779831" title="Ride Along 2 ">
+</a>
+</span>
+<figcaption>
+<a class="grey truncate" href="/v/ride-along-2">Ride Along 2 </a>
+</figcaption>
+</li>
+<li class="videoblock">
+<span>
+<a class="thumbnail" href="/v/vacation-2">
+<img alt="Vacation " src="//channelb.com/u/154x229/posters/55b29be274494177b2000235.jpg?1437771748" title="Vacation ">
+</a>
+</span>
+<figcaption>
+<a class="grey truncate" href="/v/vacation-2">Vacation </a>
+</figcaption>
+</li>
+<li class="videoblock">
+<span>
+<a class="thumbnail" href="/v/everest-1">
+<img alt="Everest " src="//channelb.com/u/154x229/posters/55b29be174494177b2000219.jpg?1437771935" title="Everest ">
+</a>
+</span>
+<figcaption>
+<a class="grey truncate" href="/v/everest-1">Everest </a>
+</figcaption>
+</li>
+<li class="videoblock">
+<span>
+<a class="thumbnail" href="/v/he-named-me-malala">
+<img alt="He Named Me Malala " src="//channelb.com/u/154x229/posters/55b29be074494177b20001f7.jpg?1437770640" title="He Named Me Malala ">
+</a>
+</span>
+<figcaption>
+<a class="grey truncate" href="/v/he-named-me-malala">He Named Me Malala </a>
+</figcaption>
+</li>
+</ul>
+</div>
+<a class="jcarousel-control-prev arrow_left" href="#">
+<div class="arrow_wrap">
+<div class="arrow_border"></div>
+<div class="arrow_space"></div>
+<div class="arrow_inner"></div>
+</div>
+</a>
+<a class="jcarousel-control-next arrow_right" href="#">
+<div class="arrow_wrap">
+<div class="arrow_border"></div>
+<div class="arrow_space"></div>
+<div class="arrow_inner"></div>
+</div>
+</a>
+</div>
+</div>
+</div>
+
+<script type="application/ld+json">
+{ "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "ChannelB",
+  "url" : "http://channelb.com",
+  "logo": "http://channelb.com/assets/img/logo2x.png",
+  "sameAs" : [ "https://www.facebook.com/chnlb",
+    "https://twitter.com/ChannelBTV",
+    "http://plus.google.com/108039255541513307293/",
+    "https://www.linkedin.com/company/channel-btv"]
+}
+</script>
+<script type="application/ld+json">
+{
+   "@context": "http://schema.org",
+   "@type": "WebSite",
+   "url": "http://channelb.com/",
+   "potentialAction": {
+     "@type": "SearchAction",
+     "target": "http://channelb.com/search?q={search_term_string}",
+     "query-input": "required name=search_term_string"
+   }
+}
+</script>
+
+</div>
+</main>
+</div>
+<div class="clearfix"></div>
+<footer>
+<div class="container-extra xs-padding-extra">
+<div class="row o-hidden">
+<div class="col-lg-8 col-md-9 no-padding">
+<div class="footer-menu">
+<div class="container-extra">
+<div class="row o-hidden">
+<div class="col-xs-12 no-padding">
+<ul class="list-inline">
+<li>
+<a href="http://channelb.com">Home</a>
+</li>
+<li>
+<a href="http://channelb.com/pages/terms">Terms of use</a>
+</li>
+<li>
+<a href="http://channelb.com/pages/privacy">Privacy Policy</a>
+</li>
+<li>
+<a href="http://channelb.com/pages/affiliate">Affiliate Program</a>
+</li>
+<li>
+<a href="http://channelb.com/pages/premium">Premium</a>
+</li>
+<li>
+<a href="http://channelb.com/pages/contact">Contact Us</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="copyright">
+<em class="small">Use of the ChannelB.com service and this Web site constitutes acceptance of our Terms of Use and Privacy Policy.</em>
+<p>
+&copy; 2015
+channelb.com
+All Rights Reserved ChannelB
+</p>
+</div>
+</div>
+<div class="col-lg-4 col-md-3 no-padding">
+<div class="footer-icons clearfix">
+<div class="header-icon last-icon">
+<a class="fa fa-twitter" href="https://twitter.com/ChannelBTV" target="_blank"></a>
+</div>
+<div class="header-icon">
+<a class="fa fa-facebook" href="https://www.facebook.com/chnlb" target="_blank"></a>
+</div>
+<div class="header-icon">
+<a class="fa fa-google-plus" href="http://plus.google.com/108039255541513307293/" target="_blank"></a>
+</div>
+<div class="header-icon">
+<a class="fa fa-linkedin" href="https://www.linkedin.com/company/channel-btv" target="_blank"></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+
+<div class="loader-wrap hiding hide">
+<i class="fa fa-circle-o-notch fa-spin-fast"></i>
+</div>
+<script src="http://channelb.com/assets/dist/js/app-vendor.min.js?8b7e7121777ce39c1f00e256e9504d11d1752d3a" type="text/javascript"></script>
+<script src="http://channelb.com/assets/dist/js/app.min.js?8b7e7121777ce39c1f00e256e9504d11d1752d3a" type="text/javascript"></script>
+<div id="fb-root"></div>
+<script>
+  (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_EN/sdk.js#xfbml=1&version=v2.3&appId=1655326144698441";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+</script>
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,700italic,600,700|Questrial|Sintony:400,700&amp;subset=latin,cyrillic,latin-ext,greek" rel="stylesheet" type="text/css">
+</body>
+</html>
